@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="bar_arena_man_job_0">
+		<text>їA quiйn tienes para pelear?</text>
+	</string>
+	<string id="bar_arena_man_job_11">
+		<text>Entonces, їtu primera pelea? Tu oponente es un pedazo de carne como tъ. Estб aquн por sus deudas y solo tiene dos opciones: salir y luchar, o aterrizar en la anomalнa mбs cercana. Йl pelearб como un animal acorralado. Equipo para hoy... Dйjame pensar... їQuй hay de ustedes dos usan pistolas bбsicas, dos cajas de municiуn deben ser suficientes. O le pateas el culo o te damos de comer a los perros, no hay mucha elecciуn. Seguir ahora.</text>
+	</string>
+	<string id="bar_arena_man_job_111">
+		<text>Estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_112">
+		<text>No estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_12">
+		<text>Tu ъltima pelea no significу una mierda, sigues siendo el mismo pedazo de carne que eras antes y ninguna persona que se respete le apostarб una sola revista. Si quieres ganar dinero en efectivo, vas a tener que hacer algunas apariciones mбs en la arena. Tu nuevo oponente tambiйn pasу la primera ronda, y su pelea fue mucho mбs dura que la tuya. No me gusta, para ser honesto, mata demasiado rбpido y a la multitud no le gusta eso. Entonces, Ўve y muйstranos lo que puedes hacer! Lo que estб en juego aumentarб despuйs de esta pelea: todo lo que tienes que hacer es mantenerte vivo. ЎMuйvelo!</text>
+	</string>
+	<string id="bar_arena_man_job_121">
+		<text>Estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_122">
+		<text>No estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_13">
+		<text>Bueno, bueno... No eres tan cobarde como parecнas al principio. Ahora es el momento de ponerte a prueba en una pelea real. Te enfrentas a dos tipos. El primero se llama Swede y no recuerdo el nombre de la segunda. Ellos fueron emparejados intencionalmente como odian a las tripas de los demбs por lo que no se preocupe por ellos trabajando en equipo - son mбs propensos a disparar entre sн. Hoy es el dнa de la escopeta, asн que no los deje acercarse demasiado o tendremos que buscarlo pieza por pieza. Las probabilidades son de 10: 1, asн que si ganas ganarбs una buena cantidad. ЎListo!</text>
+	</string>
+	<string id="bar_arena_man_job_131">
+		<text>Estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_132">
+		<text>No estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_14">
+		<text>Bueno, ahora puedo decir con seguridad que eres un luchador, un verdadero luchador. Ahora es el momento de una pelea en equipo. Tienes que pelear con dos novatos, dos hermanos, de tu lado. No han peleado aъn, pero son hermanos, asн que tuve que ponerlos en una pelea en equipo. No esperarнa ninguna ayuda real de ellos si fuera tъ. Estбs peleando contra un equipo experimentado, son contendientes para la final esta temporada. Un lote peligroso Usan armas diferentes pero uno tiene una escopeta automбtica: ten mucho cuidado con йl. Buena suerte, amigo... Lo vas a necesitar.</text>
+	</string>
+	<string id="bar_arena_man_job_141">
+		<text>Estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_142">
+		<text>No estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_15">
+		<text>Tienes una pelea especial hoy. ЎIncluso el ejйrcito ha oнdo hablar de ti! No se sorprendan, pelean aquн tambiйn, incluso hay un general en la multitud. Estos muchachos son de Spetsnaz u OMON. Estбn bien armados y su armadura es tan buena como cabrнa esperar. Pero no te preocupes, tampoco voy a dejarte afuera bajo la lluvia. Obtendrбs un chaleco utilizado por Freedom: es ligero para que no te ralentice. Vamos, demuйstrales que los stalkeres no son niсos que azotan. ЎBuena suerte!</text>
+	</string>
+	<string id="bar_arena_man_job_151">
+		<text>Estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_152">
+		<text>No estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_16">
+		<text>Es hora de que demuestres lo que puedes hacer. Duty capturу a un grupo de bandidos que habнan estado causando problemas a los stalkeres cerca de Rostok. Duty se los llevу a la noche asн que la mayorнa de los bandidos fueron capturados vivos. Todos iban a ser ejecutados de todos modos, asн que convencн a Duty para que les diera una oportunidad. Si alguno de ellos sobrevive, irб dentro de la lata fuera de la Zona, lo cual es mejor que morir aquн. No estбn bien armados, probablemente solo unas pocas pistolas y saqueos, pero hay seis, asн que ten cuidado. ЎSeguir ahora!</text>
+	</string>
+	<string id="bar_arena_man_job_161">
+		<text>Estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_162">
+		<text>No estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_17">
+		<text>Bueno, ya casi estбs en la final. Ahora lucharбs contra un verdadero stalker. Estб solo pero tiene un rifle de asalto y estб dentro de un exoesqueleto. Captura una rбfaga y estбs pan tostado. Habrб una sorpresa de la que tampoco te puedo hablar... Este es mi consejo: prepбrate, va a ser difнcil. El ganador llega a la final. Lucha hasta la muerte, Ўvete!</text>
+	</string>
+	<string id="bar_arena_man_job_171">
+		<text>Estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_172">
+		<text>No estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_18">
+		<text>Felicidades, estбs en la final! Uno mбs para ir y este es a la muerte, cada hombre para sн mismo. Habrб otros 4 stalkeres en la arena: todos los verdaderos profesionales en exoesqueletos, pero esta vez es justo: obtendrбs exactamente lo que tienen. Lo ъnico es que no obtienes ni los botiquines ni los vendajes en una pelea hasta la muerte. Listo? Ve a demostrar que eres el mejor, ЎVE!</text>
+	</string>
+	<string id="bar_arena_man_job_181">
+		<text>Estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_182">
+		<text>No estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_start_111112">
+		<text>ЎYo! ЎMe pagaste por una pelea pero te alejaste!</text>
+	</string>
+	<string id="bar_arena_man_start_11">
+		<text>ЎYo! Tengo una nueva pelea por ti.</text>
+	</string>
+	<string id="bar_arena_man_start_21">
+		<text>Ve a tomar algo o algo. The Arena aъn no estб listo.</text>
+	</string>
+	<string id="bar_arena_man_start_31">
+		<text>ЎYa te has convertido en un profesional!</text>
+	</string>
+	<string id="bar_arena_man_start_41">
+		<text>ЎGanaste! Aquн estб tu recompensa.</text>
+	</string>
+	<string id="bar_arena_man_start_51">
+		<text>No tienes suficiente experiencia para esta pelea.</text>
+	</string>
+	<string id="bar_arena_manager_start_61">
+		<text>Lo siento, pero la temporada actual de peleas ha terminado.</text>
+	</string>
+	<string id="bar_arena_manager_game_0">
+		<text>їQuй desafнo tienes para mн?</text>
+	</string>
+	<string id="bar_arena_manager_game_1">
+		<text>No hay nada contra lo que luchar, vuelve mбs tarde cuando tengamos mбs mutantes.</text>
+	</string>
+	<string id="bar_arena_manager_game_100">
+		<text>Hay una tarifa por participaciуn. 1,000 RU</text>
+	</string>
+	<string id="bar_arena_manager_game_101">
+		<text>Bien, aquн estб tu dinero.</text>
+	</string>
+	<string id="bar_arena_manager_game_105">
+		<text>No tengo suficiente dinero</text>
+	</string>
+	<string id="bar_arena_manager_game_1051">
+		<text>Entonces sal de aquн, stalker.</text>
+	</string>
+	<string id="bar_arena_manager_game_110">
+		<text>Me debes 2.000 RU por participar.</text>
+	</string>
+	<string id="bar_arena_manager_game_111">
+		<text>Bien, aquн estб tu dinero.</text>
+	</string>
+	<string id="bar_arena_manager_game_11111112">
+		<text>ЎYa te paguй!</text>
+	</string>
+	<string id="bar_arena_manager_game_115">
+		<text>No tengo suficiente dinero</text>
+	</string>
+	<string id="bar_arena_manager_game_1151">
+		<text>Entonces deja de hacer tantas preguntas.</text>
+	</string>
+	<string id="bar_arena_manager_game_120">
+		<text>Pague 3,000 RU por participar y el chupasangre es suyo.</text>
+	</string>
+	<string id="bar_arena_manager_game_121">
+		<text>Multa. Aquн estб tu dinero.</text>
+	</string>
+	<string id="bar_arena_manager_game_125">
+		<text>No tengo suficiente.</text>
+	</string>
+	<string id="bar_arena_manager_game_1251">
+		<text>No pierdas mi tiempo, stalker.</text>
+	</string>
+	<string id="bar_arena_manager_game_130">
+		<text>No tan rapido. El precio de participaciуn es 5,000 RU.</text>
+	</string>
+	<string id="bar_arena_manager_game_131">
+		<text>Multa. Aquн estб el dinero.</text>
+	</string>
+	<string id="bar_arena_manager_game_135">
+		<text>No tengo suficiente dinero</text>
+	</string>
+	<string id="bar_arena_manager_game_1351">
+		<text>No intentes fingir ser un mendigo.</text>
+	</string>
+	<string id="bar_arena_manager_game_140">
+		<text>El precio para participar es 5,000 RU.</text>
+	</string>
+	<string id="bar_arena_manager_game_141">
+		<text>Multa. Aquн estб tu dinero.</text>
+	</string>
+	<string id="bar_arena_manager_game_145">
+		<text>No tengo suficiente dinero</text>
+	</string>
+	<string id="bar_arena_manager_game_1451">
+		<text>Dйjame adivinar. їAlguien te robу tus rublos?</text>
+	</string>
+	<string id="bar_arena_manager_game_2">
+		<text>Hay un pseudodog. Un espйcimen grande, pero bastante golpeado. Por otro lado, es muy feroz, al igual que mi suegra.</text>
+	</string>
+	<string id="bar_arena_manager_game_200">
+		<text>Acuerdo. Antes de luchar debes poner una estaca en el tiempo que necesitas para matar. Si logras llevarlo a cabo, ganarбs un poco mбs de dinero para gastar.</text>
+	</string>
+	<string id="bar_arena_manager_game_201">
+		<text>30 segundos, triple victoria.</text>
+	</string>
+	<string id="bar_arena_manager_game_202">
+		<text>Un minuto y medio, doble victoria.</text>
+	</string>
+	<string id="bar_arena_manager_game_203">
+		<text>Sin un lнmite de tiempo Una victoria a mitad de juego.</text>
+	</string>
+	<string id="bar_arena_manager_game_204">
+		<text>Cambiй de opiniуn.</text>
+	</string>
+	<string id="bar_arena_manager_game_2041">
+		<text>Difнcil mierda Ya pagaste</text>
+	</string>
+	<string id="bar_arena_manager_game_21">
+		<text>Yo puedo hacer eso. Lucharй con tu perro.</text>
+	</string>
+	<string id="bar_arena_manager_game_22">
+		<text>їUn perro? їEso es todo lo que tienes?</text>
+	</string>
+	<string id="bar_arena_manager_game_221">
+		<text>Aw, їnuestra niсa tiene miedo de un pequeсo perrito? No te enfades</text>
+	</string>
+	<string id="bar_arena_manager_game_3">
+		<text>Hay un fenуmeno en una mбscara de gas, llamado snork. Delgado y de aspecto dйbil, pero bastante бgil.</text>
+	</string>
+	<string id="bar_arena_manager_game_300">
+		<text>Genial, tendremos todo listo. Entra a la arena</text>
+	</string>
+	<string id="bar_arena_manager_game_31">
+		<text>Dale. Lucharй contra tu snork.</text>
+	</string>
+	<string id="bar_arena_manager_game_32">
+		<text>Me hacen girar el estуmago. Diablos no</text>
+	</string>
+	<string id="bar_arena_manager_game_321">
+		<text>їAsustado por un monstruo enmascarado y medio podrido?</text>
+	</string>
+	<string id="bar_arena_manager_game_4">
+		<text>Esta vez hemos tenido mucha suerte. Atrapamos a un joven chupasangre. Todavнa tonto, pero ya con malos modales.</text>
+	</string>
+	<string id="bar_arena_manager_game_41">
+		<text>Adelante, prepara al chupasangre.</text>
+	</string>
+	<string id="bar_arena_manager_game_42">
+		<text>їUn chupasangre? Joder eso!</text>
+	</string>
+	<string id="bar_arena_manager_game_421">
+		<text>їQuй? їTe encantan los chupasangres ahora? їCuбndo te uniste a Freedom?</text>
+	</string>
+	<string id="bar_arena_manager_game_5">
+		<text>Esta vez tenemos un pequeсo enano gordo con un manto negro, los lugareсos lo llaman un burer.</text>
+	</string>
+	<string id="bar_arena_manager_game_51">
+		<text>Gordo y corto? Fбcil. Lo harй.</text>
+	</string>
+	<string id="bar_arena_manager_game_52">
+		<text>He oнdo todo sobre esas cosas. Pasarй.</text>
+	</string>
+	<string id="bar_arena_manager_game_521">
+		<text>Apenas alcanza tu cintura en altura. Y йl te asusta?</text>
+	</string>
+	<string id="bar_arena_manager_game_6">
+		<text>Hoy es un dнa especial. No sй dуnde encontraron... Йl... Pero йl es una verdadera bestia.</text>
+	</string>
+	<string id="bar_arena_manager_game_61">
+		<text>Acuerdo. Lo sacarй de su miseria.</text>
+	</string>
+	<string id="bar_arena_manager_game_62">
+		<text>No tengo ganas de morir, encontrar a alguien mбs.</text>
+	</string>
+	<string id="bar_arena_manager_game_621">
+		<text>Bueno, francamente incluso yo encuentro a la bestia aterradora. Pero no peleo en la arena, entonces, їa quiйn le importa?</text>
+	</string>
+	<string id="bar_arena_manager_info_0">
+		<text>Tengo un par de preguntas.</text>
+	</string>
+	<string id="bar_arena_manager_info_1">
+		<text>Disparar.</text>
+	</string>
+	<string id="bar_arena_manager_info_10">
+		<text>No importa.</text>
+	</string>
+	<string id="bar_arena_manager_info_11">
+		<text>їQuй es este establecimiento?</text>
+	</string>
+	<string id="bar_arena_manager_info_111">
+		<text>Esta es la arena, mi pequeсo negocio. Un lugar donde los stalkeres pueden poner a prueba su valнa y ganar su fama luchando contra los horrores de la Zona.</text>
+	</string>
+	<string id="bar_arena_manager_info_12">
+		<text>їCуmo se obtienen los mutantes aquн?</text>
+	</string>
+	<string id="bar_arena_manager_info_121">
+		<text>Hicimos un trato con Duty, en lugar de matar a todos los mutantes que encuentran traen aquн a los mбs dйbiles a cambio de efectivo. El deber es pagado, los mutantes son asesinados, y luego me pagan. Todos ganan.</text>
+	</string>
+	<string id="bar_arena_manager_info_13">
+		<text>їDe donde eres?</text>
+	</string>
+	<string id="bar_arena_manager_info_131">
+		<text>Soy de muchos lugares Escuchй sobre este pequeсo remanso y comprendн que podrнa ganar un buen centavo aquн. Asн que aquн estoy.</text>
+	</string>
+	<string id="bar_arena_manager_rules_0">
+		<text>їCuales son las normas?</text>
+	</string>
+	<string id="bar_arena_manager_rules_1">
+		<text>Oh, las reglas son bastante simples. Yo mismo los inventй. Para los desafнos, hay una jaula, y un mutante se deja dentro de la jaula. Pagas dinero y me dices la hora en que necesitas matar al monstruo. Si lo logras, ganas, si no lo haces, yo gano.\n Pero para el plato principal, los bandidos y los otros degenerados de la Zona capturados por Duty luchan en la arena por sus crнmenes. Algunos son solo stalkeres a los que les gusta pelear, y no delincuentes, pero quien abandona la arena en la menor cantidad de piezas obtiene una recompensa considerable. Si siguen ganando peleas, vendrбn mбs stalkeres y los combatientes obtendrбn mayores recompensas.</text>
+	</string>
+	<string id="bar_arena_manager_start_11">
+		<text>Es bueno verte stalker, bienvenido a la arena.</text>
+	</string>
+	<string id="bar_arena_manager_start_21">
+		<text>їEntonces, Quй esperas? Entrar en la jaula</text>
+	</string>
+	<string id="bar_arena_manager_start_31">
+		<text>Lo sentimos, no hay nada contra lo que luchar aъn. Espera un dнa o dos hasta que podamos atrapar un nuevo mutante.</text>
+	</string>
+	<string id="bar_arena_manager_start_41">
+		<text>ЎAhн tienes! ЎBien hecho! Aquн estб tu victoria. Si deseas otra pelea por dinero, solo pasa cada vez que lo hagas.</text>
+	</string>
+	<string id="bar_arena_manager_start_51">
+		<text>Lo siento, hermano, pero pierdes. Ven la prуxima vez si quieres.</text>
+	</string>
+
+	<!-- bar_visitors_barman_stalker_trader -->
+	<string id="bar_visitors_barman_stalker_trader_start_dialog_11">
+		<text>Oh hola. їQue pasa?</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_start_dialog_12">
+		<text>їQuй necesitas, stalker?.</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_start_dialog_13">
+		<text>їEstбs aquн para comprar algo de mierda?</text>
+	</string>
+
+	<string id="bar_visitors_barman_stalker_trader_start_dialog_21">
+		<text>Entonces, їdуnde puedo obtener buenas armas en este lugar?</text>
+	</string>
+
+	<string id="bar_visitors_barman_stalker_trader_start_dialog_22">
+		<text>Hay un "pequeсo" problema como puedes ver. Este es un lugar popular, el nъmero de visitantes diarios es bastante impresionante. Todas las nuevas armas que entran se compran casi al instante. Ademбs, los Duters acaban de calmarse, necesitan disparar cosas tambiйn. Y la vieja lнnea AKSU ya estб una semana mбs adelante. En general, no tienes suerte en este lugar. Tendrбs que ir a buscar a otro lugar, como el norte, por ejemplo, donde puedes encontrar equipos serios para personas serias o para tratar de negociar con los militares. Si no eres particularmente quisquilloso y tienes algunas conexiones, entonces puedes visitar a los bandidos. Ellos tienen cosas para todos.</text>
+	</string>
+	
+	<string id="bar_visitors_barman_stalker_trader_start_dialog_23">
+		<text>Asн es como es entonces? Muy bien, gracias por la informaciуn.</text>
+	</string>
+
+<!------------------ bar_visitors_informer ----------->
+
+	<string id="bar_visitors_informer_stalker_start">
+		<text>Quiero comprar informaciуn.</text>
+	</string>
+
+	<string id="bar_visitors_informer_stalker_has_info">
+		<text>їEn que estas interesado?</text>
+	</string>
+
+	<string id="bar_visitors_informer_stalker_bandit_permission_info_about">
+		<text>їPuedo obtener informaciуn sobre el permiso de bandido?</text>
+	</string>
+
+	<string id="bar_visitors_informer_stalker_bandit_permission_info_cost">
+		<text>Esta informaciуn le costarб 1000 RU.</text>
+	</string>
+
+	<string id="bar_visitors_informer_stalker_bandit_permission_info_text">
+		<text>Yo soy el que hace este negocio. їDecidiste volver a Cordon o huir a Dark Valley? Puedo enviar un par de mensajes para que los punks locales no se tropiecen contigo sin necesidad de un tiempo. Bueno, cuando estбs allн, por supuesto, no te vuelvas heroico, entonces todo irб bien. Tal servicio cuesta 10000 RU, tiene tres dнas para resolver todo su negocio.</text>
+	</string>
+
+	<string id="bar_visitors_informer_stalker_army_permission_info_about">
+		<text>їPuedo obtener informaciуn sobre el permiso militar?</text>
+	</string>
+
+	<string id="bar_visitors_informer_stalker_army_permission_info_cost">
+		<text>Esta informaciуn le costarб 4000 RU.</text>
+	</string>
+
+	<string id="bar_visitors_informer_stalker_army_permission_info_text">
+		<text>Tal cosa puede ser organizada por el General Voronin, el lнder principal de "Dutyers". Acйrquese a йl y solicite un certificado que le permita estar en la Zona por "motivos legales" por algъn tiempo. Las personas con tal permiso no son tocado por militares Naturalmente, tal procedimiento no es gratuito y solo dura unos pocos dнas. Pero para una persona sin ataduras y reputaciуn propia, esta es la ъnica opciуn.</text>
+	</string>
+
+	<string id="bar_visitors_informer_stalker_killer_permission_info_about">
+		<text>їPuedo obtener informaciуn sobre permisos de mercenarios?</text>
+	</string>
+
+	<string id="bar_visitors_informer_stalker_killer_permission_info_cost">
+		<text>Esta informaciуn le costarб 2000 RU.</text>
+	</string>
+
+	<string id="bar_visitors_informer_stalker_killer_permission_info_text">
+		<text>Varios acechadores estбn trabajando para mн, obtienen informaciуn para mн, se envнan los pedidos, es algo comъn. En toda la zona, no es conveniente contratar mercenarios, pero a veces hay que conocerlos. En tal caso, tenemos un contrato, por lo que sin ninguna preocupaciуn mis muchachos no tendrнan ningъn problema. Puedo escribirte aparte de mis correos durante una semana, pero ten en cuenta que este servicio no es barato. Teniendo en cuenta todos los posibles riesgos y gastos de mi parte, te costarб 50000.
+  .</text>
+	</string>
+
+	<string id="bar_visitors_informer_stalker_pay">
+		<text>Bien, aquн estб tu dinero.</text>
+	</string>
+
+	<string id="bar_visitors_informer_stalker_cancel">
+		<text>Cambiй de opiniуn.</text>
+	</string>
+
+	<string id="bar_visitors_informer_stalker_finish">
+		<text>Es tu negocio.</text>
+	</string>
+
+	<string id="bar_visitors_informer_stalker_thanks">
+		<text>Gracias por la informaciуn.</text>
+	</string>
+
+
+	<!-- bar_visitors_stalker_mechanic -->
+	<string id="bar_visitors_stalker_mechanic_start_dialog_1">
+		<text>Hey! Chico. їCуmo va la zona? Entonces... espero que tengas que hacer un trabajo de reparaciуn... heh. Necesito algo de dinero en efectivo.</text>
+	</string>
+</string_table>

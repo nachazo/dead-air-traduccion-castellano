@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_faction_stalker">
+		<text>Solitario</text>
+	</string>
+	<string id="st_faction_stalker_desc">
+		<text>%c[0,245,245,220]Los solitarios, o stalkeres libres, no estбn alineados con ninguna de las facciones que operan dentro de la Zona. \n \nA pesar de ser acosados frecuentemente por mutantes y otros stalkeres, pequeсos grupos han logrado establecer fuertes puestos comerciales en toda la Zona.</text>
+	</string>
+	<string id="st_faction_bandit">
+		<text>Bandido</text>
+	</string>
+	<string id="st_faction_bandit_desc">
+		<text>%c[0,245,245,220]Los bandidos son miembros del inframundo criminal que llegaron a la Zona por diferentes motivos: para ganar dinero vendiendo artefactos, para esconderse de la ley, o incluso para comerciar con armas.</text>
+	</string>
+	<string id="st_faction_dolg">
+		<text>Deber</text>
+	</string>
+	<string id="st_faction_dolg_desc">
+		<text>%c[0,245,245,220]Deber es una facciуn paramilitar en desacuerdo con todos los que buscan explotar la zona y, como Deber lo ve, difundir su corrupciуn. \n \nHan estado en feroz conflicto con Libertad debido a sus ideales contradictorios.</text>
+	</string>
+	<string id="st_faction_freedom">
+		<text>Libertad</text>
+	</string>
+	<string id="st_faction_freedom_desc">
+		<text>%c[0,245,245,220]Libertad son anarquistas y temerarios que declaran su lucha por el libre acceso a la Zona y, en consecuencia, se encuentran en constante conflicto con Deber.</text>
+	</string>
+	<string id="st_faction_army">
+		<text>Militar</text>
+	</string>
+	<string id="st_faction_army_desc">
+		<text>%c[0,245,245,220]El gobierno ucraniano, a travйs de su Ministerio del Interior, mantiene el perнmetro de la Zona con tropas internas del Servicio de Seguridad del Estado.</text>
+	</string>
+	<string id="st_faction_ecolog">
+		<text>Ecologista</text>
+	</string>
+	<string id="st_faction_ecolog_desc">
+		<text>%c[0,245,245,220]Los ecologistas son un organismo financiado por el gobierno que investiga la zona con el fin de aprovechar su potencial para el bien de la humanidad.</text>
+	</string>
+	<string id="st_faction_killer">
+		<text>Mercenario</text>
+	</string>
+	<string id="st_faction_killer_desc">
+		<text>%c[0,245,245,220]Los mercenarios son combatientes experimentados de todos los бmbitos de la vida que ofrecen sus servicios como soldados contratados. Sus clientes y sus razones para estar en la Zona son desconocidos.</text>
+	</string>
+	<string id="st_faction_monolith">
+		<text>Monolito</text>
+	</string>
+	<string id="st_faction_monolith_desc">
+		<text>%c[0,245,245,220]Monolito es un culto religioso fanбtico hostil a todos menos a los suyos. \n \nA pesar de la destrucciуn del C-Conciencia, han vuelto a emerger como una fuerza renaciente, retomando muchos de sus antiguos territorios.</text>
+	</string>
+	<string id="st_faction_csky">
+		<text>Cielo Limpio</text>
+	</string>
+	<string id="st_faction_csky_desc">
+		<text>%c[0,245,245,220]Cielo Limpio es una organizaciуn cientнfica y militar independiente centrada en investigar y comprender la zona. \n \nFrente al colapso casi total despuйs de un asalto fallido y costoso en la central nuclear de Chernobyl, un puсado de unos pocos supervivientes lograron reconstruir la facciуn en su forma anterior.</text>
+	</string>
+	<string id="st_faction_zombied">
+		<text>Zombificado</text>
+	</string>
+	<string id="st_faction_zombied_desc">
+		<text>%c[0,245,245,220]Ceeeerreeebrosss!!! \n \nLos stalkeres zombis son cбscaras estъpidas de su yo anterior reducidas a sus instintos mбs bбsicos de tipo animal y atacarбn casi cualquier cosa que se acerque demasiado.</text>
+	</string>
+	<string id="st_mm_faction_back">
+		<text>Volver</text>
+	</string>
+	<string id="st_mm_faction_submit">
+		<text>Comenzar</text>
+	</string>
+	<string id="st_mm_faction_rand">
+		<text>Aleatorizar</text>
+	</string>
+	<string id="st_mm_faction_cap_character_name">
+		<text>Nombre:</text>
+	</string>
+	<string id="st_mm_faction_cap_faction">
+		<text>Facciуn:</text>
+	</string>
+	<string id="st_mm_ck_hardcore_desc">
+		<text>%c[0,245,245,220]El modo Ironman es una funciуn que eliminarб las partidas guardadas al morir. \n
+   \nEres libre de hacer tantas salvaciones como desees, pero al morir se eliminarбn todas las salvadas realizadas con este personaje.
+  .</text>
+	</string>
+	<string id="st_mm_ck_hardcore_aim_desc">
+		<text>%c[0,245,245,220]Hardcore AI Aim es una funciуn que maximiza la predicciуn del objetivo de IA, lo que hace que sea mбs difнcil para el jugador esquivar los golpes mientras se mueve.
+  .</text>
+	</string>
+	<string id="st_mm_ck_survival_desc">
+		<text>%c[0,245,245,220]El modo de supervivencia es una funciуn que reemplaza todos los engendros con zombies. \n
+   \nEstas hordas llegarбn a tu ubicaciуn. Estй preparado y vea cuбnto tiempo puede sobrevivir!
+  .</text>
+	</string>
+	<string id="st_mm_ck_azazel_mode_desc">
+		<text>%c[0,245,245,220]En el modo Azazel, la muerte no es el final. \n
+   \nComo el demonio Azazel, poseerбs un nuevo cuerpo cuando mueras; tomando la forma de otro acechador aleatorio que existe en la Zona. \n
+   \nSi tiene compaсeros, se convertirб en uno de ellos. Esta funciуn complementa muy bien los modos Ironman y / o Survival.\n
+   \nNo es compatible con el modo Historia.</text>
+	</string>
+	<string id="st_mm_ck_laststand_desc">
+		<text>%c[0,245,245,220]Last Stand es la opciуn que corta el hilo del destino del jugador. їEncontrarбs alguna razуn para vivir en un maldito mundo creado por ti mismo?</text>
+	</string>
+
+
+	<string id="st_mm_ck_easy_desc">
+		<text>%c[0,245,245,220]El aumento de recompensas es una opciуn diseсada para disminuir la dificultad de juego al triplicar las recompensas de todas las tareas completadas por el jugador. \n
+  \nPara aquellos que no disfrutan de la economнa de juego base.</text>
+	</string>
+	<string id="st_mm_ck_good_wpn_desc">
+		<text>%c[0,245,245,220]ЎQuiero disparar! es una opciуn diseсada para disminuir la dificultad de juego al darle a las armas de los enemigos caнdos mejores condiciones y municiуn adicional. \n
+        \nPara aquellos que no disfrutan el equilibrio del arma base del juego.</text>
+	</string>
+	<string id="st_mm_ck_good_loot_desc">
+		<text>%c[0,245,245,220]Mejor botнn es una opciуn diseсada para disminuir la dificultad del juego forzando a los elementos encontrados en enemigos caнdos y escondites a aparecer con variantes de mayor calidad. \n
+        \nPara aquellos que no disfrutan la distribuciуn del botнn del juego base.</text>
+	</string>
+
+
+
+	<string id="st_mm_faction_random_location">
+		<text>Ubicaciуn Aleatoria</text>
+	</string>
+	<string id="st_mm_ck_story_desc">
+		<text>%c[0,245,245,220]El modo historia inicia el juego con la historia de "Misterios de la zona" y con los objetivos para desactivar el quemador cerebral y la mбquina milagrosa. \n
+   \nLos elementos de historias anteriores se toman prestados y se recrean, por lo que no es para jugadores que sienten que la continuidad estricta de la historia es esencial. \n
+   \nSolo disponible para las facciones Clear Sky, Duty, Ecologist, Freedom, Loner y Mercenary. \n
+   \nNo es compatible con el modo Azazel.
+  .</text>
+	</string>
+
+	<string id="st_mm_faction_money">
+		<text>Dinero</text>
+	</string>
+	<string id="st_mm_faction_equipment">
+		<text>Equipo</text>
+	</string>
+	<string id="st_mm_faction_relations">
+		<text>Relaciones</text>
+	</string>
+</string_table>

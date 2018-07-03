@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<!-- Level Names -->
+	<string id="l03_agroprom">
+		<text>Agroprom</text>
+	</string>
+	<string id="l03u_agr_underground">
+		<text>Agroprom subterrбneo</text>
+	</string>
+	<string id="new_military">
+		<text>Almacenes del ejйrcito</text>
+	</string>
+	<string id="l07_military">
+		<text>[Ўerror! viejo militar]</text>
+	</string>
+	<string id="l12_stancia_2">
+		<text>Central nuclear de Chernobyl (norte)</text>
+	</string>
+	<string id="l12_stancia">
+		<text>Central nuclear de Chernobyl (sur)</text>
+	</string>
+	<string id="l01_escape">
+		<text>Cordуn</text>
+	</string>
+	<string id="k01_darkscape">
+		<text>Darkscape</text>
+	</string>
+	<string id="l04_darkvalley">
+		<text>Dark Valley</text>
+	</string>
+	<string id="l09_deadcity">
+		<text>Ciudad Muerta</text>
+	</string>
+	<string id="l11_hospital">
+		<text>Hospital abandonado</text>
+	</string>
+	<string id="fake_start">
+		<text>Comienzo falso</text>
+	</string>
+	<string id="l02_garbage">
+		<text>Garbage</text>
+	</string>
+	<string id="l13_generators">
+		<text>Generadores</text>
+	</string>
+	<string id="k00_marsh">
+		<text>Grandes pantanos</text>
+	</string>
+	<string id="jupiter">
+		<text>Jъpiter</text>
+	</string>
+	<string id="jupiter_underground">
+		<text>Jъpiter subterrбneo</text>
+	</string>
+	<string id="l08u_brainlab">
+		<text>Laboratorio X16 (Yantar)</text>
+	</string>
+	<string id="l04u_labx18">
+		<text>Laboratorio X18 (Dark Valley)</text>
+	</string>
+	<string id="l10u_bunker">
+		<text>Laboratorio X19 (Radar)</text>
+	</string>
+	<string id="labx8">
+		<text>Laboratorio X8 (alrededores)</text>
+	</string>
+	<string id="l10_limansk">
+		<text>Limansk</text>
+	</string>
+	<string id="l12u_control_monolith">
+		<text>Centro de control Monolith</text>
+	</string>
+	<string id="l13u_warlab">
+		<text>Laboratorio de guerra Monolith</text>
+	</string>
+	<string id="pripyat">
+		<text>Afueras</text>
+	</string>
+	<string id="l11_pripyat">
+		<text>Pripyat</text>
+	</string>
+	<string id="l10_radar">
+		<text>Radar</text>
+	</string>
+	<string id="l10_red_forest">
+		<text>Bosque rojo</text>
+	</string>
+	<string id="l05_bar">
+		<text>Rostok</text>
+	</string>
+	<string id="l12u_sarcofag">
+		<text>Sarcуfago</text>
+	</string>
+	<string id="k02_trucks_cemetery">
+		<text>Cementerio de camiones</text>
+	</string>
+	<string id="l06_rostok">
+		<text>Territorio salvaje</text>
+	</string>
+	<string id="l08_yantar">
+		<text>Yantar</text>
+	</string>
+	<string id="zaton">
+		<text>Zaton</text>
+	</string>
+
+	<!-- Level Changers -->
+	<string id="mar_space_restrictor_to_agroprom_descr">
+		<text>Hacia Agroprom</text>
+	</string>
+	<string id="space_restrictor_to_agr_ug_desc">
+		<text>Al subterrбneo de Agroprom</text>
+	</string>
+	<string id="space_restrictor_to_military_desc">
+		<text>A los almacenes del ejйrcito</text>
+	</string>
+	<string id="gen_space_restrictor_to_aes2_descr">
+		<text>Hacia la Central Nuclear de Chernobyl</text>
+	</string>
+	<string id="ds_space_restrictor_to_escape_descr">
+		<text>Hacia el Cordуn</text>
+	</string>
+	<string id="esc_space_restrictor_to_darkscape_descr">
+		<text>Hacia el Darkscape</text>
+	</string>
+	<string id="ds_space_restrictor_to_darkvalley_desc">
+		<text>Al Valle Oscuro</text>
+	</string>
+	<string id="space_restrictor_to_deadcity_desc">
+		<text>A la Ciudad Muerta</text>
+	</string>
+	<string id="space_restrictor_to_hospital">
+		<text>Hacia el hospital abandonado</text>
+	</string>
+	<string id="esc_space_restrictor_to_garbage_descr">
+		<text>A Garbage</text>
+	</string>
+	<string id="aes2_space_restrictor_to_gen_descr">
+		<text>Hacia los generadores</text>
+	</string>
+	<string id="mar_teleport_from_base_to_north_descr">
+		<text>A los grandes pantanos</text>
+	</string>
+	<string id="space_restrictor_to_jupiter_desc">
+		<text>A Jъpiter</text>
+	</string>
+	<string id="space_restrictor_to_jupiter_ug_desc">
+		<text>Hacia el metro de Jъpiter</text>
+	</string>
+	<string id="space_restrictor_to_labx16_desc">
+		<text>Hacia el laboratorio X16</text>
+	</string>
+	<string id="space_restrictor_to_labx18_desc">
+		<text>Hacia el laboratorio X18</text>
+	</string>
+	<string id="space_restrictor_to_labx10_desc">
+		<text>Hacia el laboratorio X19</text>
+	</string>
+	<string id="space_restrictor_to_labx8_desc">
+		<text>Hacia el laboratorio X8</text>
+	</string>
+	<string id="space_restrictor_to_limansk_desc">
+		<text>Hacia Limansk</text>
+	</string>
+	<string id="space_restrictor_to_secret_lab_desc">
+		<text>Hacia el centro de control Monolith</text>
+	</string>
+	<string id="space_restrictor_to_warlab_desc">
+		<text>Hacia el laboratorio de guerra Monolith</text>
+	</string>
+	<string id="space_restrictor_to_cop_pripyat_desc">
+		<text>A las afueras</text>
+	</string>
+	<string id="space_restrictor_to_pripyat_desc">
+		<text>Hacia Pripyat</text>
+	</string>
+	<string id="space_restrictor_to_radar_desc">
+		<text>Hacia el radar</text>
+	</string>
+	<string id="mil_space_restrictor_to_red_1_descr">
+		<text>Hacia el bosque rojo</text>
+	</string>
+	<string id="space_restrictor_to_bar_desc">
+		<text>Hacia Rostock</text>
+	</string>
+	<string id="space_restrictor_to_sarcophagus_desc">
+		<text>Hacia el sarcуfago</text>
+	</string>
+	<string id="space_restrictor_to_tc_desc">
+		<text>Hacia el cementerio de camiones</text>
+	</string>
+	<string id="space_restrictor_to_rostok_desc">
+		<text>Hacia el territorio salvaje</text>
+	</string>
+	<string id="space_restrictor_to_yantar_desc">
+		<text>Hacia Yantar</text>
+	</string>
+	<string id="space_restrictor_to_zaton_desc">
+		<text>Hacia Zaton</text>
+	</string>
+</string_table>

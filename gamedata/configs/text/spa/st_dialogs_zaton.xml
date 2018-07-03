@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="zat_a2_stalker_barmen_actor_info_0">
+		<text>Dime cуmo es la vida aquн.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1">
+		<text>Ese es un tema amplio. Intente hacer algunas preguntas especнficas y harй todo lo posible para responderlas.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1111">
+		<text>їQuй hacen los stalkeres aquн?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11111">
+		<text>Pregъntate, amigo. Llegan a tierra desde Skadovsk para explorar el terreno y buscar artefactos, disparando a todo y a todos los que vienen corriendo hacia ellos. Vuelven a Skadovsk para emborracharse y hablar basura... disfrutar de un poco de R & R antes de la prуxima incursiуn... sin embargo, cuando llega una emisiуn, es una escena bastante diferente. Es entonces cuando todos nos sentamos y recordamos a los que no llegaron a una portada a tiempo...</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1112">
+		<text>їQuй llevу a los stalkeres al centro de la Zona?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11121">
+		<text>Una pregunta graciosa. Algunos fueron a descubrir el prуximo artefacto mina de oro. Algunos fueron conducidos aquн por los rumores de Oasis. Otros buscaron el Wish Granter. Y luego estбn los deseos humanos bбsicos: la codicia y la curiosidad... Todos tienen sus razones. Estoy seguro de que tienes el tuyo tambiйn.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1113">
+		<text>їCуmo terminaste aquн?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11131">
+		<text>Vine aquн con Grouse despuйs de que el Scorcher estaba desactivado. Pero estoy seguro de que eso no es lo que realmente quieres saber, їverdad? Trato principalmente en artefactos. El exterior ya estб lleno de baratijas, por lo que los clientes valiosos quieren cosas raras. Es por eso que decidн establecer un campamento de stalkeres, donde todavнa se pueden encontrar artнculos de gran valor. Quiero decir, cuando un stalker regresa con su botнn, їquй es lo que realmente necesita? Una frнa en su mano y un buen contacto humano, eso es. Y de eso se trata el Skadovsk.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1114">
+		<text>їQuй piensas de los bandidos?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11141">
+		<text>Bueno, es asн: no tengo nada en contra de ellos a bordo del Skadovsk, siempre y cuando actъen de forma decente. Despuйs de todo, no conoces el total de bolsas de duchas con tanta frecuencia. Algunos de ellos son en realidad ex stalkeres. Quiйn sabe, uno de esos pobres bastardos podrнa decidir abandonar el negocio del ladrуn antes de que atrape una bala... La vida estб llena de sorpresas.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1115">
+		<text>Nah, estб bien. Fuhgetaboutit.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11151">
+		<text>Si tъ lo dices.</text>
+	</string>
+
+
+
+
+
+	<string id="zat_b22_stalker_medic_start_1">
+		<text>їQuй te trae por aquн?</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_21">
+		<text>Estoy escuchando.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_22">
+		<text>Hola, їnecesitas ayuda?</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_dialog_start_23">
+		<text>Hola.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_0">
+		<text>Necesito tratamiento Es urgente.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_1">
+		<text>Dйjame echar un vistazo...</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_2">
+		<text>Echemos un vistazo... їCon tu salud? Bueno, si lo estбs haciendo mal, debo estar muerto o algo asн...</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_111">
+		<text>Serй sincero contigo, podrнas usar un parche o dos. Puedo eliminar la mayorнa de tus problemas fнsicos para 1850 RU. Tengo este pequeсo y dulce suero aquн que te pondrб de pie en muy poco tiempo. Sin embargo, no eliminarб esas pequeсas partнculas brillantes de su sistema. No, para esto necesitas otro tipo de mierda. 1480 RU y estarбs filtrando esos isуtopos de cada agujero de tu cuerpo durante las prуximas horas. Entonces, їquй va a ser, hijo?</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_11">
+		<text>їY quй? їQuй tan malo se ve?</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_need_health_care_1111">
+		<text>Ok, llйvate el dinero y ponte a trabajar, la salud es mбs importante que el dinero.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_1112">
+		<text>De acuerdo, quita solo la radiaciуn, puedo vendar mis heridas yo mismo.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_1113">
+		<text>їSabes quй, doc? Cъrate a ti mismo!</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_need_health_care_11111">
+		<text>Un momento, por favor... Sн, deberнa estar bien ahora. Se puede ir.</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_need_health_care_11112">
+		<text>Mбrchate de aquн, esto no es una maldita caridad. Trae un poco de dinero o scram.</text>
+	</string>
+
+	<string id="zat_b22_stalker_medic_need_health_care_11113">
+		<text>Como quieras, camarada. No me culpes si dejas de estar vivo de repente.</text>
+	</string>
+
+	<string id="zat_b18_noah_start_11">
+		<text>їQuiйn eres tъ?</text>
+	</string>
+	<string id="zat_b18_noah_start_111">
+		<text>Un stalker. Nos hemos visto antes</text>
+	</string>
+	<string id="zat_b18_noah_start_1111">
+		<text>No recuerdo... De todos modos, їquй necesitas?</text>
+	</string>
+	<string id="zat_b18_noah_start_112">
+		<text>Un stalker. Solo un stalker.</text>
+	</string>
+	<string id="zat_b18_noah_start_1121">
+		<text>Ya veo. Buscando refugio en el arca? Siйntase como en casa.</text>
+	</string>
+	<string id="zat_b18_noah_start_113">
+		<text>No es asunto tuyo.</text>
+	</string>
+	<string id="zat_b18_noah_start_21">
+		<text>Ah, eres tъ. їQuй deseas?</text>
+	</string>
+
+	<string id="zat_b3_stalker_tech_start_15">
+		<text>Una sabia elecciуn, mi amigo. Tengo que mantener tu arma en perfecto estado... Y si tienes una botella o dos encima, puedo actualizarla aquн. їQuieres un paracaнdas cosido a tu escopeta? Puedo hacer eso, jeje.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_drink_1_0">
+		<text>Tengo un poco de alcohol. їQuieres un tiro?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_drink_1_2">
+		<text>Nah, estoy fuera de la botella, hombre. Cuando vi el artнculo 62, pensй: "Eso es, estoy teniendo los saltos..." Mira, el alcohol simplemente te arruina. No es parte de una dieta saludable. Y si me voy, їquiйn va a martillar municiones para tu rifle Gauss?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_drink_2_0">
+		<text>Aquн tengo otra botella para ti.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_drink_3_0">
+		<text>Tengo un tercero, si necesitas mбs.</text>
+	</string>
+
+	<string id="zat_b7_stalkers_victims_dialog_11">
+		<text>Hola, stalker. Estoy ocupado en este momento. Hablemos mбs tarde, їestб bien?</text>
+	</string>
+</string_table>

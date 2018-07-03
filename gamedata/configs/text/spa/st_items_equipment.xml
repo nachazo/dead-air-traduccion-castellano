@@ -1,0 +1,1356 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_antirad">
+		<text>Medicamentos contra la radiaciуn</text>
+	</string>
+	<string id="st_antirad_descr">
+		<text>Las drogas de protecciуn radiolуgica de Mexaminum son comunes en la Zona. Cuando se usa, este medicamento induce la contracciуn de los vasos sanguнneos perifйricos y la privaciуn de oxнgeno, que sirven para tratar y prevenir la exposiciуn a la radiaciуn. El fбrmaco no tiene efectos secundarios graves, aunque se han notificado casos aislados de nбuseas leves, mareos, calambres y dolor de estуmago.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]medicamento \n %c[0,153,255,255] • %c[0,140,140,140]uso rбpido (jeringa) \n %c[0,204,0,51] • %c[0,140,140,140]efectos secundarios fuertes</text>
+	</string>
+	<string id="st_bandage">
+		<text>Vendaje</text>
+	</string>
+	<string id="st_bandage_descr">
+		<text>Un vendaje elбstico normal utilizado para detener el sangrado y prevenir la infecciуn de heridas. Para sangrado regular, aplique cuidadosamente el vendaje a la herida. Para la hemorragia arterial, ate el vendaje con urgencia alrededor del бrea afectada.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]artнculo de primeros auxilios \n %c[0,153,255,255] • %c[0,140,140,140]uso rбpido (yeso adhesivo)</text>
+	</string>
+	<string id="st_binocular_descr">
+		<text>Los binoculares BPO 10x42 de fabricaciуn rusa (la letra S en el tнtulo indica la presencia de una rejilla de telйmetro) es adecuada para observar бreas distantes durante los viajes y la caza. Los prismбticos son producidos por la Planta Mecбnica-Уptica de Kazan y, basadosen el sistema de prisma Porro estбndar, brindan una buena resoluciуn dentro de todo el campo de visiуn. La imagen de los binoculares es brillante y limpia, sin distorsiones y con preservaciуn de colores naturales.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento diario \n %c[0,153,255,255 ] • %c[0,140,140,140]elemento militar</text>
+	</string>
+	<string id="st_binocular_name">
+		<text>Prismбticos</text>
+	</string>
+	<string id="st_bread">
+		<text>Pan de molde</text>
+	</string>
+	<string id="st_bread_descr">
+		<text>Un rollo de pan fresco de calidad promedio. Principalmente ingresa a la Zona a travйs del ejйrcito, que felizmente intercambia provisiones por botнn y provisiones. Es un manjar raro en la zona, como cualquier otro alimento cualitativo.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]alimento \n %c[0,153,255,255] • %c[0,140,140,140]fuente de nutriciуn limpia</text>
+	</string>
+	<string id="st_breadold">
+		<text>Pan viejo</text>
+	</string>
+	<string id="st_breadold_descr">
+		<text>Un viejo pedazo de pan que se secу hace mucho tiempo. Estб parcialmente cubierto por moho. El consumo es difнcil pero posible.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,204,0,51] • %c[0,140,140,140]alimentos no saludables</text>
+	</string>
+	<string id="st_porn">
+		<text>PlayBoy ruso</text>
+	</string>
+	<string id="st_porn_descr">
+		<text>100 pбginas de chicas rusas primeras desnudas. Probablemente la mejor manera de viajar a un lugar mejor, al menos mentalmente. Los occidentales a menudo bromean diciendo "De Rusia con amor", mientras que los practicantes de Zoners dicen que hace calor cuando se lo coloca en una estufa.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]artнculo diario \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]lubricaciуn y limpieza de armas (+2%)</text>
+	</string>
+	<string id="st_joint">
+		<text>Porro de cannabis</text>
+	</string>
+	<string id="st_joint_descr">
+		<text>Una articulaciуn lo calma y le permite relajarse por un momento. A travйs de un efecto sedante distinto, "desconecta" y "reinicia" brevemente el cerebro, lo que le permite mantenerse saludable y evitar consecuencias daсinas irreversibles.\n \n %c[0,210,210,210]NOTA: \n \n %c[0,170,170,170 ]Fumar ayuda a estabilizar su condiciуn mental despuйs de cualquier ataque psiуnico.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]estimulante \n %c[0,153,255,255] • %c[0,140,140,140 ]fuerte alivio contra el daсo psicolуgico</text>
+	</string>
+	<string id="st_cigarettes">
+		<text>Cigarrillos Marlboro</text>
+	</string>
+	<string id="st_cigarettes_descr">
+		<text>Cigarrillos importados de Occidente. Por lo que parece, alguien ya ha consumido una parte del paquete; no es una sorpresa, considerando su rareza en la Zona. \n \n %c[0,210,210,210]NOTA: \n \n %c[0,170,170,170]Fumar ayuda a estabilizar su condiciуn mental despuйs de cualquier ataque psiуnico. \n \n %c[ 0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]estimulante \n %c[0,153,255,255] • %c[0,140,140,140]alivio promedio contra el daсo psнquico \n %c[0,204,0,51] • %c[0,140,140,140]daсa la salud</text>
+	</string>
+	<string id="st_survivalguide">
+		<text>Guнa de supervivencia de las fuerzas especiales ucranianas</text>
+	</string>
+	<string id="st_survivalguide_descr">
+		<text>Un mini-libro de texto publicado por las Fuerzas Armadas de Ucrania para la supervivencia en situaciones extremas. Contiene contenido ъtil para todos los reciйn llegados a la Zona.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento diario \n %c[255,238,153,26] • %c[0,140,140,140 ]utilizable para: %c[0,170,170,170]lubricaciуn y limpieza de armas (+3%)</text>
+	</string>
+	<string id="st_protein">
+		<text>Barra de proteнna de chocolate</text>
+	</string>
+	<string id="st_protein_descr">
+		<text>Esta barra proporciona al cuerpo las proteнnas y los azъcares necesarios que te dan un estнmulo bienvenido. Ъtil en viajes mбs largos cuando estбs en movimiento y necesitas comer algo rбpido. Tales barras de chocolate son, sin embargo, muy raras en la Zona.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]alimento \n %c[0,153,255,255] • %c[0,140,140,140 ]fuente de nutriciуn limpia</text>
+	</string>
+	<string id="st_rebirth">
+		<text>Droga desconocida</text>
+	</string>
+	<string id="st_rebirth_descr">
+		<text>Una jeringa llena con una sustancia de contenido desconocido. La impresiуn en la superficie indica uso recomendado solo cuando se enfrentan a heridas que amenazan la vida.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]medicamento \n %c[0,153,255,255] •  %c[0,140,140,140]uso rбpido (jeringa)</text>
+	</string>
+	<string id="st_conserva">
+		<text>Lata de atъn</text>
+	</string>
+	<string id="st_conserva_descr">
+		<text>La fecha de consumo preferente en la parte posterior de la lata indica que no debe esperar manjares.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]alimento \n %c[ 0,153,255,255] • %c[0,140,140,140]fuente de nutriciуn limpia</text>
+	</string>
+	<string id="st_tushonka">
+		<text>Carne de vaca tushonka</text>
+	</string>
+	<string id="st_tushonka_descr">
+		<text>Los tushonkas son conocidos por su alto valor nutritivo (principalmente debido a su alto contenido de grasa) y por un sabor relativamente bueno. La zona de exclusiуn de Chernobyl ha visto cientos de tipos y gustos de tushonkas. En la primavera de 2013, la marca de carne picada "Abakan" sigue siendo el rey indiscutible, y ciertamente la zona ha sido peor que eso.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[ 0,140,140,140]alimento \n %c[0,153,255,255] • %c[0,140,140,140]fuente de nutriciуn limpia</text>
+	</string>
+	<string id="st_meat_rat">
+		<text>Rata frita</text>
+	</string>
+	<string id="st_meat_rat_descr">
+		<text>Una carcasa de rata bien asada con una corteza crujiente; la lнnea de base de la dieta de un stalker novato. Parece apetitoso, aunque su sabor es como el caucho. Es una buena opciуn en condiciones de deficiencia para no morir de hambre.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,204,0,51] • %c[0,140,140,140]alimentos no saludables</text>
+	</string>
+	<string id="st_meat_tushkano">
+		<text>Pinchos de rata</text>
+	</string>
+	<string id="st_meat_tushkano_descr">
+		<text>2 pequeсos tushkanos ensartados, a la parrilla y condimentados con sal y ajн. La comida caliente mбs barata disponible en la zona. Envuelto en papel marrуn espeso para evitar que la grasa gotee.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,204,0,51] • %c[0,140,140,140]alimentos no saludables</text>
+	</string>
+	<string id="st_meat_dog">
+		<text>Chuletas de perro</text>
+	</string>
+	<string id="st_meat_dog_descr">
+		<text>Una pequeсa comida caliente de chuletas de perro a la parrilla mezclada con ajo, pimientos y champiсones. Servido en una caja de lata vieja. Una alternativa barata a las chuletas de jabalн mбs populares.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,204,0,51] • %c[0,140,140,140]alimentos no saludables</text>
+	</string>
+	<string id="st_meat_pseudodog">
+		<text>Chuletas de pseudoperro</text>
+	</string>
+	<string id="st_meat_pseudodog_descr">
+		<text>Una porciуn de chuletas de carne pseudodog a la parrilla. Buen valor nutricional debido a los mъsculos gruesos del animal.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,204,0,51] • %c[0,140,140,140]comida no saludable</text>
+	</string>
+	<string id="st_meat_flesh">
+		<text>Tocino gordo</text>
+	</string>
+	<string id="st_meat_flesh_descr">
+		<text>2 rebanadas de grasa y tocino grasoso hecho de cerdos mutados comъnmente conocidos como carne. Envuelto en papel marrуn espeso para evitar que la grasa gotee.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,204,0,51] • %c[0,140,140,140]alimentos no saludables</text>
+	</string>
+	<string id="st_meat_boar">
+		<text>Chuletas de jabalн</text>
+	</string>
+	<string id="st_meat_boar_descr">
+		<text>> Una pequeсa porciуn de carne de jabalн, a la parrilla y condimentada con sal y mezclada con pimientos. La comida caliente mбs popular entre los stalkeres. Envuelto en papel de estraza.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,204,0,51] • %c[0,140,140,140]comida no saludable</text>
+	</string>
+	<string id="st_meat_bloodsucker">
+		<text>Cocido hъngaro chupasangre</text>
+	</string>
+	<string id="st_meat_bloodsucker_descr">
+		<text>Una pequeсa comida caliente hecha con carne de sanguijuela condimentada con chiles y mezclada con champiсones. Servido en una caja de estaсo.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,204,0,51] • %c[0,140,140,140]comida no saludable</text>
+	</string>
+	<string id="st_meat_snork">
+		<text>Mano de snorkel a la parrilla</text>
+	</string>
+	<string id="st_meat_snork_descr">
+		<text>Asador a la parrilla mano. Imaginar cualquier tipo de comida peor es difнcil. Tambiйn vale la pena seсalar que comer esnуrquel es un verdadero signo de canibalismo.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,204,0,51] • %c[0,140,140,140]comida no saludable</text>
+	</string>
+	<string id="st_meat_chimera">
+		<text>La Comida Masculina</text>
+	</string>
+	<string id="st_meat_chimera_descr">
+		<text>Una porciуn de carne de quimera a la parrilla, servida con champiсones y especias. Una comida costosa, comido comъnmente por los stalkeres veteranos para celebrar la realizaciуn de misiones difнciles.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,204,0,51] • %c[0,140,140,140]comida no saludable</text>
+	</string>
+	<string id="st_detector0">
+		<text>Detector casero</text>
+	</string>
+	<string id="st_detector0_descr">
+		<text>Un dispositivo casero muy simple. Fue ensamblado a partir de las partes mбs comunes por artesanos expertos entre la comunidad stalker, la mayorнa de los cuales estбn disponibles en cualquier receptor de radio. Desarrollado por una baterнa incorporada. Reacciona a la presencia de artefactos con sonidos distintos. Desafortunadamente, se perdiу cualquier posibilidad de captar frecuencias de las estaciones de radio de la Zona.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255 ] • %c[0,140,140,140]no requiere UPD</text>
+	</string>
+	<string id="st_detector1">
+		<text>Detector Eco</text>
+	</string>
+	<string id="st_detector1_descr">
+		<text>Este detector de actividad anуmala con fecha produce una seсal de alarma cuando las partнculas anуmalas entran en una cбmara especial cuando se aproxima a una anomalнa. Tambiйn puede registrar la presencia de artefactos y medir la distancia al mбs cercano. La distancia se indica por la frecuencia del sonido que emite el detector. Para cambiar al modo de bъsqueda de artefactos, abra la cubierta frontal del dispositivo. Debido a su diseсo simple, Eco solo se puede utilizar para localizar los artefactos mбs comunes.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255 ] • %c[0,140,140,140]bajo consumo UPD</text>
+	</string>
+	<string id="st_detector2">
+		<text>Detector Oso</text>
+	</string>
+	<string id="st_detector3">
+		<text>Detector Veles</text>
+	</string>
+	<string id="st_detector3_descr">
+		<text>Un escбner de detecciуn cientнfica de prуxima generaciуn. Gracias a tres cбmaras de detecciуn modernizadas, la posiciуn de los artefactos se muestra en una pantalla de visualizaciуn especial. Cuando estб cerrado, el dispositivo registra solo radiaciуn y anomalнas. Para cambiar al modo de bъsqueda de artefactos, abra la pantalla LED frontal. Cuando estб en modo de bъsqueda, el detector es capaz de localizar todos los artefactos conocidos por la ciencia.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]alto consumo UPD</text>
+	</string>
+	<string id="st_detector4">
+		<text>Detector Svarog</text>
+	</string>
+	<string id="st_detector4_descr">
+		<text>Un prototipo de un escбner de frecuencia anуmala de funcionalidad ampliada. Este dispositivo viene con un programa usado para identificar бreas estбticas de actividad anуmala almacenadas en su base de datos, al tiempo que conserva la capacidad de localizar artefactos. La posiciуn de las бreas y artefactos anуmalos se muestra en una pantalla especial. El modo de bъsqueda de artefactos, que se puede activar abriendo la pantalla LED frontal, se ha modificado para detectar formaciones anуmalas actualmente desconocidas para la ciencia. Con un poco de suerte, tambiйn puede recuperar las baterнas que alimentan el dispositivo.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]alto consumo de UPD</text>
+	</string>
+	<string id="st_device_torch_descr">
+		<text>Una linterna de cabeza estбndar en funcionamiento completo. Ъtil para los stalkeres que se encuentran fuera de refugio despuйs de que oscurezca, pero puede atraer problemas si se usa imprudentemente.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]consumo moderado de UPD</text>
+	</string>
+	<string id="st_device_torch_name">
+		<text>Lбmpara de cabeza</text>
+	</string>
+	<string id="st_drug_anabiotic">
+		<text>Anabiуticos</text>
+	</string>
+	<string id="st_drug_antidot">
+		<text>Antнdoto</text>
+	</string>
+	<string id="st_drug_antidot_descr">
+		<text>La antitoxina IP2 es un fбrmaco complejo que comprende varios antнdotos, que incluyen metoclopramidum, piridoxina, tiamina, riboxina y otros productos farmacйuticos. El medicamento se usa para inyectar una variedad de antibiуticos para neutralizar los venenos naturales, junto con los absorbentes de veneno sintйticos, en el torrente sanguнneo. IP2 no es particularmente popular en la Zona ya que la mayorнa de los stalkeres confнan en una mбscara de gas y un traje protector. Sin embargo, todavнa hay quienes tienen algunas unidades de este antнdoto escondidas para situaciones de emergencia. Los efectos del medicamento son duraderos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]medicamento \n %c[0,153,255,255] • %c[0,140,140,140]elimina toxinas en el cuerpo \n %c[0,153,255,255] • %c[0,140,140,140]efectos secundarios leves</text>
+	</string>
+	<string id="st_drug_booster">
+		<text>Hйrcules</text>
+	</string>
+	<string id="st_drug_coagulant">
+		<text>Vinca</text>
+	</string>
+	<string id="st_drug_coagulant_descr">
+		<text>Tabletas que contienen un complejo de las vitaminas mбs necesarias para un ser humano, principalmente para mantener la inmunidad. Al consumir la carne de mutantes, se recomienda encarecidamente tomar una tableta despuйs de cada comida.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]medicina \n %c[0,153,255,255 ] • %c[0,140,140,140]tiempo prolongado de recuperaciуn corporal</text>
+	</string>
+	<string id="st_drug_psy_blockade">
+		<text>Bloqueador psнquico</text>
+	</string>
+	<string id="st_drug_psy_blockade_descr">
+		<text>Una droga que bloquea los impulsos nerviosos parecidos a avalanchas. El consumo induce la pйrdida a corto plazo de todas las emociones. Se usa exclusivamente en la Zona para contrarrestar los efectos de los campos psicolуgicos anуmalos. Los efectos del medicamento son de larga duraciуn.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]medicina \n %c[0,204,0,51] • %c[ 0,140,140,140]efectos secundarios leves \n %c[0,204,0,51] • %c[0,140,140,140]aumento leve de somnolencia</text>
+	</string>
+	<string id="st_drug_radioprotector">
+		<text>Radioprotector</text>
+	</string>
+	<string id="st_water_drink">
+		<text>Agua con gas</text>
+	</string>
+	<string id="st_water_drink_descr">
+		<text>Agua con gas para los stalkeres sedientos. Tiene un efecto estimulante cuando estб cansado.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]bebida \n %c[0,153,255,255] • %c[0,140,140,140]leve efecto alcohol aleccionador \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]mantenimiento de armas (+1%)</text>
+	</string>
+	<string id="st_drink_crow">
+		<text>"El pico"</text>
+	</string>
+	<string id="st_drink_crow_descr">
+		<text>"El pico" es una poderosa mezcla de vodka producido por Zone y el pico pulverizado de un cuervo negro. El rumor dice que tales picos contienen una forma de proteнna enriquecida que limpia cantidades moderadas de radiaciуn del cuerpo. Algunos incluso dicen que beber "el Pico" te da la sensaciуn de tener alas por unos segundos. En el lado negativo, sin embargo, el sabor en sн mismo es horrible.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]bebida \n %c[0,153,255,255] • %c[0,140,140,140]estimulante \n %c[0,204,0,51] • %c[0,140,140,140]fuerte, alcohol de baja calidad \n %c[0,153,255,255] • %c[0,140,140,140]disminuciуn leve de somnolencia</text>
+	</string>
+	<string id="st_energy_drink">
+		<text>Bebida energйtica</text>
+	</string>
+	<string id="st_energy_drink_descr">
+		<text>A menudo utilizado por stalkeres en viajes largos debido a su efecto estimulante cuando estбs cansado. La bebida tambiйn te refresca un poco si estбs borracho e induce la liberaciуn de adrenalina en el torrente sanguнneo. Para evitar una sobredosis, se recomienda no abusar de la bebida.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]bebida \n %c[0,153,255,255] • %c[0,140,140,140 ]estimulante \n %c[0,153,255,255] • %c[0,140,140,140]disminuciуn significativa de somnolencia</text>
+	</string>
+	<string id="st_guitar_descr">
+		<text>La guitarra es un instrumento de cuerda ampliamente utilizado por los acechadores de todas las facciones en toda la Zona para levantar espнritus y fraternizar. Los acechadores a menudo se pueden ver tocando la guitarra en campamentos, puestos avanzados u otros lugares de relativa seguridad, generalmente cerca del fuego.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]artнculo diario</text>
+	</string>
+	<string id="st_guitar_name">
+		<text>Guitarra</text>
+	</string>
+	<string id="st_kolbasa">
+		<text>Paquete de carne vieja</text>
+	</string>
+	<string id="st_kolbasa_descr">
+		<text>Un paquete que contiene una comida de pan viejo y alguna carne maloliente de origen desconocido envuelta en papel marrуn. La apariencia y el olor sugieren que parte de ella estб mohosa.\n \n %c[0,204,0,51] • %c[0,140,140,140]alimento no saludable \n %c[0,204,0,51] • %c[0,140,140,140]baja calidad</text>
+	</string>
+	<string id="st_medkit">
+		<text>Botiquнn de primeros auxilios</text>
+	</string>
+	<string id="st_medkit_descr">
+		<text>Un kit mйdico estбndar de un solo uso. Ъtil para tratar lesiones, heridas, quemaduras quнmicas y tйrmicas y varios tipos de intoxicaciones.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]medicina \n %c[0,204,0, 51] • %c[0,140,140,140]uso lento (kit de campo) \n %c[0,204,0,51] • %c[0,140,140,140]efectos secundarios leves</text>
+	</string>
+	<string id="st_medkit_army">
+		<text>Botiquнn mйdico del ejйrcito</text>
+	</string>
+	<string id="st_medkit_army_descr">
+		<text>Un botiquнn mйdico especializado para proporcionar primeros auxilios para combatir las bajas. El kit incluye coagulantes sanguнneos basadosen menadiona, analgйsicos, antibiуticos e inmunoestimulantes, asн como un kit para eliminar las balas y los fragmentos del cuerpo. Este kit mйdico se emite principalmente para personal del ejйrcito, como unidades de Spetsnaz que se aventuran en las profundidades de la Zona y es popular entre las fuerzas de servicio.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]medicina \n %c[0,204,0,51] • %c[0,140,140,140]uso lento (kit de campo) \n %c[0,204,0,51] • %c[0,140,140,140]efectos secundarios leves</text>
+	</string>
+	<string id="st_medkit_science">
+		<text>Kit mйdico cientнfico</text>
+	</string>
+	<string id="st_medkit_science_descr">
+		<text>Un botiquнn mйdico especializado para proporcionar primeros auxilios para combatir las bajas. El kit incluye coagulantes sanguнneos basadosen menadiona, analgйsicos, antibiуticos e inmunoestimulantes, asн como un kit para eliminar las balas y los fragmentos del cuerpo. Este kit mйdico se emite principalmente para personal del ejйrcito, como unidades de Spetsnaz que se aventuran en las profundidades de la Zona y es popular entre las fuerzas de servicio.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]medicina \n %c[0,153,255,255] • %c[0,140,140,140]uso lento (kit de campo) \n %c[0,153,255,255] • %c[0,140,140,140]elimina toxinas en el cuerpo \n %c[0,153,255,255] • %c[0,140,140,140]no efectos secundarios</text>
+	</string>
+	<string id="st_glucose_s">
+		<text>Dosis de glucosa pequeсa</text>
+	</string>
+	<string id="st_glucose_s_descr">
+		<text>Las tomas de glucosa se usan en casos de hipoglucemia diabйtica grave, pero tambiйn se pueden emplear como estimulantes. La inducciуn instantбnea de carbohidratos implica un rбpido aumento de la energнa, lo que permite al usuario realizar un mayor esfuerzo fнsico y soportar el estrйs.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]estimulante \n %c[0,153,255,255] • %c[0,140,140,140]uso rбpido (jeringa) \n %c[0,153,255,255] • %c[0,140,140,140]disminuciуn leve de somnolencia</text>
+	</string>
+	<string id="st_glucose">
+		<text>Dosis de glucosa grande</text>
+	</string>
+	<string id="st_glucose_descr">
+		<text>Las tomas de glucosa se usan en casos de hipoglucemia diabйtica grave, pero tambiйn se pueden emplear como estimulantes. La inducciуn instantбnea de carbohidratos implica un aumento rбpido de la energнa, lo que permite al usuario realizar un mayor esfuerzo fнsico y soportar el estrйs. Contiene una gran dosis de la droga.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]estimulante \n %c[0,153,255,255] • %c[0,140,140,140]uso rбpido (jeringa ) \n %c[0,153,255,255] • %c[0,140,140,140]disminuciуn moderada de somnolencia</text>
+	</string>
+	<string id="st_stim_impro">
+		<text>Estimulador improvisado</text>
+	</string>
+	<string id="st_stim_impro_descr">
+		<text>Los estimuladores improvisadosson populares entre los principiantes Zoners ya que son fбciles de obtener y econуmicos; aunque sus fuertes efectos secundarios, que afectan a muchos usuarios, no son nada de lo que burlarse. Producido en la Zona a partir de ingredientes comъnmente disponibles, sin el equipo y la purificaciуn adecuados. Inyectado en el muslo.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]medicina \n %c[0,153,255,255] • %c[0,140,140,140]uso rбpido, fбcil (jeringa) \n %c[0,153,255,255] • %c[0,140,140,140]tiempo de recuperaciуn moderada del cuerpo</text>
+	</string>
+	<string id="st_stim_military">
+		<text>Paquete de estнmuladores militares</text>
+	</string>
+	<string id="st_stim_military_descr">
+		<text>Los estimados militares constituyen una parte del equipo de soldado de emisiуn estбndar para las operaciones de campo en la Zona. Fбcilmente disponible en el mercado y se puede adquirir a un precio moderado. Popular entre Zoners experimentados. Son significativamente mбs potentes y de funcionamiento mбs rбpido que sus contrapartes improvisadas, lo que los hace perfectos para usar en situaciones que amenazan la vida.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]medicamento \n %c[0,153,255,255] • %c[0,140,140,140]elemento militar \n %c[0,153,255,255] • %c[0,140,140,140]uso rбpido (jeringa) \n %c[0,153,255,255] • %c[0,140,140,140]tiempo de recuperaciуn corporal rбpida</text>
+	</string>
+	<string id="st_stim_scientic">
+		<text>Estimulante cientнfico</text>
+	</string>
+	<string id="st_stim_scientic_descr">
+		<text>Es producido por el mismo departamento quнmico, que desarrollу el famoso traje SEVA. Este paquete de estimulaciуn es el estabilizador de salud mбs potente disponible en la zona. Los mejores y mбs altos ingredientes de calidad, asн como la fуrmula mejorada, permiten restaurar la salud casi instantбneamente, neutralizar todas las toxinas acumuladas en el cuerpo y reducir la sensaciуn de hambre. No hay efectos secundarios. Es muy caro, por lo tanto, solo algunos pocos stalkeres muy afortunados lo usaron.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]medicina \n %c[0,153,255,255] • %c[0,140,140,140]valor alto \n %c[0,153,255,255] • %c[0,140,140,140]uso rбpido (jeringa) \n %c[0,153,255,255] • %c[0,140,140,140]tiempo de recuperaciуn corporal rбpido \n %c[0,153,255,255] • %c[0,140,140,140]elimina toxinas en el cuerpo \n %c[0,153,255,255] • %c[0,140,140,140]alta mejora de la salud</text>
+	</string>
+	<string id="st_drug_charcoal">
+		<text>Carbуn activado</text>
+	</string>
+	<string id="st_drug_charcoal_descr">
+		<text>Un pequeсo paquete de carbуn activado que puede absorber todo tipo de toxinas, gases, sales y metales pesados. Recomendado para usar despuйs de comer alimentos nocivos, medicamentos fuertes o alcohol.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]medicina \n %c[0,153,255,255] • %c[0,140,140,140 ]elimina toxinas en el cuerpo \n %c[0,153,255,255] • %c[0,140,140,140]mejora de la salud</text>
+	</string>
+	<string id="st_pda_descr">
+		<text>Una vista comъn entre todos los stalkeres. Contiene registros digitales y mapas de zonas, lugares y anomalнas. Si se lo da al operador adecuado, vale una buena cantidad de dinero \n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140 ]нtem tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]bajo consumo de UPD</text>
+	</string>
+	<string id="st_pda_name">
+		<text>PDA</text>
+	</string>
+	<string id="st_vodka">
+		<text>Vodka "Cosacos"</text>
+	</string>
+	<string id="st_vodka_descr">
+		<text>Popular entre todos en la Zona. Cae bien y elimina los efectos de la radiaciуn. No se debe abusar de lo tentador que pueda ser.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]bebida \n %c[0,153,255,255] • %c[0,140,140,140]estimulante \n %c[0,204,0,51] • %c[0,140,140,140]alcohol fuerte \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]mantenimiento de armas (+3%)</text>
+	</string>
+	<string id="st_detector2_descr">
+		<text>Un detector de anomalнas de ъltima generaciуn. Equipado con un localizador de formaciones anormales y pantallas LED para mostrar el camino al artefacto. Aparte de eso, tambiйn puede mostrar la distancia al artefacto. Para iniciar el modo de bъsqueda de artefactos, levante la antena en el lado frontal del dispositivo. Dado que es la ъltima generaciуn, tiene una lista de artefactos un tanto obsoleta.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]consumo de energнa promedio</text>
+	</string>
+	<string id="st_drug_anabiotic_descr">
+		<text>Un fбrmaco experimental desarrollado por el profesor Ozersky para los equipos de investigaciуn cientнfica que trabajan en la zona. En esencia, el medicamento contiene tetrodotoxina, conocida coloquialmente como "polvo zombie", que provoca un cierre completo del sistema nervioso central del cuerpo que puede permitir que las personas sobrevivan las emisiones fuera de la cobertura. El medicamento no se ha sometido a pruebas clнnicas o de campo, lo que pone en duda su eficacia y plantea la posibilidad de posibles efectos secundarios.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]medicamento \n %c[0,204,0,51] • %c[0,140,140,140]causa apagones temporales \n %c[0,204,0,51] • %c[0,140,140,140]aumento promedio de somnolencia \n %c[0,204,0,51 ] • %c[0,140,140,140]efectos secundarios fuertes</text>
+	</string>
+	<string id="st_bolt">
+		<text>Tornillo</text>
+	</string>
+	<string id="st_drug_booster_descr">
+		<text>El componente principal de este producto es un andrуgeno anabуlico, un esteroide artificial, cuya composiciуn quнmica se parece a la testosterona. A menudo utilizado por stalkeres durante redadas largas para reducir la fatiga muscular. Aumenta significativamente la capacidad de carga de peso. Los efectos del medicamento son duraderos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]bebida \n %c[0,153,255,255] • %c[0,140,140,140]estimulante \n %c[0,153,255,255] • %c[0,140,140,140]disminuciуn leve de somnolencia</text>
+	</string>
+	<string id="st_drug_radioprotector_descr">
+		<text>Radioprotector Indraline B190, incluido en los botiquines emitidos al personal de la planta de energнa nuclear. Usado en la zona en lugar del clorhidrato de cisteamina PC1 excesivamente tуxico, cuyo uso repetido a menudo causaba la muerte. Reduce los efectos de la radiaciуn gamma en el tejido vivo. Se consume mejor antes de la exposiciуn, ya que los efectos no son instantбneos, pero el medicamento dura mucho tiempo. Tome una cбpsula a la vez.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]medicamento \n %c[0,204,0,51] • %c[0,140,140,140]ligero efectos secundarios</text>
+	</string>
+	<string id="st_harmonica_name">
+		<text>Harmуnica</text>
+	</string>
+	<string id="st_harmonica_descr">
+		<text>Para los amantes del blues y del romance carcelario.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]artнculo de uso diario</text>
+	</string>
+
+	<string id="st_itm_deployable_mgun_name">
+		<text>RP-74 "Escorpiуn"</text>
+	</string>
+	<string id="st_itm_deployable_mgun_desc">
+		<text>Este sistema de ametralladoras es un dispositivo portбtil con un complejo sistema de entrega en dos etapas de cartuchos directamente desde la mochila al arma con el uso de una funda flexible. A pesar de su peso y baja precisiуn, esta arma encontrу a sus admiradores en la Zona. Se usa principalmente para combatir a las fuerzas enemigas superiores en guerras de facciones y guaridas mutantes de limpieza.</text>
+	</string>
+
+	<string id="st_memory_stick_name">
+		<text>Tarjeta de memoria</text>
+	</string>
+	<string id="st_kerosinka_descr">
+		<text>Una lбmpara de queroseno. No es muy prбctico viajar debido a su gran tamaсo. No obstante, sirve como una buena fuente de luz en un campamento.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[ 0,140,140,140]no requiere sazonar</text>
+	</string>
+	<string id="st_batteries">
+		<text>Paquete de baterнas</text>
+	</string>
+	<string id="st_batteries_descr">
+		<text>Un conjunto de baterнas ya usadas, diseсadas para linternas y PDA entre otros dispositivos electrуnicos, no olvide reemplazarlas constantemente.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]нtem tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140] •?????? +52%</text>
+	</string>
+	<string id="st_tea">
+		<text>Tй de Beard</text>
+	</string>
+	<string id="st_tea_descr">
+		<text>El popular tй caliente de Beard estб hecho de una mezcla de azъcar, setas comestibles secas y agua hervida que se dice que no contiene radiaciуn. Los stalkeres que pueden permitirse comprar la bebida a menudo la toman para viajes largos en la zona. Es una forma buena y saludable de mantenerse alerta cuando se estб cansando o cuando estб explorando en las noches frнas.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[ 0,140,140,140]bebida \n %c[0,153,255,255] • %c[0,140,140,140]estimulante \n %c[0,153,255,255] • %c[0,140,140,140]efecto alcohol potente amedrentador \n %c[0,153,255,255] • %c[0,140,140,140]disminuciуn moderada de somnolencia</text>
+	</string>
+	<string id="st_textile_patch_b">
+		<text>Hoja de tela ligera</text>
+	</string>
+	<string id="st_textile_patch_b_descr">
+		<text>Hoja de tela simple, comъnmente utilizada tanto para parchar la ropa como para esparcir aceites y solventes de limpieza sobre los mecanismos de las armas de fuego. Se puede aplicar con cualquier aguja o pegamento.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento diario \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciуn de equipo, mantenimiento de arma (+3%)</text>
+	</string>
+	<string id="st_textile_patch_m">
+		<text>Hoja de lona</text>
+	</string>
+	<string id="st_textile_patch_m_descr">
+		<text>Hoja de textil de grado militar que se puede usar para reparaciones de ropa y armadura ligera en el campo. Valorado por su precio relativamente bajo y su gran versatilidad, este material es comъnmente utilizado por los Zoners. Se requiere equipo de costura de grado medio y pegamento avanzado para su uso. Tambiйn se puede usar para mejorar la dispersiуn de lнquidos durante el mantenimiento del arma.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento militar \n %c[255,238,153,26] •  %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciуn de equipo, mantenimiento de arma (+4%)</text>
+	</string>
+	<string id="st_textile_patch_e">
+		<text>Sбbana de lona reforzada</text>
+	</string>
+	<string id="st_textile_patch_e_descr">
+		<text>Parche textil grueso reforzado con relleno de kevlar. Se puede usar para reparar armaduras medianas y pesadas. Lo suficientemente grande como para cubrir mъltiples бreas daсadas. Se requieren kits de costura de alta calidad y adhesivos para hacer uso de йl. Su uso alternativo es la lubricaciуn y limpieza de armas: debido a la mayor dureza puede alcanzar incluso бreas menos accesibles de las piezas de armas de fuego.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento militar \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciуn de equipo, mantenimiento de arma (+6%)</text>
+	</string>
+	<string id="st_steel_wool">
+		<text>Estropajo de acero</text>
+	</string>
+	<string id="st_steel_wool_descr">
+		<text>La lana de acero, tambiйn conocida como lana de alambre o esponja de alambre, es un haz de hebras de filamentos de acero blando muy finos. Se utiliza como abrasivo en trabajos de acabado y reparaciуn para pulir objetos de madera o metal, limpiar utensilios de cocina para el hogar y lijar en pintura ligera. La lana de acero estб hecha de acero bajo en carbono (el contenido de carbono es lo suficientemente bajo como para estar cerca del hierro normal). No se hace dibujando un "alambre de lana de acero" a travйs de un troquel cуnico, sino mбs bien mediante un proceso mбs parecido al de un alambre de acero pesado que se saca a travйs de una matriz dentada que quita un fino hilo de afeitar. Los lotes de lana de acero se pueden usar en la limpieza de equipos de precisiуn y para mejorar la dispersiуn de lubricantes y solventes de limpieza.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]mantenimiento de armas (+6%)</text>
+	</string>
+	<string id="st_grease">
+		<text>Grasa industrial</text>
+	</string>
+	<string id="st_grease_descr">
+		<text>La grasa es un lubricante semisуlido. Por lo general, consiste en un jabуn emulsionado con aceite mineral o vegetal. Las grasas se aplican a mecanismos que no se pueden lubricar constantemente o donde el aceite lubricante tнpico no se mantendrб en su posiciуn. Tambiйn actъan como selladores para evitar la entrada de agua y materiales incompresibles. Los rodamientos lubricados con grasa tienen mayores caracterнsticas de fricciуn debido a su alta viscosidad.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]producto de alta calidad \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]mantenimiento de armas (+6%)</text>
+	</string>
+	<string id="st_sharpening_stones">
+		<text>Kit de afilado de cuchillos "3:1"</text>
+	</string>
+	<string id="st_sharpening_stones_descr">
+		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[255,238,153,26] • %c[0,140,140,140]fabricado para cuchillos \n \n %c[0,170,170,170]Si tiene un cuchillo o hoja romo, no los dejen asн, este conjunto universal ayudarб a arreglar las cosas. Tiene tres componentes: una barra rectificadora, una herramienta para afilar y una herramienta para limpiar la cuchilla mбs adelante.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]toolkit \n %c[0,153,255,255] • %c[0,140,140,140]producto de alta calidad \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para reparar equipos \n %c[255,238,153,26] • %c[0,140,140,140]no utilizable por debajo del nivel de condiciуn: %c[0,170,170,170]10% \n %c[255,238,153,26] • %c[0,140,140,140]ganancia por condiciуn base: %c[0,170,170,170]20% \n \n %c[0,140,140,140]MATERIALES DE APOYO: \n %c[255,238,153,26] • %c[0,140,140,140]lana de acero %c[0,170,170,170]+5% \n %c[255,238,153,26] • %c[ 0,140,140,140]solventes de limpieza %c[0,170,170,170]+3-7% \n \n</text>
+	</string>
+	<string id="st_cleaning_kit_p">
+		<text>Kit de limpieza "Progreso"</text>
+	</string>
+	<string id="st_cleaning_kit_p_descr">
+		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[255,238,153,26] • %c[0,140,140,140]adecuado para armamento de calibre 5,7 mm, 7,85 mm, 9 mm, .45 y .357 \n \n %c[0,170,170,170]Un conjunto de pinceles hechos para limpiar armamento. Se utiliza en toda la Zona por cualquier stalker, se puede utilizar con herramientas de uso general para una limpieza mбs desvinculada o se puede utilizar con soluciones de limpieza para una eliminaciуn de grasa mбs efectiva. Este kit es adecuado para la mayorнa de las armas encontradas en la zona.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[255,238,153,26] • %c[0,140,140,140]destinado a %c[0,170,170,170]% de limpieza c [0,140,140,140]armas \n %c[255,238,153,26] • %c[0,140,140,140]no utilizable por debajo del nivel de condiciуn: %c[0,170,170,170]75% \n %c[ 255,238,153,26] • %c[0,140,140,140]ganancia por condiciуn base: %c[0,170,170,170]5% \n \n %c[0,140,140,140]MATERIALES DE APOYO: \n %c[255,238,153,26] • %c[0,140,140,140]aceites de pistola  %c[0,170,170,170]+2-6% \n %c[255,238,153,26] • %c[0,140,140,140]herramientas livianas %c[0,170,170,170]+2-5% \n %c[255,238,153,26] • %c[ 0,140,140,140]solventes de limpieza %c[0,170,170,170]+2-6% \n %c[255,238,153,26] • %c[0,140,140,140]grasa industrial %c[0,170,170,170]+5% \n %c[255,238,153,26] • %c[0,140,140,140]lana de acero %c[0,170,170,170]+5% \n %c[255,238,153,26] • %c[0,140,140,140]alcohol %c[0,170,170,170]+2-4% \n %c[255,238,153,26] •  %c[0,140,140,140]animal % de grasa c [0,170,170,170]+1-4% \n %c[255,238,153,26] • %c[0,140,140,140]agua limpia %c[0,170,170,170]+1%</text>
+	</string>
+	<string id="st_cleaning_kit_s">
+		<text>Kit de limpieza "Aurora A108 / 12"</text>
+	</string>
+	<string id="st_cleaning_kit_s_descr">
+		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[255,238,153,26] • %c[0,140,140,140]adecuado para calibres de calibre 12 \n \n %c[0,170,170,170]Un conjunto especial de cepillos para limpiar armamento. Este conjunto es adecuado para armas de calibre doce. Se puede usar con herramientas de uso general para una limpieza mбs desvinculada o se puede usar con soluciones de limpieza para una eliminaciуn de grasa mбs efectiva.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[255,238,153,26] • %c[0,140,140,140]destinado a %c[0,170,170,170]% de limpieza c [0,140,140,140]armas \n %c[255,238,153,26] • %c[0,140,140,140]no utilizable bajo condiciуn nivel: %c[0,170,170,170]75% \n %c[255,238,153,26] • %c[0,140,140,140]ganancia de condiciуn de base: %c[0,170,170,170]5% \n \n %c[0,140,140,140]MATERIALES DE APOYO: \n %c[255,238,153,26] • %c[0,140,140,140]aceites de pistola %c[0,170,170,170]+2-6% \n %c[255,238,153,26] • %c[0,140,140,140]herramientas livianas %c[0,170,170,170]+2-5 % \n %c[255,238,153,26] • %c[0,140,140,140]disolventes de limpieza %c[0,170,170,170]+2-6% \n %c[255,238,153,26] • %c[0,140,140,140]grasa industrial %c[0,170,170,170]+5% \n %c[255,238,153,26] • %c[0,140,140,140]lana de acero %c[0,170,170,170]+5% \n %c[255,238,153,26] • %c[0,14 0,140,140]alcohol %c[0,170,170,170]+2-4% \n %c[255,238,153,26] • %c[0,140,140,140]grasa animal %c[0,170,170,170]+1-4% \n %c[255,238,153,26] •  %c[0,140,140,140]agua limpia %c[0,170,170,170]+1%</text>
+	</string>
+	<string id="st_cleaning_kit_r">
+		<text>Kit de limpieza de rifle</text>
+	</string>
+	<string id="st_cleaning_kit_r_descr">
+		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[255,238,153,26] • %c[0,140,140,140]adecuado para calibres de arma 5.45, 5.56, 7.62, 7.92, .338, 12.7 y 9x39 \n \n %c[0,170,170,170]Un conjunto especial de cepillos para limpiar armamento. Se puede usar con herramientas de uso general para una limpieza mбs desvinculada o se puede usar con soluciones de limpieza para una eliminaciуn de grasa mбs efectiva. Este kit es adecuado para armas de calibre largo y medio.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[255,238,153,26] • %c[ 0,140,140,140]destinado a %c[0,170,170,170]% de limpieza c [0,140,140,140]armas \n %c[255,238,153,26] • %c[0,140,140,140]no utilizable por debajo del nivel de condiciуn: %c[0,170,170,170]75% \n %c[255,238,153, 26] • %c[0,140,140,140]ganancia de condiciуn base: %c[0,170,170,170]5% \n \n %c[0,140,140,140]MATERIALES DE APOYO: \n %c[255,238,153,26] • %c[0,140,140,140]aceites de pistola %c[0,170,170,170]+2-6% \n %c[255,238,153,26] • %c[0,140,140,140]herramientas livianas %c[0,170,170,170]+2-5% \n %c[255,238,153,26] • %c[0,140,140,140 ]disolventes de limpieza %c[0,170,170,170]+2-6% \n %c[255,238,153,26] • %c[0,140,140,140]grasa industrial %c[0,170,170,170]+5% \n %c[255,238,153,26] • %c[0,140,140,140]lana de acero %c[0,170,170,170]+5% \n %c[255,238,153,26] • %c[0,140,140,140]alcohol %c[0,170,170,170]+2-4% \n %c[255,238,153,26] • %c[0,140,140,140]a % grasa %c[0,170,170,170]+1-4% \n %c[255,238,153,26] • %c[0,140,140,140]agua limpia %c[0,170,170,170]+1%</text>
+	</string>
+
+	<string id="st_toolkit_p">
+		<text>Kit de herramientas de pistola</text>
+	</string>
+	<string id="st_toolkit_p_descr">
+		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[255,238,153,26] • %c[0,140,140,140]adecuado para 5,7 mm, 7,85 mm, 9 mm, 45 y calibre de calibre 355 \n \n %c[0,170,170,170]Este kit contiene herramientas para el desmontaje y el montaje de armamento. Ideal para eliminar fallas bбsicas pero no puede hacer mucho por partes completamente destruidas. Este kit solo se puede usar con pistolas, pero se puede combinar con otros materiales o kits adicionales.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]valioso \n %c[255,238,153,26] • %c[0,140,140,140]destinado a %c[0,170,170,170]manteniendo %c[0,140,140,140]armas \n %c[255,238,153,26] •  %c[0,140,140,140]no utilizable por debajo del nivel de condiciуn: %c[0,170,170,170]50% \n %c[255,238,153,26] • %c[0,140,140,140]ganancia condiciуn condiciуn: %c[0,170,170,170]15% \n</text>
+	</string>
+	<string id="st_toolkit_p_empty">
+		<text>Juego de herramientas de pistola (vacнo)</text>
+	</string>
+	<string id="st_toolkit_p_empty_descr">
+		<text>Una caja de metal vacнa que solнa tener herramientas para desmontar armas de calibre 9 mm, .45 y .357. Aunque estб vacнo, pero puede ser ъtil al reparar partes metбlicas de los equipos. No especialmente en demanda, por lo que no tiene ningъn valor real.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,140,140,140]reparaciones de equipamiento (+4%)</text>
+	</string>
+	<string id="st_toolkit_s">
+		<text>Juego de herramientas de escopeta</text>
+	</string>
+	<string id="st_toolkit_s_descr">
+		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[255,238,153,26] • %c[0,140,140,140 adecuado para calibres de calibre 12 \n \n %c[0,170,170,170]Este kit contiene herramientas para el desmontaje y reensamblaje de armamento. Ideal para eliminar fallas bбsicas pero no puede hacer mucho por partes completamente destruidas. Este kit solo se puede usar con escopetas de calibre 12. Tambiйn se puede combinar con otros materiales y kits adicionales.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140 ]valioso \n %c[255,238,153,26] • %c[0,140,140,140]destinado a %c[0,170,170,170]manteniendo %c[0,140,140,140]armas \n %c[255,238,153,26] • %c[0,140,140,140]no utilizable bajo condiciуn nivel: %c[0,170,170,170]50% \n %c[255,238,153,26] • %c[0,140,140,140]ganancia de condiciуn base: %c[0,170,170,170]15% \n</text>
+	</string>
+	<string id="st_toolkit_s_empty">
+		<text>Juego de herramientas de escopeta (vacнo)</text>
+	</string>
+	<string id="st_toolkit_s_empty_descr">
+		<text>Una caja de metal vacнa que solнa tener herramientas para desmontar armas calibre 12 calibre. Aunque estб vacнo, pero puede ser ъtil al reparar partes metбlicas de los equipos. No especialmente en demanda, por lo que no tiene ningъn valor real.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,140,140,140]reparaciones de equipamiento (+4%)</text>
+	</string>
+	<string id="st_toolkit_r">
+		<text>Juego de herramientas para rifle</text>
+	</string>
+	<string id="st_toolkit_r_descr">
+		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[255,238,153,26] • %c[0,140,140,140]adecuado para calibres de arma 5.45, 5.56, 7.62, 7.92, .338, 12.7 y 9x39 \n \n %c[0,170,170,170]Este kit contiene herramientas para el desmontaje y el montaje de armamento. Ideal para eliminar fallas bбsicas pero no puede hacer mucho por partes completamente destruidas. Este kit solo se puede usar con escopetas de calibre 12. Tambiйn se puede combinar con otros materiales y kits adicionales.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140 ]valioso \n %c[255,238,153,26] • %c[0,140,140,140]destinado a %c[0,170,170,170]manteniendo %c[0,140,140,140]armas \n %c[255,238,153,26] • %c[0,140,140,140]no utilizable bajo condiciуn nivel: %c[0,170,170,170]50% \n %c[255,238,153,26] • %c[0,140,140,140]ganancia de condiciуn base: %c[0,170,170,170]15% \n</text>
+	</string>
+	<string id="st_toolkit_r_empty">
+		<text>Juego de herramientas para rifle (vacнo)</text>
+	</string>
+	<string id="st_toolkit_r_empty_descr">
+		<text>Una caja de metal vacнa que solнa tener herramientas para desensamblar rifles de cualquier calibre. Aunque estб vacнo, pero puede ser ъtil al reparar partes metбlicas de los equipos. No especialmente en demanda, por lo que no tiene ningъn valor real.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,140,140,140]reparaciones de equipamiento (+4%)</text>
+	</string>
+
+	<string id="st_repair_kit_p">
+		<text>Kit de reparaciуn de pistola</text>
+	</string>
+	<string id="st_repair_kit_p_descr">
+		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[255,238,153,26] • %c[0,140,140,140]adecuado para calibres de arma de 5,7 mm, 7,85 mm, 9 mm, .45 y .357 \n \n %c[0,170,170,170]Este kit contiene herramientas y repuestos para desarmar armas y reemplazar varias partes de sus mecanismos. Todo lo que es necesario para la reparaciуn de armas estб aquн. Es bastante pesado, pero se requiere para viajes largos alrededor de la Zona. Este kit solo se puede utilizar para la reparaciуn de pistolas, pero tambiйn se puede combinar con materiales o kits adicionales.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]valioso \n %c[255,238,153,26] • %c[0,140,140,140]destinado a %c[0,170,170,170]reparaciуn %c[0,140,140,140]armas \n %c[255,238,153, 26] • %c[0,140,140,140]no utilizable por debajo del nivel de condiciуn: %c[0,170,170,170]10% \n %c[255,238,153,26] • %c[0,140,140,140]ganancia de condiciуn base: %c[0,170,170,170]25% \n</text>
+	</string>
+	<string id="st_repair_kit_p_empty">
+		<text>Kit de reparaciуn de pistola (vacнo)</text>
+	</string>
+	<string id="st_repair_kit_p_empty_descr">
+		<text>Una caja de metal vacнa que solнa tener herramientas para desmontar calibres de arma de 9 mm, .45 y .357. Aunque estб vacнo, pero puede ser ъtil al reparar partes metбlicas de los equipos. No especialmente en demanda, por lo que no tiene ningъn valor real.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,140,140,140]reparaciones de equipamiento (+4%)</text>
+	</string>
+	<string id="st_repair_kit_s">
+		<text>Kit de reparaciуn de escopeta</text>
+	</string>
+	<string id="st_repair_kit_s_descr">
+		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[255,238,153,26] • %c[0,140,140,140]adecuado para calibres de calibre 12 \n \n %c[0,170,170,170]Este kit contiene herramientas y repuestos para desmontar armas y reemplazar varias partes de sus mecanismos. Todo lo que es necesario para la reparaciуn de armas estб aquн. Es bastante pesado, pero se requiere para viajes largos alrededor de la Zona. Este kit solo se puede utilizar para la reparaciуn de escopetas de calibre 12, pero tambiйn se puede combinar con materiales o kits adicionales.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]valioso \n %c[255,238,153,26] • %c[0,140,140,140]destinado a %c[0,170,170,170]reparaciуn %c[0,140,140,140]armas \n %c[ 255,238,153,26] • %c[0,140,140,140]no utilizable por debajo del nivel de condiciуn: %c[0,170,170,170]10% \n %c[255,238,153,26] • %c[0,140,140,140]ganancia por condiciуn base: %c[0,170,170,170]25% \norte</text>
+	</string>
+	<string id="st_repair_kit_s_empty">
+		<text>Kit de reparaciуn de escopeta (vacнo)</text>
+	</string>
+	<string id="st_repair_kit_s_empty_descr">
+		<text>Una caja de metal vacнa que solнa tener herramientas para desmontar calibres de escopeta calibre 12. Aunque estб vacнo, pero puede ser ъtil al reparar partes metбlicas de los equipos. No particularmente en demanda, por lo que no tiene ningъn valor real.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,140,140,140]reparaciones de equipamiento (+4%)</text>
+	</string>
+	<string id="st_repair_kit_r">
+		<text>Kit de reparaciуn de rifle</text>
+	</string>
+	<string id="st_repair_kit_r_descr">
+		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[255,238,153,26] • %c[0,140,140,140]adecuado para calibres de arma 5.45, 5.56, 7.62, 7.92, .338, 12.7 y 9x39 \n \n %c[0,170,170,170]Este kit contiene herramientas para el desmontaje y el montaje de armamento. Ideal para eliminar fallas bбsicas pero no puede hacer mucho por partes completamente destruidas. Este kit solo se puede usar para rifles de cualquier calibre. Tambiйn se puede combinar con otros materiales y kits adicionales.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[ 0,140,140,140]valioso \n %c[255,238,153,26] • %c[0,140,140,140]destinado a %c[0,170,170,170]reparaciуn %c[0,140,140,140]armas \n %c[255,238,153,26] • %c[0,140,140,140]no utilizable a continuaciуn nivel de condiciуn: %c[0,170,170,170]10% \n %c[255,238,153,26] • %c[0,140,140,140]ganancia de condiciуn base: %c[0,170,170,170]25% \n</text>
+	</string>
+	<string id="st_repair_kit_r_empty">
+		<text>Kit de reparaciуn de rifle (vacнo)</text>
+	</string>
+	<string id="st_repair_kit_r_empty_descr">
+		<text>Una caja de metal vacнa que solнa tener herramientas para desmontar todos los calibres de arma de fusil. Aunque estб vacнo, pero puede ser ъtil al reparar partes metбlicas de los equipos. No particularmente en demanda, por lo que no tiene ningъn valor real.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,140,140,140]reparaciones de equipamiento (+4%)</text>
+	</string>
+
+	<string id="st_sewing_kit_b">
+		<text>Kit de costura simple</text>
+	</string>
+	<string id="st_sewing_kit_b_descr">
+		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[255,238,153,26] • %c[0,140,140,140]cualquier equipo y cascos ligeros \n \n %c[0,170,170,170]Un kit de costura simple que consiste en un hilo, varias agujas de acero y tijeras. Utilizado para coser agujeros de balas o parches rasgados simples en el equipo, las agujas y el hilo son de mala calidad por lo que el kit no se puede usar muchas veces.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]нtem tecnolуgico \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para reparar equipos \n %c[255,238,153,26] • %c[0,140,140,140]no utilizable por debajo del nivel de condiciуn: %c[0,170,170,170 ]85% \n %c[255,238,153,26] • %c[0,140,140,140]ganancia de condiciуn de base: %c[0,170,170,170]6% \n \n %c[0,140,140,140]MATERIALES DE APOYO: \n %c[255,238,153,26] • %c[0,140,140,140]kits de reparaciуn de equipo %c[0,170,170,170]+6-18% \n %c[255,238,153,26] • %c[0,140,140,140]kits de costura adicionales %c[0,170,170,170]+3-9% \n %c[255,238,153,26] • %c[0,140,140,140]adhesivos %c[0,170,170,170]+2-6% \n %c[255,238,153,26] • %c[0,140,140,140]textil reforzado %c[0,170,170,170]+5-6% \n %c[255,238,153,26] • %c[0,140,140,140]textil %c[0,170,170,170]+3-4% \n %c[255,238,153,26] • %c[0,140,140,140 ]paсo %c[0,170,170,170]+2-3% \n %c[255,238,153,26] • %c[0,140,140,140]pieles mutantes (medio) %c[0,170,170,170]+3-6%</text>
+	</string>
+	<string id="st_sewing_kit_a">
+		<text>Kit de costura universal</text>
+	</string>
+	<string id="st_sewing_kit_a_descr">
+		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[255,238,153,26] • %c[0,140,140,140]todos los equipos y cascos ligeros \n \n %c[0,170,170,170]Un kit de costura mejorado que consiste en un mayor hilo de calidad, varias agujas de acero y tijeras. Usado para trabajar con materiales gruesos y duros, incluyendo pieles de mutantes y tejidos complejos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[255,238,153, 26] • %c[0,140,140,140]utilizable para reparar equipos \n %c[255,238,153,26] • %c[0,140,140,140]no utilizable por debajo del nivel de condiciуn: %c[0,170,170,170]70% \n %c[255,238,153,26] •  %c[0,140,140,140]ganancia de condiciуn bбsica: %c[0,170,170,170]9% \n \n %c[0,140,140,140]MATERIALES DE APOYO: \n %c[255,238,153,26] • %c[0,140,140,140]kits de reparaciуn de equipo %c[0,170,170,170 ]+6-18% \n %c[255,238,153,26] • %c[0,140,140,140]kits de costura adicionales %c[0,170,170,170]+3-9% \n %c[255,238,153,26] • %c[0,140,140,140]adhesivos  %c[0,170,170,170]+2-6% \n %c[255,238,153,26] • %c[0,140,140,140]textil reforzado %c[0,170,170,170]+5-6% \n %c[255,238,153,26] • %c[ 0,140,140,140]textil %c[0,170,170,170]+3-4% \n %c[255,238,153,26] • %c[0,140,140,140]tela %c[0,170,170,170]+2-3% \n %c[255,238,153,26] • %c[0,140,140,140]trajes adicionales y conjuntos de casco (ligero) %c[0,170,170,170]+11-32 \n %c[255,238,153,26] • %c[0,140,140,140]pieles mutantes (medio) %c[0,170,170,170]+3-9 %</text>
+	</string>
+	<string id="st_sewing_kit_h">
+		<text>Kit de costura avanzado</text>
+	</string>
+	<string id="st_sewing_kit_h_descr">
+		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[255,238,153,26] • %c[0,140,140,140]todos los equipos y cascos ligeros \n \n %c[0,170,170,170]Un kit de costura militar avanzado, su diseсo para trabajar con chalecos antibalas y placas protectoras de la mбs alta calidad, por lo que contiene una gran cantidad de agujas, hilos y tijeras de alta calidad. Tambiйn es capaz de coser pieles mutantes pesadas. Este es el kit de costura de mejor calidad dentro de la Zona.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]valor alto \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para reparar equipos \n %c[255,238,153,26] • %c[0,140,140,140]no utilizable por debajo del nivel de condiciуn: %c[0,170,170,170]55% \n %c[255,238,153,26] • %c[0,140,140,140]ganancia de condiciуn de base: %c[0,170,170,170]12% \n \n %c[0,140,140,140]MATERIALES DE APOYO: \n %c[255,238,153,26] • %c[ 0,140,140,140]equipos de reparaciуn de equipos %c[0,170,170,170]+6-18% \n %c[255,238,153,26] • %c[0,140,140,140]kits de costura adicionales %c[0,170,170,170]+3-9% \n %c[255,238,153, 26] • %c[0,140,140,140]adhesivos %c[0,170,170,170]+2-6% \n %c[255,238,153,26] • %c[0,140,140,140]textil reforzado %c[0,170,170,170]+5-6% \n %c[255,238,153,26] • %c[0,140,140,140]textil %c[0,170,170,170]+3-4% \n %c[255,238,153,26] • %c[0,140,140,140]tela %c[0,170,170,170]+2-3% \n %c[255,238,15 3,26] • %c[0,140,140,140]conjuntos adicionales de equipo y casco (ligero) %c[0,170,170,170]+11-32 \n %c[255,238,153,26] • %c[0,140,140,140]pieles mutantes (pesado) %c[ 0,170,170,170]+3-14%</text>
+	</string>
+	<string id="st_glue_b">
+		<text>Tubo de pegamento "Moment"</text>
+	</string>
+	<string id="st_glue_b_descr">
+		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[255,238,153,26] • %c[0,140,140,140]todos los equipos y cascos ligeros \n \n %c[0,170,170,170]El pegamento sintйtico mбs econуmico de la zona. Es ъtil para reparar pequeсos agujeros dentro del equipo, pero es impotente contra un daсo significativamente mayor. Es popular entre los stalkeres por su precio barato. Se recomienda su uso con otros materiales y tambiйn puede acelerar el proceso de costura.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[255,238,153, 26] • %c[0,140,140,140]utilizable para reparar equipos \n %c[255,238,153,26] • %c[0,140,140,140]no utilizable por debajo del nivel de condiciуn: %c[0,170,170,170]90% \n %c[255,238,153,26] •  %c[0,140,140,140]ganancia de condiciуn base: %c[0,170,170,170]2% \n \n %c[0,140,140,140]MATERIALES DE APOYO: \n %c[255,238,153,26] • %c[0,140,140,140]equipos de reparaciуn de equipo %c[0,170,170,170 ]+6-18% \n %c[255,238,153,26] • %c[0,140,140,140]kits de costura %c[0,170,170,170]+3-9% \n %c[255,238,153,26] • %c[0,140,140,140]adhesivos adicionales  %c[0,170,170,170]+2-6% \n %c[255,238,153,26] • %c[0,140,140,140]textil reforzado (hojas) %c[0,170,170,170]+5-6% \n %c[255,238,153,26] •  %c[0,140,140,140]textil (hojas) %c[0,170,170,170]+3-4% \n %c[255,238,153,26] • %c[0,140,140,140]tela (hojas) %c[0,170,170,170]+2-3 %</text>
+	</string>
+	<string id="st_glue_a">
+		<text>Tubo de pegamento "Tur"</text>
+	</string>
+	<string id="st_glue_a_descr">
+		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[255,238,153,26] • %c[0,140,140,140]todos los equipos y cascos ligeros \n \n %c[0,170,170,170]Pegamento avanzado, uno de los mejores en la zona. Los stalkeres lo eligen por su facilidad de uso y versatilidad, especialmente cuando no hay otros materiales a mano. Este pegamento une fбcilmente tejidos livianos y materiales protectores como Kevlar, pero es inъtil cuando intenta unir metales.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para reparar equipos \n %c[255,238,153,26] • %c[0,140,140,140]no utilizable por debajo del nivel de condiciуn: %c[0,170,170,170]75% \n %c[255,238,153], 26] • %c[0,140,140,140]ganancia de condiciуn base: %c[0,170,170,170]4% \n \n %c[0,140,140,140]MATERIALES DE APOYO: \n %c[255,238,153,26] • %c[0,140,140,140]kits de reparaciуn de equipo  %c[0,170,170,170]+6-18% \n %c[255,238,153,26] • %c[0,140,140,140]kits de costura %c[0,170,170,170]+3-9% \n %c[255,238,153,26] • %c[ 0,140,140,140]adhesivos adicionales %c[0,170,170,170]+2-6% \n %c[255,238,153,26] • %c[0,140,140,140]textil reforzado (hojas) %c[0,170,170,170]+5-6% \n %c[255,238,153], 26] • %c[0,140,140,140]textil (hojas) %c[0,170,170,170]+3-4% \n %c[255,238,153,26] • %c[0,140,140,140]tela (s) heets) %c[0,170,170,170]+2-3% \n %c[255,238,153,26] • %c[0,140,140,140]placas de kevlar %c[0,170,170,170]+12%</text>
+	</string>
+	<string id="st_glue_e">
+		<text>Tubo de pegamento "M17"</text>
+	</string>
+	<string id="st_glue_e_descr">
+		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[255,238,153,26] • %c[0,140,140,140]todos los equipos y cascos \n \n %c[0,170,170,170]El M17 es un pegamento de nivel militar soviйtico, es un adhesivo extremadamente poderoso que puede usarse en cualquier situaciуn y cualquier material. Prбcticamente no existe tal daсo que este producto no pueda manejar.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140 ]valor alto \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para reparar equipos \n %c[255,238,153,26] • %c[0,140,140,140]no utilizable por debajo del nivel de condiciуn: %c[0,170,170,170]60% \n %c[255,238,153,26] • %c[0,140,140,140]ganancia de condiciуn de base: %c[0,170,170,170]6% \n \n %c[0,140,140,140]MATERIALES DE APOYO: \n %c[255,238,153,26] • %c[0,140,140,140]kits de reparaciуn de equipo %c[0,170,170,170]+6-18% \n %c[255,238,153,26] • %c[0,140,140,140]kits de costura %c[0,170,170,170]+3-9% \n %c[255,238,153, 26] • %c[0,140,140,140]adhesivos adicionales %c[0,170,170,170]+2-6% \n %c[255,238,153,26] • %c[0,140,140,140]textil reforzado (hojas) %c[0,170,170,170]+5-6% \n %c[255,238,153,26] • %c[0,140,140,140]textil (hojas) %c[0,170,170,170]+3-4% \n %c[255,238,153,26] • %c[0,140,140,140]tela (hojas ) %c[0,170,170,170]+2-3% \n %c[255,238,153,26] • %c[0,140,140,140]placas de kevlar %c[0,170,170,170]+12% \n %c[255,238,153,26] • %c[0,140,140,140 ]placas de acero %c[0,170,170,170]+18%</text>
+	</string>
+	<string id="st_armor_repair_fa">
+		<text>Kit de reparaciуn de armadura de emergencia</text>
+	</string>
+	<string id="st_armor_repair_fa_descr">
+		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[255,238,153,26] • %c[0,140,140,140]todo tipo de equipos y cascos ligeros \n \n %c[0,170,170,170]Este kit de reparaciуn de emergencia permitirб para realizar reparaciones urgentes en el campo, incluye cinta adhesiva y hojas de tela listas para usar como lona encerada en varias formas y tamaсos. Debido a la baja calidad de los materiales, este kit solo puede usarse para reparaciones menores y es inъtil cuando se aplica a armaduras pesadas.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140 ]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]uso rбpido (cinta adhesiva) \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para reparar equipos \n %c[255,238,153,26] • %c[0,140,140,140]no utilizable por debajo del nivel de condiciуn: %c[0,170,170,170]85% \n %c[255,238,153,26] • %c[0,140,140,140]ganancia por condiciуn base: %c[0,170,170,170]6% \n \n %c[0,140,140,140]MATERIALES APOYADOS: \n %c[255,238,153,26] • %c[0,140,140,140]kits de reparaciуn adicionales %c[0,170,170,170]+6-18% \n %c[255,238,153,26] • %c[0,140,140,140]kits de costura %c[0,170,170,170]+3-9% \n %c[255,238,153,26] • %c[0,140,140,140]adhesivos %c[0,170,170,170]+2-6% \n %c[255,238,153,26] • %c[0,140,140,140]textil reforzado (hojas) %c[0,170,170,170]+5-6% \n %c[255,238,153,26] • %c[0,140,140,140]textil (hojas) %c[0,170, 170,170]+3-4% \n %c[255,238,153,26] • %c[0,140,140,140]tela (sбbanas) %c[0,170,170,170]+2-3%</text>
+	</string>
+	<string id="st_armor_repair_pro">
+		<text>Kit de reparaciуn de armadura de campo</text>
+	</string>
+	<string id="st_armor_repair_pro_descr">
+		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[255,238,153,26] • %c[0,140,140,140]todos los equipos y cascos \n \n %c[0,170,170,170]Esta es la versiуn de campo del kit universal para reparaciуn de equipos, su peso y aplicaciуn son perfectos para todo tipo de viajes. Consiste en algunas herramientas y materiales de grado militar para llevar a cabo el mantenimiento de la mayorнa de los trajes y cascos modernos. Herramientas y materiales adicionales como la piel mutante pueden mejorar la reparaciуn de los equipos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]valor alto \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para reparar equipos \n %c[255,238,153,26] • %c[0,140,140,140]no utilizable por debajo del nivel de condiciуn: %c[0,170,170,170]40% \n %c[255,238,153,26] • %c[0,140,140,140]ganancia condiciуn condiciуn: %c[0,170,170,170]14% \n \n %c[0,140,140,140]MATERIALES APORTADOS: \n %c[255,238,153,26] •  %c[0,140,140,140]kits de reparaciуn adicionales %c[0,170,170,170]+6-18% \n %c[255,238,153,26] • %c[0,140,140,140]kits de costura %c[0,170,170,170]+3-9% \n %c[ 255,238,153,26] • %c[0,140,140,140]adhesivos %c[0,170,170,170]+2-6% \n %c[255,238,153,26] • %c[0,140,140,140]textil reforzado (hojas) %c[0,170,170,170]+5-6 % \n %c[255,238,153,26] • %c[0,140,140,140]textil %c[0,170,170,170]+3-4% \n %c[255,238,153,26] • %c[0,140,140,140]tela %c[0, 170,170,170]+2-3% \n %c[255,238,153,26] • %c[0,140,140,140]placas de kevlar %c[0,170,170,170]+12% \n %c[255,238,153,26] • %c[0,140,140,140]placas de acero  %c[0,170,170,170]+18% \n %c[255,238,153,26] • %c[0,140,140,140]conjuntos adicionales de equipo y arnйs (todos) %c[0,170,170,170]+11-32 \n %c[255,238,153,26] •  %c[0,140,140,140]pieles mutantes (todas) %c[0,170,170,170]+3-14%</text>
+	</string>
+	<string id="st_armor_repair_pro_empty">
+		<text>Kit de reparaciуn de armadura de campo (vacнo)</text>
+	</string>
+	<string id="st_armor_repair_pro_empty_descr">
+		<text>Bolsa textil vacнa que anteriormente contenнa herramientas y piezas de repuesto utilizables para el mantenimiento de armaduras de combate. Incluso en su estado actual, puede ser ъtil para reparar partes de conjuntos. Un producto comercial de bajo valor.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,140,140,140]reparaciones del equipo (+3%)</text>
+	</string>
+	<string id="st_helmet_repair_kit">
+		<text>Kit de reparaciуn de casco de combate</text>
+	</string>
+	<string id="st_helmet_repair_kit_descr">
+		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[255,238,153,26] • %c[0,140,140,140]casco mediano y pesado conjuntos \n \n %c[0,170,170,170]Este kit contiene todo lo que se necesita para realizar una reparaciуn efectiva de los cascos de combate modernos. Cuenta con herramientas pesadas que le permitirбn trabajar con materiales duros como kevlar, acero o titanio, asн como con un adhesivo muy fuerte a base de metacrilato. Como el kit no contiene ningъn equipo de costura, no se puede utilizar de manera efectiva para la reparaciуn de materiales flexibles de armaduras, pero se puede usar para desmontar conjuntos de arnйs para mejorar en gran medida la efectividad de la reparaciуn.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]valor alto \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para la reparaciуn de equipos \n %c[255,238,153,26] • %c[0,140,140,140]no utilizable por debajo del nivel de condiciуn: %c[0,170,170,170]45% \n %c[255,238,153,26] • %c[0,140,140,140]ganancia de condiciуn base: %c[ 0,170,170,170]12% \n \n %c[0,140,140,140]MATERIALES DE APOYO: \n %c[255,238,153,26] • %c[0,140,140,140]kits de reparaciуn adicionales %c[0,170,170,170]+6-18% \n %c[255,238,153, 26] • %c[0,140,140,140]adhesivos adicionales %c[0,170,170,170]+2-6% \n %c[255,238,153,26] • %c[0,140,140,140]placas de kevlar %c[0,170,170,170]+12% \n %c[255,238,153,26] • %c[0,140,140,140]placas de acero %c[0,170,1 70,170]+18% \n %c[255,238,153,26] • %c[0,140,140,140]conjuntos adicionales de sombrererнa (todos) %c[0,170,170,170]+11-20%</text>
+	</string>
+	<string id="st_helmet_repair_kit_empty">
+		<text>Kit de reparaciуn de casco de combate (vacнo)</text>
+	</string>
+	<string id="st_helmet_repair_kit_empty_descr">
+		<text>Bolsa textil vacнa que anteriormente contenнa herramientas y piezas de repuesto utilizables para mantener los cascos de combate. Incluso en su estado actual, puede ser ъtil para reparar partes de conjuntos. Un producto comercial de bajo valor.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,140,140,140]reparaciones del equipo (+3%)</text>
+	</string>
+	<string id="st_repair_kit">
+		<text>Kit de reparaciуn de armadura profesional</text>
+	</string>
+	<string id="st_repair_kit_descr">
+		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[255,238,153,26] • %c[0,140,140,140]conjuntos de conjuntos y arnйs \n \n %c[0,170,170,170]Este conjunto complejo y pesado incluye todo lo necesario - desde hilos y agujas ultradurables hasta parches basadosen polнmeros - para realizar una reparaciуn completa de cualquier armadura o casco. Puede usarse independientemente de los materiales involucrados, ya sea tela gruesa, lбminas de kevlar de grado militar o pieles mutantes pesadas. Herramientas y kits adicionales aumentan la efectividad de las reparaciones.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]valor alto \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para reparar equipos \n %c[255,238,153,26] • %c[0,140,140,140]no utilizable por debajo del nivel de condiciуn: %c[0,170,170,170]30% \n %c[255,238,153,26] • %c[0,140,140,140]ganancia por condiciуn base: %c[0,170,170,170]22% \n \n %c[0,140,140,140]MATERIALES DE APOYO: \n %c[255,238,153,26] • %c[0,140,140,140]kits de reparaciуn adicionales %c[0,170,170,170]+6-18% \n %c[255,238,153,26] • %c[0,140,140,140]kits de costura %c[0,170,170,170]+3-9% \n %c[255,238,153,26] •  %c[0,140,140,140]adhesivos %c[0,170,170,170]+2-6% \n %c[255,238,153,26] • %c[0,140,140,140]textil reforzado (hojas) %c[0,170,170,170]+5-6% \n %c[255,238,153,26] • %c[0,140,140,140]textil %c[0,170,170,170]+3-4% \n %c[255,238,153,26] • %c[0,140,140,140]tela %c[0,170,170,170]+2-3% \n%do[ 255,238,153,26] • %c[0,140,140,140]placas de kevlar %c[0,170,170,170]+12% \n %c[255,238,153,26] • %c[0,140,140,140]planchas de acero %c[0,170,170,170]+18% \n %c[ 255,238,153,26] • %c[0,140,140,140]conjuntos adicionales de equipo y protecciуn (todos) %c[0,170,170,170]+11-32 \n %c[255,238,153,26] • %c[0,140,140,140]pieles mutantes (todos) %c[ 0,170,170,170]+3-14%</text>
+	</string>
+	<string id="st_repair_kit_empty">
+		<text>Kit de reparaciуn de armadura profesional (vacнo)</text>
+	</string>
+	<string id="st_repair_kit_empty_descr">
+		<text>Caja vacнa de metal reforzado que anteriormente contenнa herramientas y piezas de repuesto utilizables para el mantenimiento complejo de armaduras de combate. Incluso en su estado actual puede resultar ъtil en la reparaciуn de partes metбlicas de conjuntos. Un producto comercial de bajo valor.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,140,140,140]reparaciones del equipo (+5%)</text>
+	</string>
+	<string id="st_identity_card_descr">
+		<text>Esta es su tarjeta de identificaciуn personal que revela su verdadera identidad. Guбrdelo oculto Como USS Assaulter, estбs especializado en rifles de asalto y armas pesadas. Tambiйn estбs especializado en el control del retroceso del arma. Velocidad de carrera lenta.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]objetos personales</text>
+	</string>
+	<string id="st_roubles">
+		<text>Monedas viejas</text>
+	</string>
+	<string id="st_roubles_descr">
+		<text>El comercio en la zona se realiza principalmente por medio de transacciones electrуnicas por razones de seguridad y administraciуn. Pero muchos stalkeres tienen al menos algunas monedas en sus bolsillos en caso de que quieran comprar cosas mбs pequeсas como cigarrillos. Esto hace la vida mбs fбcil y conserva la vida ъtil de la baterнa.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]artнculo de uso diario</text>
+	</string>
+	<string id="st_flask">
+		<text>Agua purificada</text>
+	</string>
+	<string id="st_flask_descr">
+		<text>Los frascos militares estбn destinados a almacenar pequeсas cantidades de agua. Preparado por mйdicos y cientнficos. Primero, el agua, combinada con un tipo especial de alcohol, se hierve a una temperatura muy alta para la purificaciуn y desinfecciуn. Despuйs, se enfrнa en refrigeradores, a los que debe su refrescante "chispa". El resultado final es agua completamente libre de radiaciуn. Si a pesar de lo anterior, todavнa tiene dudas sobre su pureza, siempre puede usar akvatab. Debido al costo de producciуn, los frascos militares tienen un suministro limitado y se venden a un precio moderado. Los mйdicos tambiйn los tienen en existencia, pero son un poco mбs caros ya que incluyen el costo del transporte.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]bebida \n %c[0,153,255,255] • %c[0,140,140,140]fuente de nutriciуn limpia \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]mantenimiento de armas (+1%)</text>
+	</string>
+	<string id="st_akvatab">
+		<text>Akvatabs</text>
+	</string>
+	<string id="st_akvatab_descr">
+		<text>Pequeсa bolsa de plбstico con pastillas destinadas a desinfectar el agua que contiene bacterias y virus daсinos. Use dos tabletas a la vez.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]uso lento (tabletas dispersables) \n %c[0,153,255,255] • %c[0,140,140,140]elimina toxinas en el cuerpo</text>
+	</string>
+	<string id="st_old_book">
+		<text>Libro viejo</text>
+	</string>
+	<string id="st_old_book_descr"> <!-- revision -->
+		<text>Solo un viejo libro desgastado. Se dejу durante largos aсos en malas condiciones. Como resultado, la mayorнa de las pбginas estбn desgarradas o estropeadas. Aunque algunas pбginas aъn son legibles, estos documentos pueden usarse para otra cosa.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]efectos personales \n %c[255,238,153,26 ] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]mantenimiento de armas (+2%)</text>
+	</string>
+	<string id="st_jar">
+		<text>Jarra de plбstico</text>
+	</string>
+	<string id="st_jar_descr">
+		<text>Un puсado de dientes de oro en una pequeсa jarra de plбstico llena de arena y hojas para minimizar el ruido mientras se ejecuta. Liberar a un stalker caнdo de sus dientes es una prбctica favorita entre los bandidos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]artнculo diario \n %c[0,153,255,255] • %c[0,140,140,140]valor bajo</text>
+	</string>
+	<string id="st_grooming">
+		<text>Kit de aseo</text>
+	</string>
+	<string id="st_grooming_descr">
+		<text>Kit de aseo que incluye una funda de viaje de nylon balнstico con peine de barba y bigote y detalle de tijeras faciales, con anillos de dedo del tamaсo de un hombre, cuchillas de corte ultra afiladas de acero inoxidable, agarre de goma antideslizante y una punta de corte de precisiуn.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento diario \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]mantenimiento de arma ( +2%)</text>
+	</string>
+	<string id="st_journal">
+		<text>Diario personal</text>
+	</string>
+	<string id="st_journal_descr">
+		<text>Diario personal con varios mapas primitivos y anotaciones. En una encuadernaciуn de cuero. Consejos simples de supervivencia para el hombre comъn y nada de mucho valor.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]pertenencias personales</text>
+	</string>
+	<string id="st_maps_kit">
+		<text>Kit de cartografнa</text>
+	</string>
+	<string id="st_maps_kit_descr">
+		<text>Kit de mapeo que contiene un juego de plumas e instrumentos de mediciуn. Todo en una cubierta impermeable y camuflada de alta calidad. Utilizado por y enviado al personal de artillerнa ucraniano. Algunos mapas aъn no han sido completados. Su PDA es mucho mбs ъtil que cualquiera de esto.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]muestra la ubicaciуn de zonas anуmalas</text>
+	</string>
+	<string id="st_bottle_metal">
+		<text>Botella "Moonshine"</text>
+	</string>
+	<string id="st_bottle_metal_descr">
+		<text>Botella de metal que contiene una porciуn de lo que parece ser vodka producido en la Zona. No huele bien y los vapores son fuertes.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]estimulante \n %c[0,204,0,51] •  %c[0,140,140,140]alcohol fuerte, de baja calidad \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]mantenimiento de armas (+2%)</text>
+	</string>
+	<string id="st_geiger">
+		<text>Dosнmetro</text>
+	</string>
+	<string id="st_geiger_descr">
+		<text>Un dosнmetro de radiaciуn es un dispositivo que mide la exposiciуn a la radiaciуn ionizante. Detecta la emisiуn de partнculas alfa, partнculas beta y partнculas gamma. Los dosнmetros siguen siendo objetos tecnolуgicos populares utilizados para mediciones en salud, fнsica, industria, geologнa y otros campos de actividad. Hecho de circuitos electrуnicos simples.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[255,238,153,26] • %c[0,140,140,140]mide el nivel de contaminaciуn radiactiva \n %c[0,153,255,255] • %c[0,140,140,140]bajo consumo UPD</text>
+	</string>
+	<string id="st_welding_goggles">
+		<text>Gafas de soldador</text>
+	</string>
+	<string id="st_welding_goggles_descr">
+		<text>Gafas de soldadura viejas y corroнdas con una banda de cuero rota. Las gafas de soldadura estбn diseсadas para proporcionar protecciуn ocular durante la soldadura o el corte. Inъtil en su estado actual y de no a poco valor.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]artнculo de uso diario</text>
+	</string>
+	<string id="st_survival_kit">
+		<text>Kit de supervivencia</text>
+	</string>
+	<string id="st_survival_kit_descr">
+		<text>Kit de supervivencia que contiene tela, agujas de coser y algunas tiras de cuero. Utilizado principalmente como un medio para detener el sangrado y tratar las laceraciones, en manos de un usuario experto este pequeсo kit de supervivencia puede resultar esencial durante las excursiones prolongadas en la Zona. Tambiйn se puede utilizar para reparaciones de equipos incluso con daсos mбs severos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]medicina \n %c[0,153,255,255] • %c[ 0,140,140,140]fuente de nutriciуn limpia \n %c[0,204,0,51] • %c[0,140,140,140]uso lento (kit de campo) \n %c[0,153,255,255] • %c[0,140,140,140]disminuciуn significativa de la somnolencia \n %c[255,238,153, 26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciones de equipo (+7%)</text>
+	</string>
+	<string id="st_jewelry_box">
+		<text>Joyero</text>
+	</string>
+	<string id="st_jewelry_box_descr">
+		<text>Una pequeсa caja llena de joyas de mujer. Parece bastante valioso, pero los zoners generalmente no usan joyas, a excepciуn de los chupasangres, por lo que no es probable que obtengan un buen precio.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[ 0,140,140,140]artнculo diario \n %c[0,153,255,255] • %c[0,140,140,140]valor alto</text>
+	</string>
+	<string id="st_cooking">
+		<text>Set de cocina</text>
+	</string>
+	<string id="st_cooking_descr">
+		<text>Un kit de viaje de cocina de campo. Contiene accesorios de cocina y utensilios para usar al acampar y viajar. Bastante barato y ocupa poco espacio, tambiйn tiene poco peso. Este kit es muy popular entre los grandes grupos de stalkeres.\n \n %c[0,210,210,210]NOTA: \n %c[0,170,170,170,170,170]Las carnes mutantes que no requieren altas temperaturas para prepararse se conocen como "bajas". mientras que aquellos que requieren alta temperatura se conocen como "nivel alto". \n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,0,255, 30] • %c[0,140,140,140]equipo de cocciуn de campo de bajo nivel \n %c[0,0,255,30] • %c[0,140,140,140]requiere: %c[0,170,170,170]fuente de fuego \n %c[0,0,255,30 ] • %c[0,140,140,140]utilizable para cocinar carnes de mutantes menores</text>
+	</string>
+	<string id="st_book1">
+		<text>Manual de mecбnica</text>
+	</string>
+	<string id="st_book1_descr">
+		<text>Manual de ingenierнa mecбnica. Algunas personas leen esos libros para ampliar su experiencia y aprender mбs sobre las instalaciones y fбbricas en la Zona. Valor de venta bajo.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento diario \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]mantenimiento de armas (+2%)</text>
+	</string>
+	<string id="st_book2">
+		<text>Manual tйcnico</text>
+	</string>
+	<string id="st_book2_descr">
+		<text>Manual de ingenierнa industrial. Algunas personas leen esos libros para ampliar su experiencia y aprender mбs sobre las instalaciones y fбbricas en la Zona. Valor de venta bajo.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento diario \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]mantenimiento de armas (+2%)</text>
+	</string>
+	<string id="st_drugnotes">
+		<text>Diario de suministros</text>
+	</string>
+	<string id="st_drugnotes_descr">
+		<text>Este cuaderno describe varios negocios de drogas en detalle. Apodos especнficos, ubicaciones y hora de reuniones. Algunas ofertas se ejecutan a travйs de intercambios de equipos y otras se pagan en grandes cantidades de rublos. Al navegar por las pбginas, queda claro que Freedom es el principal distribuidor de drogas naturales como la marihuana. Los bandidos son productores y distribuidores de las drogas sintйticas mбs poderosas (y peligrosas) como el бcido salicнlico y la cocaнna. Aparentemente, cada facciуn en la Zona toma parte en estos tratos. En particular, Monolith parece estar tomando grandes cantidades de drogas a cambio de municiones y equipos mбs costosos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]pertenencias personales \n %c[0,153,255,255] • %c[0,140,140,140]valor alto \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]mantenimiento de armas (+2%)</text>
+	</string>
+	<string id="st_picture_woman">
+		<text>Foto de una mujer</text>
+	</string>
+	<string id="st_picture_woman_descr">
+		<text>Una pequeсa imagen de una mujer hermosa con cabello rubio. El nombre en la parte inferior de la imagen ha sido tachado. Envuelto en plбstico.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]pertenencias personales \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]mantenimiento de armas (+1%)</text>
+	</string>
+	<string id="st_itm_sleepbag_name">
+		<text>Saco de dormir</text>
+	</string>
+	<string id="st_itm_sleepbag_descr">
+		<text>Un saco de dormir ligero que te mantendrб caliente y seco cuando necesites descansar. Asegъrese de elegir un lugar seguro con una posible ruta de escape. La bolsa se recogiу de forma automбtica despuйs de dormir o si golpear el botуn ?cancelar? \n \n %c[0,153,255,255]ADVERTENCIA:.\n \n %c[0170170170]durmiendo a la intemperie puede atraer a los depredadores. No protege de la radiaciуn \n \n %c[0,140,140,140]PROPIEDADES:.\n %c[0,153,255,255] • %c[0,140,140,140]ajusta [0,153,255,255] • %c[0,140,140,140]Usos ilimitadas cama portбtil \n %c \n %c[0,153,255,255] • %c[0,140,140,140]artнculo diario</text>
+	</string>
+	<string id="sleep_itm_warning_blowout">
+		<text>ЎNo es seguro dormir aquн!</text>
+	</string>
+	<string id="st_kit_hunt">
+		<text>Kit de caza</text>
+	</string>
+	<string id="st_kit_hunt_descr">
+		<text>Una bolsa entera llena de ganchos, cuchillos y otros equipos utilizados para pelar y destripar animales y mutantes. Pocos stalkeres llevan equipos profesionales para la caza de mutantes. Esa es probablemente la razуn por la cual tantos Zoners sufren de indigestiуn despuйs de comer carne mutante. Gracias a la variedad de herramientas, el kit puede mejorar efectivamente el mantenimiento de armas y armaduras.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]equipo \n %c[255,238,153,26 ] • %c[0,140,140,140]posesiуn aumenta el nъmero de partes del cuerpo obtenidas de mutantes</text>
+	</string>
+	<string id="st_porn2"> <!-- revision -->
+		<text>Periуdico</text>
+	</string>
+	<string id="st_porn2_descr">
+		<text>Un periуdico viejo y amarillo. Parece que se emitiу hace un mes, si no mбs. Leer periуdicos, jugar a las cartas, leer libros, tocar la guitarra o la armуnica son las formas mбs comunes de relajarse y pasar tiempo en la Zona. Puede encontrar muchos artнculos y temas interesantes, el periуdico le permite estar al tanto de lo que sucede fuera de la Zona. Sin mencionar que siempre se puede usar para envolver carnes y alimentos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento diario \n %c[255,238,153,26 ] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]mantenimiento de armas (+2%)</text>
+	</string>
+	<string id="st_boots">
+		<text>Botas reforzadas</text>
+	</string>
+	<string id="st_boots_descr">
+		<text>Todos son conscientes de la importancia de un buen equipo. Un par adicional de botas puede resultar extremadamente ъtil y puede ser objeto de envidia por parte de otros stalkeres, ya que es una rareza.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]artнculo diario \n %c[0,153,255,255] • %c[0,140,140,140]pertenencias personales \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciones de equipamiento (+5%)</text>
+	</string>
+	<string id="st_tobacco">
+		<text>Tabaco ruso</text>
+	</string>
+	<string id="st_tobacco_descr">
+		<text>Los cigarrillos son caros y raros en la zona, y tener tabaco crudo le permite producir sus propios cigs a un costo menor. Esta lata estб sellada, lo que garantiza que el tabaco permanecerб fresco durante dнas o semanas, segъn las condiciones en que se mantenga.\n \n %c[0,210,210,210]NOTA: \n \n %c[0,170,170,170]Fumar ayudarб a estabilizar la estado mental despuйs de la exposiciуn psi. \n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]estimulante \n %c[0,153,255,255] • %c[0,140,140,140]alivio promedio contra el daсo psicolуgico \n %c[0,204,0,51] • %c[0,140,140,140]daсa la salud</text>
+	</string>
+	<string id="st_batteries_dead">
+		<text>Baterнas agotadas</text>
+	</string>
+	<string id="st_batteries_dead_descr">
+		<text>Solo una de cada diez baterнas encontradas en Zaton y Jupiter todavнa lleva algo de jugo. Los acechadores parecen arrojarlos cuando estбn agotados, ya que es casi imposible encontrar un cargador de baterнa. Su capa externa estб corroнda y cubierta de tierra, lo que es una fuerte indicaciуn de que estбn casi muertos. Aъn asн, como todo en la Zona, tambiйn tienen su propуsito y pueden resultar ъtiles para las frecuentes recargas de UPD.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]нtem tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]cargo de UPD: %c[0,170,170,170]+14%</text>
+	</string>
+	<string id="st_marijuana">
+		<text>Paquete de cannabis</text>
+	</string>
+	<string id="st_marijuana_descr">
+		<text>Un paquete de hojas secas de cannabis. Se pueden comprar aquн y allб en la Zona. Algunos creen que el medicamento ayuda a mantener el equilibrio de la mente.\n \n %c[0,210,210,210]NOTA: \n \n %c[0,170,170,170]Fumar ayudarб a estabilizar el estado mental despuйs de la exposiciуn psi.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]valioso \n %c[0,153,255,255] • %c[0,140,140,140]alivio fuerte contra el daсo psicolуgico</text>
+	</string>
+	<string id="st_device_flashlight">
+		<text>Linterna de mano</text>
+	</string>
+	<string id="st_device_flashlight_descr">
+		<text>Una linterna de la vieja escuela y muy duradera que muestra signos de uso intenso. Al girar la parte posterior durante unos segundos, el flujo de potencia se invierte y se almacena en las celdas internas de la linterna. Es una herramienta esencial para la exploraciуn durante largos perнodos de tiempo. Desafortunadamente, no se puede usar junto con la mayorнa del armamento, ya que requiere una mano libre. Por lo tanto, se puede usar simultбneamente solo con pistolas y otros equipos con una sola mano.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] •  %c[0,140,140,140]no requiere UPD</text>
+	</string>
+	<string id="st_flashlight_broken">
+		<text>Linterna del ejйrcito KSF-1</text>
+	</string>
+	<string id="st_flashlight_broken_descr">
+		<text>Luz de seсal de bolsillo rota en una caja de metal rayada, pintada en negro. Es de suponer que no se ha modificado durante un largo perнodo desde los aсos cincuenta hasta los noventa del siglo XX. Diseсado para uso militar, con un tamaсo de baterнa 3336L, tiene un bloqueo dentro del cuerpo para almacenar una lбmpara de repuesto. Estб equipado con un dispositivo para sujetar el cinturуn, un interruptor de botуn, un bloqueo deslizante para este ъltimo y dos filtros (rojo y verde) integrados en la cubierta frontal, que se guнan por medio de palancas al vidrio para el salida del flujo luminoso. \n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,204,0,51] • %c[0,140,140,140]roto mбs allб de la reparaciуn \n %c[0,204,0,51] • %c[0,140,140,140]inutilizable</text>
+	</string>
+	<string id="st_underwear">
+		<text>Ropa interior</text>
+	</string>
+	<string id="st_underwear_descr">
+		<text>Un par de calcetines extra, una camisa y un pantalуn podrнan aumentar sustancialmente tu comodidad. Lamentablemente, este conjunto estб completamente empapado. Hay pocas posibilidades de que un stalker pague por esta basura. Aunque pueden parecer inъtiles, el material del que estб hecha la ropa interior puede utilizarse en el mantenimiento de armaduras y armas.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]artнculo diario \n %c[0,153,255,255] • %c[0,140,140,140]pertenencias personales \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciуn de equipo, mantenimiento de arma (+3%)</text>
+	</string>
+	<string id="st_wpn_spareparts">
+		<text>Repuestos de armas</text>
+	</string>
+	<string id="st_wpn_spareparts_descr">
+		<text>Piezas de repuesto para lo que parece ser un rifle de asalto AKM. Las piezas de madera no estбn en muy buenas condiciones, y lo mismo puede decirse de los elementos metбlicos. Solo los principiantes estarнan interesadosen comprarlos. Sin embargo, parece que pueden ser ъtiles para reparar el equipo. Ciertos Zoners reemplazan algunas partes cuando encuentran un arma nueva al aire libre para evitar ser perseguidos por robar del alijo de alguien.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]artнculo militar \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciуn de equipo, mantenimiento de arma (+10%)</text>
+	</string>
+	<string id="st_beadspread">
+		<text>Colcha</text>
+	</string>
+	<string id="st_beadspread_descr">
+		<text>Artнculo de lujo en la zona. Le da un 10 por ciento de posibilidades adicionales de una buena noche de sueсo. Como solo hay algunas camas en refugios en Zaton y Jъpiter, tener un saco de dormir y una colcha puede ser esencial si no quieres golpear la pared en las circunstancias mбs inapropiadas. Los diferenciales de cama estбn incluidos en el equipamiento de algunas unidades militares.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]usos ilimitados \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciones de equipamiento (+3%)</text>
+	</string>
+	<string id="st_tent">
+		<text>Tienda</text>
+	</string>
+	<string id="st_tent_descr">
+		<text>Un refugio temporal, hecho para resistir el mal tiempo. Para colocar la carpa, levбntela en un espacio abierto.</text>
+	</string>
+	<string id="st_walkie">
+		<text>Radio</text>
+	</string>
+	<string id="st_walkie_descr">
+		<text>La pantalla estб muerta y hay un silbido constante del altavoz que indica que esto no sirve de nada. Tiene lo que parecen ser marcas de dientes mutantes.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,204,0,51] • %c[0,140,140,140]roto irreparablemente \n %c[0,204,0,51] • %c[0,140,140,140]inutilizable</text>
+	</string>
+	<string id="st_cards">
+		<text>Mazo de cartas</text>
+	</string>
+	<string id="st_cards_descr">
+		<text>Es importante desviar tu mente del sufrimiento en este infierno y enfocarte en otras cosas mбs agradables. Jugar a las cartas es un pasatiempo popular, pero una baraja de cartas tambiйn se puede usar para clasificar intercambios especiales. La portada muestra el orgulloso diseсo arquitectуnico del Metro de Moscъ.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]artнculo de uso diario</text>
+	</string>
+	<string id="st_vodka_quality">
+		<text>Vodka "Stolichnaya"</text>
+	</string>
+	<string id="st_vodka_quality_descr">
+		<text>Un favorito entre los rusos y muchas personas de todo el mundo. Un vodka ruso de alta calidad. Muy popular en la zona y ampliamente disponible, probablemente debido a una conexiуn externa de uno de los comerciantes. Para evitar ser detectado por las unidades militares que se estacionan alrededor de la Zona, generalmente se envнa en contenedores militares o barriles de metal, y luego se distribuye en botellas de metal resistentes.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255 ] • %c[0,140,140,140]bebida \n %c[0,153,255,255] • %c[0,140,140,140]estimulante \n %c[0,204,0,51] • %c[0,140,140,140]alcohol fuerte \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]mantenimiento de armas (+4%)</text>
+	</string>
+	<string id="st_ammo_bad">
+		<text>Municiуn Daсada</text>
+	</string>
+	<string id="st_ammo_bad_descr">
+		<text>Cada stalker es consciente de la importancia del armamento confiable. Esa es la razуn por la que un examen diario y completo de su tirador es vital para su supervivencia. Los acechadores a menudo cuentan su municiуn y la limpian para minimizar el riesgo de un atasco de armas en el fragor de la batalla. Esta municiуn estб en mal estado y debe desecharse.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]se pueden clasificar para obtener municiones utilizables</text> <!-- revision -->
+	</string>
+	<string id="st_mili_maps">
+		<text>Mapas militares</text>
+	</string>
+	<string id="st_mili_maps_descr">
+		<text>Mapas que muestran la ubicaciуn de los campamentos militares alrededor de la Zona. Cada PDA viene con estos mapas instalados, por lo que este elemento es de poca utilidad para cualquier persona.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento militar \n %c[0,153,255,255 ] • %c[0,140,140,140]muestra la ubicaciуn de zonas anуmalas</text>
+	</string>
+	<string id="st_swiss">
+		<text>Navaja suiza</text>
+	</string>
+	<string id="st_swiss_descr">
+		<text>їQuieres abrir latas de comida, mantener apretado tu equipo mecбnico, cortar cuerdas o afilar tus mejores balas? Usa el cuchillo suizo universal y elegante. Embalado en una pequeсa caja. Comъnmente se encuentra en la Zona, por lo que tiene poco valor. Sin embargo, puede utilizarse como material de apoyo en reparaciones de armas y conjuntos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento diario \n %c[255,238,153, 26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciуn de equipo, mantenimiento de arma (+2%) \n %c[255,238,153,26] • %c[0,140,140,140]usos ilimitados</text>
+	</string>
+	<string id="st_headlamp">
+		<text>Faro roto</text>
+	</string>
+	<string id="st_headlamp_descr">
+		<text>Aunque pocos se atreven a explorar la zona durante la noche, hay circunstancias en las que una lбmpara de cabeza es crucial. Y otra fuente de luz no dolerб, porque nunca se sabe cuбndo tendrб que moverse de un lugar a otro. Desafortunadamente, esta unidad en particular ha visto durante mucho tiempo sus dнas de trabajo y ahora solo puede servir como fuente de repuestos baratos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,204,0,51] • %c[0,140,140,140]roto irreparablemente \n %c[0,204,0,51] • %c[0,140,140,140]inutilizable</text>
+	</string>
+	<string id="st_mirror">
+		<text>Espejo telescуpico</text>
+	</string>
+	<string id="st_mirror_descr">
+		<text>Espejo pequeсo montado en un tubo de hierro telescуpico. Un elemento prбctico utilizado por luchadores versadosen las artes del combate urbano, ya que permite mirar alrededor de las esquinas sin recibir un disparo.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento militar</text>
+	</string>
+	<string id="st_batteries_ccell">
+		<text>Paquete de baterнa militar</text>
+	</string>
+	<string id="st_batteries_ccell_descr">
+		<text>Un paquete de baterнas militares completamente cargadas. Muy valioso y de gran demanda debido a la relativa escasez de baterнas en la Zona. Usado por todas las facciones y Zoners de todos los niveles, desde novatos hasta stalkeres maestros. Suministrado a comerciantes por oficiales militares corruptos que tratan de ganar algo de dinero extra en la Zona.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]cargo de UPD: %c[0,170,170,170]+93%</text>
+	</string>
+	<string id="st_cocaine">
+		<text>Cocaнna</text>
+	</string>
+	<string id="st_cocaine_descr">
+		<text>Pequeсa caja de aluminio que contiene cocaнna y las herramientas que facilitan el uso. La cocaнna es un poderoso estimulante del sistema nervioso. Sus efectos pueden durar de 15-30 minutos a una hora, dependiendo de la ruta de administraciуn. La cocaнna aumenta el estado de alerta, induce sentimientos de bienestar, competencia y sexualidad. Ansiedad, paranoia e inquietud son efectos secundarios comunes. Con una dosis excesiva, se observan temblores, convulsiones y aumento de la temperatura corporal. Los bandidos son conocidos por olfatear esta droga justo antes de lanzar un asalto o una emboscada.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]estimulante \n %c[0,153,255,255] • %c[0,140,140,140]restauraciуn leve de la salud con el uso \n %c[0,153,255,255] • %c[0,140,140,140]disminuciуn significativa de la somnolencia</text>
+	</string>
+	<string id="st_tetanus"> <!-- revision -->
+		<text>Antibiуtico</text>
+	</string>
+	<string id="st_tetanus_descr">
+		<text>Antibiуtico de acciуn rбpida para casos de indicaciones: intoxicaciуn grave y alto nivel de intoxicaciуn. Dentro de la Zona, se recomienda usar un disparo despuйs de comer comidas de 1 kg de carne mutada. La composiciуn de este medicamento tambiйn incluye sustancias que alivian el sнndrome postalcohol.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]medicina \n %c[0,153,255,255] • %c[0,140,140,140 ]uso rбpido (jeringa) \n %c[0,153,255,255] • %c[0,140,140,140]elimina toxinas en el cuerpo</text>
+	</string>
+	<string id="st_tarpaulin">
+		<text>Lona alquitranada</text>
+	</string>
+	<string id="st_tarpaulin_descr">
+		<text>Una lona (u hootch) es una hoja grande de material fuerte, flexible, resistente al agua o resistente al agua, a menudo con tela como lienzo o poliйster recubierto con uretano, o hecha de plбsticos como el polietileno. Tiene ojales reforzados en las esquinas y a lo largo de los lados para formar puntos de sujeciуn para la cuerda, lo que les permite atarse o suspenderse. Sirve para muchos propуsitos, pero se usa principalmente para crear pequeсos y simples escondites similares a tiendas de campaсa. El valor comercial es bajo debido a las alternativas fбciles de encontrar.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento militar \n %c[255,238,153,26] • %c[0,140,140,140 ]utilizable para: %c[0,170,170,170]reparaciуn de equipo, mantenimiento de arma (+5%)</text>
+	</string>
+	<string id="st_rope">
+		<text>Cuerda</text>
+	</string>
+	<string id="st_rope_descr">
+		<text>Una buena cuerda sirve para muchos propуsitos, especialmente en un lugar como la Zona. Muchos stalkeres pueden darle un buen uso, lo que genera un valor comercial bastante alto. Aproximadamente 10 metros de largo.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento diario \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para:  %c[0,170,170,170]reparaciones de equipamiento (+3%)</text>
+	</string>
+	<string id="st_synthrope">
+		<text>Cuerda sintйtica densa</text>
+	</string>
+	<string id="st_synthrope_descr">
+		<text>Las cuerdas sintйticas se encuentran comъnmente en depуsitos militares. Pero por alguna razуn, pocos stalkeres militares realmente los llevan. Una buena cuerda sirve para muchos propуsitos, especialmente en un lugar como la Zona. Muchos stalkeres pueden darle un buen uso, lo que genera un valor comercial bastante alto. Cada uno mide aproximadamente 5 metros de largo.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento diario \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciones de equipamiento (+4%)</text>
+	</string>
+	<string id="st_cutlery">
+		<text>Cuchillerнa</text>
+	</string>
+	<string id="st_cutlery_descr">
+		<text>Una cuchara, un cuchillo y un tenedor hechos de acero pesado. Un juego de cubiertos robusto y razonablemente liviano, ideal para mochileros y exploraciуn de campo. Los cubiertos se mantienen unidos mediante un cordуn de cobre. Si se limpia correctamente y se deshuesa, serнa seguro usarlo.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento diario \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]lubricaciуn y limpieza de armas (+2%)</text>
+	</string>
+	<string id="st_adrenalin">
+		<text>Epinefrina</text>
+	</string>
+	<string id="st_adrenalin_descr">
+		<text>La epinefrina (tambiйn conocida como adrenalina) es una hormona y un neurotransmisor. La epinefrina tiene muchas funciones en el cuerpo, regulando instantбneamente la frecuencia cardнaca, los diбmetros de los vasos sanguнneos y del paso del aire, y los cambios metabуlicos. La liberaciуn de epinefrina es un componente crucial de la respuesta de lucha o huida del sistema nervioso simpбtico. Los efectos conducen al aumento de la glucosa en sangre y los бcidos grasos, proporcionando sustratos para la producciуn de energнa instantбnea dentro de las cйlulas en todo el cuerpo.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]estimulante \n %c[0,153,255,255] • %c[0,140,140,140]uso rбpido (jeringa) \n %c[0,153,255,255] • %c[0,140,140,140]alta mejora de la salud \n %c[0,153,255,255] • %c[0,140,140,140]disminuciуn significativa de somnolencia</text>
+	</string>
+	<string id="st_radio">
+		<text>Radio portбtil</text>
+	</string>
+	<string id="st_radio_descr">
+		<text>La mъsica es una buena manera de calmar tus nervios. Pero con una antena rota, esta radio es de poca utilidad. La humedad y la suciedad tambiйn han daсado este artнculo.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,204,0,51] • %c[ 0,140,140,140]roto sin reparaciуn \n %c[0,204,0,51] • %c[0,140,140,140]inutilizable</text>
+	</string>
+	<string id="st_radio2">
+		<text>Radio rota</text>
+	</string>
+	<string id="st_radio2_descr">
+		<text>Una pequeсa radio en malas condiciones. Sucio y daсado por la humedad. El interior parece estar en muy mal estado ya que la radio vibra cuando se mueve. No a poco valor.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,204,0,51] • %c[0,140,140,140]roto mбs allб reparar \n %c[0,204,0,51] • %c[0,140,140,140]inutilizable</text>
+	</string>
+	<string id="sleep_itm_warning_blowout">
+		<text>ЎNo es seguro dormir aquн!</text>
+	</string>
+	<string id="st_itm_qr_name">
+		<text>Sistema de liberaciуn rбpida (QRS)</text>
+	</string>
+	<string id="st_itm_qr_descr">
+		<text>Que te pillen por sorpresa en la Zona es una de las peores cosas que te puede pasar. Aunque el sistema QR no lo ayuda a evitar tales situaciones, sin duda ayuda a salir del peligro. Su funciуn es simple: quita casi inmediatamente las correas de su mochila y le permite escapar a un lugar seguro sin que la pesada mochila obstaculice su movimiento. Para usarlo, configъralo como un elemento de tecla rбpida. Presione la tecla de acceso rбpido para activar el lanzamiento de emergencia que deja caer al instante su mochila (y todo lo que estб dentro) al piso. Sus armas equipadas, municiones, armaduras y accesorios de blindaje, asн como UPD permanecen en su posesiуn, por lo que estб listo para luchar. Puede recuperar su mochila despuйs.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]нtem militar \n %c[0,153,255,255] • %c[0,140,140,140]compilaciуn en GPS \n %c[0,153,255,255] • %c[0,140,140,140]uso muy rбpido (abrazadera de liberaciуn) \n %c[0,153,255,255] • %c[0,140,140,140]equipo de combate permanece con el usuario</text>
+	</string>
+	<string id="st_itm_backpack_stash_name">
+		<text>Una mochila con GPS</text>
+	</string>
+	<string id="st_itm_backpack_stash_desc">
+		<text>Una mochila extremadamente duradera con dispositivos GPS implementados. Sincronizado automбticamente con su PDA una vez que se ha caнdo para generar un alijo que estб marcado en su PDA. La mochila estб hecha de materiales fuertes y duraderos que mantendrбn su equipo seguro y seco, independientemente de las condiciones ambientales. El diseсo camuflado asegura que no se destaca del entorno.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento militar \n %c[0,153,255,255] • %c[0,140,140,140]GPS incorporado \n %c[0,204,0,51] • %c[0,140,140,140]uso individual</text>
+	</string>
+	<string id="st_compression_bag">
+		<text>Bolsa de compresiуn</text>
+	</string>
+	<string id="st_compression_bag_descr">
+		<text>Contiene un pequeсo saco de dormir o un pequeсo nъmero de prendas \n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]use el saco de dormir casi desenrollado para empacarlo \n %c[0,153,255,255 ] • %c[0,140,140,140]artнculo diario</text>
+	</string>
+	<string id="st_identity_card">
+		<text>Identificaciуn personal SBU</text>
+	</string>
+	<string id="st_identity_card_assaulter_descr">
+		<text>Como USS Assaulter tiene fortalezas y debilidades ъnicas.\n \n %c[0,153,255,255]EQUIPO \n %c[predeterminado]Agilidad de armadura pesada: %c[255,230,150,30]A +\n %c[0,153,255,255]%c[ predeterminado]Agilidad de respiraciуn cerrada: %c[255,230,150,30]C \n %c[0,153,255,255]%c[predeterminado]Manejo de artefactos: %c[255,230,150,30]C \n \n %c[0,153,255,255]ARMAS \n %c[0,153,255,255]%c[predeterminado]Combates de cuchillos: %c[255,230,150,30]A +\n %c[0,153,255,255]%c[predeterminado]Especialidad de manipulaciуn: %c[255,230,150,30]Altos retrocesos \n %c[0,153,255,255 ]%c[predeterminado]Especialidad de mantenimiento: %c[255,230,150,30]Armas pesadas \n \n %c[0,153,255,255]MEDICINA \n %c[0,153,255,255]%c[predeterminado]Vendaje / destreza medkits destreza: %c[255,230,150, 30]B \n %c[0,153,255,255]%c[predeterminado]Habilidades del mйdico: %c[255,230,150,30]C \n %c[0,153,255,255]%c[predeterminado]Habilidad con el manejo de drogas: %c[255,230,150,30]C \n \n %c[0,153,255,255]ATLETISMO \n %c[0,153,255,255]%c[predeterminado]Resistencia: %c[255,230,150,30]muy alto \n %c[0,153,255,255]%c[predeterminado]Velocidad de carrera: %c[255,230,150,30]lento \n %c[0,153,255,255]%c[defa ult]Altura de salto: %c[255,230,150,30]bajo \n %c[0,153,255,255]%c[predeterminado]Agilidad de salto / salto: %c[255,230,150,30]bajo \n %c[0,153,255,255]%c[predeterminado]Resistencia base: %c[255,230,150,30]bajo \n %c[0,153,255,255]%c[predeterminado]Peso mбximo de carga: %c[255,230,150,30]alto \n \n %c[0,153,255,255]HEALTH PROFILE \n %c[0,153,255,255]%c[predeterminado]Tasa de consumo de alimentos: %c[255,230,150,30]alto \n %c[0,153,255,255]%c[predeterminado]Necesidad de dormir: %c[255,230,150,30]alto \n \n %c[0,153,255,255]RESISTENCIA AL SISTEMA INMUNITARIO \n %c[0,153,255,255]%c[predeterminado]Drogas / alcohol: %c[255,230,150,30]A +\n %c[0,153,255,255]%c[predeterminado]Comida no saludable: %c[255,230,150, 30]B \n %c[0,153,255,255]%c[predeterminado]Artefactos: %c[255,230,150,30]C \n %c[0,153,255,255]%c[predeterminado]Radiaciуn: %c[255,230,150,30]C</text>
+	</string>
+	<string id="st_identity_card_recon_descr">
+		<text>Como Reconocimiento USS, tiene fortalezas y debilidades ъnicas.\n \n %c[0,153,255,255]EQUIPO \n %c[predeterminado]Agilidad de armadura pesada: %c[255,230,150,30]C \n %c[0,153,255,255]%c[ predeterminado]Agilidad de respiraciуn cerrada: %c[255,230,150,30]A +\n %c[0,153,255,255]%c[predeterminado]Manejo de artefactos: %c[255,230,150,30]A +\n \n %c[0,153,255,255]ARMAS \n %c[0,153,255,255]%c[predeterminado]Combates de cuchillos: %c[255,230,150,30]A \n %c[0,153,255,255]%c[predeterminado]Especialidad de manipulaciуn: %c[255,230,150,30]SMG \n %c[0,153,255,255] %c[predeterminado]Especialidad de mantenimiento: %c[255,230,150,30]SMG \n \n %c[0,153,255,255]MEDICINA \n %c[0,153,255,255]%c[predeterminado]Vendajes / botiquines destreza: %c[255,230,150,30]A +\n %c[0,153,255,255]%c[predeterminado]Habilidades del mйdico: %c[255,230,150,30]A \n %c[0,153,255,255]%c[predeterminado]Habilidad con el manejo de drogas: %c[255,230,150,30]A \n \n %c[0,153,255,255]ATLETISMO \n %c[0,153,255,255]%c[predeterminado]Resistencia: %c[255,230,150,30]bajo \n %c[0,153,255,255]%c[predeterminado]Velocidad de carrera: %c[255,230,150, 30]alto \n %c[0,153,255,255]%c[predeterminado]Altura de salto: %c[ 255,230,150,30]alto \n %c[0,153,255,255]%c[predeterminado]Agilidad de caнda / salto: %c[255,230,150,30]alto \n %c[0,153,255,255]%c[predeterminado]Resistencia base: %c[255,230,150, 30]alto \n %c[0,153,255,255]%c[predeterminado]Peso mбximo transportado: %c[255,230,150,30]bajo \n \n %c[0,153,255,255]HEALTH PROFILE \n %c[0,153,255,255]%c[predeterminado]Tasa de consumo de alimentos: %c[255,230,150,30]lenta \n %c[0,153,255,255]%c[predeterminado]Necesidad de dormir: %c[255,230,150,30]medio \n \n %c[0,153,255,255]RESISTENCIA AL SISTEMA INMUNITARIO \n %c[0,153,255,255]%c[predeterminado]Drogas / alcohol: %c[255,230,150,30]C \n %c[0,153,255,255]%c[predeterminado]Comida no saludable: %c[255,230,150,30]C \n %c[ 0,153,255,255]%c[predeterminado]Artefactos: %c[255,230,150,30]A \n %c[0,153,255,255]%c[predeterminado]Radiaciуn: %c[255,230,150,30]A</text>
+	</string>
+	<string id="st_identity_card_sniper_descr">
+		<text>Como USS Sniper tus atributos estбn extremadamente bien equilibrados.\n \n %c[0,153,255,255]EQUIPO \n %c[predeterminado]Agilidad de armadura pesada: %c[255,230,150,30]B \n %c[0,153,255,255]%c[ predeterminado]Agilidad de respiraciуn cerrada: %c[255,230,150,30]B \n %c[0,153,255,255]%c[predeterminado]Manejo de artefactos: %c[255,230,150,30]B \n \n %c[0,153,255,255]ARMAS \n %c[0,153,255,255]%c[predeterminado]Combates de cuchillos: %c[255,230,150,30]B \n %c[0,153,255,255]%c[predeterminado]Especialidad de manejo: %c[255,230,150,30]rifles de francotirador \n %c[0,153,255,255 ]%c[predeterminado]Especialidad de mantenimiento: %c[255,230,150,30]rifles de francotirador \n \n %c[0,153,255,255]MEDICINA \n %c[0,153,255,255]%c[predeterminado]Vendaje / destreza medkits destreza: %c[255,230,150, 30]B \n %c[0,153,255,255]%c[predeterminado]Habilidades del mйdico: %c[255,230,150,30]B \n %c[0,153,255,255]%c[predeterminado]Habilidad con el manejo de drogas: %c[255,230,150,30]B +\n \n %c[0,153,255,255]ATLETISMO \n %c[0,153,255,255]%c[predeterminado]Resistencia: %c[255,230,150,30]medio \n %c[0,153,255,255]%c[predeterminado]Velocidad de carrera: %c[ 255,230,150,30]medio \n %c[0,153,255,255]%c[defa ult]Altura de salto: %c[255,230,150,30]medio \n %c[0,153,255,255]%c[predeterminado]Agilidad de caнda / salto: %c[255,230,150,30]medio \n %c[0,153,255,255]%c[predeterminado]Aguante en funcionamiento: %c[255,230,150,30]alto \n %c[0,153,255,255]%c[predeterminado]Stamina sprint: %c[255,230,150,30]medio \n %c[0,153,255,255]%c[predeterminado]Peso mбximo de acarreo:  %c[255,230,150,30]medio \n \n %c[0,153,255,255]HEALTH PROFILE \n %c[0,153,255,255]%c[predeterminado]Tasa de consumo de alimentos: %c[255,230,150,30]medio \n %c[0,153,255,255] %c[predeterminado]Necesidad de dormir: %c[255,230,150,30]bajo \n \n %c[0,153,255,255]RESISTENCIA DEL SISTEMA INMUNITARIO \n %c[0,153,255,255]%c[predeterminado]Drogas / alcohol: %c[255,230,150, 30]B \n %c[0,153,255,255]%c[predeterminado]Comida no saludable: %c[255,230,150,30]A +\n %c[0,153,255,255]%c[predeterminado]Artefactos: %c[255,230,150,30]B \n %c[0,153,255,255]%c[predeterminado]Radiaciуn: %c[255,230,150,30]B</text>
+	</string>
+	<string id="st_morphine">
+		<text>Ampolla de morfina</text>
+	</string>
+	<string id="st_morphine_descr">
+		<text>Una ampolla de hierro diseсada como equipo de campo para el personal de campo militar para la reducciуn inmediata del dolor. Esta ampolla contiene una poderosa dosis de morfina. En la medicina clнnica, la morfina es considerado como el estбndar de oro de los analgйsicos opioides utilizados para aliviar el dolor y el sufrimiento severo o agonizante. Al igual que otros opiбceos, como la oxicodona, la hidromorfona y la diacetilmorfina (heroнna), la morfina actъa directamente sobre el sistema nervioso central (SNC) para aliviar el dolor. Inyectado en un brazo o una muslo \n \n %c[0,140,140,140]PROPIEDADES:.\n %c[0,153,255,255] • %c[0,140,140,140]estimulante \n %c[0,153,255,255] • %c[0,140,140,140]uso rбpido (jeringa ) \n %c[0,93,0,116] • %c[0,140,140,140]gran resistencia al daсo adicional \n %c[0,153,255,255] • %c[0,140,140,140]restauraciуn de la salud en el uso moderado \n %c[0,204,0,51 ] • %c[0,140,140,140]efectos secundarios fuertes</text>
+	</string>
+	<string id="st_salicidic_acid">
+		<text>Ampolla de бcido salicнlico</text>
+	</string>
+	<string id="st_salicidic_acid_descr">
+		<text>Una ampolla de hierro diseсada como equipo de campo para el personal de campo militar para la reducciуn inmediata del dolor. Contiene una poderosa dosis de metamizol mezclado con un medicamento antihemorrбgico. Metamizole es uno de los medicamentos antiinflamatorios no esteroideos mбs fuertes (AINE), especialmente eficaz para aliviar los dolores y dolores ademбs de reducir la fiebre. Tambiйn es ъtil como medicamento antiinflamatorio cuando se usa en dosis mбs altas. Puede causar algunos efectos secundarios tardнos, como leucopenia o agranulocitosis, por lo que debe usarse con moderaciуn. Inyectado en un brazo o un muslo. Su disponibilidad en la Zona es limitada debido a la dificultad de contrabandear el medicamento a travйs de cordones militares.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]estimulante \n %c[0,153,255,255 ] • %c[0,140,140,140]uso rбpido (jeringa) \n %c[0,93,0,116] • %c[0,140,140,140]gran resistencia a la resistencia al daсo \n %c[0,153,255,255] • %c[0,140,140,140]restablecimiento moderado de la salud en uso \n %c[0,153,255,255] • %c[0,140,140,140]curaciуn rбpida de heridas \n %c[0,204,0,51] • %c[0,140,140,140]efectos secundarios leves</text>
+	</string>
+	<string id="st_tomato">
+		<text>Tomates enlatados</text>
+	</string>
+	<string id="st_tomato_descr">
+		<text>Los tomates enlatados, cortados en rodajas y cortados en cubitos se importan regularmente a la Zona. La fecha de mejor antes en la parte inferior sugiere que todavнa estбn frescos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]alimento \n %c[0,153,255,255] • %c[ 0,140,140,140]fuente de nutriciуn limpia</text>
+	</string>
+	<string id="st_sausage">
+		<text>Salchicha ahumada</text>
+	</string>
+	<string id="st_sausage_descr">
+		<text>Hecho de carne de res y cerdo. Ahumado y empacado al vacнo, puede conservarse durante largos perнodos de tiempo. Esta pieza en particular ha sido importada de la Federaciуn Rusa. Famoso entre ciertos lнderes de la mafia rusa por su sabor y sabor excepcionales.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]alimento \n %c[0,153,255,255] • %c[0,140,140,140 ]fuente de nutriciуn limpia</text>
+	</string>
+	<string id="st_corn">
+		<text>Maнz enlatado</text>
+	</string>
+	<string id="st_corn_descr">
+		<text>Maнz dulce enlatado importado del exterior. Se puede comer tal como estб, pero hay algunos que lo usan como ingrediente de sopa.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]alimento \n %c[0,153,255,255 ] • %c[0,140,140,140]fuente de nutriciуn limpia</text>
+	</string>
+	<string id="st_mineral_water">
+		<text>Agua mineral</text>
+	</string>
+	<string id="st_mineral_water_descr">
+		<text>Agua mineral de manantiales ucranianos. Carbonatada y con calcio adicional.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]bebida \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]mantenimiento de armas (+1%)</text>
+	</string>
+	<string id="st_hand_rolling_tobacco">
+		<text>Tabaco enrollado a mano</text>
+	</string>
+	<string id="st_hand_rolling_tobacco_descr">
+		<text>Precioso tabaco enrollado a mano, importado de Occidente. Sin ingredientes adicionales, es posible disfrutar del sabor original de la hoja de tabaco en sн.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]estimulante \n %c[0,153,255,255] • %c[0,140,140,140]alivio fuerte contra el daсo psнquico \n %c[0,204,0,51] • %c[0,140,140,140]daсos a la salud</text>
+	</string>
+	<string id="st_beer">
+		<text>Cerveza ucraniana</text>
+	</string>
+	<string id="st_beer_descr">
+		<text>Cerveza ucraniana Otro - ademбs del vodka - bebida popular en la Zona.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]bebida \n %c[0,153,255,255] • %c[0,140,140,140]estimulante \n %c[0,204,0,51] • %c[0,140,140,140]alcohol ligero</text>
+	</string>
+	<string id="st_beans">
+		<text>Judias cocinas</text>
+	</string>
+	<string id="st_beans_descr">
+		<text>Judнas cocidas conservadas traнdas de Occidente. Los frijoles con salsa de tomate pueden traer buenos recuerdos para algunas personas.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]alimento \n %c[0,153,255,255] • %c[0,140,140,140]fuente de nutriciуn limpia</text>
+	</string>
+	<string id="st_chili">
+		<text>Judias con chili</text>
+	</string>
+	<string id="st_chili_descr">
+		<text>Frijoles de chili en conserva importados de Occidente. Popular como ingrediente en algunos platos de la zona.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]alimento \n %c[0,153,255,255] • %c[0,140,140,140]limpio fuente de nutriciуn</text>
+	</string>
+	<string id="st_salmon">
+		<text>Salmуn ahumado</text>
+	</string>
+	<string id="st_salmon_descr">
+		<text>Salmуn ahumado ucraniano Tan pronto como llega a la Zona, el pez cambia de manos hasta que llega al mejor postor. Muy valioso.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]alimento \n %c[0,153,255,255] • %c[0,140,140,140]fuente de nutriciуn limpia</text>
+	</string>
+	<string id="st_raisins">
+		<text>Pasas</text>
+	</string>
+	<string id="st_raisins_descr">
+		<text>Un paquete de pasas. Rico en nutrientes, equilibra el azъcar en la sangre.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]alimento \n %c[0,153,255,255] • %c[0,140,140,140]nutriciуn limpia fuente</text>
+	</string>
+	<string id="st_chocolate">
+		<text>Chocolate</text>
+	</string>
+	<string id="st_chocolate_descr">
+		<text>Chocolate ruso Muy raro en la zona y bastante valioso, aunque su sabor no es nada especial. Recupera muchos recuerdos de infancia cariсosos, que pueden ayudar a calmar el dolor de vivir en las duras e implacables condiciones de la Zona.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]comida \n %c[0,153,255,255] • %c[0,140,140,140]fuente de nutriciуn limpia</text>
+	</string>
+	<string id="st_mint">
+		<text>Mentas "Altoids"</text>
+	</string>
+	<string id="st_mint_descr">
+		<text>Los altoides con sabor a menta importados de Occidente. Son muy refrescantes y eliminan las partнculas de radiaciуn de la boca. Tambiйn parecen reducir la somnolencia por un tiempo breve. Puede tomar hasta 10 mentas a la vez, pero eso es solo porque su boca ya no puede encajar.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]alimento \n %c[0,153,255,255] • %c[0,140,140,140]fuente de nutriciуn limpia</text>
+	</string>
+	<string id="st_caffeine">
+		<text>Pastillas de cafeнna</text>
+	</string>
+	<string id="st_caffeine_descr">
+		<text>Cafeнna y benzoato de sodio que hacen que el sistema nervioso central funcione con la mayor efectividad posible en un momento dado. Reduce la somnolencia en gran medida. Tome dos tabletas a la vez.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]estimulante \n %c[0,153,255,255] • %c[0,140,140,140]mejora de la salud \n %c[0,153,255,255] • %c[0,140,140,140]disminuciуn significativa de somnolencia</text>
+	</string>
+	<string id="st_cuban_cigar">
+		<text>Cigarro cubano</text>
+	</string>
+	<string id="st_cuban_cigar_descr">
+		<text>Este valioso cigarro cubano puede traerte dicha por un corto tiempo, especialmente cuando estбs admirando un agradable atardecer. Algunos stalkeres notaron que fumar tabaco fuerte repele a los mosquitos. Los cigarros cubanos son considerados los mejores del mundo. Un producto raro.\n \n %c[0,210,210,210]NOTA: \n %c[0,170,170,170]Fumar ayudarб a estabilizar el estado mental despuйs de la exposiciуn psi.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255 ] • %c[0,140,140,140]estimulante \n %c[0,153,255,255] • %c[0,140,140,140]alivio fuerte contra el daсo psнquico \n %c[0,204,0,51] • %c[0,140,140,140]daсos a la salud</text>
+	</string>
+	<string id="st_cigarettes_lucky">
+		<text>Cigarrillos "Lucky Strike"</text>
+	</string>
+	<string id="st_cigarettes_lucky_descr">
+		<text>Cigarrillos importados de Occidente. Algunos stalkeres las intercambian por algunas municiones dentro de su facciуn.\n \n %c[0,210,210,210]NOTA: \n %c[0,170,170,170]Fumar ayudarб a estabilizar el estado mental despuйs de la exposiciуn psi.\n \n %c[ 0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]estimulante \n %c[0,153,255,255] • %c[0,140,140,140]alivio promedio contra el daсo psнquico \n %c[0,204,0,51] • %c[0,140,140,140]daсa la salud</text>
+	</string>
+	<string id="st_cigarettes_russian">
+		<text>Cigarrillos "Pedro I"</text>
+	</string>
+	<string id="st_cigarettes_russian_descr">
+		<text>El paquete de cigarrillos mбs barato de la zona. Marca de presupuesto ruso.\n \n %c[0,210,210,210]NOTA: \n %c[0,170,170,170]Fumar ayudarб a estabilizar el estado mental despuйs de exposiciуn psi.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255 ] • %c[0,140,140,140]estimulante \n %c[0,153,255,255] • %c[0,140,140,140]breve alivio de la psi-exposiciуn \n %c[0,204,0,51] • %c[0,140,140,140]daсos a la salud</text>
+	</string>
+	<string id="st_cigar1">
+		<text>Cigarrillos "Spark"</text>
+	</string>
+	<string id="st_cigar1_descr">
+		<text>Un paquete de cigarrillos econуmicos, fuertes y de muy baja calidad. Alguien debe haber fumado la mayorнa de ellos ya que solo quedan unos pocos. El sabor genuino de la URSS se ha conservado cuidadosamente.\n \n %c[0,210,210,210]NOTA: \n %c[0,170,170,170]Fumar ayudarб a estabilizar el estado mental despuйs de la exposiciуn psi.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]estimulante \n %c[0,153,255,255] • %c[0,140,140,140]breve alivio de la psi-exposiciуn \n %c[0,204,0,51] • %c[0,140,140,140]daсos a la salud</text>
+	</string>
+	<string id="st_cigar2">
+		<text>Cigarrillos "Glory"</text>
+	</string>
+	<string id="st_cigar2_descr">
+		<text>Un paquete de cigarrillos econуmicos, fuertes y de muy baja calidad. Alguien debe haber fumado la mayorнa de ellos ya que solo quedan unos pocos. El sabor genuino de la URSS se ha conservado cuidadosamente.\n \n %c[0,210,210,210]NOTA: \n %c[0,170,170,170]Fumar ayudarб a estabilizar el estado mental despuйs de la exposiciуn psi.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]estimulante \n %c[0,153,255,255] • %c[0,140,140,140]breve alivio de la psi-exposiciуn \n %c[0,204,0,51] • %c[0,140,140,140]daсos a la salud</text>
+	</string>
+	<string id="st_cigar3">
+		<text>Cigarrillos "Estrella"</text>
+	</string>
+	<string id="st_cigar3_descr">
+		<text>Un paquete de cigarrillos econуmicos, fuertes y de muy baja calidad. Alguien debe haber fumado la mayorнa de ellos ya que solo quedan unos pocos. El sabor genuino de la URSS se ha conservado cuidadosamente.\n \n %c[0,210,210,210]NOTA: \n %c[0,170,170,170]Fumar ayudarб a estabilizar el estado mental despuйs de la exposiciуn psi.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]estimulante \n %c[0,153,255,255] • %c[0,140,140,140]breve alivio de la psi-exposiciуn \n %c[0,204,0,51] • %c[0,140,140,140]daсos a la salud</text>
+	</string>
+	<string id="st_nuts">
+		<text>Nueces surtidas</text>
+	</string>
+	<string id="st_nuts_descr">
+		<text>Cacahuetes variados, avellanas, anacardos y almendras en una mezcla agradable y popular. El valor nutricional es bastante alto. Importado de Sudбfrica.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]alimento \n %c[0,153,255,255] • %c[0,140,140,140]fuente de nutriciуn limpia</text>
+	</string>
+	<string id="st_upd">
+		<text>Dispositivo de alimentaciуn universal (UPD)</text>
+	</string>
+	<string id="st_upd_descr">
+		<text>Unidad de potencia de la йpoca de la Guerra Frнa del tamaсo de un pequeсo walkie talkie. Acepta casi cualquier tipo de baterнa. Utiliza toda la energнa de las baterнas insertadas y suministra dispositivos electrуnicos con energнa en una corriente mejorada a travйs de un conjunto de micro alambres. Estos pueden conectarse a cualquier equipo, independientemente de su complejidad o edad. Permite a los stalkeres usar y manejar numerosos dispositivos electrуnicos incluso si tienen una sola baterнa.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]fuente de energнa portбtil \n %c[0,153,255,255] • %c[0,140,140,140]admite dispositivos mбs modernos \n %c[0,153,255,255] • %c[0,140,140,140]acepta todos los tipos de baterнa \n %c[0,153,255,255] • %c[0,140,140,140]capacidad de almacenamiento %c[0,170,170,170]3 Ah (amperios-horas)</text>
+	</string>
+	<string id="st_energy">
+		<text>No</text>
+	</string>
+	<string id="st_energy_descr">
+		<text>Las reservas de energнa estбn determinadas por las horas de Amper (Ah).</text>
+	</string>
+	<string id="st_mre">
+		<text>MRE</text>
+	</string>
+	<string id="st_mre_descr">
+		<text>La comida, lista para comer (comъnmente conocida como MRE) es una raciуn de campo autуnoma e individual en envases livianos, desarrollada por los militares de los Estados Unidos para sus miembros de servicio para su uso en combate u otras condiciones de campo donde se organizan instalaciones de alimentos no estбn disponibles. Una MRE se puede usar como una sola comida. El empaque de un MRE estб diseсado para soportar condiciones difнciles y la exposiciуn a los elementos. Contiene un curso junto con una variedad de otros alimentos y bebidas. Si bien se puede comer frнo, por lo general sabe mucho mejor cuando se calienta con el calentador de raciуn sin llama incluido (FRH, un dispositivo de reacciуn exotйrmico activado por agua que emite calor).\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]raciуn militar \n \n %c[0,153,255,255] • %c[0,140,140,140]fuente de nutriciуn limpia \n %c[0,153,255,255] • %c[0,140,140,140]3 porciones en un paquete. 1398 kcal en total</text>
+	</string>
+	<string id="st_ration_ru">
+		<text>Raciуn de comida rusa IRP-B</text>
+	</string>
+	<string id="st_ration_ru_descr">
+		<text>Desayuno, cena y cena todo en un paquete. Incluye varios alimentos cuya funciуn es proporcionar al cuerpo todos los minerales y microelementos esenciales para su salud, asн como equipo de cocina (estructura de metal pequeсa, tabletas de combustible, fуsforos, percutor) y otros artнculos (por ejemplo, servilletas) que facilitan el uso en el campo condiciones Viene con una caja polimйrica que protege los ingredientes de condiciones ambientales peligrosas. La caja polimйrica tiene 3 secciones, cada una para el desayuno, la cena y la cena.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]raciуn militar \n %c[0,153,255,255] •  %c[0,140,140,140]fuente de nutriciуn limpia \n %c[0,153,255,255] • %c[0,140,140,140]7 porciones en un paquete. 3661 kcal en total</text>
+	</string>
+	<string id="st_ration_ukr">
+		<text>Raciуn de comida ucraniana</text>
+	</string>
+	<string id="st_ration_ukr_descr">
+		<text>Esta raciуn de combate ucraniana se basa en una versiуn rusa anterior, y comprende latas disponibles comercialmente y alimentos secos empacados en una caja seccionada (parecida a una bandeja para llevar) hecha de plбstico verde muy fino. Contiene todo lo necesario para proporcionar a un adulto sano todas las calorнas y minerales necesarios durante un solo dнa.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]raciуn militar \n %c[0,153,255,255] • %c[0,140,140,140]fuente de nutriciуn limpia \n %c[0,153,255,255] • %c[0,140,140,140]6 porciones en un paquete. 3186 kcal en total</text>
+	</string>
+	<string id="st_mine_name">
+		<text>PFM-1 Fragmentaciуn mina antipersonal</text>
+	</string>
+	<string id="st_mine_descr">
+		<text>PFM-1 (abreviatura de Mina antipersonal explosiva; nombre de la OTAN: "loro verde") solнa ser una mina antipersonal de emisiуn estбndar del Ejйrcito Rojo, empleada principalmente durante la invasiуn soviйtica de Afganistбn. Su utilizaciуn generalizada durante el conflicto llevу a altas bajas civiles, especialmente entre niсos, ya que las minas dispersas al azar a menudo se confundнan con juguetes debido a su forma y color familiares. Por esta razуn, el PFM-1 obtuvo un apodo siniestro: "Asesino de niсos". ha sido reemplazado por modelos mбs nuevos. Sin embargo, como fue el caso con una variedad de otras armas "retiradas", un gran nъmero de estas minas se ha abierto camino hacia la Zona, convirtiйndose en su principal explosivo explosivo. principalmente por su funcionalidad, facilidad de uso, tamaсo compacto y bajo peso, mientras que su principal inconveniente es una cantidad relativamente pequeсa de material explosivo: su poder a menudo es insuficiente para matar a un stalker fuertemente armado h una sola explosiуn. Por esta razуn, la mina debe usarse en combinaciуn con otros materiales explosivos y actъa como un encendedor. Si no estб armado, la mina no detonarб, incluso si es golpeada con una pistola.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]explosivo \n %c[0,153,255,255 ] • %c[0,140,140,140]нtem militar \n %c[0,153,255,255] • %c[0,140,140,140]mina antipersonal \n %c[0,93,0,116] • %c[0,140,140,140]mecanismo desencadenante: %c[0,170,170,170]]presiуn \n %c[0,93,0,116] • %c[0,140,140,140]potencia de explosiуn: %c[0,170,170,170]pequeсo \n %c[0,93,0,116] • %c[0,140,140,140]radio de explosiуn: %c[0,170,170,170]2,2 m \n %c[0,93,0,116] • %c[0,140,140,140]radio de fragmentos: %c[0,170,170,170]ninguno \n %c[0,93,0,116] • %c[0,140,140,140]av. nъmero de fragmentos: %c[0,170,170,170]ninguno \n %c[0,93,0,116] • %c[0,140,140,140]retraso de explosiуn: %c[0,170,170,170]ninguno</text>
+	</string>
+	<string id="st_ied_rpg">
+		<text>Dispositivo explosivo improvisado (RPG-7)</text>
+	</string>
+	<string id="st_ied_rpg_descr">
+		<text>Dispositivo explosivo improvisado basado en una ojiva OG-7V y partes de una baterнa de automуvil. Parece que ha sido transportado por bastante tiempo y podrнa explotar en cualquier momento. Afortunadamente, el mecanismo de activaciуn asegura que no lo harб a menos que el explosivo sea golpeado directamente por una bala o sometido a otra fuerza fнsica potente. En la zona, los artefactos explosivos improvisadosson bastante populares y los Zoners los utilizan para diversos fines, desde obtener acceso a бreas cerradas hasta emboscadas. Tambiйn se colocan a menudo junto a las minas para amplificar enormemente el poder de explosiуn. IED puede ocultarse de manera efectiva, haciйndolo prбcticamente invisible para todos los demбs.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]explosivo \n %c[0,153,255,255] • %c[0,140,140,140 ]elemento militar \n %c[0,153,255,255] • %c[0,140,140,140]imperceptible cuando se coloca en el suelo \n %c[0,93,0,116] • %c[0,140,140,140]mecanismo desencadenante: %c[0,170,170,170]proximidad \n %c[0,93,0,116] • %c[0,140,140,140]potencia de explosiуn: %c[0,170,170,170]alta \n %c[0,93,0,116] • %c[0,140,140,140]radio de explosiуn: %c[0,170,170,170]7,8 m \n %c[0,93,0,116] • %c[0,140,140,140]radio de fragmentos: %c[0,170,170,170]56 m \n %c[0,93,0,116] • %c[0,140,140,140]av. nъmero de fragmentos: %c[0,170,170,170]440 (metralla) \n %c[0,93,0,116] • %c[0,140,140,140]retardo de explosiуn: %c[0,170,170,170]ninguno</text>
+	</string>
+	<string id="st_ied">
+		<text>Dispositivo explosivo improvisado (quнmico)</text>
+	</string>
+	<string id="st_ied_descr">
+		<text>Dispositivo explosivo improvisado producido a partir de diversas sustancias quнmicas, con un encendedor elйctrico roto y en un recipiente de bolas de acero. Los productos quнmicos utilizados en el dispositivo producen un olor intenso y son muy tуxicos. Este IED es significativamente mбs potente que una versiуn OG-7V mбs comъn. En la zona, los artefactos explosivos improvisadosson bastante populares y los Zoners los utilizan para diversos fines, desde obtener acceso a бreas cerradas hasta emboscadas. Tambiйn suelen colocarse junto a las minas para amplificar en gran medida el poder de la explosiуn. IED puede ocultarse de manera efectiva, haciйndolo prбcticamente invisible para todos los demбs.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]explosivo \n %c[0,153,255,255] • %c[0,140,140,140 ]elemento militar \n %c[0,153,255,255] • %c[0,140,140,140]imperceptible cuando se coloca en el suelo \n %c[0,93,0,116] • %c[0,140,140,140]mecanismo desencadenante: %c[0,170,170,170]proximidad \n %c[0,93,0,116] • %c[0,140,140,140]potencia de explosiуn: %c[0,170,170,170]muy alta \n %c[0,93,0,116] • %c[0,140,140,140]radio de explosiуn: %c[0,170,170,170]12,9 m \n %c[0,93,0,116] • %c[0,140,140,140]radio de los fragmentos: %c[0,170,170,170]74 m \n %c[0,93,0,116] • %c[0,140,140,140]av. nъmero de fragmentos: %c[0,170,170,170]580 (bolas de acero) \n %c[0,93,0,116] • %c[0,140,140,140]retardo de explosiуn: %c[0,170,170,170]ninguno</text>
+	</string>
+	<string id="st_mine_wire">
+		<text>Trampa de Booby</text>
+	</string>
+	<string id="st_mine_wire_descr">
+		<text>Dispositivo explosivo improvisado basado en una ojiva RPG-7 y partes de una baterнa de automуvil. Parece que ha sido transportado por bastante tiempo y podrнa explotar en cualquier momento. Afortunadamente, el mecanismo de activaciуn asegura que no lo harб a menos que el explosivo sea golpeado directamente por una bala o sometido a otra fuerza fнsica potente. En la zona, los artefactos explosivos improvisadosson bastante populares y los Zoners los utilizan para diversos fines, desde obtener acceso a бreas cerradas hasta emboscadas. Tambiйn se colocan a menudo junto a las minas para amplificar enormemente el poder de explosiуn. IED puede ocultarse de manera efectiva, haciйndolo prбcticamente invisible para todos los demбs.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]explosivo \n %c[0,153,255,255] • %c[0,140,140,140 ]elemento militar \n %c[0,153,255,255] • %c[0,140,140,140]imperceptible cuando se coloca en el suelo \n %c[0,93,0,116] • %c[0,140,140,140]mecanismo desencadenante: %c[0,170,170,170]proximidad \n %c[0,93,0,116] • %c[0,140,140,140]potencia de explosiуn: %c[0,170,170,170]baja \n %c[0,93,0,116] • %c[0,140,140,140]radio de explosiуn: %c[0,170,170,170]2,1 m \n %c[0,93,0,116] • %c[0,140,140,140]radio de fragmentos: %c[0,170,170,170]5 m \n %c[0,93,0,116] • %c[0,140,140,140]av. nъmero de fragmentos: %c[0,170,170,170]120 (metralla) \n %c[0,93,0,116] • %c[0,140,140,140]retraso de explosiуn: %c[0,170,170,170]ninguno</text>
+	</string>
+	<string id="st_balon_gas">
+		<text>Tanque de gasolina (8 litros)</text>
+	</string>
+	<string id="st_balon_gas_descr">
+		<text>\n \n %c[0,204,0,51]ADVERTENCIA: explota al impactar \n \n %c[0,170,170,170]Globo de gas de metal pesado impregnado con polнmero compatible en el interior y en el exterior con Hypalon para la abrasiуn climбtica y la resistencia a los rayos UV. Este globo de soporte de gas es un tanque de almacenamiento intermediado colapsable para cualquier gas industrial, antes de ser embotellado bajo presiуn. En la Zona, tales botes contienen a menudo una composiciуn de metano, propano, etano y butano, y se pueden usar para cocinar o calentar, asн como para fines de combate. Tras un tiroteo directo, el cartucho puede encenderse y despuйs de un rato puede producirse una liberaciуn rбpida de una cantidad considerable de energнa, causando que el gas en el globo se expanda instantбneamente y resultando en una explosiуn demorada pero potente con metralla metбlica en todas direcciones. Tales botes han sido utilizados como un arma en las peleas entre facciones en la Zona matando a muchos y paralizando aъn mбs. Si se vacнa, el globo puede utilizarse para reparaciones de blindaje.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]explosivo \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]contiene: %c[0,170,170,170]gas natural refinado \n %c[0,0,255,30] • %c[0,140,140,140]combustible de cocina de alto nivel \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciones de equipos (+3%) \n %c[0,93,0,116] • %c[0,140,140,140]mecanismo de activaciуn: %c[ 0,170,170,170]impacto o explosiуn de bala \n %c[0,93,0,116] • %c[0,140,140,140]potencia de explosiуn: %c[0,170,170,170]muy alto \n %c[0,93,0,116] • %c[0,140,140,140]radio de explosiуn: %c[0,170,170,170]6,4 m \n %c[0,93,0,116] • %c[0,140,140,140]radio de fragmentos: %c[0,170,170,170]36 m \n %c[0,93,0,116] •  %c[0,140,140,140]av. nъmero de fragmentos: %c[0,170,170,170]28 (fragmentos de metales pesados) \n %c[0,93,0,116] • %c[0,140,140,140]retraso de la explosiуn: %c[0,170,170,170]~ 2 segundos</text>
+	</string>
+	<string id="st_balon_gas2">
+		<text>Tanque de gasolina (7 litros)</text>
+	</string>
+	<string id="st_balon_gas2_descr">
+		<text>\n \n %c[0,204,0,51]ADVERTENCIA: explota al impactar \n \n %c[0,170,170,170]Globo de gas de metal pesado impregnado con polнmero compatible en el interior y en el exterior con Hypalon para la abrasiуn climбtica y la resistencia a los rayos UV. Este globo de soporte de gas es un tanque de almacenamiento intermediado colapsable para cualquier gas industrial, antes de ser embotellado bajo presiуn. En la Zona, tales botes contienen a menudo una composiciуn de metano, propano, etano y butano, y se pueden usar para cocinar o calentar, asн como para fines de combate. Tras un tiroteo directo, el cartucho puede encenderse y despuйs de un rato puede producirse una liberaciуn rбpida de una cantidad considerable de energнa, causando que el gas en el globo se expanda instantбneamente y resultando en una explosiуn demorada pero potente con metralla metбlica en todas direcciones. Tales botes han sido utilizados como un arma en las peleas entre facciones en la Zona matando a muchos y paralizando aъn mбs. Si se vacнa, el globo puede utilizarse para reparaciones de blindaje.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]explosivo \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]contiene: %c[0,170,170,170]gas natural refinado \n %c[0,0,255,30] • %c[0,140,140,140]combustible de cocina de alto nivel \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciones de equipos (+3%) \n %c[0,93,0,116] • %c[0,140,140,140]mecanismo de activaciуn: %c[ 0,170,170,170]impacto o explosiуn de bala \n %c[0,93,0,116] • %c[0,140,140,140]potencia de explosiуn: %c[0,170,170,170]muy alto \n %c[0,93,0,116] • %c[0,140,140,140]radio de explosiуn: %c[0,170,170,170]5,6 m \n %c[0,93,0,116] • %c[0,140,140,140]radio de fragmentos: %c[0,170,170,170]31,5 m \n %c[0,93,0,116] •  %c[0,140,140,140]av. nъmero de fragmentos: %c[0,170,170,170]28 (fragmentos de metales pesados) \n %c[0,93,0,116] • %c[0,140,140,140]retraso de la explosiуn: %c[0,170,170,170]~ 2 segundos</text>
+	</string>
+	<string id="st_balon_gas3">
+		<text>Tanque de gasolina (6 litros)</text>
+	</string>
+	<string id="st_balon_gas3_descr">
+		<text>\n \n %c[0,204,0,51]ADVERTENCIA: explota al impactar \n \n %c[0,170,170,170]Globo de gas de metal pesado impregnado con polнmero compatible en el interior y en el exterior con Hypalon para la abrasiуn climбtica y la resistencia a los rayos UV. Este globo de soporte de gas es un tanque de almacenamiento intermediado colapsable para cualquier gas industrial, antes de ser embotellado bajo presiуn. En la Zona, tales botes contienen a menudo una composiciуn de metano, propano, etano y butano, y se pueden usar para cocinar o calentar, asн como para fines de combate. Tras un tiroteo directo, el cartucho puede encenderse y despuйs de un rato puede producirse una liberaciуn rбpida de una cantidad considerable de energнa, causando que el gas en el globo se expanda instantбneamente y resultando en una explosiуn demorada pero potente con metralla metбlica en todas direcciones. Tales botes han sido utilizados como un arma en las peleas entre facciones en la Zona matando a muchos y paralizando aъn mбs. Si se vacнa, el globo puede utilizarse para reparaciones de blindaje.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]explosivo \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]contiene: %c[0,170,170,170]gas natural refinado \n %c[0,0,255,30] • %c[0,140,140,140]combustible de cocina de alto nivel \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciones de equipos (+3%) \n %c[0,93,0,116] • %c[0,140,140,140]mecanismo de activaciуn: %c[ 0,170,170,170]impacto o explosiуn de bala \n %c[0,93,0,116] • %c[0,140,140,140]potencia de explosiуn: %c[0,170,170,170]alta \n %c[0,93,0,116] • %c[0,140,140,140]explosiуn radio: %c[0,170,170,170]4,8 m \n %c[0,93,0,116] • %c[0,140,140,140]radio de los fragmentos: %c[0,170,170,170]27 m \n %c[0,93,0,116] • %c[0,140,140,140]av. nъmero de fragmentos: %c[0,170,170,170]28 (fragmentos de metales pesados) \n %c[0,93,0,116] • %c[0,140,140,140]retraso de la explosiуn: %c[0,170,170,170]~ 2 segundos</text>
+	</string>
+	<string id="st_balon_gas4">
+		<text>Tanque de gasolina (5 litros)</text>
+	</string>
+	<string id="st_balon_gas4_descr">
+		<text>\n \n %c[0,204,0,51]ADVERTENCIA: explota al impactar \n \n %c[0,170,170,170]Globo de gas de metal pesado impregnado con polнmero compatible en el interior y en el exterior con Hypalon para la abrasiуn climбtica y la resistencia a los rayos UV. Este globo de soporte de gas es un tanque de almacenamiento intermediado colapsable para cualquier gas industrial, antes de ser embotellado bajo presiуn. En la Zona, tales botes contienen a menudo una composiciуn de metano, propano, etano y butano, y se pueden usar para cocinar o calentar, asн como para fines de combate. Tras un tiroteo directo, el cartucho puede encenderse y despuйs de un rato puede producirse una liberaciуn rбpida de una cantidad considerable de energнa, causando que el gas en el globo se expanda instantбneamente y resultando en una explosiуn demorada pero potente con metralla metбlica en todas direcciones. Tales botes han sido utilizados como un arma en las peleas entre facciones en la Zona matando a muchos y paralizando aъn mбs. Si se vacнa, el globo puede utilizarse para reparaciones de blindaje.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]explosivo \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]contiene: %c[0,170,170,170]gas natural refinado \n %c[0,0,255,30] • %c[0,140,140,140]combustible de cocina de alto nivel \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciones de equipos (+3%) \n %c[0,93,0,116] • %c[0,140,140,140]mecanismo de activaciуn: %c[ 0,170,170,170]impacto o explosiуn de bala \n %c[0,93,0,116] • %c[0,140,140,140]potencia de explosiуn: %c[0,170,170,170]alta \n %c[0,93,0,116] • %c[0,140,140,140]explosiуn radio: %c[0,170,170,170]4 m \n %c[0,93,0,116] • %c[0,140,140,140]radio de los fragmentos: %c[0,170,170,170]22,5 m \n %c[0,93,0,116] • %c[0,140,140,140]av. nъmero de fragmentos: %c[0,170,170,170]28 (fragmentos de metales pesados) \n %c[0,93,0,116] • %c[0,140,140,140]retraso de la explosiуn: %c[0,170,170,170]~ 2 segundos</text>
+	</string>
+	<string id="st_balon_gas5">
+		<text>Tanque de gasolina (4 litros)</text>
+	</string>
+	<string id="st_balon_gas5_descr">
+		<text>\n \n %c[0,204,0,51]ADVERTENCIA: explota al impactar \n \n %c[0,170,170,170]Globo de gas de metal pesado impregnado con polнmero compatible en el interior y en el exterior con Hypalon para la abrasiуn climбtica y la resistencia a los rayos UV. Este globo de soporte de gas es un tanque de almacenamiento intermediado colapsable para cualquier gas industrial, antes de ser embotellado bajo presiуn. En la Zona, tales botes contienen a menudo una composiciуn de metano, propano, etano y butano, y se pueden usar para cocinar o calentar, asн como para fines de combate. Tras un tiroteo directo, el cartucho puede encenderse y despuйs de un rato puede producirse una liberaciуn rбpida de una cantidad considerable de energнa, causando que el gas en el globo se expanda instantбneamente y resultando en una explosiуn demorada pero potente con metralla metбlica en todas direcciones. Tales botes han sido utilizados como un arma en las peleas entre facciones en la Zona matando a muchos y paralizando aъn mбs. Si se vacнa, el globo puede utilizarse para reparaciones de blindaje.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]explosivo \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]contiene: %c[0,170,170,170]gas natural refinado \n %c[0,0,255,30] • %c[0,140,140,140]combustible de cocina de alto nivel \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciones de equipos (+3%) \n %c[0,93,0,116] • %c[0,140,140,140]mecanismo de activaciуn: %c[ 0,170,170,170]impacto o explosiуn de bala \n %c[0,93,0,116] • %c[0,140,140,140]potencia de explosiуn: %c[0,170,170,170]medio \n %c[0,93,0,116] • %c[0,140,140,140]explosiуn radio: %c[0,170,170,170]3,2 m \n %c[0,93,0,116] • %c[0,140,140,140]radio de los fragmentos: %c[0,170,170,170]18 m \n %c[0,93,0,116] • %c[0,140,140,140]av. nъmero de fragmentos: %c[0,170,170,170]28 (fragmentos de metales pesados) \n %c[0,93,0,116] • %c[0,140,140,140]retraso de la explosiуn: %c[0,170,170,170]~ 2 segundos</text>
+	</string>
+	<string id="st_balon_gas6">
+		<text>Tanque de gasolina (3 litros)</text>
+	</string>
+	<string id="st_balon_gas6_descr">
+		<text>\n \n %c[0,204,0,51]ADVERTENCIA: explota al impactar \n \n %c[0,170,170,170]Globo de gas de metal pesado impregnado con polнmero compatible en el interior y en el exterior con Hypalon para la abrasiуn climбtica y la resistencia a los rayos UV. Este globo de soporte de gas es un tanque de almacenamiento intermediado colapsable para cualquier gas industrial, antes de ser embotellado bajo presiуn. En la Zona, tales botes contienen a menudo una composiciуn de metano, propano, etano y butano, y se pueden usar para cocinar o calentar, asн como para fines de combate. Tras un tiroteo directo, el cartucho puede encenderse y despuйs de un rato puede producirse una liberaciуn rбpida de una cantidad considerable de energнa, causando que el gas en el globo se expanda instantбneamente y resultando en una explosiуn demorada pero potente con metralla metбlica en todas direcciones. Tales botes han sido utilizados como un arma en las peleas entre facciones en la Zona matando a muchos y paralizando aъn mбs. Si se vacнa, el globo puede utilizarse para reparaciones de blindaje.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]explosivo \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]contiene: %c[0,170,170,170]gas natural refinado \n %c[0,0,255,30] • %c[0,140,140,140]combustible de cocina de alto nivel \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciones de equipos (+3%) \n %c[0,93,0,116] • %c[0,140,140,140]mecanismo de activaciуn: %c[ 0,170,170,170]impacto o explosiуn de bala \n %c[0,93,0,116] • %c[0,140,140,140]potencia de explosiуn: %c[0,170,170,170]medio \n %c[0,93,0,116] • %c[0,140,140,140]explosiуn radio: %c[0,170,170,170]2,4 m \n %c[0,93,0,116] • %c[0,140,140,140]radio de los fragmentos: %c[0,170,170,170]13,5 m \n %c[0,93,0,116] • %c[0,140,140,140]av. nъmero de fragmentos: %c[0,170,170,170]28 (fragmentos de metales pesados) \n %c[0,93,0,116] • %c[0,140,140,140]retraso de la explosiуn: %c[0,170,170,170]~ 2 segundos</text>
+	</string>
+	<string id="st_balon_gas7">
+		<text>Tanque de gasolina (2 litros)</text>
+	</string>
+	<string id="st_balon_gas7_descr">
+		<text>\n \n %c[0,204,0,51]ADVERTENCIA: explota al impactar \n \n %c[0,170,170,170]Globo de gas de metal pesado impregnado con polнmero compatible en el interior y en el exterior con Hypalon para la abrasiуn climбtica y la resistencia a los rayos UV. Este globo de soporte de gas es un tanque de almacenamiento intermediado colapsable para cualquier gas industrial, antes de ser embotellado bajo presiуn. En la Zona, tales botes contienen a menudo una composiciуn de metano, propano, etano y butano, y se pueden usar para cocinar o calentar, asн como para fines de combate. Tras un tiroteo directo, el cartucho puede encenderse y despuйs de un rato puede producirse una liberaciуn rбpida de una cantidad considerable de energнa, causando que el gas en el globo se expanda instantбneamente y resultando en una explosiуn demorada pero potente con metralla metбlica en todas direcciones. Tales botes han sido utilizados como un arma en las peleas entre facciones en la Zona matando a muchos y paralizando aъn mбs. Si se vacнa, el globo puede utilizarse para reparaciones de blindaje.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]explosivo \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]contiene: %c[0,170,170,170]gas natural refinado \n %c[0,0,255,30] • %c[0,140,140,140]combustible de cocina de alto nivel \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciones de equipos (+3%) \n %c[0,93,0,116] • %c[0,140,140,140]mecanismo de activaciуn: %c[ 0,170,170,170]impacto o explosiуn de bala \n %c[0,93,0,116] • %c[0,140,140,140]potencia de explosiуn: %c[0,170,170,170]bajo \n %c[0,93,0,116] • %c[0,140,140,140]explosiуn radio: %c[0,170,170,170]1,6 m \n %c[0,93,0,116] • %c[0,140,140,140]radio de los fragmentos: %c[0,170,170,170]9 m \n %c[0,93,0,116] • %c[0,140,140,140]av. nъmero de fragmentos: %c[0,170,170,170]28 (fragmentos de metales pesados) \n %c[0,93,0,116] • %c[0,140,140,140]retraso de la explosiуn: %c[0,170,170,170]~ 2 segundos</text>
+	</string>
+	<string id="st_balon_gas8">
+		<text>Tanque de gasolina (1 litro)</text>
+	</string>
+	<string id="st_balon_gas8_descr">
+		<text>\n \n %c[0,204,0,51]ADVERTENCIA: explota al impactar \n \n %c[0,170,170,170]Globo de gas de metal pesado impregnado con polнmero compatible en el interior y en el exterior con Hypalon para la abrasiуn climбtica y la resistencia a los rayos UV. Este globo de soporte de gas es un tanque de almacenamiento intermediado colapsable para cualquier gas industrial, antes de ser embotellado bajo presiуn. En la Zona, tales botes contienen a menudo una composiciуn de metano, propano, etano y butano, y se pueden usar para cocinar o calentar, asн como para fines de combate. Tras un tiroteo directo, el cartucho puede encenderse y despuйs de un rato puede producirse una liberaciуn rбpida de una cantidad considerable de energнa, causando que el gas en el globo se expanda instantбneamente y resultando en una explosiуn demorada pero potente con metralla metбlica en todas direcciones. Tales botes han sido utilizados como un arma en las peleas entre facciones en la Zona matando a muchos y paralizando aъn mбs. Si se vacнa, el globo puede utilizarse para reparaciones de blindaje.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]explosivo \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]contiene: %c[0,170,170,170]gas natural refinado \n %c[0,0,255,30] • %c[0,140,140,140]combustible de cocina de alto nivel \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciones de equipos (+3%) \n %c[0,93,0,116] • %c[0,140,140,140]mecanismo de activaciуn: %c[ 0,170,170,170]impacto o explosiуn de bala \n %c[0,93,0,116] • %c[0,140,140,140]potencia de explosiуn: %c[0,170,170,170]bajo \n %c[0,93,0,116] • %c[0,140,140,140]explosiуn radio: %c[0,170,170,170]0,8 m \n %c[0,93,0,116] • %c[0,140,140,140]radio de los fragmentos: %c[0,170,170,170]4,5 m \n %c[0,93,0,116] • %c[0,140,140,140]av. nъmero de fragmentos: %c[0,170,170,170]28 (fragmentos de metales pesados) \n %c[0,93,0,116] • %c[0,140,140,140]retraso de la explosiуn: %c[0,170,170,170]~ 2 segundos</text>
+	</string>
+	<string id="st_balon_gas_empty">
+		<text>Tanque de gasolina (vacнo)</text>
+	</string>
+	<string id="st_balon_gas_empty_descr">
+		<text>Globo de gas de metal pesado vacнo impregnado con polнmero compatible en el interior y en el exterior con Hypalon para la abrasiуn climбtica y la resistencia a los rayos UV. Este globo de soporte de gas es un tanque de almacenamiento intermediado colapsable para cualquier gas industrial, antes de ser embotellado bajo presiуn. En la Zona, tales botes contienen a menudo una composiciуn de metano, propano, etano y butano, y se pueden usar para cocinar o calentar, asн como para fines de combate. Estб vacнo ahora, pero aъn puede usarlo para el mantenimiento del equipo.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[255,238,153, 26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciones de equipamiento (+3%)</text>
+	</string>
+	<string id="st_metalcan_powder">
+		<text>Lata de polvora</text>
+	</string>
+	<string id="st_metalcan_powder_descr">
+		<text>\n \n %c[0,204,0,51]ADVERTENCIA: explota al impactar \n \n %c[0,170,170,170]Una lata de metal pequeсa y moderadamente pesada rellena con una mezcla de quнmicos industriales explosivos, pernos de metal y tuercas, asн como pуlvora negra recuperada de la municiуn vieja. Una notoria trampa mortal diseсada por un grupo de bandidos rusos conocidos como "los Swireksters" y vendida a varios grupos de bandidos que operan en Zaton y Jъpiter. Tras disparos directos, la lata explotarб instantбneamente con pernos de metal y productos quнmicos corrosivos que explotan en todas las direcciones. Nadie en su sano juicio deberнa bajar la guardia cuando planea usar este arma mortal. Tambiйn puede usar las partes metбlicas de la lata para el mantenimiento de emergencia de las prendas.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]explosivo \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciones de equipos (+1%) \n %c[0,93,0,116] • %c[0,140,140,140]mecanismo de activaciуn: %c[0,170,170,170]impacto o explosiуn de bala \n %c[0,93,0,116] • %c[0,140,140,140]potencia de explosiуn: %c[0,170,170,170]bajo \n %c[0,93, 0,116] • %c[0,140,140,140]radio de explosiуn: %c[0,170,170,170]1,8 m \n %c[0,93,0,116] • %c[0,140,140,140]radio de fragmentos: %c[0,170,170,170]14 m \n %c[0,93,0,116] • %c[0,140,140,140]av. nъmero de fragmentos: %c[0,170,170,170]77 (pequeсas piezas de metal) \n %c[0,93,0,116] • %c[0,140,140,140]retraso de la explosiуn: %c[0,170,170,170]ninguno</text>
+	</string>
+	<string id="st_jerrycan_item">
+		<text>Bidуn</text>
+	</string>
+	<string id="st_jerrycan_fuel">
+		<text>Bidуn (8 litros)</text>
+	</string>
+	<string id="st_jerrycan_fuel_descr">
+		<text>\n \n %c[0,204,0,51]ADVERTENCIA: explota al impactar \n \n %c[0,170,170,170]Una gran lata de metal llena de gasolina E95. Los militares ucranianos trajeron Jerrycans a la Zona en grandes cantidades para sus vehнculos blindados. Inicialmente, cumplieron su propуsito, pero despuйs del segundo desastre de Chernobyl, vehнculos por razones aъn desconocidas ya no estaban operativos. Mientras que algunos Zoners todavнa estбn tratando de hacer que los restos vuelvan a funcionar, otros han encontrado formas alternativas de utilizar los bidones, es decir, como explosivos improvisados. En caso de golpe directo, el bote se incendiarб y explotarб despuйs de un ligero retraso. Aunque pesado y engorroso, es extremadamente poderoso, y un bidуn bien colocado puede ser letal incluso si el blanco usa las armaduras mбs pesadas. Por otro lado, la explosiуn a menudo es tan potente que el asesino se convierte en la vнctima, por lo que es mejor usar estos recipientes con precauciуn. Hay rumores de que un stalker veterano llamado Yuya una vez le salvу la piel al atraer a un pseudogigante a una trampa de bidуn. Vaciу su ъltima revista Makarov y el gigante estallу en llamas con un rugido que se escuchу en todo el Jъpiter.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]explosivo \n %c[0,153,255,255] • %c[0,140,140,140]нtem tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]contiene: %c[0,170,170,170]gasolina E95 \n %c[0,0,255,30] • %c[0,140,140,140 ]combustible de cocina de alto nivel \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]mantenimiento de armas (+4%) \n %c[0,93,0,116] • %c[0,140,140,140]mecanismo desencadenante: %c[0,170,170,170]impacto o explosiуn de bala \n %c[0,93,0,116] • %c[0,140,140,140]potencia de explosiуn: %c[0,170,170,170]alto \n %c[0,93, 0,116] • %c[0,140,140,140]radio de explosiуn: %c[0,170,170,170]5,6 m \n %c[0,93,0,116] • %c[0,140,140,140]radio de fragmentos: %c[0,170,170,170]28 m \n %c[0,93,0,116] • %c[0,140,140,140]av. nъmero de fragmentos: %c[0,170,170,170]39 (fragmentos de metales pesados) \n %c[0,93,0,116] • %c[0,140,140,140]retraso de la explosiуn: %c[0,170,170,170]~ 3 segundos</text>
+	</string>
+	<string id="st_jerrycan_fuel2">
+		<text>Bidуn (7 litros)</text>
+	</string>
+	<string id="st_jerrycan_fuel2_descr">
+		<text>\n \n %c[0,204,0,51]ADVERTENCIA: explota al impactar \n \n %c[0,170,170,170]Una gran lata de metal llena de gasolina E95. Los militares ucranianos trajeron Jerrycans a la Zona en grandes cantidades para sus vehнculos blindados. Inicialmente, cumplieron su propуsito, pero despuйs del segundo desastre de Chernobyl, vehнculos por razones aъn desconocidas ya no estaban operativos. Mientras que algunos Zoners todavнa estбn tratando de hacer que los restos vuelvan a funcionar, otros han encontrado formas alternativas de utilizar los bidones, es decir, como explosivos improvisados. En caso de golpe directo, el bote se incendiarб y explotarб despuйs de un ligero retraso. Aunque pesado y engorroso, es extremadamente poderoso, y un bidуn bien colocado puede ser letal incluso si el blanco usa las armaduras mбs pesadas. Por otro lado, la explosiуn a menudo es tan potente que el asesino se convierte en la vнctima, por lo que es mejor usar estos recipientes con precauciуn. Hay rumores de que un stalker veterano llamado Yuya una vez le salvу la piel al atraer a un pseudogigante a una trampa de bidуn. Vaciу su ъltima revista Makarov y el gigante estallу en llamas con un rugido que se escuchу en todo el Jъpiter.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]explosivo \n %c[0,153,255,255] • %c[0,140,140,140]нtem tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]contiene: %c[0,170,170,170]gasolina E95 \n %c[0,0,255,30] • %c[0,140,140,140 ]combustible de cocina de alto nivel \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]mantenimiento de armas (+4%) \n %c[0,93,0,116] • %c[0,140,140,140]mecanismo desencadenante: %c[0,170,170,170]impacto o explosiуn de bala \n %c[0,93,0,116] • %c[0,140,140,140]potencia de explosiуn: %c[0,170,170,170]alto \n %c[0,93, 0,116] • %c[0,140,140,140]radio de explosiуn: %c[0,170,170,170]4,9 m \n %c[0,93,0,116] • %c[0,140,140,140]radio de fragmentos: %c[0,170,170,170]24,5 m \n %c[0,93,0,116] • %c[0,140,140,140]av. nъmero de fragmentos: %c[0,170,170,170]39 (fragmentos de metales pesados) \n %c[0,93,0,116] • %c[0,140,140,140]retraso de la explosiуn: %c[0,170,170,170]~ 3 segundos</text>
+	</string>
+	<string id="st_jerrycan_fuel3">
+		<text>Bidуn (6 litros)</text>
+	</string>
+	<string id="st_jerrycan_fuel3_descr">
+		<text>\n \n %c[0,204,0,51]ADVERTENCIA: explota al impactar \n \n %c[0,170,170,170]Una gran lata de metal llena de gasolina E95. Los militares ucranianos trajeron Jerrycans a la Zona en grandes cantidades para sus vehнculos blindados. Inicialmente, cumplieron su propуsito, pero despuйs del segundo desastre de Chernobyl, vehнculos por razones aъn desconocidas ya no estaban operativos. Mientras que algunos Zoners todavнa estбn tratando de hacer que los restos vuelvan a funcionar, otros han encontrado formas alternativas de utilizar los bidones, es decir, como explosivos improvisados. En caso de golpe directo, el bote se incendiarб y explotarб despuйs de un ligero retraso. Aunque pesado y engorroso, es extremadamente poderoso, y un bidуn bien colocado puede ser letal incluso si el blanco usa las armaduras mбs pesadas. Por otro lado, la explosiуn a menudo es tan potente que el asesino se convierte en la vнctima, por lo que es mejor usar estos recipientes con precauciуn. Hay rumores de que un stalker veterano llamado Yuya una vez le salvу la piel al atraer a un pseudogigante a una trampa de bidуn. Vaciу su ъltima revista Makarov y el gigante estallу en llamas con un rugido que se escuchу en todo el Jъpiter.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]explosivo \n %c[0,153,255,255] • %c[0,140,140,140]нtem tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]contiene: %c[0,170,170,170]gasolina E95 \n %c[0,0,255,30] • %c[0,140,140,140 ]combustible de cocina de alto nivel \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]mantenimiento de armas (+4%) \n %c[0,93,0,116] • %c[0,140,140,140]mecanismo desencadenante: %c[0,170,170,170]impacto o explosiуn de bala \n %c[0,93,0,116] • %c[0,140,140,140]potencia de explosiуn: %c[0,170,170,170]medio \n %c[0,93, 0,116] • %c[0,140,140,140]radio de explosiуn: %c[0,170,170,170]4,2 m \n %c[0,93,0,116] • %c[0,140,140,140]radio de fragmentos: %c[0,170,170,170]21 m \n %c[0,93,0,116] • %c[0,140,140,140]av. nъmero de fragmentos: %c[0,170,170,170]39 (fragmentos de metales pesados) \n %c[0,93,0,116] • %c[0,140,140,140]retraso de la explosiуn: %c[0,170,170,170]~ 3 segundos</text>
+	</string>
+	<string id="st_jerrycan_fuel4">
+		<text>Bidуn (5 litros)</text>
+	</string>
+	<string id="st_jerrycan_fuel4_descr">
+		<text>\n \n %c[0,204,0,51]ADVERTENCIA: explota al impactar \n \n %c[0,170,170,170]Una gran lata de metal llena de gasolina E95. Los militares ucranianos trajeron Jerrycans a la Zona en grandes cantidades para sus vehнculos blindados. Inicialmente, cumplieron su propуsito, pero despuйs del segundo desastre de Chernobyl, vehнculos por razones aъn desconocidas ya no estaban operativos. Mientras que algunos Zoners todavнa estбn tratando de hacer que los restos vuelvan a funcionar, otros han encontrado formas alternativas de utilizar los bidones, es decir, como explosivos improvisados. En caso de golpe directo, el bote se incendiarб y explotarб despuйs de un ligero retraso. Aunque pesado y engorroso, es extremadamente poderoso, y un bidуn bien colocado puede ser letal incluso si el blanco usa las armaduras mбs pesadas. Por otro lado, la explosiуn a menudo es tan potente que el asesino se convierte en la vнctima, por lo que es mejor usar estos recipientes con precauciуn. Hay rumores de que un stalker veterano llamado Yuya una vez le salvу la piel al atraer a un pseudogigante a una trampa de bidуn. Vaciу su ъltima revista Makarov y el gigante estallу en llamas con un rugido que se escuchу en todo el Jъpiter.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]explosivo \n %c[0,153,255,255] • %c[0,140,140,140]нtem tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]contiene: %c[0,170,170,170]gasolina E95 \n %c[0,0,255,30] • %c[0,140,140,140 ]combustible de cocina de alto nivel \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]mantenimiento de armas (+4%) \n %c[0,93,0,116] • %c[0,140,140,140]mecanismo desencadenante: %c[0,170,170,170]impacto o explosiуn de bala \n %c[0,93,0,116] • %c[0,140,140,140]potencia de explosiуn: %c[0,170,170,170]medio \n %c[0,93, 0,116] • %c[0,140,140,140]radio de explosiуn: %c[0,170,170,170]3,5 m \n %c[0,93,0,116] • %c[0,140,140,140]radio de fragmentos: %c[0,170,170,170]17,5 m \n %c[0,93,0,116] • %c[0,140,140,140]av. nъmero de fragmentos: %c[0,170,170,170]39 (fragmentos de metales pesados) \n %c[0,93,0,116] • %c[0,140,140,140]retraso de la explosiуn: %c[0,170,170,170]~ 3 segundos</text>
+	</string>
+	<string id="st_jerrycan_fuel5">
+		<text>Bidуn (4 litros)</text>
+	</string>
+	<string id="st_jerrycan_fuel5_descr">
+		<text>\n \n %c[0,204,0,51]ADVERTENCIA: explota al impactar \n \n %c[0,170,170,170]Una gran lata de metal llena de gasolina E95. Los militares ucranianos trajeron Jerrycans a la Zona en grandes cantidades para sus vehнculos blindados. Inicialmente, cumplieron su propуsito, pero despuйs del segundo desastre de Chernobyl, vehнculos por razones aъn desconocidas ya no estaban operativos. Mientras que algunos Zoners todavнa estбn tratando de hacer que los restos vuelvan a funcionar, otros han encontrado formas alternativas de utilizar los bidones, es decir, como explosivos improvisados. En caso de golpe directo, el bote se incendiarб y explotarб despuйs de un ligero retraso. Aunque pesado y engorroso, es extremadamente poderoso, y un bidуn bien colocado puede ser letal incluso si el blanco usa las armaduras mбs pesadas. Por otro lado, la explosiуn a menudo es tan potente que el asesino se convierte en la vнctima, por lo que es mejor usar estos recipientes con precauciуn. Hay rumores de que un stalker veterano llamado Yuya una vez le salvу la piel al atraer a un pseudogigante a una trampa de bidуn. Vaciу su ъltima revista Makarov y el gigante estallу en llamas con un rugido que se escuchу en todo el Jъpiter.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]explosivo \n %c[0,153,255,255] • %c[0,140,140,140]нtem tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]contiene: %c[0,170,170,170]gasolina E95 \n %c[0,0,255,30] • %c[0,140,140,140 ]combustible de cocina de alto nivel \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]mantenimiento de armas (+4%) \n %c[0,93,0,116] • %c[0,140,140,140]mecanismo desencadenante: %c[0,170,170,170]impacto o explosiуn de bala \n %c[0,93,0,116] • %c[0,140,140,140]potencia de explosiуn: %c[0,170,170,170]medio \n %c[0,93, 0,116] • %c[0,140,140,140]radio de explosiуn: %c[0,170,170,170]2,8 m \n %c[0,93,0,116] • %c[0,140,140,140]radio de fragmentos: %c[0,170,170,170]14 m \n %c[0,93,0,116] • %c[0,140,140,140]av. nъmero de fragmentos: %c[0,170,170,170]39 (fragmentos de metales pesados) \n %c[0,93,0,116] • %c[0,140,140,140]retraso de la explosiуn: %c[0,170,170,170]~ 3 segundos</text>
+	</string>
+	<string id="st_jerrycan_fuel6">
+		<text>Bidуn (3 litros)</text>
+	</string>
+	<string id="st_jerrycan_fuel6_descr">
+		<text>\n \n %c[0,204,0,51]ADVERTENCIA: explota al impactar \n \n %c[0,170,170,170]Una gran lata de metal llena de gasolina E95. Los militares ucranianos trajeron Jerrycans a la Zona en grandes cantidades para sus vehнculos blindados. Inicialmente, cumplieron su propуsito, pero despuйs del segundo desastre de Chernobyl, vehнculos por razones aъn desconocidas ya no estaban operativos. Mientras que algunos Zoners todavнa estбn tratando de hacer que los restos vuelvan a funcionar, otros han encontrado formas alternativas de utilizar los bidones, es decir, como explosivos improvisados. En caso de golpe directo, el bote se incendiarб y explotarб despuйs de un ligero retraso. Aunque pesado y engorroso, es extremadamente poderoso, y un bidуn bien colocado puede ser letal incluso si el blanco usa las armaduras mбs pesadas. Por otro lado, la explosiуn a menudo es tan potente que el asesino se convierte en la vнctima, por lo que es mejor usar estos recipientes con precauciуn. Hay rumores de que un stalker veterano llamado Yuya una vez le salvу la piel al atraer a un pseudogigante a una trampa de bidуn. Vaciу su ъltima revista Makarov y el gigante estallу en llamas con un rugido que se escuchу en todo el Jъpiter.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]explosivo \n %c[0,153,255,255] • %c[0,140,140,140]нtem tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]contiene: %c[0,170,170,170]gasolina E95 \n %c[0,0,255,30] • %c[0,140,140,140 ]combustible de cocina de alto nivel \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]mantenimiento de armas (+4%) \n %c[0,93,0,116] • %c[0,140,140,140]mecanismo de activaciуn: %c[0,170,170,170]impacto o explosiуn de bala \n %c[0,93,0,116] • %c[0,140,140,140]potencia de explosiуn: %c[0,170,170,170]bajo \n %c[0,93, 0,116] • %c[0,140,140,140]radio de explosiуn: %c[0,170,170,170]2,1 m \n %c[0,93,0,116] • %c[0,140,140,140]radio de fragmentos: %c[0,170,170,170]10,5 m \n %c[0,93,0,116] • %c[0,140,140,140]av. nъmero de fragmentos: %c[0,170,170,170]39 (fragmentos de metales pesados) \n %c[0,93,0,116] • %c[0,140,140,140]retraso de la explosiуn: %c[0,170,170,170]~ 3 segundos</text>
+	</string>
+	<string id="st_jerrycan_fuel7">
+		<text>Bidуn (2 litros)</text>
+	</string>
+	<string id="st_jerrycan_fuel7_descr">
+		<text>\n \n %c[0,204,0,51]ADVERTENCIA: explota al impactar \n \n %c[0,170,170,170]Una gran lata de metal llena de gasolina E95. Los militares ucranianos trajeron Jerrycans a la Zona en grandes cantidades para sus vehнculos blindados. Inicialmente, cumplieron su propуsito, pero despuйs del segundo desastre de Chernobyl, vehнculos por razones aъn desconocidas ya no estaban operativos. Mientras que algunos Zoners todavнa estбn tratando de hacer que los restos vuelvan a funcionar, otros han encontrado formas alternativas de utilizar los bidones, es decir, como explosivos improvisados. En caso de golpe directo, el bote se incendiarб y explotarб despuйs de un ligero retraso. Aunque pesado y engorroso, es extremadamente poderoso, y un bidуn bien colocado puede ser letal incluso si el blanco usa las armaduras mбs pesadas. Por otro lado, la explosiуn a menudo es tan potente que el asesino se convierte en la vнctima, por lo que es mejor usar estos recipientes con precauciуn. Hay rumores de que un stalker veterano llamado Yuya una vez le salvу la piel al atraer a un pseudogigante a una trampa de bidуn. Vaciу su ъltima revista Makarov y el gigante estallу en llamas con un rugido que se escuchу en todo el Jъpiter.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]explosivo \n %c[0,153,255,255] • %c[0,140,140,140]нtem tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]contiene: %c[0,170,170,170]gasolina E95 \n %c[0,0,255,30] • %c[0,140,140,140 ]combustible de cocina de alto nivel \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]mantenimiento de armas (+4%) \n %c[0,93,0,116] • %c[0,140,140,140]mecanismo de activaciуn: %c[0,170,170,170]impacto o explosiуn de bala \n %c[0,93,0,116] • %c[0,140,140,140]potencia de explosiуn: %c[0,170,170,170]bajo \n %c[0,93, 0,116] • %c[0,140,140,140]radio de explosiуn: %c[0,170,170,170]1,4 m \n %c[0,93,0,116] • %c[0,140,140,140]radio de fragmentos: %c[0,170,170,170]7 m \n %c[0,93,0,116] • %c[0,140,140,140]av. nъmero de fragmentos: %c[0,170,170,170]39 (fragmentos de metales pesados) \n %c[0,93,0,116] • %c[0,140,140,140]retraso de la explosiуn: %c[0,170,170,170]~ 3 segundos</text>
+	</string>
+	<string id="st_jerrycan_fuel8">
+		<text>Bidуn (1 litro)</text>
+	</string>
+	<string id="st_jerrycan_fuel8_descr">
+		<text>\n \n %c[0,204,0,51]ADVERTENCIA: explota al impactar \n \n %c[0,170,170,170]Una gran lata de metal llena de gasolina E95. Los militares ucranianos trajeron Jerrycans a la Zona en grandes cantidades para sus vehнculos blindados. Inicialmente, cumplieron su propуsito, pero despuйs del segundo desastre de Chernobyl, vehнculos por razones aъn desconocidas ya no estaban operativos. Mientras que algunos Zoners todavнa estбn tratando de hacer que los restos vuelvan a funcionar, otros han encontrado formas alternativas de utilizar los bidones, es decir, como explosivos improvisados. En caso de golpe directo, el bote se incendiarб y explotarб despuйs de un ligero retraso. Aunque pesado y engorroso, es extremadamente poderoso, y un bidуn bien colocado puede ser letal incluso si el blanco usa las armaduras mбs pesadas. Por otro lado, la explosiуn a menudo es tan potente que el asesino se convierte en la vнctima, por lo que es mejor usar estos recipientes con precauciуn. Hay rumores de que un stalker veterano llamado Yuya una vez le salvу la piel al atraer a un pseudogigante a una trampa de bidуn. Vaciу su ъltima revista Makarov y el gigante estallу en llamas con un rugido que se escuchу en todo el Jъpiter.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]explosivo \n %c[0,153,255,255] • %c[0,140,140,140]нtem tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]contiene: %c[0,170,170,170]gasolina E95 \n %c[0,0,255,30] • %c[0,140,140,140 ]combustible de cocina de alto nivel \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]mantenimiento de armas (+4%) \n %c[0,93,0,116] • %c[0,140,140,140]mecanismo de activaciуn: %c[0,170,170,170]impacto o explosiуn de bala \n %c[0,93,0,116] • %c[0,140,140,140]potencia de explosiуn: %c[0,170,170,170]bajo \n %c[0,93, 0,116] • %c[0,140,140,140]radio de explosiуn: %c[0,170,170,170]0,7 m \n %c[0,93,0,116] • %c[0,140,140,140]radio de fragmentos: %c[0,170,170,170]3,5 m \n %c[0,93,0,116] • %c[0,140,140,140]av. nъmero de fragmentos: %c[0,170,170,170]39 (fragmentos de metales pesados) \n %c[0,93,0,116] • %c[0,140,140,140]retraso de la explosiуn: %c[0,170,170,170]~ 3 segundos</text>
+	</string>
+	<string id="st_jerrycan_fuel_empty">
+		<text>Bidуn (vacнo)</text>
+	</string>
+	<string id="st_jerrycan_fuel_empty_descr">
+		<text>El metal vacнo puede Solo se puede utilizar como material para reparaciones bбsicas de equipo o se puede vender a comerciantes.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]explosivo \n %c[0,153,255,255 ] • %c[0,140,140,140]elemento tecnolуgico \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciones de equipamiento (+2%)</text>
+	</string>
+	<string id="st_wood_stove">
+		<text>Horno de camping casero</text>
+	</string>
+	<string id="st_wood_stove_descr">
+		<text>Este horno plegable compacto estб diseсado para cocinar comidas individuales con madera seca. Sin embargo, dado que la madera que se encuentra dentro de la Zona estб demasiado contaminada como para ser utilizada con ese fin, los stalkeres dependen del carbуn importado como el material combustible mбs barato y mбs ampliamente disponible. La estufa puede producir temperaturas suficientes para asar carne mutante menos envenenada, pero preparar carne mбs tуxica requiere la utilizaciуn de equipos mбs avanzados. Se necesitan habilidades bбsicas de fuego. Fabricado en acero inoxidable y titanio ultraligero.\n \n %c[0,210,210,210]NOTAS: \n %c[0,170,170,170]Aunque el carbуn estб disponible en la Zona a precios relativamente baratos, debe usar una cantidad significativa de este para poder prepara una sola comida. Por esta razуn, el carbуn no es tan rentable como parece. Por otro lado, es relativamente liviano, lo que lo hace perfecto para viajes largos en las profundidades de la Zona.\n \n %c[0,170,170,170]Las carnes mutantes que no requieren preparaciуn de alta temperatura se conocen como "nivel bajo", "Mientras que aquellos que requieren alta temperatura se conocen como" nivel alto ".\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0, 0,255,30] • %c[0,140,140,140]equipo de cocciуn de campo de bajo nivel \n %c[0,0,255,30] • %c[0,140,140,140]combustible: %c[0,170,170,170]carbуn \n %c[0,0,255, 30] • %c[0,140,140,140]utilizable para cocinar carnes de mutantes menores</text>
+	</string>
+	<string id="st_fieldcooker">
+		<text>Cocina de campo</text>
+	</string>
+	<string id="st_fieldcooker_descr">
+		<text>La estufa ha sido probada extensamente durante muchos aсos y se ha utilizado en innumerables expediciones. Es extremadamente robusto, confiable y potente y fue diseсado para manejar situaciones exigentes, altitudes extremas y temperaturas bajas y altas. Tiene un rendimiento muy elevado y se puede utilizar con casi cualquier tipo de combustible, incluidos butano, gasolina / gasolina, diesel, queroseno / parafina e incluso combustible de aviaciуn. Usando la perilla de control separada, puede ajustar la llama al calor que desee, incluso si usa guantes.\n \n %c[0,210,210,210]NOTAS: \n %c[0,170,170,170]Dado que los combustibles se usan en el combustible mъltiple Las estufas son vehнculos de energнa mucho mбs eficientes que la madera o el carbуn, la estufa multicombustible es, a largo plazo, significativamente mбs rentable que las estufas tradicionales de madera o carbуn. Por otro lado, estos combustibles generalmente se transportan en contenedores de metales pesados, lo que los hace mбs adecuados para su uso en bases, en lugar de en operaciones de campo.\n \n %c[0,170,170,170]Carnes mutantes que no requieren altas temperaturas para ser preparados se denominan "niveles bajos", mientras que aquellos que requieren altas temperaturas se conocen como "niveles altos". \n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,0,255,30] • %c[0,140,140,140]equipo de cocciуn de campo de alto nivel \n %c[0,0,255,30] • %c[0,140,140,140]combustible: %c[0,170,170,170]gasolina, gas natural, queroseno \n %c[0,0,255,30] • %c[0,140,140,140]utilizable para cocinar carnes de todos los mutantes</text>
+	</string>
+	<string id="st_kerosene">
+		<text>Queroseno (1 litro)</text>
+	</string>
+	<string id="st_kerosene_4">
+		<text>Queroseno (4 litros)</text>
+	</string>
+	<string id="st_kerosene_3">
+		<text>Queroseno (3 litros)</text>
+	</string>
+	<string id="st_kerosene_2">
+		<text>Queroseno (2 litros)</text>
+	</string>
+	<string id="st_kerosene_5">
+		<text>Queroseno (5 litros)</text>
+	</string>
+	<string id="st_kerosene_descr">
+		<text>El queroseno se usa ampliamente, por ejemplo en la aviaciуn como combustible para cohetes, y como combustible en productos de vidrio, iluminaciуn domйstica y dispositivos de calefacciуn. Al ser un excelente solvente, alcanza fбcilmente los mecanismos internos y, por lo tanto, es ampliamente utilizado en la limpieza y reparaciуn de diversos componentes.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,0,255,30] • %c[0,140,140,140]combustible para cocinar de alto nivel \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]mantenimiento de armas (+3) %)</text>
+	</string>
+	<string id="st_charcoal">
+		<text>Carbуn de leсa (1 kg)</text>
+	</string>
+	<string id="st_charcoal_2">
+		<text>Carbуn de leсa (2 kg)</text>
+	</string>
+	<string id="st_charcoal_3">
+		<text>Carbуn de leсa (3 kg)</text>
+	</string>
+	<string id="st_charcoal_descr">
+		<text>Carbуn de leсa de madera dura para cocinar carne, pescado, verduras en el brasero y barbacoa.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0, 0,255,30] • %c[0,140,140,140]combustible para equipos de cocina de campo de bajo nivel</text>
+	</string>
+	<string id="st_matches">
+		<text>Caja de fуsforos</text>
+	</string>
+	<string id="st_matches_descr">
+		<text>Un conjunto simple de palos de madera de pino impregnada de resina. Cualquiera que haya intentado encender un fuego al aire libre sabe que rбfagas de viento al azar pueden extinguir las llamas muy rбpidamente. El primer set le permite crear un hogar pequeсo pero constante, cuya temperatura es significativamente mбs alta que la del papel o la cera. Algo indispensable en cualquier campaсa, ya que es fбcil de iluminar incluso en mojado.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]utilizado para iniciar incendios</text>
+	</string>
+
+	<!-- new - dead air -->
+	<string id="jup_b200_tech_materials_acetone">
+		<text>Lata de colofonia</text>
+	</string>
+	<string id="jup_b200_tech_materials_acetone_descr">
+		<text>Una lata de colofonia utilizada para soldar. Un objeto raro en la Zona. Aquн se pueden unir fragmentos de objetos rotos con la ayuda de cinta aislante.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]alto valor</text>
+	</string>
+	<string id="jup_b200_tech_materials_capacitor">
+		<text>Paquete de condensadores</text>
+	</string>
+	<string id="jup_b200_tech_materials_capacitor_descr">
+		<text>Los condensadores elйctricos pueden almacenar electricidad. El condensador mбs simple consiste en dos placas de metal y un dielйctrico entre ellos. Es un componente principal de la mayorнa de los dispositivos elйctricos debido a su trabajo importante en la rectificaciуn de la corriente alternativa, el almacenamiento de energнa elйctrica y el ruido de derivaciуn. Son bastante raros en la Zona, pero son muy ъtiles.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]alto valor</text>
+	</string>
+	<string id="jup_b200_tech_materials_textolite">
+		<text>Base Textolite</text>
+	</string>
+	<string id="jup_b200_tech_materials_textolite_descr"> <!-- revision -->
+		<text>Plбstico en capas basado en tela de fibras y aglutinante polimйrico (baquelita, resina de poliйster, resina epoxi). Con la habilidad adecuada puede ser de gran ayuda en la reparaciуn.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]alto valor</text>
+	</string>
+	<string id="jup_b200_tech_materials_transistor">
+		<text>Caja de transistores</text>
+	</string>
+	<string id="jup_b200_tech_materials_transistor_descr">
+		<text>Una caja de transistores BJT de alta calidad. Un transistor consta de tres partes semiconductoras (base, emisor, colector) que sirven juntas para generar, convertir y amplificar oscilaciones elйctricas. El sueсo ъltimo de los ingenieros electrуnicos, si tal milagro traerб a la zona.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]de alto valor</text>
+	</string>
+	<string id="jup_b200_tech_materials_wire">
+		<text>Bobina de alambre de cobre</text>
+	</string>
+	<string id="jup_b200_tech_materials_wire_descr">
+		<text>El alambre de cobre electrotйcnico se utiliza prбcticamente en todos los dispositivos, dispositivos, aparatos, instalaciones, mбquinas donde se produce, transmite o utiliza energнa elйctrica. En su forma pura es raro, pero si es necesario, puede extraerse fбcilmente de radios, walkie-talkies y otros dispositivos electrуnicos comunes.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[ 0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]valor alto</text>
+	</string>
+	<string id="st_itm_artefact_container_name">
+		<text>Contenedor de artefactos</text>
+	</string>
+
+	<string id="st_backpack_light">
+		<text>Mochila de camping</text>
+	</string>
+	<string id="st_backpack_light_desc">
+		<text>Una mochila con suficiente espacio de almacenamiento. йl adentro ha sido modificado para mantener el agua afuera. No es una soluciуn bonita, pero funciona. Una elecciуn popular entre stalkeres y novatos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]equipo</text>
+	</string>
+
+	<string id="st_backpack_heavy">
+		<text>Mochila de viaje</text>
+	</string>
+	<string id="st_backpack_heavy_desc"> <!-- revision -->
+		<text>Una mochila grande para viajes largos. Gracias al sistema de distribuciуn de peso, permite al usuario llevar suficientes suministros y equipos para un viaje de hasta cinco dнas.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]equipo</text>
+	</string>
+
+	<string id="st_airtank">
+		<text>Tanque de oxнgeno</text>
+	</string>
+	<string id="st_airtank_desc">
+		<text>Una parte estбndar del equipo de un acechador para viajes largos. Permite la supervivencia en бreas con altos niveles de contaminaciуn radioactiva y quнmica. El kit incluye una mбscara de respiraciуn simple que permite usar una mбscara de gas cуmodamente sin equipo adicional.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]equipo \n %c[0,153,255,255] • %c[0,140,140,140]no requiere sazonar</text>
+	</string>
+
+	<string id="st_exobackpack_name">
+		<text>Exoesqueleto</text>
+	</string>
+	<string id="st_exobackpack_descr">
+		<text>\n \n %c[0,170,170,170]Una muestra experimental de un exoesqueleto militar. La producciуn de esta armadura se ha interrumpido debido a los costos extraordinariamente altos y algunos defectos de diseсo. A pesar de esto, debido a la posibilidad de aumentar significativamente la movilidad del transportista, todavнa existe demanda y, por lo tanto, se produce secretamente en pequeсos lotes fuera de Ucrania. Una desventaja notable del dispositivo es su base metбlica que, aunque proporciona cierta protecciуn fнsica, estб ampliamente expuesta a la radiaciуn, la electricidad y las altas temperaturas.\n \n %c[0,170,170,170]PROPIEDADES: \n %c[0,153,255,255] •  %c[0,140,140,140]equipo</text>
+	</string>
+
+	<string id="st_itm_backpack_name">
+		<text>Mochila de campo</text>
+	</string>
+	<string id="st_itm_backpack_desc">
+		<text>Esta mochila estб hecha de un material duradero, capaz de soportar las peores condiciones climбticas.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]artнculo diario \n %c[0,153,255,255] • %c[0,140,140,140]se puede usar para crear un alijo</text>
+	</string>
+	<string id="st_itm_sleepbag_name">
+		<text>Bolsa de dormir</text>
+	</string>
+	<string id="st_itm_sleepbag_desc">
+		<text>Un saco de dormir ligero que te mantendrб caliente y seco cuando necesites descansar.</text>
+	</string>
+	<string id="st_itm_repairkit_tier_1_name">
+		<text>Herramientas bбsicas</text>
+	</string>
+	<string id="st_itm_repairkit_tier_1_descr">
+		<text>Un juego de herramientas para niсos. No es probable que sea adecuado para el mantenimiento, pero podrнan ser ъtiles en manos de un tйcnico ahorrativo.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]valor alto \n %c[255,238,153,26] • %c[0,140,140,140]se usa para crear y reparar elementos</text>
+	</string>
+	<string id="st_itm_repairkit_tier_2_name">
+		<text>Herramientas avanzadas</text>
+	</string>
+	<string id="st_itm_repairkit_tier_2_descr"> <!-- revision -->
+		<text>Un buen conjunto de herramientas antiguas, pero a pesar de su edad, parecen estar en buenas condiciones. Un tйcnico probablemente podrнa hacer uso de estos. Contiene un destornillador, un soldador y otras herramientas necesarias para trabajar con equipos de radio. Una cosa irremplazable en situaciones como la interrupciуn de un walkie-talkie o PDA. A pesar de su propуsito directo, puede ser ъtil para una variedad de tipos de trabajos en manos expertas.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]valor alto \n %c[255,238,153,26] • %c[0,140,140,140]se usa para crear y reparar elementos</text>
+	</string>
+	<string id="st_itm_repairkit_tier_3_name">
+		<text>Herramientas expertas</text>
+	</string>
+	<string id="st_itm_repairkit_tier_3_descr">
+		<text>Un conjunto profesional de herramientas de alta calidad para equipos de ajuste fino. Un tйcnico podrнa usar estos para modificar completamente armas y armaduras.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140 ]valor alto \n %c[255,238,153,26] • %c[0,140,140,140]se usa para crear y reparar elementos</text>
+	</string>
+	<string id="st_drugs_kit">
+		<text>Kit de fabricaciуn de drogas</text>
+	</string>
+	<string id="st_drugs_kit_descr"> <!-- revision -->
+		<text>Un caso pequeсo con varios tipos de herramientas diseсadas especнficamente para producir drogas. Contiene algunos paquetes de plбstico, tabletas y ampollas.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]valor alto \n %c[255,238,153,26] • %c[0,140,140,140]se usa para crear elementos</text>
+	</string>
+	<string id="st_itm_stash">
+		<text>Alijo</text>
+	</string>
+	<string id="st_itm_stash_of_character">
+		<text>Escondite de Stalker: %s</text>
+	</string>
+	<string id="st_kerosinka">
+		<text>Lбmpara de keroseno</text>
+	</string>
+	<string id="st_device_glowstick_descr">
+		<text>Genera luz al causar una reacciуn quнmica. Las fuentes de luz quнmica son ampliamente utilizadas por los stalkeres como fuentes de luz autуnomas en diversas situaciones de emergencia y en otros casos cuando no hay acceso a otras fuentes de iluminaciуn. Al ser completamente autosuficientes, duraderos, resistentes al fuego, impermeables y aptos para el almacenamiento a largo plazo, su rango de aplicaciуn es extremadamente amplio.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140 ]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]tiempo de trabajo ilimitado</text>
+	</string>
+	<string id="st_device_glowstick">
+		<text>Barra luminosa</text>
+	</string>
+	<string id="st_device_lighter_descr">
+		<text>Mechero de metal a prueba de viento, producido por Zippo Manufacturing Company en Bradford. La gama de encendedores Zippo incluye miles de diferentes modelos y variedades producidos por la empresa desde 1933, que se caracterizan por el metal, la forma en que se procesa, el diseсo y los dibujos aplicados a los encendedores. Muy popular en la zona de exclusiуn de Chernobyl debido a su fiabilidad. Dicho esto, encontrar una varilla luminosa totalmente funcional original serб difнcil debido a la presencia de muchas copias baratas y falsas.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]tecnolуgica item \n %c[0,153,255,255] • %c[0,140,140,140]no requiere sazonar</text>
+	</string>
+	<string id="st_device_lighter">
+		<text>Encendedor</text>
+	</string>
+	<string id="st_dynamo_hand_descr">
+		<text>Las dнnamos caseras son raras; la mayorнa de los stalkeres prefieren usar un par de baterнas de repuesto compactas. Pero en бreas seguras donde el tamaсo del objeto es menos importante, un dispositivo como este puede ayudar enormemente, permitiendo al usuario recargar las baterнas de todos los componentes electrуnicos sin desperdiciar energнa en las baterнas.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]requiere mantenimiento regular</text>
+	</string>
+	<string id="st_dynamo_hand_name">
+		<text>Dinamo</text>
+	</string>
+</string_table>

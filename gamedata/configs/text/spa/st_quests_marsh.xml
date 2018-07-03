@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<!--===========================================================
+<
+< TEXT STRINGS FOR TASKS ON MARSH (SWAMPS) MAP
+<   CoC 1.4.10 - DoctorX Questlines 1.6
+<
+<   Modified by: DoctorX
+<   Last revised: October 14, 2016
+<
+<===========================================================-->
+<string_table>
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- STORYLINE TASK TEXT STRINGS
+	<!--
+	<!--    Modified by DoctorX
+	<!--    for DoctorX Questlines 1.6
+	<!--    October 14, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Cold (Clear Sky Honcho) Default Storyline Task -->
+
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_default_task_name">
+		<text>Obtener la siguiente tarea</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_default_task_text">
+		<text>Recibe tu prуxima tarea.</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_default_task_about">
+		<text>Sн, hay un amigo mнo que necesita tu ayuda. Ve a verlo</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_default_task_finish">
+		<text>Buena suerte stalker.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Cold (Clear Sky Honcho) Covert Agent Storyline Task -->
+
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_1_name">
+		<text>Agente encubierto</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_1_text">
+		<text>Recupere los documentos que dejу un agente de Clear Sky y devuйlvalos a Lebedev.</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_1_about">
+		<text>Uno de mis operarios me ha dejado algunos documentos en un punto de venta no marcado. Quiero que me los recuperes. No dejes que nadie te siga. Si ves a alguien siguiйndolo, mбtalo de inmediato.</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_1_finish">
+		<text>No fuiste seguido aquн їverdad? Buen trabajo.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Cold (Clear Sky Honcho) Protect Clear Sky Base Storyline Task -->
+
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_2_name">
+		<text>Proteger la base de Clear Sky</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_2_text">
+		<text>Elimina cualquier fuerza hostil en el бrea para evitar que descubra la base Clear Sky.</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_2_about">
+		<text>Ha habido un aumento de la actividad en el pantano. No puedo arriesgarme a que alguien se equivoque en nuestra base. Quiero que limpies el бrea de cualquier persona hostil a Clear Sky.</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_2_finish">
+		<text>Lo has hecho bien. Gracias, stalker.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Cold (Clear Sky Honcho) Find Artefact Storyline Task -->
+
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_3_name">
+		<text>Encuentra un %s para Cold</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_3_text">
+		<text>Cold necesita el %s artefacto.</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_3_about">
+		<text>Stalker, necesito que me traigas un artefacto.</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_3_fetch_about">
+		<text>Encuйntrame un %s. Debo obtener uno para estudiar. Creo que hay propiedades que todavнa no se han descubierto.</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_3_fetch_finish">
+		<text>Ah, maravilloso, encontraste uno. Lo has hecho bien.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Cold (Clear Sky Honcho) Search Agroprom Underground Storyline Task -->
+
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_4_name">
+		<text>Buscar en el subterrбneo de Agroprom</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_4_text">
+		<text>Los documentos militares robados estбn escondidos en los tъneles debajo de Agroprom. Encuйntrelos y devuйlvalos a Cold.</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_4_about">
+		<text>Uno de nuestros agentes ha logrado capturar documentos importantes de las Fuerzas Armadas pero fue asesinado antes de que pudiera traerlos de regreso. Actualmente estбn ocultos en los tъneles debajo de Agroprom. Necesito que te infiltras encubiertamente en el бrea y los encuentres antes que los militares. Regrйsalos aquн de inmediato cuando los hayas encontrado. Buena suerte para ti.</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_4_finish">
+		<text>Excelente trabajo. Lo has hecho bien.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Librarian (Clear Sky Trader) Default Storyline Task -->
+
+	<string id="drx_sl_mar_base_stalker_barmen_default_task_name">
+		<text>Obtener la siguiente tarea</text>
+	</string>
+	<string id="drx_sl_mar_base_stalker_barmen_default_task_text">
+		<text>Recibe tu prуxima tarea.</text>
+	</string>
+	<string id="drx_sl_mar_base_stalker_barmen_default_task_about">
+		<text>Conozco a alguien que podrнa usar tus servicios. Ve a verlo, se sabe que paga bien.</text>
+	</string>
+	<string id="drx_sl_mar_base_stalker_barmen_default_task_finish">
+		<text>Buena suerte stalker.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Librarian (Clear Sky Trader) Clear Out Mutant Lair Storyline Task -->
+
+	<string id="drx_sl_mar_base_stalker_barmen_task_1_name">
+		<text>Limpia una guardia de mutantes para Bibliotecario</text>
+	</string>
+	<string id="drx_sl_mar_base_stalker_barmen_task_1_text">
+		<text>Bibliotecario sabe de una guarida mutante en el бrea que le gustarнa limpiar.</text>
+	</string>
+	<string id="drx_sl_mar_base_stalker_barmen_task_1_about">
+		<text>Hay una guarida mutante no muy lejos de aquн. Ve empujбndolo con un palo.</text>
+	</string>
+	<string id="drx_sl_mar_base_stalker_barmen_task_1_finish">
+		<text>Heh, buen trabajo. Aquн hay algo para su problema.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Librarian (Clear Sky Trader) Procure Supplies Storyline Task -->
+
+	<string id="drx_sl_mar_base_stalker_barmen_task_2_name">
+		<text>Consigue %s para Clear Sky</text>
+	</string>
+	<string id="drx_sl_mar_base_stalker_barmen_task_2_text">
+		<text>Bibliotecario me ha pedido que le traiga %s.</text>
+	</string>
+	<string id="drx_sl_mar_base_stalker_barmen_task_2_about">
+		<text>Podrнa usar tu ayuda. Las provisiones se estбn agotando y no es fбcil conseguir reabastecimiento aquн.</text>
+	</string>
+	<string id="drx_sl_mar_base_stalker_barmen_task_2_fetch_about">
+		<text>Nosotros necesitamos.</text>
+	</string>
+	<string id="drx_sl_mar_base_stalker_barmen_task_2_finish">
+		<text>Gran hombre, gracias.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- CHANGE FACTIONS TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 14, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Cold (Clear Sky Honcho) Payoff Change Factions Task -->
+
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_cf_task_1_name">
+		<text>Obtenga fondos para unirse a Clear Sky</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_cf_task_1_text">
+		<text>Cold te acogerб en Clear Sky por 15,000 RU.</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_cf_task_1_about">
+		<text>Sн, te hemos estado mirando. Serбs una buena opciуn para Clear Sky. Insistimos en que cada iniciado paga una tarifa de 15,000 RU, esto ayuda a financiar nuestra investigaciуn y paga nuestra protecciуn. їQuй dices?</text>
+	</string>
+	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_cf_task_1_finish">
+		<text>Bueno. Estamos contentos de tenerte a bordo de Clear Sky.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- DYNAMIC TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Spore (Clear Sky Trader) Deliver PDA Task -->
+
+	<string id="mar_base_owl_stalker_trader_task_1_name">
+		<text>Entregar PDA a Nimble</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_1_text">
+		<text>Spore necesita que entregues un PDA encriptado a Nimble en Cordon.</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_1_about">
+		<text>De acuerdo, pez gordo. їNecesitar un trabajo? Este PDA necesita ser entregado a un tipo que se queda en el campamento novato en Cordon; Su nombre es бgil. Йl te compensarб en la entrega. No lo dejes caer en un charco o una mierda tonta como esa... o tendrй tu culo. Mientras estйs allн, echa un vistazo a lo que tiene para ofrecer, puede conseguir un buen equipo... por un precio.</text>
+	</string>
+	<!-- DESTROY HELICOPTER FOR SPORE TASK -->
+	<string id="mar_base_owl_stalker_trader_task_2_name">
+		<text>Destruye el helicуptero militar</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_2_text">
+		<text>Spore estб harto y quiere que destruyas el helicуptero. Йl te ofrecerб un descuento si lo sigues.</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_2_about">
+		<text>Ese maldito helicуptero me estб volviendo loco. Tengo malos acъfenos y cada vez que esa puta cosa patrulla la frontera sur hace que mis oнdos griten. Me hace querer golpear una carne de bebй! A la mierda y te darй un descuento, por favor, antes de matar a alguien.</text>
+	</string>
+	<!-- ESCORT SCIENTISTS FOR CLEAR SKY TASK -->
+	<string id="mar_base_owl_stalker_trader_task_3_name">
+		<text>Escoltar cientнficos en los Grandes Pantanos</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_3_text">
+		<text>Los cientнficos de Clear Sky lo han contratado para guiarlos a un lugar especнfico para estudiar. Una vez que su investigaciуn se haya realizado con йxito, devuйlvalos de forma segura al campamento; donde serбs compensado</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_3_about">
+		<text>Los cientнficos aquн en el campamento necesitan un stalker experimentado para llevarlos al campo de estudio. їEstбs preparado para eso? Tu trabajo es mantenerlos vivos y guiarlos a su destino. El fracaso le darб una mala reputaciуn por aquн.</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_3_finish">
+		<text>Gracias, stalker. Puede tener esto como pago por sus servicios.</text>
+	</string>
+
+	<!-- HUNT MUTANTS FOR CLEAR SKY TASK -->
+	<string id="mar_base_stalker_barmen_task_1_name">
+		<text>Caza del mutante en los Grandes Pantanos</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_1_text">
+		<text>Se han detectado mutantes cerca de esta ubicaciуn, lo que hace que el бrea sea peligrosa para algunos lugareсos. Se te ha encomendado liderar una cacerнa para eliminar la amenaza de los mutantes dentro del бrea. Informe a la bibliotecaria despuйs de que el trabajo estй terminado.</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_1_about">
+		<text>їEres un бvido cazador? Necesitamos hacer que las marismas sean un poco mбs seguras limpiando a los mutantes en бreas que nuestra facciуn frecuenta. Tome algunos voluntarios y guнelos en una bъsqueda para eliminar la amenaza.</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_1_finish">
+		<text>ЎFantбstico! Aquн estб su pago. Me asegurarй de correr la voz de que estб a salvo allн una vez mбs. Gracias, stalker.</text>
+	</string>
+
+	<!-- ASSAULT BANDIT CAMP FOR CLEAR SKY TASK -->
+	<string id="mar_base_stalker_barmen_task_2_name">
+		<text>Asalta el campamento de los bandidos</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_2_text">
+		<text>Se te ha encomendado la tarea de eliminar la amenaza de bandidos dentro del бrea. Informe a la bibliotecaria despuйs de que el trabajo estй terminado.</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_2_about">
+		<text>Tenemos un gran problema con los bandidos en el бrea. Esos matones asesinos han estado emboscando nuestros campamentos fuera de la base principal tratando de tomar el territorio. Nos negarб el paso a travйs de muchas rutas seguras a travйs de las marismas; mientras estйn en el бrea. Necesitamos un stalker con experiencia para dirigir una redada en un campamento local de Bandit para limpiarlos. їNos ayudarбs?</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_2_finish">
+		<text>ЎFantбstico! Aquн estб su pago. Me asegurarй de correr la voz de que estб a salvo allн una vez mбs. Gracias, stalker.</text>
+	</string>
+	<!-- FIND MUTANT MEAT FOR CLEAR SKY TASK -->
+	<string id="mar_base_stalker_barmen_task_3_name">
+		<text>Caza %s para Bibliotecario</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_3_text">
+		<text>Despelleja mutantes reciйn muertos para recolectar carne de caza. Luego entrega %s a Bibliotecario en el campamento base de Clear Sky.</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_3_about">
+		<text>Si eres bueno con un rifle y no le temes a unos pocos mutantes, entonces tengo un trabajo para ti. їEstбs interesado?</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_3_fetch_about">
+		<text>Las raciones se estбn agotando y necesito mantener a todos en el estуmago del campamento lleno. Algunos de los tipos me traen una o dos muertes de vez en cuando. Pero ha sido lento ъltimamente, asн que si no estбs demasiado ocupado y estбs fuera, necesito %s. Yo mato y proceso la carne, aquн en mi cocina. Tenga en cuenta que hacer que los mutantes se irriten hace que la carne sea mбs dura por la adrenalina. Ademбs, cuanto menor sea el sangrado, mejor serб la carne. Entonces, solo ten cuidado con tus disparos, їde acuerdo?</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_3_fetch_finish">
+		<text>ЎGenial, eres un buen cazador despuйs de todo! Tengo pago por ti.</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_6_name"> <!-- revision -->
+		<text>Asalta el campamento de los bandidos</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_6_text">
+		<text>Me han pedido que limpie un campamento de los bandidos.</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_6_about">
+		<text>Hasta el norte, hay un campamento notable no muy lejos de aquн. Por lo general, el lugar es bastante tranquilo, pero recientemente algunos bandidos se han establecido allн. Segъn los ъltimos informes, planean fortalecer aъn mбs sus posiciones en los pantanos. Esta es una mala seсal. їTomarнan la misiуn de derribarlos antes de que sea demasiado tarde?</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_6_finish">
+		<text>Genial, ahora los pantanos serбn un lugar mбs tranquilo.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 1 TOOLS FOR NOVIKOV TASK -->
+	<string id="mar_base_stalker_tech_task_1_name">
+		<text>Encuentra %s para Novikov</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_1_text">
+		<text>A Novikov le exige %s para instalar actualizaciones de equipos bбsicos, debe devolverlos a йl si encuentra alguno.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_1_about">
+		<text>Es realmente difнcil encontrar herramientas aquн en la Zona. Serнa capaz de realizar actualizaciones en una mayor variedad de equipos si puedo conseguir algunas herramientas nuevas. Si estбs interesado, te dirй lo que necesito.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_1_fetch_about">
+		<text>Necesito un conjunto de herramientas bбsicas. Debe contener lo que necesito. Si puede traer algo para mн, le estarй agradecido, incluso le ofrecerй un descuento de aquн en adelante.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_1_fetch_finish">
+		<text>ЎHombre maravilloso! Aquн, dйjame arrojarte algo de dinero.</text>
+	</string>
+	<!-- FIND LEVEL 2 TOOLS FOR NOVIKOV TASK -->
+	<string id="mar_base_stalker_tech_task_2_name">
+		<text>Encuentra %s para Novikov</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_2_text">
+		<text>%s son requeridos por Novikov para instalar actualizaciones avanzadas de equipos, debe traerlos de vuelta a йl si encuentra alguno.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_2_about">
+		<text>Realmente podrнa usar mбs herramientas. Me trajiste una buena mierda la ъltima vez, pero necesito un set de mayor calidad. Si estбs interesado, te dirй lo que necesito.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_2_fetch_about">
+		<text>Necesito un conjunto de herramientas avanzadas. Debe contener lo que necesito. Si puede traer algo para mн, le estarй agradecido, incluso le ofrecerй un descuento de aquн en adelante.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_2_fetch_finish">
+		<text>ЎHombre maravilloso! ЎHas resucitado por mн una vez mбs! Aquн, dйjame arrojarte algo de dinero.</text>
+	</string>
+	<!-- FIND LEVEL 3 TOOLS FOR NOVIKOV TASK -->
+	<string id="mar_base_stalker_tech_task_3_name">
+		<text>Encuentra %s para Novikov</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_3_text">
+		<text>A Novikov le exige %s para instalar actualizaciones de equipos expertos, debe devolverlos si encuentra alguno.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_3_about">
+		<text>Realmente podrнa usar mбs herramientas. Me trajiste una buena mierda la ъltima vez, pero necesito un set de mayor calidad. Si estбs interesado, te dirй lo que necesito.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_3_fetch_about">
+		<text>Necesito un conjunto de herramientas expertas. Debe contener lo que necesito. Si puede traer algo para mн, le estarй agradecido, incluso le ofrecerй un descuento de aquн en adelante.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_3_fetch_finish">
+		<text>ЎHombre maravilloso! ЎHas resucitado por mн una vez mбs! Aquн, dйjame arrojarte algo de dinero.</text>
+	</string>
+
+	<!-- ESCORT SCIENTISTS DIALOGS -->
+	<string id="ecolog_companion_task_1_start_dialog_1">
+		<text>Usted es nuestro guнa? Voy a marcar la ubicaciуn en tu PDA. Lidera el camino y nosotros te seguiremos. Despuйs de que completemos nuestro anбlisis, escъpenos de regreso de manera segura. Hбblame nuevamente cuando regresemos al campamento.</text>
+	</string>
+	<string id="ecolog_companion_task_1_start_dialog_2">
+		<text>їSн? Deberнamos ponernos en movimiento, cuanto mбs esperemos, mбs peligroso se vuelve.</text>
+	</string>
+	<string id="ecolog_companion_task_1_complete">
+		<text>Gracias, stalker. Hiciste bien tu trabajo. Aquн estб su pago.</text>
+	</string>
+	<string id="ecolog_companion_task_1_actor_reply">
+		<text>Bueno.</text>
+	</string>
+
+	<!-- FIND SWAMP DOCTOR -->
+	<string id="mar_doctor_task">
+		<text>Misterios de la zona</text>
+	</string>
+	<string id="mar_doctor_task_0">
+		<text>Llegaste a la Zona buscando desentraсar sus misterios, una cara familiar puede contener las respuestas que buscas.</text>
+	</string>
+
+	<!-- MARSH DOCTOR STASH IN PRIPYAT -->
+	<string id="cit_doctor_task">
+		<text>El Hotel Polissya</text>
+	</string>
+	<string id="cit_doctor_task_1">
+		<text>La clave y las coordenadas que le dio el mйdico indican que Strelok escondiу un alijo en una habitaciуn del Hotel Polissya en Pripyat.</text>
+	</string>
+	<string id="cit_doctor_task_2">
+		<text>Has encontrado el hotel en las coordenadas que te dieron, por aquн en alguna parte debe haber la habitaciуn que coincida con la inscripciуn en la llave.</text>
+	</string>
+	<string id="cit_doctor_task_3">
+		<text>Unos pocos objetos dispersos estбn llenos de basura en la habitaciуn abandonada por Strelok. Deben ser investigados por posibles pistas.</text>
+	</string>
+	
+	
+	<string id="mar_smart_terrain_base_doctor_task_1_name"> <!-- revision -->
+		<text>Encuentra %s para Clear Sky</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_task_1_text">
+		<text>El mйdico de Clear Sky le ha encargado que busque y traiga un conjunto de suministros mйdicos.</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_task_1_about">
+		<text>Puedo manejar pequeсas heridas por ahora, pero pocos vendajes y botiquines no mantendrбn vivo a todos para siempre. Necesito un buen conjunto de suministros mйdicos, їme los puedes traer?</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_task_1_fetch_about">
+		<text>Puedo manejar pequeсas heridas por ahora, pero pocos vendajes y botiquines no mantendrбn vivo a todos para siempre. Necesito un buen conjunto de suministros mйdicos, їme los puedes traer?</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_task_1_fetch_finish">
+		<text>Muchas vidas dependen de estas herramientas, Ўgracias!</text>
+	</string>
+	
+</string_table>

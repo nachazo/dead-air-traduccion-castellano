@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="ui_st_abandoned_sawmill">
+		<text>Aserradero abandonado (Zaton)</text>
+	</string>
+	<string id="ui_st_abandoned_school">
+		<text>Escuela abandonada (Ciudad Muerta)</text>
+	</string>
+	<string id="ui_st_abandoned_village">
+		<text>Pueblo abandonado (Almacenes del ejйrcito)</text>
+	</string>
+	<string id="ui_st_brain_scorcher">
+		<text>Cauterizador Cerebral (Radar)</text>
+	</string>
+	<string id="ui_st_car_park">
+		<text>Aparcamiento (Cordon)</text>
+	</string>
+	<string id="ui_st_construction_site">
+		<text>Sitio de construcciуn (Territorio salvaje)</text>
+	</string>
+	<string id="ui_st_container_warehouse">
+		<text>Almacйn de contenedores (Jъpiter)</text>
+	</string>
+	<string id="ui_st_cultural_center">
+		<text>Centro cultural (Pripyat)</text>
+	</string>
+	<string id="ui_st_eastern_factory">
+		<text>Fбbrica oriental (Valle Oscuro)</text>
+	</string>
+	<string id="ui_st_factory_complex">
+		<text>Complejo de fбbrica (Agroprom)</text>
+	</string>
+	<string id="ui_st_hermanns_bunker">
+		<text>El bъnker de Hermann (Jъpiter)</text>
+	</string>
+	<string id="ui_st_hidden_base">
+		<text>Base oculta (Gran Pantano)</text>
+	</string>
+	<string id="ui_st_hideout">
+		<text>Hideout (Afueras)</text>
+	</string>
+	<string id="ui_st_kopachy_village">
+		<text>Pueblo de Kopachy (Jъpiter)</text>
+	</string>
+	<string id="ui_st_lodging_house">
+		<text>Casa de alojamiento (Rostok)</text>
+	</string>
+	<string id="ui_st_machine_yard">
+		<text>Patio de mбquinas (Grandes pantanos)</text>
+	</string>
+	<string id="ui_st_makeshift_barracks">
+		<text>Barracas improvisadas (Rostok)</text>
+	</string>
+	<string id="ui_st_military_base">
+		<text>Base militar (Almacenes del ejйrcito)</text>
+	</string>
+	<string id="ui_st_northern_factory">
+		<text>Fбbrica del norte (Valle Oscuro)</text>
+	</string>
+	<string id="ui_st_power_station">
+		<text>Central elйctrica (CN Chernobyl)</text>
+	</string>
+	<string id="ui_st_processing_station">
+		<text>Estaciуn de procesamiento de residuos (Zaton)</text>
+	</string>
+	<string id="ui_st_pumping_station">
+		<text>Estaciуn de bombeo (Grandes pantanos)</text>
+	</string>
+	<string id="ui_st_river_port">
+		<text>Puerto fluvial (Afueras)</text>
+	</string>
+	<string id="ui_st_rookie_village">
+		<text>Pueblo novato (Cordуn)</text>
+	</string>
+	<string id="ui_st_research_institute">
+		<text>Instituto de investigaciуn (Agroprom)</text>
+	</string>
+	<string id="ui_st_sakharovs_bunker">
+		<text>Bъnker de Sakharov (Yantar)</text>
+	</string>
+	<string id="ui_st_skadovsk_shipwreck">
+		<text>Skadovsk naufragio (Zaton)</text>
+	</string>
+	<string id="ui_st_southern_checkpoint">
+		<text>Punto de control del sur (Cordуn)</text>
+	</string>
+	<string id="ui_st_sports_center">
+		<text>Centro deportivo (Ciudad Muerta)</text>
+	</string>
+	<string id="ui_st_train_hangar">
+		<text>Hangar de tren (Basura)</text>
+	</string>
+	<string id="ui_st_tunnel_entrance">
+		<text>Entrada al tъnel (Jъpiter)</text>
+	</string>
+	<string id="ui_st_tunnel_refuge">
+		<text>Refugio tъnel (Agr. Subterrбneo)</text>
+	</string>
+	<string id="ui_st_tuzla_outpost">
+		<text>Tuzla outpost (Grandes pantanos)</text>
+	</string>
+	<string id="ui_st_village_ruins">
+		<text>Ruinas de la aldea (Grandes pantanos)</text>
+	</string>
+	<string id="ui_st_yanov_station">
+		<text>Estaciуn de Yanov (Jъpiter)</text>
+	</string>
+</string_table>

@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_af_baloon_descr">
+		<text>Un compuesto de varias formaciones orgбnicas huecas, este artefacto emite una sustancia gaseosa que puede neutralizar partнculas quнmicas o tуxicas dentro del cuerpo sin daсarlo. Aparte de esa burbuja, sin embargo, posee numerosas propiedades negativas. Por ejemplo, amplifica en gran medida los efectos de las ondas psy, asн como los campos producidos por mutantes y anomalнas. Esta desventaja no debe tomarse a la ligera: algunos stalkeres han informado que la influencia psнquica era tan potente cuando estaban en posesiуn de una Burbuja que sentнan que se les agrietaba la cabeza desde dentro y que lo ъnico que podнan hacer era gritar de dolor y correr tan lejos como ellos podrian. El mismo mecanismo parece estar en funcionamiento en caso de electro anomalнas: el artefacto conducirб electricidad y aumentarб los amperios de la corriente elйctrica. Ademбs, muchos informes de stalkeres indican que Bubble necesita una fuente de alimentaciуn para ser funcional. Esta fuente de poder es el cuerpo mismo: el artefacto drena la vitalidad y la fuerza de voluntad del usuario, a menudo a una escala tal que induce mareos y en casos extremos causa desmayos. El ъnico otro aspecto positivo de este artefacto es el hecho de que acelera el proceso de cicatrizaciуn y cierra las heridas, sin embargo, es tan potente en este sentido que su alto precio en el mercado y la demanda estбn perfectamente justificados. La producciуn de radiaciуn es mбs alta en la escala de radiaciуn de artefactos. ADVERTENCIA: debido a su naturaleza orgбnica e inestabilidad, es bien sabido que este artefacto arde espontбneamente mбs que cualquier otro artefacto orgбnico y por esta razуn se aconseja abstenerse de usarlo cerca de un fuego o una anomalнa бcida.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]altamente valioso</text>
+	</string>
+	<string id="st_af_baloon_name">
+		<text>Burbuja</text>
+	</string>
+	<string id="st_af_blood_descr">
+		<text>Una formaciуn rojiza de plantas comprimidas fosilizadas, tierra y restos de animales. Puede neutralizar parcialmente los venenos quнmicos al absorberlos y reducir el nivel de toxicidad general en el torrente sanguнneo del usuario.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]altamente valioso</text>
+	</string>
+	<string id="st_af_blood_name">
+		<text>Sangre de piedra</text>
+	</string>
+	<string id="st_af_cristall_descr">
+		<text>Este artefacto se forma en zonas anуmalas con intensa actividad tйrmica. Consume activamente calor excesivo y permanece frнo en todo momento. Tambiйn protegerб al usuario contra los бcidos que se encuentran en anomalнas tуxicas y quнmicas. Por otro lado, la exposiciуn a tales entornos hace que el artefacto aumente la corrosividad de los бcidos debido a mecanismos desconocidos a partir de ahora. Por esta razуn, uno se ve obligado a pesar los pros y los contras de Crystal cuando estб cerca de бreas de alta toxicidad. Tambiйn actъa como conductor de electricidad. Otro efecto positivo que posee este artefacto es que acelera la coagulaciуn si se usa cerca del cuerpo. (Nota: no se recomienda mantener este artefacto en su posesiуn por periodos de tiempo mбs largos ya que los coбgulos de sangre pueden ser peligrosos para la salud). Este artefacto tambiйn es muy buscado por los joyeros fuera de la Zona ya que su nъcleo interno no es radiactivo y se considera de excepcional belleza si se pule y se refina. Solo los primeros 1 cm de su capa exterior emiten radiaciуn. Sin embargo, se recomienda encarecidamente proceder con precauciуn al momento de llevar el artefacto al mercado, ya que la exposiciуn prolongada a cantidades mнnimas de materiales radiactivos puede provocar la muerte del usuario. Cubierto con una capa muy dura. Relativamente pesado debido a la alta densidad. La producciуn de radiaciуn es la mбs baja en la escala de radiaciуn de artefactos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]altamente valioso</text>
+	</string>
+	<string id="st_af_cristall_flower_descr">
+		<text>Este artefacto se parece al queso derretido intercalado con piedras de zafiro. Solo la capa externa amarilla del artefacto parece emitir radiaciуn y mediante un procesamiento cuidadoso es posible extraer las partes azules no radiactivas para obtener joyas y otros fines industriales. Esto se debe al hecho de que si se limpia y pulimenta correctamente, la comparaciуn de zafiros se vuelve mucho mбs explнcita: las piedras son tan duras y duraderas como esta hermosa gema. Esta calidad de ellos y su apariencia los hacen piedras preciosas perfectas y joyeros en todo el mundo se esfuerzan por tenerlos en stock. La utilidad del artefacto, sin embargo, no se limita a sus aplicaciones industriales. Existe evidencia cientнfica que sugiere que las piedras tipo zafiro protegen efectivamente de la toxicidad, mientras que la capa externa aumenta ligeramente la resistencia al calor. Debido a su densidad, el peso del artefacto ha aumentado mбs allб de los estбndares normales y, por lo tanto, es una de las creaciones anуmalas mбs pesadas de la zona. La producciуn de radiaciуn es la mбs baja en la escala de radiaciуn de artefactos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]altamente valioso</text>
+	</string>
+	<string id="st_af_cristall_flower_name">
+		<text>Flor de piedra</text>
+	</string>
+	<string id="st_af_cristall_name">
+		<text>Cristal</text>
+	</string>
+	<string id="st_af_dummy_battery_descr">
+		<text>Este artefacto ofrece un poco mбs de protecciуn psicolуgica que su primo, Moonlight. Comprende elementos electrostбticos, pero los cientнficos aъn no han determinado las condiciones fнsicas exactas requeridas para su formaciуn. El artefacto es bastante popular en la Zona y es valorado por sus residentes y visitantes por sus propiedades energizantes, aunque tiene un efecto adverso en el cuerpo cuando se usa por perнodos prolongados. Sin embargo, se debe tener en cuenta que este artefacto dificulta la coagulaciуn de la sangre y aumenta la tasa de sangrado de las heridas abiertas. Por otro lado, al ser una resistencia poderosa, es bien conocida por su capacidad de proteger a su usuario de dosis letales de electricidad. Este artefacto tambiйn es extremadamente ligero y muy portбtil. La producciуn de radiaciуn es baja en la escala de radiaciуn de artefactos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]altamente valioso</text>
+	</string>
+	<string id="st_af_dummy_battery_name">
+		<text>Baterнa</text>
+	</string>
+	<string id="st_af_dummy_dummy_descr">
+		<text>Shell estб compuesto por dos discos de color azulado conectados por material semitransparente de naturaleza desconocida. Este artefacto extraсo fue considerado carente de propiedades ъtiles por muchos cientнficos durante mucho tiempo. Recientemente se descubriу que, de hecho, es bastante beneficioso. Proporciona un alto nivel de protecciуn psнquica y absorbe la interferencia electromagnйtica, actuando como material de conexiуn a tierra. Cuando el artefacto entra en contacto con el cuerpo, lo harб sentir rejuvenecido y por lo tanto aumenta la recuperaciуn de resistencia. Este efecto tiene en el caso de algunos stalkeres hiperactividad inducida. Una desventaja de este artefacto, sin embargo, es que reduce el nъmero de plaquetas en la sangre, lo que aumenta la tasa de sangrado. Shell es extremadamente ligero y muy portбtil. La producciуn de radiaciуn es muy alta en la escala de radiaciуn de artefactos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]altamente valioso</text>
+	</string>
+	<string id="st_af_dummy_dummy_name">
+		<text>Cбscara</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_descr">
+		<text>Con forma de hйlice de ADN, las cuentas de mamб se crean en la anomalнa del quemador. Una de sus caracterнsticas mбs caracterнsticas es que constantemente pulsan, generando emisiones beneficiosas para el cuerpo humano. Estas emisiones aumentan el metabolismo de cualquier criatura viviente, acelerando la coagulaciуn y la curaciуn de heridas. El mecanismo detrбs de los efectos de este artefacto aъn se desconoce. Las perlas de mamб tambiйn poseen potentes cualidades protectoras: son capaces de proteger el cuerpo y los objetos del calor y los бcidos extremos. Por otro lado, se debe tener en cuenta que la presencia de este artefacto aumenta la corrosividad de los бcidos, lo que lleva a un deterioro acelerado del equipo y un mayor daсo a los tejidos de cualquier organismo vivo. Por lo tanto, se recomienda encarecidamente actuar con precauciуn en ambientes бcidos y tуxicos cuando se poseen bolas de mamб. Otro efecto peligroso de este artefacto es el hecho de que aumentarб la conductividad elйctrica, por lo que la probabilidad de electrocuciуn cuando se usa este artefacto es mucho mayor, especialmente durante tormentas y cerca de anomalнas elйctricas. El peso tambiйn es bastante alto para un artefacto tan pequeсo, lo que lleva a una conclusiуn que es de una densidad extremadamente alta. La producciуn de radiaciуn es baja en la escala de radiaciуn de artefactos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]altamente valioso</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_name">
+		<text>Cuentas de mamб</text>
+	</string>
+	<string id="st_af_electra_moonlight_descr">
+		<text>Este artefacto electrostбtico ъnico puede resonar bajo la influencia de las ondas psy. Los acechadores han aprendido a ajustar el artefacto para que resuene en la fase opuesta a la principal fuente de emisiones, lo que neutraliza significativamente sus efectos. Este orbe de considerable belleza tambiйn aumenta la protecciуn elйctrica al reducir la conductividad en el cuerpo cuando se expone a altos niveles de electricidad. Tambiйn mejora la recuperaciуn de energнa y resistencia, lo que permite a los usuarios sentirse enйrgicos y renovados. Un efecto secundario no deseado es que disminuye la velocidad de curaciуn y la coagulaciуn. Este artefacto tambiйn es extremadamente ligero y muy portбtil. La producciуn de radiaciуn es baja en la escala de radiaciуn de artefactos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]altamente valioso</text>
+	</string>
+	<string id="st_af_electra_moonlight_name">
+		<text>Luz de la luna</text>
+	</string>
+	<string id="st_af_electra_sparkler_descr">
+		<text>Este artefacto tiene la apariencia de telaraсas translъcidas. Al igual que la seda de araсa proteнnica, es pegajosa y tiene propiedades de pegamento. Se puede encontrar mбs comъnmente en o cerca de anomalнas electro y parece haber absorbido sus caracterнsticas particulares: es capaz de suavizar las fluctuaciones en la densidad del campo elйctrico y actъa como una resistencia dйbil, protegiendo al usuario de la electricidad y reduciendo sus efectos daсinos. Cuando se usa, tambiйn se sabe que el artefacto contrarresta ligeramente los efectos nocivos de las psianomalнas o las ondas psi de algunos mutantes. Debido a su naturaleza elйctrica, proporciona al cuerpo una fuente de energнa adicional aunque dйbil. No posee propiedades curativas beneficiosas, ya que el fluido pegajoso producido por el artefacto daсa el tejido vivo y evitarб la coagulaciуn de la sangre. Es extremadamente liviano La producciуn de radiaciуn es la mбs baja en la escala de radiaciуn de artefactos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]altamente valioso</text>
+	</string>
+	<string id="st_af_electra_sparkler_name">
+		<text>Bengala</text>
+	</string>
+	<string id="st_af_electra_flash_descr"> <!-- revision -->
+		<text>Una formaciуn amorfa translъcida, que parece un globo de plasma o una lбmpara de plasma. Tiene la capacidad de aumentar la resistencia del usuario debido a su naturaleza y la forma en que afecta al cuerpo. Con el uso prolongado, pierde su carga y finalmente "muere". Generalmente se encuentra en anomalнas de naturaleza elйctrica. La distribuciуn es omnipresente. Las organizaciones cientнficas, coleccionistas y joyeros han mostrado interйs en este artefacto.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]altamente valioso</text>
+	</string>
+	<string id="st_af_electra_flash_name">
+		<text>Destello</text>
+	</string>
+	<string id="st_af_eye_descr">
+		<text>Este artefacto, que se asemeja al ojo humano, aumenta considerablemente el metabolismo del cuerpo, ayudando a que las heridas cicatricen mбs rбpido. Los stalkeres experimentados dicen que Eye tambiйn trae suerte. Independientemente de la validez de esa afirmaciуn, sus efectos positivos son bastante potentes. En primer lugar, reduce la temperatura del cuerpo del usuario y enfrнa todos los objetos cercanos. En segundo lugar, proporciona una protecciуn sustancial contra todos los tipos de бcidos aumentando gradualmente su pH al nivel del agua (pH de 7). En tercer lugar, este artefacto alivia el dolor y es extremadamente ъtil en el tratamiento de heridas. Estas cualidades beneficiosas, sin embargo, tienen un precio. Este artefacto es extremadamente peligroso cuando se expone a anomalнas quнmicas ya que amplifica su toxicidad y aumenta su potencia. Por lo tanto, es muy recomendable mantener el artefacto en su mochila, nunca en el cuerpo, al explorar бreas tуxicas a menos que tenga un deseo de muerte. El artefacto tambiйn se conoce coloquialmente como "ojo de cobre" ya que conduce electricidad y amplifica sus efectos peligrosos de la misma manera que el cobre. La producciуn de radiaciуn es muy alta en la escala de radiaciуn de artefactos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]altamente valioso</text>
+	</string>
+	<string id="st_af_eye_name">
+		<text>Ojo</text>
+	</string>
+	<string id="st_af_fire_descr">
+		<text>Este artefacto se forma en бreas de alta actividad tйrmica. Produce potentes emisiones de infrarrojos que intensifican los procesos metabуlicos, curando heridas ante los propios ojos de su portador. Como este artefacto es muy raro, es extremadamente valioso. En cuanto a sus efectos, es similar al Ojo ya que reducirб la temperatura del cuerpo del usuario, lo que es especialmente ъtil cuando se expone a fuentes de calor potentes. Tambiйn actъa como una potente resistencia y niega el efecto de los бcidos. Ademбs, sus capacidades de curaciуn son incluso mбs fuertes que en el caso del ojo, ya que se dice que los acechadores en posesiуn de este artefacto han sobrevivido a ser heridos por las quimeras. Gracias a eso, se ha ganado la reputaciуn de ser un artefacto milagroso. Muchos stalkeres le deben sus vidas, y la mayorнa de los cazadores mutantes veteranos lo llevan en caso de que corran peligro. Sin embargo, comparte no solo propiedades positivas sino tambiйn negativas de su primo: entrar en una anomalнa tуxica o quнmica con este artefacto en el cinturуn es un suicidio. Aumentarб la corrosividad de las partнculas quнmicas y mejorarб el efecto adverso de las toxinas en el torrente sanguнneo del usuario. Tambiйn se puede utilizar como un medicamento medico reutilizable, ya que cura las heridas muy rбpidamente. La producciуn de radiaciуn es mбs alta en la escala de radiaciуn de artefactos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]de gran valor</text>
+	</string>
+	<string id="st_af_fire_name">
+		<text>Llama</text>
+	</string>
+	<string id="st_af_fireball_descr">
+		<text>Es un artefacto esfйrico hecho de cristal rojo, creado en la anomalнa del quemador. Tiene una propiedad ъnica: tiene una temperatura constante de 75 grados Fahrenheit / 24 grados Celsius, independientemente de su entorno. Esto le permite absorber el calor de su entorno y crear un pequeсo bolsillo alrededor del usuario que evita que las llamas daсen el cuerpo. La estabilidad de la temperatura es la causa de otro de sus efectos positivos: acelera la velocidad de curaciуn y detiene el sangrado. Tambiйn protegerб al usuario de quemaduras quнmicas. Sin embargo, no se recomienda abordar las anomalнas quнmicas y бcidas cuando se posee el artefacto, ya que aumentarб los efectos adversos de los бcidos y las toxinas en el torrente sanguнneo del usuario. Tambiйn hace que el usuario sea vulnerable a las corrientes elйctricas. Es bastante pesado debido a la alta densidad del material similar al cristal. La producciуn de radiaciуn es la mбs baja en la escala de radiaciуn de artefactos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]altamente valioso</text>
+	</string>
+	<string id="st_af_fireball_name">
+		<text>Bola de fuego</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_descr">
+		<text>Un artefacto relativamente raro que se forma en бreas quнmicas, Kolobok es muy apreciado por su capacidad de curar la mayorнa de los tipos de heridas y detener el sangrado en cuestiуn de minutos. Por razones desconocidas, los cientнficos estбn difundiendo rumores entre los stalkeres de que el artefacto modifica el cуdigo genйtico del portador, lo cual no se ha demostrado y debe considerarse un intento consciente de monopolizar el suministro del artefacto por parte de la comunidad cientнfica. Sin embargo, esto no significa que sea completamente inofensivo. Una desventaja de este artefacto es el hecho de que aumentarб la conductividad elйctrica, por lo que es mejor evitar las anomalнas electro cuando estбn en posesiуn del artefacto, especialmente dado que sus efectos negativos no se equilibran con los positivos. Tambiйn reducirб la recuperaciуn de energнa, que es el resultado de sus apйndices afilados como agujas. Las agujas causan heridas pequeсas y que se curan rбpidamente, que provocan dolor y picazуn constantes, lo que reduce la resistencia. Este artefacto tambiйn debilita la protecciуn contra las emisiones de psy producidas por anomalнas o mutantes, asн como del calor y los бcidos debido a su alta inflamabilidad. Dado su origen quнmico, tambiйn es conocido por su capacidad para aumentar la protecciуn del usuario contra la toxicidad. Ligero y no demasiado pesado para llevar. La producciуn de radiaciуn es muy alta en la escala de radiaciуn de artefactos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]altamente valioso</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_name">
+		<text>Kolobok</text>
+	</string>
+	<string id="st_af_gold_fish_descr">
+		<text>Sucesor directo y una versiуn superior del artefacto Gravi. Como fue el caso de Gravi, fue el cientнfico Sakharov en Yantar quien descubriу sus propiedades ъnicas despuйs de que un estallido / emisiуn masiva golpeara la Zona. Gracias a la meticulosa investigaciуn que siguiу, se estableciу que este nuevo artefacto se produce cuando tres artefactos de Gravi interactъan y son absorbidos por los campos de singularidad de cada uno. Este fenуmeno es extremadamente raro, debido a lo cual el artefacto es altamente valorado. Se rumorea dentro de los cнrculos de Spetsnaz de Ucrania que en la Zona hay agentes del Ministerio de Defensa de la Federaciуn de Rusia cuyo ъnico objetivo es adquirir y transportar Goldfish a laboratorios especializados ubicados fuera de la Zona. El artefacto crea un campo de singularidad gravitacional constante que afecta solo a su vecindad mбs cercana. Sin embargo, se sabe que algunos stalkeres desaparecen sin razуn aparente, dejando solo un Goldfish atrбs. El artefacto proporciona una protecciуn tйrmica y бcida excepcional. Ademбs, tambiйn forma una pelнcula protectora y casi grasienta alrededor de su usuario que tiene cualidades de fuerte retardante de fuego y tambiйn protege al usuario contra el бcido al descomponer los elementos que comprenden бcidos en sustancias mбs simples. Es extremadamente pesado y no se recomienda su uso en largas excursiones a la zona, especialmente durante largos perнodos de tiempo. La producciуn de radiaciуn es mбs alta en la escala de radiaciуn de artefactos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]de gran valor</text>
+	</string>
+	<string id="st_af_gold_fish_name">
+		<text>Pez de colores</text>
+	</string>
+	<string id="st_af_gravi_descr">
+		<text>Gravi estб formado por sustancias metбlicas expuestas a la gravitaciуn prolongada. Esto lo hace capaz de sostener un campo gravitacional, lo que hace que tenga varias propiedades, entre otras aumentando el peso de todos los objetos en su proximidad. Durante mucho tiempo, el artefacto fue un misterio, y fue el cientнfico Sakharov en Yantar quien descubriу por primera vez que Gravi crea un campo de singularidad minъscula de naturaleza gravitacional, el fenуmeno que ocurre en intervalos de 30 minutos. Este artefacto puede producir resultados beneficiosos en medicina o guerra si el mecanismo detrбs de su funcionamiento se aprovecha para los propуsitos de la ciencia. Baste decir que sus propiedades positivas superan por completo a sus aspectos negativos. A saber, aumenta el peso de los objetos como resultado del campo gravitacional y emite dosis letales de radiaciуn. Por otro lado, protegerб al usuario de los efectos nocivos de las anomalнas de fuego que se encuentran en toda la Zona y de los бcidos de anomalнas quнmicas / tуxicas. Sin embargo, en lugar de absorber quнmicos y toxinas mortales, Gravi hace que los compuestos quнmicos se descompongan en sustancias mбs simples gracias a su campo de singularidad. Como se seсalу anteriormente, es extremadamente pesado y no se recomienda su uso en excursiones largas en la zona, especialmente durante largos perнodos de tiempo. La producciуn de radiaciуn es muy alta en la escala de radiaciуn de artefactos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]altamente valioso</text>
+	</string>
+	<string id="st_af_gravi_name">
+		<text>Gravi</text>
+	</string>
+	<string id="st_af_ice_descr">
+		<text>Tambiйn coloquialmente conocido como "copo de nieve radiactivo". A primera vista, este artefacto se asemeja a un Kolobok blanco. Algunos afirman que en realidad es una forma de Kolobok, ya que aumenta en gran medida la resistencia a las corrientes elйctricas mediante la creaciуn de su propio campo elйctrico y la absorciуn de electricidad que pasa a travйs del cuerpo del usuario. Gracias a sus propiedades ъnicas, el artefacto puede aumentar significativamente el tono muscular del portador, lo que mejora en gran medida la recuperaciуn de la resistencia. Debido a su alta radioactividad, los stalkeres en posesiуn de ella a veces se denominan en broma "copos de nieve radiactivos". Cuando se enfrenta a la decisiуn de llevarlo o no en el cinturуn durante una misiуn, debe sopesar cuidadosamente sus pros y sus contras: їlo hace? їPagar para tener mayor resistencia y alta protecciуn contra la electricidad a costa de estar constantemente expuesto a su radiaciуn mortal? Incluso si estб decidido a llevбrselo, debe tenerse en cuenta que no debe utilizarse en largas excursiones a la Zona. Su utilidad en una pelea tambiйn es discutible ya que aumenta la tasa de hemorragia y evita que las heridas se cierren debido a sus apйndices muy afilados que pican al usuario e irritan la piel. Sin embargo, es tan liviano como un copo de nieve y muy fбcil de transportar. La producciуn de radiaciуn es mбs alta en la escala de radiaciуn de artefactos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]de gran valor</text>
+	</string>
+	<string id="st_af_ice_name">
+		<text>Copo de nieve</text>
+	</string>
+	<string id="st_af_medusa_descr">
+		<text>Este artefacto gravitacional atrae y absorbe las partнculas tуxicas / quнmicas, lo que reduce los efectos de la intoxicaciуn tуxica en el cuerpo. Muy comъn en la Zona y utilizado extraoficialmente fuera de la Zona para tratar a personas que han estado expuestas a agentes quнmicos y tуxicos peligrosos o mortales. Este artefacto es bastante pesado ya que el campo gravitacional parece aumentar la masa. Protegerб levemente a su usuario contra el calor extremo y los бcidos producidos respectivamente por fuego y anomalнas quнmicas. La producciуn de radiaciуn es la mбs baja en la escala de radiaciуn de artefactos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]altamente valioso</text>
+	</string>
+	<string id="st_af_medusa_name">
+		<text>Medusa</text>
+	</string>
+	<string id="st_af_mincer_meat_descr">
+		<text>Este artefacto tiene una textura suave, porosa, parecida a la piel y se dice que puede comprimir. Se parece y actъa como una esponja a este respecto, pero revela sus caracterнsticas especiales solo cuando se expone a ciertas condiciones externas. En primer lugar, cuando se encuentra en la proximidad mбs cercana a la fuente de calor, emite un olor a carne quemada. La exposiciуn prolongada puede mejorar su inflamabilidad y hacer que se encienda. Si bien este fenуmeno no daсa el artefacto, puede causar que los objetos cercanos se calienten y, en casos extremos, se incendien junto con el artefacto. Por esta razуn, es seguro concluir que absorbe calor y es capaz de transmitirlo a otros objetos. En segundo lugar, para llevar mбs lejos la metбfora de la esponja, se sabe que los poros de su superficie absorben pequeсas cantidades de toxicidad del medio ambiente. En tercer lugar, el artefacto amplifica levemente los efectos daсinos de los campos psнquicos a los organismos vivos al absorber energнa psнquica y emitirla a un ritmo reducido. En cuarto lugar, Meat Chunk tambiйn es conocido por ser un conductor de electricidad muy parecido a la piel de una criatura viviente. Ciertas fuentes dentro de la comunidad stalker indican ademбs que hace que uno se sienta fнsicamente agotado cuando se utiliza, incluso por perнodos cortos de tiempo. En quinto lugar, probablemente la caracterнstica mбs beneficiosa de este artefacto es su capacidad de cerrar lentamente heridas y curar tejidos daсados. La producciуn de radiaciуn es la mбs baja en la escala de radiaciуn de artefactos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]altamente valioso</text>
+	</string>
+	<string id="st_af_mincer_meat_name">
+		<text>Trozo de carne</text>
+	</string>
+	<string id="st_af_night_star_descr">
+		<text>Este artefacto brillante puede generar un campo de gravedad dirigido localmente que aumenta su masa. Por esta razуn, Nightstar es extremadamente pesado. Proporciona protecciуn contra los бcidos y el calor. Debido a su hermoso nъcleo interno, es muy buscado por joyeros de todo el mundo, sin embargo, es mejor proceder con precauciуn ya que el tratamiento no especializado puede causar que el artefacto explote con suficiente poder para nivelar un edificio pequeсo. Por lo tanto, se recomienda realizar el pulido por medio de maquinaria especializada, lo que minimiza la probabilidad de explosiуn. Ademбs, solo el nъcleo externo del artefacto emite radiaciуn. Nightstar tambiйn absorberб agentes tуxicos y quнmicos del medio ambiente, lo que lo convierte en un valioso artefacto para los cazadores de artefactos, aunque la cantidad de toxicidad absorbida es insignificante. Sin embargo, es relativamente barato e incluso los stalkeres con presupuestos bastante ajustados pueden pagarlo si surge la oportunidad de comprarlo. La producciуn de radiaciуn es baja en la escala de radiaciуn de artefactos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]altamente valioso</text>
+	</string>
+	<string id="st_af_night_star_name">
+		<text>Estrella nocturna</text>
+	</string>
+	<string id="st_af_soul_descr">
+		<text>Soul es un artefacto orgбnico ъnico con propiedades igual de ъnicas: segrega viscosidad pegajosa que aumenta drбsticamente la tasa de recuperaciуn de heridas. Gracias a su precio razonable y apariencia atractiva, este artefacto es un valioso elemento de colecciуn. Debido a su naturaleza orgбnica, Soul es altamente inflamable y no debe llevarse cerca de una fogata o de la mayorнa de las fuentes de calor. Se sabe que arde espontбneamente cuando se expone a temperaturas superiores a 60° C. El artefacto proporciona un alto nivel de protecciуn quнmica y tуxica mediante la absorciуn de agentes quнmicos. Luego los usa como base para producir su sustancia pegajosa que, cuando se aplica a las heridas, alivia el dolor y acelera el proceso de curaciуn. Por otro lado, Soul amplifica los efectos de las ondas psy y aumenta el daсo de la electricidad en el cuerpo. Tambiйn es conocido para drenar la energнa de su usuario. El artefacto no tiene alta densidad y, por lo tanto, no es muy pesado. La producciуn de radiaciуn es baja en la escala de radiaciуn de artefactos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]altamente valioso</text>
+	</string>
+	<string id="st_af_soul_name">
+		<text>Alma</text>
+	</string>
+	<string id="st_af_vyvert_descr">
+		<text>Este artefacto de forma extraсa aparece en lugares con mayor actividad gravitatoria. Actuando como una especie de esponja que absorbe los elementos quнmicos y tуxicos, este artefacto proporciona protecciуn contra los agentes tуxicos externos y contra las partнculas quнmicas que ya han ingresado al cuerpo. Aunque parece casi orgбnico, en realidad es mбs similar al coral. Debido a su naturaleza no orgбnica, no es inflamable. Proporciona protecciуn contra los бcidos y el calor. No existe una facciуn en particular que tenga gran interйs en ella, por lo que se vende principalmente a los cientнficos que estudian y experimentan el artefacto para encontrar el uso para ello. Tiene alta densidad y es extremadamente pesado. La producciуn de radiaciуn es baja en la escala de radiaciуn de artefactos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]altamente valioso</text>
+	</string>
+	<string id="st_af_vyvert_name">
+		<text>Enganchado</text>
+	</string>
+	<string id="st_af_compass">
+		<text>Brъjula</text>
+	</string>
+	<string id="st_af_compass_descr">
+		<text>Un artefacto raro: han pasado varios aсos desde que se encontrу uno. El artefacto puede localizar lagunas en los campos de anomalнa. Se cree que puede ayudar a recorrer los campos de anomalнas mбs complejas completamente sin daсos. Sin embargo, muy pocos saben cуmo manejarlo correctamente.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]altamente valioso</text>
+	</string>
+	<string id="st_oasis_heart">
+		<text>Corazуn del Oasis</text>
+	</string>
+	<string id="st_oasis_heart_descr">
+		<text>Este artefacto fue encontrado en el centro del legendario Oasis. Parece que el Corazуn es una planta cristalizada, que ha adquirido las propiedades curativas del Oasis. A diferencia de la propia Oasis, sin embargo, este artefacto es extremadamente radiactivo \n \n %c[0,140,140,140]PROPIEDADES:\n %c[0,153,225,225] • %c[0,140,140,140]altamente valiosa</text>
+	</string>
+	<string id="st_af_slug_name">
+		<text>Babosa</text>
+	</string>
+	<string id="st_af_slug_descr">
+		<text>Formado por la anomalнa "Fruit Punch". Las cualidades negativas de este artefacto se compensan por el hecho de que aumenta la calidad de la coagulaciуn de la sangre. No es frecuente que uno se encuentre con tal artefacto, y tambiйn lo pagan bien.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]valioso</text>
+	</string>
+	<string id="st_af_mica_name">
+		<text>Mica</text>
+	</string>
+	<string id="st_af_mica_descr">
+		<text>Anomaly "Fruit punch" es capaz de crear dicho artefacto en la colecciуn mбs rara y extrema de condiciones fнsicas. El resultado es un objeto duro semitransparente. Un artefacto raro y costoso.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]valioso</text>
+	</string>
+	<string id="st_af_pellicle_name">
+		<text>Pelнcula</text>
+	</string>
+	<string id="st_af_pellicle_descr">
+		<text>Este artefacto es tan raro que muchos investigadores ni siquiera pueden imaginar que tal sustancia pueda existir en un entorno natural. Emite componentes quнmicos бcidos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]valioso</text>
+	</string>
+	<string id="st_af_thorn_name">
+		<text>Espina</text>
+	</string>
+	<string id="st_af_thorn_descr">
+		<text>El resultado de la interacciуn entre la anomalнa Burnt Fuzz y el cuerpo de un stalker descuidado. El artefacto Thorn atraviesa el cuerpo de su dueсo, pase lo que pase. Pero tambiйn ayuda a limpiar el cuerpo del radionъclido. Muy extendido y barato.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]valioso</text>
+	</string>
+	<string id="st_af_crystal_thorn_name">
+		<text>Espina cristalina</text>
+	</string>
+	<string id="st_af_crystal_thorn_descr">
+		<text>Cristaliza en la anomalнa Burnt Fuzz. Naturalmente elimina la radiaciуn del organismo. Es decir, a travйs de las orejas junto con cierta cantidad de sangre. La pйrdida de sangre tambiйn es posible a travйs de las aberturas superiores. Amplia y bastante efectiva, que es la causa del precio estable en el mercado de artefactos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]valioso</text>
+	</string>
+	<string id="st_af_sea_urchin_name">
+		<text>Pilluelo</text>
+	</string>
+	<string id="st_af_sea_urchin_descr">
+		<text>La anomalнa Burnt Fuzz rara vez da lugar a este artefacto. Aumente la presiуn arterial y, por lo tanto, el cuerpo elimina una gran cantidad de glуbulos rojos. Pero junto con ellos, la radiaciуn almacenada tambiйn abandona el cuerpo. En su trabajo fundamental titulado "Ionizaciуn y polarizaciуn de los componentes de artefactos raros", Sakharov seсalу que el contenido de esta formaciуn tiene una estabilidad crнtica, y no es realista crear dicho artefacto en condiciones de laboratorio en los prуximos diez aсos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]valioso</text>
+	</string>
+
+	<!-- Dead Air -->
+	<string id="st_af_slime_descr"> <!-- revision -->
+		<text>Sustancia translъcida gelatinosa. Generado por anomalнas quнmicas de todo tipo y ampliamente distribuidas. Segъn estudios recientes, "Slime" no es mбs que una colonia de bacterias desconocidas (conocida como U-1), que se alimenta de derivados y restos de vнctimas de anomalнas quнmicas, generando artefactos como "Blood Stone", "Meat Chunk" y "Alma". Cuando se usa, el artefacto absorbe activamente vapores quнmicos peligrosos, protegiendo asн el traje y la piel del huйsped. Aъn se desconoce cuбn peligrosas son las nuevas bacterias, por lo que los artefactos de esta especie son comprados por cientнficos en grandes cantidades para su estudio urgente en varios institutos de investigaciуn fuera de la Zona de exclusiуn.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]valioso</text>
+	</string>
+	<string id="st_af_slime_name">
+		<text>Limo</text>
+	</string>
+	<string id="st_af_thing_descr">
+		<text>El lingote es un nombre comъn para los artefactos de naturaleza gravitacional, que son pequeсas piezas de metal oxidado viejo con diversas propiedades anormales. Tales propiedades se pueden resumir por la reducciуn del peso de las mochilas. Todas las anomalнas del tipo gravitacional pueden generarlo. Usualmente se encuentra en un vertedero de desechos radiactivos y, como resultado, es considerablemente radioactivo. Las organizaciones cientнficas estбn interesadas en el artefacto.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]valioso</text>
+	</string>
+	<string id="st_af_thing_name">
+		<text>Lingote</text>
+	</string>
+	<!-- doubled
+	<string id="st_af_electra_sparkler_descr">
+		<text>?????????????????????????????,?????????????????????????-?????.?????? «????????????»??????,????????????????????????????????.?????????????????????????? ?????? ».?????????????? ???????????????????????.???????????????????????.????? ????????????????????????????? ????????????.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]valuable</text>
+	</string>
+	<string id="st_af_electra_sparkler_name">
+		<text>«????????»</text>
+	</string>
+	 -->
+	<string id="st_af_drop_descr">
+		<text>Compuesto de artefacto de sombra de lбgrima con una superficie brillante. Este artefacto se forma en la anomalнa "Quemador" a altas temperaturas. Con este artefacto, puedes "quemar" una herida abierta sin daсar la salud. Mostrу efectos secundarios en forma de causar fatiga al cuerpo. Con el uso frecuente, se "enfrнa" y se vuelve inutilizable. organizaciones cientнficas y militares han mostrado interйs en este artefacto. \n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,225,225] • %c[0,140,140,140]valioso</text>
+	</string>
+	<string id="st_af_drop_name">
+		<text>Gotita</text>
+	</string>
+	<string id="st_af_surge_name">
+		<text>Regenerador de sobretensiones</text>
+	</string>
+	<string id="st_af_surge_descr">
+		<text>Un dispositivo pequeсo aunque avanzado que absorbe la energнa elйctrica de su entorno mбs cercano. Sirve como una especie de protecciуn, ya que limita la cantidad de electricidad que entra en contacto directo con el cuerpo ya sea bloqueбndolo o cortocircuitбndolo a tierra. Como de hecho es un circuito de resistencia muy sofisticado, el supresor de sobretensiones aumenta en gran medida la resistencia elйctrica del cuerpo. El resultado es que el usuario es golpeado por un voltaje significativamente menor y puede sobrevivir explosiones que normalmente serнan letales. Por lo tanto, es de vital importancia tener un supresor de sobretensiones en su cinturуn cuando estй cerca de anomalнas elйctricas y otras fuentes de electricidad en la zona. Al igual que con todos los objetos metбlicos, puede utilizarse como fuente de material de reparaciуn siempre que se cuente con las herramientas adecuadas y la habilidad suficiente.\n \n %c[0,204,0,51]ADVERTENCIA: \n \n %c[predeterminado ]Cabe seсalar que este mуdulo no podrб funcionar correctamente o proporcionar la protecciуn requerida si su traje no cumple con los requisitos de protecciуn mнnima contra actividades anуmalas y campos anormales.\n \n \n %c[0,140,140,140 ]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]нtem tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]efectividad de mult. las unidades son apilables \n %c[0,153,255,255] • %c[0,140,140,140]no requiere UPD \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciones de equipamiento (+8%)</text>
+	</string>
+	<string id="st_af_frames_name">
+		<text>Marcos de aluminio</text>
+	</string>
+	<string id="st_af_frames_descr">
+		<text>En lugar de simplemente llevar una mochila asegurada por un par de tirantes, uno puede sujetarla al traje mediante marcos de aluminio, lo que optimiza su capacidad de carga. Los marcos estбn hechos de aluminio, que es el material de elecciуn debido a su peso ligero, y algunos elementos externos estбn hechos de plбstico con el fin de lograr la flexibilidad deseada durante el sprint. Toda la construcciуn estб equipada con un sistema de correas y correas para proporcionar un alto grado de ajuste. Este diseсo de calidad permite que las correas de los hombros se ajusten hacia arriba o hacia abajo para que el uso de una mochila sea cуmodo independientemente del tamaсo del torso. Un solo conjunto de marcos reemplaza solo el marco principal de su mochila, pero es posible usar mбs conjuntos para mejorar aъn mбs sus capacidades de transporte. Aunque el sistema estб construido en aluminio liviano, algunas partes pueden resultar ъtiles para reparaciones menores de equipo.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]artнculo diario \n %c[0,153,255,255] • %c[0,140,140,140]efectividad de mult. las unidades son apilables \n %c[255,238,153,26] • %c[0,140,140,140]utilizables para: %c[0,170,170,170]reparaciones de equipamiento (+6%)</text>
+	</string>
+	<string id="st_af_grid_name">
+		<text>Rejilla de titanio</text>
+	</string>
+	<string id="st_af_grid_descr">
+		<text>En lugar de simplemente llevar una mochila asegurada por un par de tirantes, uno puede sujetarla al traje por medio de una rejilla de titanio, que optimiza su capacidad de carga. La rejilla estб hecha de titanio, que es el material de elecciуn debido a su peso ligero y alta durabilidad, y algunos elementos externos estбn hechos de plбstico con el fin de lograr la flexibilidad deseada durante el sprint. Toda la construcciуn estб equipada con un sistema de correas y correas para proporcionar un alto grado de ajuste. Este diseсo de calidad permite que las correas de los hombros se ajusten hacia arriba o hacia abajo para que el uso de una mochila sea cуmodo independientemente del tamaсo del torso. Una sola cuadrнcula reemplaza solo el marco principal de su mochila, pero es posible usar mбs cuadrнculas para mejorar aъn mбs sus capacidades de transporte. Las rejillas se crean a partir de titanio de muy alta calidad, por lo que la grilla desmontada se puede usar como un complemento efectivo de combate o reparaciуn de cascos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]todos los dнas elemento \n %c[0,153,255,255] • %c[0,140,140,140]alta calidad \n %c[0,153,255,255] • %c[0,140,140,140]eficacia de mult. las unidades son apilables \n %c[255,238,153,26] • %c[0,140,140,140]utilizables para: %c[0,170,170,170]reparaciones de equipamiento (+10%)</text>
+	</string>
+	<string id="st_af_freon_name">
+		<text>Mуdulo de emisiуn de freуn</text>
+	</string>
+	<string id="st_af_freon_descr">
+		<text>El mуdulo de emisiуn de freуn estб diseсado para mantener una temperatura constante alrededor del cuerpo a un nivel de 24 grados centнgrados. Por lo tanto, es extremadamente ъtil para minimizar los efectos del calor extremo en situaciones que requieren protecciуn adicional. Emite una gruesa capa de partнculas de aire refrigeradas por freуn que producen un vacнo minъsculo que absorbe el exceso de calor y reduce ligeramente la temperatura alrededor del usuario. Otra caracterнstica del mуdulo de emisiуn de freуn es su capacidad para resistir la electricidad en una medida moderada.\n \n %c[0,204,0,51]ADVERTENCIA: \n \n %c[predeterminado]Debe tenerse en cuenta que este mуdulo ganу no podrб trabajar adecuadamente o proporcionar la protecciуn requerida si su traje no cumple con los requisitos de protecciуn mнnima contra actividades anуmalas y campos anormales. \n \n\n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255 ] • %c[0,140,140,140]нtem tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]efectividad de mult. las unidades son apilables \n %c[0,153,255,255] • %c[0,140,140,140]no requiere UPD</text>
+	</string>
+	<string id="st_af_cooler_name">
+		<text>Enfriador de cuerpo</text>
+	</string>
+	<string id="st_af_cooler_descr">
+		<text>El enfriador de cuerpo es un mуdulo elйctrico diseсado para mantener una temperatura constante alrededor del cuerpo a un nivel de 15 grados Celsius. Por lo tanto, es extremadamente ъtil para minimizar los efectos del calor extremo en situaciones que requieren protecciуn adicional. Emite impulsos elйctricos rбpidos que producen un vacнo minъsculo absorbiendo cualquier exceso de calor y disminuyendo ligeramente la temperatura alrededor del usuario. No requiere agua para funcionar. Otra caracterнstica del enfriador de cuerpo es su capacidad para resistir la electricidad en una medida moderada. En caso de desmontaje de la unidad con un juego de herramientas, la carcasa metбlica puede reutilizarse como material de reparaciуn del equipo.\n \n %c[0,204,0,51]ADVERTENCIA: \n \n %c[predeterminado]Debe tenerse en cuenta que este mуdulo no podrб funcionar correctamente o proporcionar la protecciуn requerida si su traje no cumple con los requisitos de protecciуn mнnima contra actividades anуmalas y campos anormales. \n \n\n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]alta calidad \n %c[0,153,255,255] • %c[0,140,140,140]eficacia de mult. las unidades son apilables \n %c[0,153,255,255] • %c[0,140,140,140]no requiere UPD \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciones de equipamiento (+8%)</text>
+	</string>
+	<string id="st_af_kevlar_name">
+		<text>Placas de cuerpo Kevlar</text>
+	</string>
+	<string id="st_af_kevlar_descr">
+		<text>Las placas de Kevlar son ampliamente conocidas por su capacidad de protecciуn, y son altamente valoradas debido a esta caracterнstica. Realizan una amplia variedad de funciones, la mбs importante de las cuales es absorber el impacto de proyectiles de arma de fuego en el frente y la parte posterior del torso. Constituyen una alternativa ligera a las placas de acero pesadas. Ademбs, cualquier tipo de blindaje tambiйn ayuda a mantener los trajes en buenas condiciones, evitando la degradaciуn por el desgaste. Utilizado por unidades militares en todo el mundo.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento militar \n %c[0,153,255,255] • %c[0,140,140,140]eficacia de mult. las unidades son apilables \n %c[255,238,153,26] • %c[0,140,140,140]utilizables para: %c[0,170,170,170]reparaciones de equipamiento (+12%)</text>
+	</string>
+	<string id="st_af_ironplate_name">
+		<text>Placa de hierro</text>
+	</string>
+	<string id="st_af_ironplate_descr"> <!-- revision -->
+		<text>Las planchas de hierro hechas en casa son muy populares entre los novatos como una alternativa econуmica a la armadura corporal. Tales placas no pueden detener las balas de pistola con la suficiente eficacia, pero pueden proteger contra fragmentos, cortes, mordeduras y otros daсos mecбnicos graves. Cada plato es una pequeсa plancha de hierro 20? 20 cm, envuelto con un accesorio de cuerda para usar debajo de la ropa.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,204,0,51] • %c[0,140,140,140]producto de baja calidad \n %c[ 0,153,255,255] • %c[0,140,140,140]efectividad de mult. las unidades son apilables \n %c[255,238,153,26] • %c[0,140,140,140]utilizables para: %c[0,170,170,170]reparaciones de equipamiento (+5%)</text>
+	</string>
+	<string id="st_af_plates_name">
+		<text>Placas de acero al carbono</text>
+	</string>
+	<string id="st_af_plates_descr">
+		<text>Estas placas de acero estбn especialmente diseсadas, tratadas tйrmicamente y conformadas para propiedades de derrota balнstica, y se adaptan a una amplia variedad de aplicaciones protectoras. Estбn diseсados para resistir impactos balнsticos mбs pequeсos en la parte delantera y posterior del torso. Sin embargo, esta protecciуn tiene un precio, ya que las planchas de acero grueso son muy pesadas, lo que limita la libertad de movimiento. Ademбs, cualquier tipo de blindaje tambiйn ayuda a mantener los trajes en buenas condiciones, evitando la degradaciуn por el desgaste. Usado ampliamente por las fuerzas de Spetsnaz.\n \n %c[0,204,0,51]ADVERTENCIA: \n \n %c[predeterminado]El acero es un conductor y su proximidad a la piel hace que el cuerpo sea mбs vulnerable a la electricidad. Por esta razуn, se sugiere proceder con precauciуn cuando se encuentren cerca de anomalнas elйctricas u otras fuentes de electricidad.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento militar \n %c[0,153,255,255] • %c[0,140,140,140]capa ъnica de placa de acero \n %c[0,153,255,255] • %c[0,140,140,140]eficacia de mult. las unidades son apilables \n %c[255,238,153,26] • %c[0,140,140,140]utilizables para: %c[0,170,170,170]reparaciones de equipamiento (+20%)</text>
+	</string>
+	<string id="st_af_camelbak_name">
+		<text>Camelbak</text>
+	</string>
+	<string id="st_af_camelbak_descr">
+		<text>Tomando su nombre del mito de que los camellos almacenan agua en sus jorobas, el camelbak es un paquete usado en la espalda o alrededor de la cintura del usuario, que contiene una vejiga que se llena de agua para mantener a uno hidratado. El tubo flexible con boquilla facilita su uso incluso en situaciones de presiуn. Este modelo estб camuflado e integrado en el traje para proteger el sistema del daсo de cualquier fuente, ya sea combate o anomalнa. Debido a que el contenedor estб hecho de un tejido de alta calidad, los stalkeres experimentados a veces reutilizan los camelbacks desguazados para materiales de calidad para parchar sus conjuntos de campo.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento militar \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciones de equipamiento (+6%)</text>
+	</string>
+	<string id="st_af_iam_name">
+		<text>IAM (vacнo)</text>
+	</string>
+	<string id="st_af_iam_descr">
+		<text>El Mуdulo de Aplicaciуn Improvisada (IAM) filtra una pequeсa cantidad de partнculas de radiaciуn emitidas por artefactos. Esta bolsa de metal mecбnica es el dispositivo mбs econуmico que permite al usuario aprovechar la potencia de artefactos menos potentes. El filtro de artefactos estб compuesto de mъltiples capas hechas principalmente de plomo que protegen de la radiaciуn. Una alternativa de bajo costo para los AAC y AAM mбs confiables. En caso de emergencia o si ya no es necesario, el mуdulo se puede utilizar como fuente de metal de calidad para su uso en reparaciones de equipo o casco. Actualmente inutilizable. Para conectarlo al cinturуn, debes colocar un artefacto dentro. El artefacto conservarб sus caracterнsticas a excepciуn de la producciуn de radiaciуn reducida.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]valioso \n %c[0,153,255,255] • %c[0,140,140,140]no requiere UPD \n %c[0,153,255,255] • %c[0,140,140,140]dispositivo de almacenamiento artefacto \n %c[0,153,255,255] • %c[0,140,140,140]capacidad mбxima: %c[0,170,170,170]1 \n %c[0,153,255,255] • %c[0,140,140,140]reducciуn de intensidad de radiaciуn: %c[0,170,170,170]270 mSv / min \n %c[0,153,255,255] • %c[0,140,140,140]estado:  %c[0,170,170,170]vacнo \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciones de equipamiento (+6%)</text>
+	</string>
+	<string id="st_af_aac_name">
+		<text>AAC (vacнo)</text>
+	</string>
+	<string id="st_af_aac_descr">
+		<text>El contenedor de aplicaciуn de artefactos (AAC) filtra una cantidad moderada de partнculas de radiaciуn emitidas por artefactos. Este contenedor de aluminio mecбnico es la forma mбs rentable y, por lo tanto, la forma mбs popular de manejar artefactos, ya que permite al usuario aprovechar la potencia de artefactos mбs potentes. El filtro de artefactos estб compuesto de mъltiples capas hechas principalmente de plomo, con una capa de torio que tiene fuertes propiedades de protecciуn contra la radiaciуn. Este dispositivo ha sido fabricado por cientнficos que residen en los bunkers militares de la Zona. En caso de emergencia o si ya no es necesario, el mуdulo se puede utilizar como fuente de metal de calidad para su uso en reparaciones de equipo o casco. Actualmente inutilizable. Para conectarlo al cinturуn, debes colocar un artefacto dentro. El artefacto conservarб sus caracterнsticas a excepciуn de la producciуn de radiaciуn reducida.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]valioso \n %c[0,153,255,255] • %c[0,140,140,140]bajo consumo de UPD \n %c[0,153,255,255] • %c[0,140,140,140]dispositivo de almacenamiento artefacto \n %c[0,153,255,255] • %c[0,140,140,140]mбximo capacidad: %c[0,170,170,170]1 \n %c[0,153,255,255] • %c[0,140,140,140]reducciуn de intensidad de radiaciуn: %c[0,170,170,170]450 mSv / min \n %c[0,153,255,255] • %c[0,140,140,140]estado: %c[0,170,170,170]vacнo \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciones de equipamiento (+10%)</text>
+	</string>
+	<string id="st_af_aam_name">
+		<text>AAM (vacнo)</text>
+	</string>
+	<string id="st_af_aam_descr">
+		<text>El mуdulo de aplicaciуn de artefactos (AAM) filtra una cantidad significativa de partнculas de radiaciуn emitidas por artefactos. Este mуdulo mecбnico avanzado es la forma mбs efectiva de aprovechar la potencia de los artefactos mбs potentes. El filtro de artefactos se compone de numerosas capas hechas de nanocarbono. Por lo tanto, es liviano y tiene las propiedades de protecciуn contra la radiaciуn mбs fuertes de todos los dispositivos. Considerado como un sнmbolo de afluencia en la Zona. Los cientнficos lo utilizan con mayor frecuencia para minimizar los efectos nocivos de los artefactos. Diseсado y fabricado en Ucrania por un instituto gubernamental que proporciona equipos para los cientнficos que residen en la Zona de Alienaciуn. En caso de emergencia o si ya no es necesario, el mуdulo se puede utilizar como fuente de metal de calidad para su uso en reparaciones de equipo o casco. Actualmente inutilizable. Para conectarlo al cinturуn, debes colocar un artefacto dentro. El artefacto conservarб sus caracterнsticas a excepciуn de la producciуn de radiaciуn reducida.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]alta calidad \n %c[0,153,255,255] • %c[0,140,140,140]valioso \n %c[0,153,255,255] • %c[0,140,140,140]bajo consumo de UPD \n %c[0,153,255,255] • %c[0,140,140,140]almacenamiento de artefactos dispositivo \n %c[0,153,255,255] • %c[0,140,140,140]capacidad mбxima: %c[0,170,170,170]1 \n %c[0,153,255,255] • %c[0,140,140,140]reducciуn de intensidad de radiaciуn: %c[0,170,170,170]840 mSv / min \n %c[0,153,255,255] • %c[0,140,140,140]estado: %c[0,170,170,170]vacнo \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciones de equipamiento (+14%)</text>
+	</string>
+	<string id="st_lead_box_name">
+		<text>LLMC (vacнo)</text>
+	</string>
+	<string id="st_lead_box_descr">
+		<text>El contenedor de metal con revestimiento de plomo (LLMC) es una caja de metal simple con paredes gruesas e inserciones de espuma, asн como una tapa pesada con mecanismo de sellado a presiуn. Especнficamente diseсado para el transporte de materiales radiactivos, en la zona LLMC se emplea mбs comъnmente como dispositivo de almacenamiento y transporte de artefactos. Detiene la fuga de toda la radiaciуn, lo que garantiza la seguridad del usuario cuando estб en posesiуn de artefactos. Sin embargo, el dispositivo no se puede unir a la correa, lo que significa que no se aplicarбn las propiedades positivas y negativas de los artefactos. Los contenidos se pueden manipular con una herramienta de manejo de artefactos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]no requiere UPD \n %c[0,153,255,255] • %c[0,140,140,140]dispositivo de almacenamiento artefacto \n %c[0,153,255,255] • %c[0,140,140,140]capacidad mбxima: %c[0,170,170,170]1 \n %c[0,153,255,255] •  %c[0,140,140,140]estado: %c[0,170,170,170]vacнo \n \n %c[0,204,0,51]ADVERTENCIA: \n \n %c[predeterminado]Debe eliminar los artefactos del contenedor antes de venderlos.</text>
+	</string>
+	<string id="st_lead_box_closed_name">
+		<text>LLMC (completo)</text>
+	</string>
+	<string id="st_lead_box_closed_descr">
+		<text>El contenedor de metal con revestimiento de plomo (LLMC) es una caja de metal simple con paredes gruesas e inserciones de espuma, asн como una tapa pesada con mecanismo de sellado a presiуn. Especнficamente diseсado para el transporte de materiales radiactivos, en la zona LLMC se emplea mбs comъnmente como dispositivo de almacenamiento y transporte de artefactos. Detiene la fuga de toda la radiaciуn, lo que garantiza la seguridad del usuario cuando estб en posesiуn de artefactos. Sin embargo, el dispositivo no se puede unir a la correa, lo que significa que no se aplicarбn las propiedades positivas y negativas de los artefactos. Los contenidos se pueden manipular con una herramienta de manejo de artefactos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]elemento tecnolуgico \n %c[0,153,255,255] • %c[0,140,140,140]no requiere UPD \n %c[0,153,255,255] • %c[0,140,140,140]dispositivo de almacenamiento artefacto \n %c[0,153,255,255] • %c[0,140,140,140]capacidad mбxima: %c[0,170,170,170]1 \n %c[0,153,255,255] •  %c[0,140,140,140]estado: %c[0,170,170,170]lleno \n \n %c[0,204,0,51]ADVERTENCIA: \n \n %c[predeterminado]Debe eliminar los artefactos del contenedor antes de venderlos.</text>
+	</string>
+	<string id="st_hide_flesh_name">
+		<text>Piel de carne</text>
+	</string>
+	<string id="st_hide_flesh_descr">
+		<text>Ocultar eliminado de una raza de cerdos mutados comъnmente conocidos como carnes. Su gran peso (su principal inconveniente) es el resultado de una gruesa capa de grasa debajo de la piel relativamente suave y poco profunda. Ofrece baja protecciуn fнsica, pero puede usarse solo para reparaciones menores ya que la capa de grasa es inъtil para el mantenimiento de la armadura y debe cortarse, dejando solo un pequeсo parche de tejido cutбneo poco profundo.\n \n %c[ 0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]piel mutante \n %c[0,153,255,255] • %c[0,140,140,140]efectividad de mult. las unidades son apilables \n %c[255,238,153,26] • %c[0,140,140,140]utilizables para: %c[0,170,170,170]reparaciones de equipo (+2%)</text>
+	</string>
+	<string id="st_hide_boar_name">
+		<text>Cuero de jabalн</text>
+	</string>
+	<string id="st_hide_boar_descr">
+		<text>Una piel casi completamente cubierta con una gruesa capa de piel, extraнda de uno de los jabalнes que se encuentran comъnmente en la Zona. Los mutantes son bastante resistentes al daсo y pueden recibir un castigo considerable, y la razуn de esto es simple: gran masa muscular y huesos casi irrompibles. La piel, por otro lado, es bastante delgada (lo mбs probable es que proporcione a la criatura medios efectivos de regulaciуn tйrmica), por lo que es una opciуn bastante pobre para la mejora de la armadura. El pelaje a su vez hace que el cuero sea un aislante tйrmico relativamente potente. Tambiйn se puede usar para reparaciones ligeras.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]piel mutante \n %c[0,153,255,255] • %c[0,140,140,140]efectividad de mult. las unidades son apilables \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciones de equipamiento (+3%)</text>
+	</string>
+	<string id="st_hide_bloodsucker_name">
+		<text>Piel de chupasangre</text>
+	</string>
+	<string id="st_hide_bloodsucker_descr">
+		<text>Bloodsuckers como una especie evolucionada de los humanos y esta afinidad todavнa se puede ver en la textura de su piel. Lo que es mбs caracterнstico, la piel es muy suave y agradable al tacto, casi como la piel de un niсo. Esto se aplica, sin embargo, solo a la capa externa: debajo, los chupadores de sangre cuentan con mъsculos bien desarrollados que pueden utilizarse para formar una especie de capa con considerable potencial de reducciуn de daсos, especialmente en lo que respecta a los ataques cuerpo a cuerpo. Esto hace que la piel de chupasangre sea una opciуn popular entre los cazadores experimentados que tambiйn lo usan como un signo de su dominio. La propiedad mбs singular que posee es la alta resistencia a las sustancias quнmicas y los desechos tуxicos. La razуn es que los chupasangres a menudo viven en lugares con exposiciуn quнmica activa (бreas subterrбneas de antiguos laboratorios de investigaciуn, por ejemplo). Los chupasangres se han adaptado al ambiente agresivo.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]piel mutante \n %c[0,153,255,255] • %c[0,140,140,140]valioso \n %c[0,153,255,255] • %c[0,140,140,140]efectividad de mult. las unidades son apilables \n %c[255,238,153,26] • %c[0,140,140,140]utilizables para: %c[0,170,170,170]reparaciones de equipamiento (+6%)</text>
+	</string>
+	<string id="st_hide_burer_name">
+		<text>Piel de Burer</text>
+	</string>
+	<string id="st_hide_burer_descr">
+		<text>Pelar a un burer es como desollar a un enano retorcido. Aсбdele un hedor casi insoportable a los huevos podridos y sabrб por quй los stalkeres consideran esto una hazaсa. Los informes indican que la piel ofrece una protecciуn fнsica relativamente baja, pero puede utilizarse para proporcionar una buena protecciуn contra las anomalнas tйrmicas. Ademбs, debido al hecho de que los burers son relativamente raramente encontrados en la Zona, la piel tiene un potencial de investigaciуn significativo, convirtiйndola en un valioso producto comercial para los cientнficos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255 ] • %c[0,140,140,140]piel mutante \n %c[0,153,255,255] • %c[0,140,140,140]espйcimen cientнfico extraordinario \n %c[0,153,255,255] • %c[0,140,140,140]valioso \n %c[0,153,255,255] • %c[ 0,140,140,140]efectividad de mult. las unidades son apilables \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciones de equipamiento (+3%)</text>
+	</string>
+	<string id="st_hide_chimera_name">
+		<text>Piel de quimera</text>
+	</string>
+	<string id="st_hide_chimera_descr">
+		<text>Quimera, siendo uno de los mutantes mбs peligrosos en la Zona, no solo es una amenaza significativa, sino que tambiйn puede considerarse una fuente viable de riqueza. Todas las piezas que se pueden extraer del cadбver de la quimera se pueden vender por una gran cantidad de dinero, pero es la piel que es uno de los especнmenes cientнficos mбs valorados, asн como una de las mejores mejoras de armadura disponibles en la zona de exclusiуn. Ofrece muy buenas propiedades de protecciуn y, lo que es mбs importante, es relativamente liviano gracias a lo cual no limita la movilidad. Sin embargo, su caracterнstica mбs singular es que las fibras orgбnicas que se encuentran en la piel actъan como conductores elйctricos muy efectivos. Este hecho confirma en gran medida los informes de las unidades de reconocimiento (especialmente las exploradoras alrededor del Complejo Industrial AMK) con respecto a avistamientos de quimeras rodeadas en lo que parecнa una anomalнa elйctrica, produciendo descargas al contacto con cualquier organismo vivo hostil. Desafortunadamente, ninguna unidad fue capaz de regresar, por lo que no hay evidencia que confirme la existencia de dicha criatura.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]piel mutante \n %c[0,153,255,255] • %c[0,140,140,140]espйcimen cientнfico extraordinario \n %c[0,153,255,255] • %c[0,140,140,140]valioso \n %c[0,153,255,255] • %c[0,140,140,140]eficacia de mult. las unidades son apilables \n %c[255,238,153,26] • %c[0,140,140,140]utilizables para: %c[0,170,170,170]reparaciones de equipamiento (+8%)</text>
+	</string>
+	<string id="st_hide_pseudogiant_name">
+		<text>Piel de Pseudogiant</text>
+	</string>
+	<string id="st_hide_pseudogiant_descr">
+		<text>La piel de un pseudogigante se parece en muchos aspectos a la piel de un elefante. Es grueso y duro en contacto, su textura es muy irregular y llena de pliegues que actъan como mecanismo de enfriamiento de la criatura. El espesor promedio de la piel del pseudogigante es de alrededor de 2 cm, lo que lo hace muy duradero y capaz de soportar un daсo significativo. Esto es, sin embargo, a costa de un mayor peso. Dado que se sabe que los pseudogigantes a menudo viven en бreas de alta toxicidad y radiactividad, el cuero se adapta naturalmente a tales condiciones, lo que aumenta aъn mбs su utilidad. Tambiйn se puede usar para parchar incluso las prendas mбs pesadas, pero este proceso requiere las herramientas mбs duraderas y costosas disponibles. Se valora no solo por sus cualidades prбcticas, sino que tambiйn puede servir como un prestigioso trofeo de caza y un raro espйcimen para los cientнficos de la Zona.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]piel mutante \n %c[0,153,255,255] • %c[0,140,140,140]espйcimen cientнfico extraordinario \n %c[0,153,255,255] • %c[0,140,140,140]valioso \n %c[0,153,255,255] • %c[0,140,140,140]eficacia de mult. las unidades son apilables \n %c[255,238,153,26] • %c[0,140,140,140]utilizables para: %c[0,170,170,170]reparaciones de equipamiento (+9%)</text>
+	</string>
+	<string id="st_hide_controller_name">
+		<text>Cuero cabelludo de controlador</text>
+	</string>
+	<string id="st_hide_controller_descr">
+		<text>Como es el caso con otros mutantes humanoides, es un desafнo bastante emocional para el cuero cabelludo de un controlador y resulta ser aъn mбs difнcil ya que la cara de un controlador conserva ciertas caracterнsticas de la persona que alguna vez fue. Las fuentes confidenciales dentro del ejйrcito tambiйn revelaron que las huellas dactilares de la persona que se convirtiу en controlador a veces se pueden encontrar en la base de datos. Los anбlisis recientes muestran que no solo la mano del controlador es capaz de producir ondas psy, todo el cuerpo es la fuente de las emisiones. Por esta razуn, el cuero cabelludo, cuando se prepara adecuadamente, tiene la capacidad de absorber y filtrar la energнa psнquica, pero para que este efecto tenga lugar es necesario cubrirse la cabeza con varios cueros cabelludos. La piel tambiйn es elйctricamente conductora. En cuanto a sus propiedades fнsicas, es ligero y solo se puede usar para reparaciones menores de equipo. Como es el caso con todas las criaturas humanoides psy, la piel de un controlador es elйctricamente conductiva.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]piel mutante \n %c[ 0,153,255,255] • %c[0,140,140,140]espйcimen cientнfico extraordinario \n %c[0,153,255,255] • %c[0,140,140,140]valioso \n %c[0,153,255,255] • %c[0,140,140,140]efectividad de mult. las unidades son apilables \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]reparaciones de equipamiento (+3%)</text>
+	</string>
+	<string id="st_hide_pseudodog_name">
+		<text>Pelaje de pseudodog</text>
+	</string>
+	<string id="st_hide_pseudodog_descr">
+		<text>Densamente cubierto con pelaje corto y rнgido, la piel de pseudodog sigue siendo una de las pieles mutantes mбs ъtiles, extendidas y versбtiles disponibles en la zona. Se puede acoplar fбcilmente a la armadura incluso con las herramientas mбs livianas y, sin embargo, es bastante duradera, lo que la hace adecuada para reparaciones de equipo de grado medio. Cuando se utiliza como una manta, ofrece una protecciуn considerable contra la exposiciуn a la radiaciуn.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]piel mutante \n %c[0,153,255,255] • %c[0,140,140,140]efectividad de mult. las unidades son apilables \n %c[255,238,153,26] • %c[0,140,140,140]utilizables para: %c[0,170,170,170]reparaciones de equipamiento (+5%)</text>
+	</string>
+	<string id="st_hide_psy_dog_name">
+		<text>Piel de psi-dog</text>
+	</string>
+	<string id="st_hide_psy_dog_descr">
+		<text>El pelaje de un perro ps es, sin duda, uno de los materiales de ropa mбs bellos y raros del mundo. Generalmente blanco como la nieve o gris, tiene una gran demanda y se puede vender por una suma considerable de dinero. Probablemente llegу a la industria de la moda gracias a los contrabandistas, algunos de los cuales recientemente recurrieron a la caza de mutantes. Para aquellos en la Zona, puede servir como una manta, especialmente durante las noches frнas. Ofrece protecciуn contra la exposiciуn a la radiaciуn.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]piel mutante \n %c[0,153,255,255] • %c[0,140,140,140]valioso \n %c[0,153,255,255] • %c[0,140,140,140]efectividad de mult. las unidades son apilables \n %c[255,238,153,26] • %c[0,140,140,140]utilizables para: %c[0,170,170,170]reparaciones de equipo (+7%)</text>
+	</string>
+	<string id="st_powder_poltergeist">
+		<text>"Polvo de diamante"</text>
+	</string>
+	<string id="st_powder_poltergeist_descr">
+		<text>"Polvo de diamante" es un nombre comъn que se le da a la sustancia cristalina que a veces se encuentra en el vientre de todas las especies de criaturas psнquicas. No se sabe quй procesos metabуlicos conducen a su apariciуn y, por esta razуn, los cientнficos estбn ansiosos por pagar grandes sumas de dinero para echarle mano. El uso prбctico es limitado, pero se sabe que algunos stalkeres rocнan sus cuchillos de caza mбs preciados con йl, ya que hace que el afilado sea mucho mбs fбcil. Tambiйn hace que las hojas se vean brillantes y bien cuidadas.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]producto de metabolismo mutante \n %c[0,153,255,255] • %c[ 0,140,140,140]espйcimen cientнfico muy raro \n %c[0,153,255,255] • %c[0,140,140,140]valioso \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]afilado de cuchillas (+28%)</text>
+	</string>
+
+
+
+
+
+	<string id="st_af_medusa_af_iam_name">
+		<text>IAM con Jellyfish</text>
+	</string>
+	<string id="st_af_cristall_flower_af_iam_name">
+		<text>IAM con flor de piedra</text>
+	</string>
+	<string id="st_af_night_star_af_iam_name">
+		<text>IAM con Nightstar</text>
+	</string>
+	<string id="st_af_vyvert_af_iam_name">
+		<text>IAM con Wrenched</text>
+	</string>
+	<string id="st_af_gravi_af_iam_name">
+		<text>IAM con Gravi</text>
+	</string>
+	<string id="st_af_gold_fish_af_iam_name">
+		<text>IAM con Goldfish</text>
+	</string>
+	<string id="st_af_cristall_af_iam_name">
+		<text>IAM con cristal</text>
+	</string>
+	<string id="st_af_fireball_af_iam_name">
+		<text>IAM con bola de fuego</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_af_iam_name">
+		<text>IAM con cuentas de mamб</text>
+	</string>
+	<string id="st_af_eye_af_iam_name">
+		<text>IAM con ojo</text>
+	</string>
+	<string id="st_af_fire_af_iam_name">
+		<text>IAM con Flame</text>
+	</string>
+	<string id="st_af_blood_af_iam_name">
+		<text>IAM con Stone Blood</text>
+	</string>
+	<string id="st_af_mincer_meat_af_iam_name">
+		<text>IAM con Meat Chunk</text>
+	</string>
+	<string id="st_af_soul_af_iam_name">
+		<text>IAM con Soul</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_af_iam_name">
+		<text>IAM con Kolobok</text>
+	</string>
+	<string id="st_af_baloon_af_iam_name">
+		<text>IAM con burbuja</text>
+	</string>
+	<string id="st_af_glass_af_iam_name">
+		<text>IAM con Firefly</text>
+	</string>
+	<string id="st_af_electra_sparkler_af_iam_name">
+		<text>IAM con Sparkler</text>
+	</string>
+	<string id="st_af_electra_flash_af_iam_name">
+		<text>IAM con Flash</text>
+	</string>
+	<string id="st_af_electra_moonlight_af_iam_name">
+		<text>IAM con Moonlight</text>
+	</string>
+	<string id="st_af_dummy_battery_af_iam_name">
+		<text>IAM con baterнa</text>
+	</string>
+	<string id="st_af_dummy_dummy_af_iam_name">
+		<text>IAM con Shell</text>
+	</string>
+	<string id="st_af_ice_af_iam_name">
+		<text>IAM con Snowflake</text>
+	</string>
+	<string id="st_af_compass_af_iam_name">
+		<text>IAM con brъjula</text>
+	</string>
+	<string id="st_af_oasis_heart_af_iam_name">
+		<text>IAM con el Corazуn del Oasis</text>
+	</string>
+	<string id="st_jup_b1_half_artifact_af_iam_name">
+		<text>IAM con aislador alterado</text>
+	</string>
+	<string id="st_af_quest_b14_twisted_af_iam_name">
+		<text>IAM con rueda alterada</text>
+	</string>
+	<string id="st_af_thing_af_iam_name">
+		<text>IAM con lingote</text>
+	</string>
+	<string id="st_af_slime_af_iam_name">
+		<text>IAM con Slime</text>
+	</string>
+	<string id="st_af_slug_af_iam_name">
+		<text>IAM con Slug</text>
+	</string>
+	<string id="st_af_mica_af_iam_name">
+		<text>IAM con Mica</text>
+	</string>
+	<string id="st_af_pellicle_af_iam_name">
+		<text>IAM con Pellicle</text>
+	</string>
+	<string id="st_af_thorn_af_iam_name">
+		<text>IAM con Thorn</text>
+	</string>
+	<string id="st_af_crystal_thorn_af_iam_name">
+		<text>IAM con Crystal Thorn</text>
+	</string>
+	<string id="st_af_sea_urchin_af_iam_name">
+		<text>IAM con Urchin</text>
+	</string>
+	<string id="st_af_drop_af_iam_name">
+		<text>IAM con Droplet</text>
+	</string>
+
+	<string id="st_af_medusa_af_aac_name">
+		<text>AAC con Jellyfish</text>
+	</string>
+	<string id="st_af_cristall_flower_af_aac_name">
+		<text>AAC con Stone Flower</text>
+	</string>
+	<string id="st_af_night_star_af_aac_name">
+		<text>AAC con Nightstar</text>
+	</string>
+	<string id="st_af_vyvert_af_aac_name">
+		<text>AAC con Wrenched</text>
+	</string>
+	<string id="st_af_gravi_af_aac_name">
+		<text>AAC con Gravi</text>
+	</string>
+	<string id="st_af_gold_fish_af_aac_name">
+		<text>AAC con Goldfish</text>
+	</string>
+	<string id="st_af_cristall_af_aac_name">
+		<text>AAC con Crystal</text>
+	</string>
+	<string id="st_af_fireball_af_aac_name">
+		<text>AAC con bola de fuego</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_af_aac_name">
+		<text>AAC con cuentas de mamб</text>
+	</string>
+	<string id="st_af_eye_af_aac_name">
+		<text>AAC con ojo</text>
+	</string>
+	<string id="st_af_fire_af_aac_name">
+		<text>AAC con llama</text>
+	</string>
+	<string id="st_af_blood_af_aac_name">
+		<text>AAC con sangre de piedra</text>
+	</string>
+	<string id="st_af_mincer_meat_af_aac_name">
+		<text>AAC con Meat Chunk</text>
+	</string>
+	<string id="st_af_soul_af_aac_name">
+		<text>AAC con Soul</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_af_aac_name">
+		<text>AAC con Kolobok</text>
+	</string>
+	<string id="st_af_baloon_af_aac_name">
+		<text>AAC con burbuja</text>
+	</string>
+	<string id="st_af_glass_af_aac_name">
+		<text>AAC con Firefly</text>
+	</string>
+	<string id="st_af_electra_sparkler_af_aac_name">
+		<text>AAC con Sparkler</text>
+	</string>
+	<string id="st_af_electra_flash_af_aac_name">
+		<text>AAC con Flash</text>
+	</string>
+	<string id="st_af_electra_moonlight_af_aac_name">
+		<text>AAC con Moonlight</text>
+	</string>
+	<string id="st_af_dummy_battery_af_aac_name">
+		<text>AAC con baterнa</text>
+	</string>
+	<string id="st_af_dummy_dummy_af_aac_name">
+		<text>AAC con Shell</text>
+	</string>
+	<string id="st_af_ice_af_aac_name">
+		<text>AAC con Snowflake</text>
+	</string>
+	<string id="st_af_compass_af_aac_name">
+		<text>AAC con Compass</text>
+	</string>
+	<string id="st_af_oasis_heart_af_aac_name">
+		<text>AAC con Heart of the Oasis</text>
+	</string>
+	<string id="st_jup_b1_half_artifact_af_aac_name">
+		<text>AAC con Altered Insulator</text>
+	</string>
+	<string id="st_af_quest_b14_twisted_af_aac_name">
+		<text>AAC con Altered Wheel</text>
+	</string>
+	<string id="st_af_thing_af_aac_name">
+		<text>AAC con Ingot</text>
+	</string>
+	<string id="st_af_slime_af_aac_name">
+		<text>AAC con Slime</text>
+	</string>
+	<string id="st_af_slug_af_aac_name">
+		<text>AAC con Slug</text>
+	</string>
+	<string id="st_af_mica_af_aac_name">
+		<text>AAC con Mica</text>
+	</string>
+	<string id="st_af_pellicle_af_aac_name">
+		<text>AAC con Pellicle</text>
+	</string>
+	<string id="st_af_thorn_af_aac_name">
+		<text>AAC con Thorn</text>
+	</string>
+	<string id="st_af_crystal_thorn_af_aac_name">
+		<text>AAC con Crystal Thorn</text>
+	</string>
+	<string id="st_af_sea_urchin_af_aac_name">
+		<text>AAC con Urchin</text>
+	</string>
+	<string id="st_af_drop_af_aac_name">
+		<text>AAC con Droplet</text>
+	</string>
+
+	<string id="st_af_medusa_af_aam_name">
+		<text>AAM con Jellyfish</text>
+	</string>
+	<string id="st_af_cristall_flower_af_aam_name">
+		<text>AAM con flor de piedra</text>
+	</string>
+	<string id="st_af_night_star_af_aam_name">
+		<text>AAM con Nightstar</text>
+	</string>
+	<string id="st_af_vyvert_af_aam_name">
+		<text>AAM con Wrenched</text>
+	</string>
+	<string id="st_af_gravi_af_aam_name">
+		<text>AAM con Gravi</text>
+	</string>
+	<string id="st_af_gold_fish_af_aam_name">
+		<text>AAM con Goldfish</text>
+	</string>
+	<string id="st_af_cristall_af_aam_name">
+		<text>AAM con Crystal</text>
+	</string>
+	<string id="st_af_fireball_af_aam_name">
+		<text>AAM con bola de fuego</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_af_aam_name">
+		<text>AAM con cuentas de mamб</text>
+	</string>
+	<string id="st_af_eye_af_aam_name">
+		<text>AAM con Eye</text>
+	</string>
+	<string id="st_af_fire_af_aam_name">
+		<text>AAM con Flame</text>
+	</string>
+	<string id="st_af_blood_af_aam_name">
+		<text>AAM con sangre de piedra</text>
+	</string>
+	<string id="st_af_mincer_meat_af_aam_name">
+		<text>AAM con Meat Chunk</text>
+	</string>
+	<string id="st_af_soul_af_aam_name">
+		<text>AAM con Soul</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_af_aam_name">
+		<text>AAM con Kolobok</text>
+	</string>
+	<string id="st_af_baloon_af_aam_name">
+		<text>AAM con burbuja</text>
+	</string>
+	<string id="st_af_glass_af_aam_name">
+		<text>AAM con Firefly</text>
+	</string>
+	<string id="st_af_electra_sparkler_af_aam_name">
+		<text>AAM con Sparkler</text>
+	</string>
+	<string id="st_af_electra_flash_af_aam_name">
+		<text>AAM con Flash</text>
+	</string>
+	<string id="st_af_electra_moonlight_af_aam_name">
+		<text>AAM con Moonlight</text>
+	</string>
+	<string id="st_af_dummy_battery_af_aam_name">
+		<text>AAM con baterнa</text>
+	</string>
+	<string id="st_af_dummy_dummy_af_aam_name">
+		<text>AAM con Shell</text>
+	</string>
+	<string id="st_af_ice_af_aam_name">
+		<text>AAM con Snowflake</text>
+	</string>
+	<string id="st_af_compass_af_aam_name">
+		<text>AAM con brъjula</text>
+	</string>
+	<string id="st_af_oasis_heart_af_aam_name">
+		<text>AAM con Heart of the Oasis</text>
+	</string>
+	<string id="st_jup_b1_half_artifact_af_aam_name">
+		<text>AAM con Altered Insulator</text>
+	</string>
+	<string id="st_af_quest_b14_twisted_af_aam_name">
+		<text>AAM con Altered Wheel</text>
+	</string>
+	<string id="st_af_thing_af_aam_name">
+		<text>AAM con Ingot</text>
+	</string>
+	<string id="st_af_slime_af_aam_name">
+		<text>AAM con Slime</text>
+	</string>
+	<string id="st_af_slug_af_aam_name">
+		<text>AAM con Slug</text>
+	</string>
+	<string id="st_af_mica_af_aam_name">
+		<text>AAM con Mica</text>
+	</string>
+	<string id="st_af_pellicle_af_aam_name">
+		<text>AAM con Pellicle</text>
+	</string>
+	<string id="st_af_thorn_af_aam_name">
+		<text>AAM con Thorn</text>
+	</string>
+	<string id="st_af_crystal_thorn_af_aam_name">
+		<text>AAM con Crystal Thorn</text>
+	</string>
+	<string id="st_af_sea_urchin_af_aam_name">
+		<text>AAM con Urchin</text>
+	</string>
+	<string id="st_af_drop_af_aam_name">
+		<text>AAM con Droplet</text>
+	</string>
+
+	<string id="st_af_medusa_lead_box_name">
+		<text>LLMC con medusas</text>
+	</string>
+	<string id="st_af_cristall_flower_lead_box_name">
+		<text>LLMC con flor de piedra</text>
+	</string>
+	<string id="st_af_night_star_lead_box_name">
+		<text>LLMC con Nightstar</text>
+	</string>
+	<string id="st_af_vyvert_lead_box_name">
+		<text>LLMC con Wrenched</text>
+	</string>
+	<string id="st_af_gravi_lead_box_name">
+		<text>LLMC con Gravi</text>
+	</string>
+	<string id="st_af_gold_fish_lead_box_name">
+		<text>LLMC con Goldfish</text>
+	</string>
+	<string id="st_af_cristall_lead_box_name">
+		<text>LLMC con cristal</text>
+	</string>
+	<string id="st_af_fireball_lead_box_name">
+		<text>LLMC con bola de fuego</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_lead_box_name">
+		<text>LLMC con cuentas de mamб</text>
+	</string>
+	<string id="st_af_eye_lead_box_name">
+		<text>LLMC con ojo</text>
+	</string>
+	<string id="st_af_fire_lead_box_name">
+		<text>LLMC con llama</text>
+	</string>
+	<string id="st_af_blood_lead_box_name">
+		<text>LLMC con Stone Blood</text>
+	</string>
+	<string id="st_af_mincer_meat_lead_box_name">
+		<text>LLMC con trozo de carne</text>
+	</string>
+	<string id="st_af_soul_lead_box_name">
+		<text>LLMC con Soul</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_lead_box_name">
+		<text>LLMC con Kolobok</text>
+	</string>
+	<string id="st_af_baloon_lead_box_name">
+		<text>LLMC con burbuja</text>
+	</string>
+	<string id="st_af_glass_lead_box_name">
+		<text>LLMC con Firefly</text>
+	</string>
+	<string id="st_af_electra_sparkler_lead_box_name">
+		<text>LLMC con Sparkler</text>
+	</string>
+	<string id="st_af_electra_flash_lead_box_name">
+		<text>LLMC con Flash</text>
+	</string>
+	<string id="st_af_electra_moonlight_lead_box_name">
+		<text>LLMC con Moonlight</text>
+	</string>
+	<string id="st_af_dummy_battery_lead_box_name">
+		<text>LLMC con baterнa</text>
+	</string>
+	<string id="st_af_dummy_dummy_lead_box_name">
+		<text>LLMC con Shell</text>
+	</string>
+	<string id="st_af_ice_lead_box_name">
+		<text>LLMC con Snowflake</text>
+	</string>
+	<string id="st_af_compass_lead_box_name">
+		<text>LLMC con brъjula</text>
+	</string>
+	<string id="st_af_oasis_heart_lead_box_name">
+		<text>LLMC con el Corazуn del Oasis</text>
+	</string>
+	<string id="st_jup_b1_half_artifact_lead_box_name">
+		<text>LLMC con aislador alterado</text>
+	</string>
+	<string id="st_af_quest_b14_twisted_lead_box_name">
+		<text>LLMC con rueda alterada</text>
+	</string>
+	<string id="st_af_thing_lead_box_name">
+		<text>LLMC con lingote</text>
+	</string>
+	<string id="st_af_slime_lead_box_name">
+		<text>LLMC con Slime</text>
+	</string>
+	<string id="st_af_slug_lead_box_name">
+		<text>LLMC con Slug</text>
+	</string>
+	<string id="st_af_mica_lead_box_name">
+		<text>LLMC con Mica</text>
+	</string>
+	<string id="st_af_pellicle_lead_box_name">
+		<text>LLMC con pelнcula</text>
+	</string>
+	<string id="st_af_thorn_lead_box_name">
+		<text>LLMC con Thorn</text>
+	</string>
+	<string id="st_af_crystal_thorn_lead_box_name">
+		<text>LLMC con Crystal Thorn</text>
+	</string>
+	<string id="st_af_sea_urchin_lead_box_name">
+		<text>LLMC con Urchin</text>
+	</string>
+	<string id="st_af_drop_lead_box_name">
+		<text>LLMC con Droplet</text>
+	</string>
+</string_table>

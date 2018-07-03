@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="Btn_Cancel">
+		<text>Cancelar</text>
+	</string>
+	<string id="Btn_No">
+		<text>No</text>
+	</string>
+	<string id="Btn_OK">
+		<text>De acuerdo</text>
+	</string>
+	<string id="Btn_Yes">
+		<text>Sн</text>
+	</string>
+	<string id="global_map">
+		<text>Mapa de la zona</text>
+	</string>
+	<string id="mm_mp_pda_hunt">
+		<text>Bonificaciуn PDA</text>
+	</string>
+	<string id="mp_only_one_voting">
+		<text>Solo se permite un voto activo.</text>
+	</string>
+	<string id="st_game">
+		<text>Juego</text>
+	</string>
+	<string id="st_item_used">
+		<text>Usado</text>
+	</string>
+	<string id="st_level">
+		<text>Nivel</text>
+	</string>
+	<string id="st_loading_ai_objects">
+		<text>Cargando objetos de IA</text>
+	</string>
+	<string id="st_loading_alife_simulator">
+		<text>Servidor: cargar un simulador de A-Life</text>
+	</string>
+	<string id="st_loading_cform">
+		<text>Cargando CFORM</text>
+	</string>
+	<string id="st_loading_details">
+		<text>Detalles de carga</text>
+	</string>
+	<string id="st_loading_geometry">
+		<text>Cargando geometrнa</text>
+	</string>
+	<string id="st_loading_saved_game">
+		<text>Cargando juego guardado</text>
+	</string>
+	<string id="st_loading_sectors_portals">
+		<text>Cargando sectores y portales</text>
+	</string>
+	<string id="st_loading_shaders">
+		<text>Cargando sombreadores</text>
+	</string>
+	<string id="st_loading_spatial_db">
+		<text>Cargando DB espacial</text>
+	</string>
+	<string id="st_loading_textures">
+		<text>Cargando texturas</text>
+	</string>
+	<string id="st_mp_direct_ip">
+		<text>IP directa</text>
+	</string>
+	<string id="st_no_active_task">
+		<text>Ninguna tarea activa</text>
+	</string>
+	<string id="st_not_enough_money">
+		<text>Dinero insuficiente</text>
+	</string>
+	<string id="st_not_enough_money_npc">
+		<text>El NPC no tiene suficiente dinero</text>
+	</string>
+	<string id="st_opening_stream">
+		<text>Flujo de apertura</text>
+	</string>
+	<string id="st_prefetching_objects">
+		<text>Prebuscar objetos</text>
+	</string>
+	<string id="st_rubles">
+		<text>rublos.</text>
+	</string>
+	<string id="st_server_connecting">
+		<text>SERVIDOR: Conectando</text>
+	</string>
+	<string id="st_server_starting">
+		<text>SERVIDOR: Inicio</text>
+	</string>
+	<string id="st_validating_cdkey">
+		<text>Validar la clave del CD</text>
+	</string>
+	<string id="st_video">
+		<text>Vнdeo</text>
+	</string>
+	<string id="ui_inv_repair">
+		<text>reparar</text>
+	</string>
+	<string id="ui_st_cant_run_r2">
+		<text>No puedes ejecutar Render 2 en tu PC</text>
+	</string>
+	<string id="ui_st_conn_cdkey_disabled">
+		<text>Error de conexiуn: su clave de CD estб desactivada. Contactar Servicio al Cliente.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_in_use">
+		<text>Error de conexiуn: CD-Key ya estб en uso.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_invalid">
+		<text>Error de conexiуn: clave de CD no vбlida.</text>
+	</string>
+	<string id="ui_st_conn_invalid_host">
+		<text>Error de conexiуn: host no vбlido</text>
+	</string>
+	<string id="ui_st_conn_invalid_pass">
+		<text>Error de conexiуn: contraseсa no vбlida</text>
+	</string>
+	<string id="ui_st_conn_new_patch">
+		<text>Se encuentra disponible un nuevo parche.\n Versiуn: %s \nUbicaciуn: %s \nїDesea descargarlo ahora?</text>
+	</string>
+	<string id="ui_st_conn_no_new_patch">
+		<text>No hay nuevos parches actualmente disponibles</text>
+	</string>
+	<string id="ui_st_conn_rejected_server">
+		<text>Error de conexiуn: conexiуn rechazada por el servidor</text>
+	</string>
+	<string id="ui_st_conn_sess_full">
+		<text>Error de conexiуn: servidor lleno</text>
+	</string>
+	<string id="ui_st_conn_version_differs">
+		<text>Error de conexiуn: versiуn diferente.</text>
+	</string>
+	<string id="ui_st_connecting_to_masterserver">
+		<text>Conectando al servidor maestro</text>
+	</string>
+	<string id="ui_st_days">
+		<text>Dias</text>
+	</string>
+	<string id="ui_st_error">
+		<text>Error</text>
+	</string>
+	<string id="ui_st_error_loading">
+		<text>Error de carga</text>
+	</string>
+	<string id="ui_st_file_exist_owerwrite_q">
+		<text>Ya existe un archivo con este nombre. їQuieres sobreescribirlo?</text>
+	</string>
+	<string id="ui_st_file_name_is_empty">
+		<text>El nombre del archivo estб vacнo</text>
+	</string>
+	<string id="ui_st_hours">
+		<text>Horas</text>
+	</string>
+	<string id="ui_st_kicked_by_battleye">
+		<text>Fue desconectado por el sistema de protecciуn BattleEye:</text>
+	</string>
+	<string id="ui_st_kicked_by_server">
+		<text>Desconectado. Razуn:</text>
+	</string>
+	<string id="ui_st_leave">
+		<text>Salir</text>
+	</string>
+	<string id="ui_st_load_game_confirm">
+		<text>Cargar este juego harб que se pierdan datos no guardados. їProceder?</text>
+	</string>
+	<string id="ui_st_mins">
+		<text>min</text>
+	</string>
+	<string id="ui_st_months">
+		<text>meses</text>
+	</string>
+	<string id="ui_st_opponent_items">
+		<text>Mochila</text>
+	</string>
+	<string id="ui_st_params">
+		<text>Parбmetros</text>
+	</string>
+	<string id="ui_st_patch_download_error">
+		<text>No se puede descargar el parche.</text>
+	</string>
+	<string id="ui_st_patch_download_success">
+		<text>Parche descargado con йxito. їQuieres instalarlo?</text>
+	</string>
+	<string id="ui_st_price">
+		<text>Precio</text>
+	</string>
+	<string id="ui_st_secs">
+		<text>segundos</text>
+	</string>
+	<string id="mp_si_sec">
+		<text>segundos</text>
+	</string>
+	<string id="ui_st_select_one_map">
+		<text>Seleccione al menos un mapa</text>
+	</string>
+	<string id="ui_st_take_all">
+		<text>Coger todo</text>
+	</string>
+	<string id="ui_st_time_remains">
+		<text>Restante</text>
+	</string>
+	<string id="ui_st_voting_disabled">
+		<text>El voto fallу</text>
+	</string>
+	<string id="ui_st_want_to_leave_game_q">
+		<text>їDe verdad quieres dejar el juego?</text>
+	</string>
+	<string id="ui_total_price">
+		<text>Total</text>
+	</string>
+	<string id="ui_st_inv_repair">
+		<text>Reparar</text>
+	</string>
+	<string id="ui_repair_button_hint">
+		<text>Reparar el elemento seleccionado</text>
+	</string>
+	<string id="st_save_uni_travel_generic">
+		<text>moviйndose dentro de un бrea</text>
+	</string>
+	<string id="st_save_uni_travel_zat_to_jup">
+		<text>pasando de Zaton a Yanov</text>
+	</string>
+	<string id="st_save_uni_travel_zat_to_pri">
+		<text>pasar de Zaton a Pripyat</text>
+	</string>
+	<string id="st_save_uni_travel_jup_to_zat">
+		<text>pasar de Yanov a Zaton</text>
+	</string>
+	<string id="st_save_uni_travel_jup_to_pri">
+		<text>pasar de Yanov a Pripyat</text>
+	</string>
+	<string id="st_save_uni_travel_pri_to_zat">
+		<text>pasar de Pripyat a Zaton</text>
+	</string>
+	<string id="st_save_uni_travel_pri_to_jup">
+		<text>pasando de Pripyat a Yanov</text>
+	</string>
+	<string id="st_save_uni_pri_to_labx8">
+		<text>pasar de Pripyat a laboratorio X8</text>
+	</string>
+	<string id="st_save_uni_labx8_to_pri">
+		<text>pasar del laboratorio X8 a Pripyat</text>
+	</string>
+	<string id="st_save_uni_surge_start">
+		<text>emisiуn</text>
+	</string>
+	<string id="st_save_zat_a1_game_start">
+		<text>comienzo del juego</text>
+	</string>
+	<string id="st_save_zat_a2_reached_skadovsk">
+		<text>llegada al Skadovsk</text>
+	</string>
+	<string id="st_save_jup_b9_searched_heli_1">
+		<text>Stingray 1 examinado</text>
+	</string>
+	<string id="st_save_zat_b100_searched_heli_2">
+		<text>Stingray 2 examinado</text>
+	</string>
+	<string id="st_save_zat_b28_searched_heli_3">
+		<text>Stingray 3 examinado</text>
+	</string>
+	<string id="st_save_jup_b8_searched_heli_4">
+		<text>Stingray 4 examinado</text>
+	</string>
+	<string id="st_save_zat_b101_searched_heli_5">
+		<text>Stingray 5 examinado</text>
+	</string>
+	<string id="st_save_zat_b18_noah_showed_teleport">
+		<text>llegar a la meseta</text>
+	</string>
+	<string id="st_save_jup_b217_arrived_to_jup">
+		<text>llegada a Yanov</text>
+	</string>
+	<string id="st_save_jup_a9_got_underpass_docs">
+		<text>camino a Pripyat encontrado</text>
+	</string>
+	<string id="st_save_jup_b15_drunk_with_zulu">
+		<text>Zulu se une al escuadrуn</text>
+	</string>
+	<string id="st_save_jup_a10_gonna_return_debt">
+		<text>La deuda de Vano pagada</text>
+	</string>
+	<string id="st_save_jup_b218_vano_in_squad">
+		<text>Vano se une al escuadrуn</text>
+	</string>
+	<string id="st_save_jup_b206_got_anomalous_plant">
+		<text>planta anуmala recolectada</text>
+	</string>
+	<string id="st_save_jup_b218_sokolov_in_squad">
+		<text>Sokolov se une al escuadrуn</text>
+	</string>
+	<string id="st_save_jup_b218_strider_in_squad">
+		<text>Strider se une al escuadrуn</text>
+	</string>
+	<string id="st_save_jup_b218_travel_jup_to_pas">
+		<text>escuadrуn ensamblado</text>
+	</string>
+	<string id="st_save_pas_b400_underpass_start">
+		<text>llegada en el paso inferior</text>
+	</string>
+	<string id="st_save_uni_travel_pas_to_pri">
+		<text>llegada a Pripyat</text>
+	</string>
+	<string id="st_save_pri_a16_arrived_to_pri">
+		<text>fuerzas militares ubicadas</text>
+	</string>
+	<string id="st_save_pri_a17_hospital_start">
+		<text>arma no identificada capturada</text>
+	</string>
+	<string id="st_save_pri_a20_found_dead_recon">
+		<text>escuadrуn de reconocimiento encontrado</text>
+	</string>
+	<string id="st_save_pri_a18_met_reinforcement">
+		<text>refuerzos llegaron</text>
+	</string>
+	<string id="st_save_pri_a18_searched_antenna">
+		<text>"Antena" examinada</text>
+	</string>
+	<string id="st_save_pri_a21_approached_mad_sentry">
+		<text>el centinela perdido encontrado</text>
+	</string>
+	<string id="st_save_pri_a21_killed_controller">
+		<text>controlador cerca del centinela asesinado</text>
+	</string>
+	<string id="st_save_zat_a23_entered_test_center">
+		<text>taller de prueba accedido</text>
+	</string>
+	<string id="st_save_zat_a23_got_gauss_docs">
+		<text>Documentaciуn del rifle Gauss encontrada</text>
+	</string>
+	<string id="st_save_pri_a22_found_dead_squad">
+		<text>luchador muerto encontrado</text>
+	</string>
+	<string id="st_save_pri_a25_gonna_place_explosive">
+		<text>entrada al jardнn de infantes</text>
+	</string>
+	<string id="st_save_pri_a25_freed_medic">
+		<text>mйdico militar rescatado</text>
+	</string>
+	<string id="st_save_pri_a28_talked_with_ssu">
+		<text>comunicaciones establecidas con HQ</text>
+	</string>
+	<string id="st_save_pri_a28_evacutaion_start">
+		<text>La evacuaciуn de Pripyat iniciу</text>
+	</string>
+	<string id="st_save_pri_a28_evacuation_end">
+		<text>helicуpteros de evacuaciуn alcanzados</text>
+	</string>
+	<string id="st_save_uni_zone_to_reality">
+		<text>evacuaciуn completa</text>
+	</string>
+	<string id="st_save_jup_b209_placed_mutant_scanner">
+		<text>detector de mutantes</text>
+	</string>
+	<string id="st_save_jup_a12_gave_artefact_for_hostage">
+		<text>rescate pagado por rehйn</text>
+	</string>
+	<string id="st_save_jup_a12_met_with_liberators">
+		<text>rehйn liberado</text>
+	</string>
+	<string id="st_save_jup_b6_arrived_to_ash_heap">
+		<text>Mediciones de la anomalнa de Ash Heap</text>
+	</string>
+	<string id="st_save_jup_b6_arrived_to_fen">
+		<text>Medidas de anomalнa Plavni</text>
+	</string>
+	<string id="st_save_zat_b38_met_with_grouse">
+		<text>guarida de chupasangres</text>
+	</string>
+	<string id="st_save_jup_b19_arrived_to_kopachy">
+		<text>enviado a Kopachy</text>
+	</string>
+	<string id="st_save_zat_b40_warned_by_mercs">
+		<text>acercamiento a la estaciуn de procesamiento de desechos</text>
+	</string>
+	<string id="st_save_zat_b7_met_with_robbers">
+		<text>stalker golpeado</text>
+	</string>
+	<string id="st_save_zat_b33_got_container">
+		<text>contenedor encontrado en escondite</text>
+	</string>
+	<string id="st_save_zat_b106_arrived_to_chimera_lair">
+		<text>cazando la quimera</text>
+	</string>
+	<string id="st_save_jup_b16_passed_labyrinth">
+		<text>Oasis encontrado</text>
+	</string>
+	<string id="st_save_pri_b35_ready_to_snipe">
+		<text>Operaciуn One Shot iniciado</text>
+	</string>
+	<string id="st_save_jup_b1_entered_railroad_tunnel">
+		<text>buscar la fuente de emisiуn psнquica</text>
+	</string>
+	<string id="st_save_jup_b47_got_admin_docs">
+		<text>documentos administrativos</text>
+	</string>
+	<string id="st_save_zat_b103_warned_by_mercs">
+		<text>aproximбndose al taller de la subestaciуn</text>
+	</string>
+	<string id="st_save_zat_b5_met_with_others">
+		<text>trato por la estaciуn de guardabosques</text>
+	</string>
+	<string id="st_save_jup_b207_arrived_to_duty_depot">
+		<text>Almacйn de servicio</text>
+	</string>
+	<string id="st_save_zat_b14_got_altered_wheel">
+		<text>fuente de resplandor extraсo encontrado</text>
+	</string>
+	<string id="st_save_pri_b301_arrived_to_help_zulu">
+		<text>Zulu encontrado</text>
+	</string>
+	<string id="st_save_zat_b42_arrived_to_controler_lair">
+		<text>cueva peligrosa</text>
+	</string>
+	<string id="ui_st_upgrade">
+		<text>Reparar / Modificar</text>
+	</string>
+	<string id="ui_st_buy">
+		<text>Comprar</text>
+	</string>
+	<string id="ui_st_sell">
+		<text>Vender</text>
+	</string>
+	<string id="ui_st_trade">
+		<text>Comercio</text>
+	</string>
+	<string id="ui_st_exit_hint">
+		<text>Cerrar ventana ($$ ACTION_USE $$)</text>
+	</string>
+	<string id="ui_st_trade_hint">
+		<text>Abre la ventana de negociaciуn ($$ ACTION_SPRINT_TOGGLE $$)</text>
+	</string>
+	<string id="ui_st_upgrade_hint">
+		<text>Abra la ventana de reparaciуn y modificaciуn ($$ ACTION_SPRINT_TOGGLE $$)</text>
+	</string>
+	<string id="ui_st_take_all_hint">
+		<text>Mueva todos los elementos a su mochila ($$ ACTION_SPRINT_TOGGLE $$)</text>
+	</string>
+	<string id="ui_st_buy_hint">
+		<text>Comprar artнculos seleccionados</text>
+	</string>
+	<string id="ui_st_sell_hint">
+		<text>Vender artнculos seleccionados</text>
+	</string>
+	<string id="st_save_pri_a28_evacuation_heli">
+		<text>despegue del helicуptero de evacuaciуn</text>
+	</string>
+
+	<!-- Call of Chernobyl -->
+	<!-- Companions -->
+	<string id="st_companion_state_stealth_disabled">
+		<text>Modo sigilo compaсero habilitado</text>
+	</string>
+	<string id="st_companion_state_stealth_enabled">
+		<text>Modo sigilo compaсero deshabilitado</text>
+	</string>
+
+	<string id="st_disable_looting">
+		<text>Saqueo deshabilitado</text>
+	</string>
+	<string id="st_enable_looting">
+		<text>Saqueo habilitado</text>
+	</string>
+	<string id="st_set_companion_to_attack_only_actor_combat_enemy_state">
+		<text>Modo defensivo</text>
+	</string>
+	<string id="st_set_companion_to_attack_state">
+		<text>Modo agresivo</text>
+	</string>
+	<string id="st_set_companion_to_ignore_combat_state">
+		<text>Modo pasivo</text>
+	</string>
+	<string id="st_move_to_point">
+		<text>Mover al punto</text>
+	</string>
+	<string id="st_set_companion_to_follow_state">
+		<text>Modo de seguimiento</text>
+	</string>
+	<string id="st_set_companion_to_loot_corpse_state">
+		<text>Puede saquear cadбveres</text>
+	</string>
+	<string id="st_set_companion_to_loot_items_state">
+		<text>Puede recoger artнculos</text>
+	</string>
+
+	<string id="st_set_companion_to_patrol_state">
+		<text>Modo patrulla</text>
+	</string>
+	<string id="st_set_companion_to_stealth_state">
+		<text>Modo sigilo</text>
+	</string>
+	<string id="st_set_companion_to_wait_state">
+		<text>Modo de espera</text>
+	</string>
+
+	<!-- Sleep deprivation -->
+	<string id="st_sleep">
+		<text>Dormir</text>
+	</string>
+	<string id="st_sleep_awake">
+		<text>No necesitas descansar</text>
+	</string>
+	<string id="st_sleep_awake_wired">
+		<text>Usted tiene mucha cafeнna y no puede descansar</text>
+	</string>
+	<string id="st_sleep_bleeding">
+		<text>Estбs sangrando; buscar atenciуn mйdica</text>
+	</string>
+	<string id="st_sleep_bleeding_irradiated">
+		<text>Estбs sangrando e irradiando; buscar atenciуn mйdica</text>
+	</string>
+	<string id="st_sleep_deprived">
+		<text>Usted fue asesinado mientras estaba inconsciente</text>
+	</string>
+	<string id="st_sleep_event">
+		<text>No estбs lo suficientemente loco como para descansar durante este</text>
+	</string>
+	<string id="st_sleep_exhausted">
+		<text>Estбs agotado y necesitas descansar</text>
+	</string>
+	<string id="st_sleep_exhausted_final">
+		<text>Estбs exhausto; descansa inmediatamente!</text>
+	</string>
+	<string id="st_sleep_irradiated">
+		<text>Usted estб irradiado; buscar atenciуn mйdica</text>
+	</string>
+
+	<!-- Stash placement -->
+	<string id="st_stash_created">
+		<text>Stash creado</text>
+	</string>
+	<string id="st_stash_placed">
+		<text>Ya has puesto un stash en alguna parte</text>
+	</string>
+	<string id="st_stash_unsafe">
+		<text>Stash no puede ser colocado aquн</text>
+	</string>
+
+
+	<!--     game.translate_string("")      -->
+
+	<!-- Miscellaneous -->
+	<string id="st_body_decayed">
+		<text>El cuerpo estб muy deteriorado</text>
+	</string>
+	<string id="st_future_maps_descr">
+		<text>No puedes ir allн.</text>
+	</string>
+	<string id="st_hold_then_release">
+		<text>Sostener y soltar</text>
+	</string>
+	<string id="st_invalid_position">
+		<text>Posiciуn no en el mapa de AI</text>
+	</string>
+	<string id="st_lamp_disconnected">
+		<text>Lбmpara principal desconectada de UPD</text>
+	</string>
+	<string id="st_lamp_equipped">
+		<text>Lбmpara de cabeza equipada</text>
+	</string>
+	<string id="st_level_changer_descr">
+		<text>Pasar al siguiente nivel?</text>
+	</string>
+	<string id="st_travel_already_here">
+		<text>Ya estбs en tu destino</text>
+	</string>
+	<string id="st_travel_event">
+		<text>Serнa inseguro viajar con enemigos cercanos</text>
+	</string>
+	<string id="st_travel_lost">
+		<text>Aъn no sabes el camino.</text>
+	</string>
+	<string id="st_travel_overloaded">
+		<text>Llevas demasiado peso</text>
+	</string>
+	<string id="st_wish_granted">
+		<text>ЎDESEO CONCEDIDO!</text>
+	</string>
+
+	<!-- Dead Air -->
+	<string id="st_body_knife_bad">
+		<text>El cuchillo estб en muy malas condiciones</text>
+	</string>
+	<string id="st_body_knife_needed">
+		<text>Necesitas un cuchillo</text>
+	</string>
+	<string id="st_body_knife_weak">
+		<text>Necesitas un cuchillo mбs fuerte para este mutante</text>
+	</string>
+	<string id="st_key_notbinded">
+		<text>...</text>
+	</string>
+	<string id="st_only_campfire_load">
+		<text>Recargar mientras estб vivo estб deshabilitado</text>
+	</string>
+	<string id="st_only_campfire_quit">
+		<text>Dejar de fumar mientras estб vivo estб deshabilitado</text>
+	</string>
+	<string id="st_only_campfire_save">
+		<text>El guardado manual estб desactivado (fogatas solamente)</text>
+	</string>
+	<string id="st_rad_level">
+		<text>Nivel de radiaciуn</text>
+	</string>
+	<string id="st_repair_mod_message_box_ask">
+		<text>їDesea corregir %s?\n \n%c[255,1,255,1]+%s%</text>
+	</string>
+	<string id="st_repair_mod_message_box_condition_to_high">
+		<text>Estas herramientas no son suficientes para arreglar este artнculo.</text> <!-- revision -->
+	</string>
+	<string id="st_repair_mod_message_box_condition_to_low">
+		<text>Este artнculo estб demasiado daсado para ser reparado con estas herramientas.</text> <!-- revision -->
+	</string>
+	<string id="st_upd_disconnected">
+		<text>No tienes un dispositivo de alimentaciуn universal (UPD)</text>
+	</string>
+	<string id="st_upd_low">
+		<text>Bajo consumo de baterнa</text>
+	</string>
+	<string id="st_ui_arts">
+		<text>Artefactos</text>
+	</string>
+	<string id="st_ui_containers">
+		<text>Envase</text>
+	</string>
+	<string id="st_ui_place_art">
+		<text>Poner artefacto</text>
+	</string>
+	<string id="st_ui_remove_art">
+		<text>Obtener artefacto</text>
+	</string>
+	<string id="st_ui_selected">
+		<text>Seleccionado</text>
+	</string>
+	<string id="ui_st_barter">
+		<text>Comercio</text>
+	</string>
+	<string id="ui_st_barter_hint">
+		<text>Intercambia los artнculos seleccionados</text>
+	</string>
+	<string id="ui_st_inv_craft">
+		<text>Craft</text>
+	</string>
+	<string id="ui_st_inv_materials">
+		<text>Materiales</text>
+	</string>
+
+	 <!-- everything below need revision -->
+	<string id="st_condition_type">
+		<text>\n \nPROBLEMAS:</text>
+	</string>
+
+	<string id="st_condition_type_0">
+		<text>\n %c[0,93,0,116] • %c[0,140,140,140]ninguno</text>
+	</string>
+
+	<string id="st_condition_type_1">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]receptor gastado</text>
+	</string>
+
+	<string id="st_condition_type_2">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]receptor agrietado</text>
+	</string>
+
+	<string id="st_condition_type_3">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]resorte principal sucio</text>
+	</string>
+
+	<string id="st_condition_type_4">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]primavera principal gastada</text>
+	</string>
+
+	<string id="st_condition_type_5">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]resorte de retroceso sucio</text>
+	</string>
+
+	<string id="st_condition_type_6">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]resorte de retroceso deformado</text>
+	</string>
+
+	<string id="st_condition_type_7">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]agarre suelto</text>
+	</string>
+
+	<string id="st_condition_type_8">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]stock roto</text>
+	</string>
+
+	<string id="st_condition_type_9">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]martillo deformado</text>
+	</string>
+
+	<string id="st_condition_type_10">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]martillo roto</text>
+	</string>
+
+	<string id="st_condition_type_11">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]barril sucio</text>
+	</string>
+
+	<string id="st_condition_type_12">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]barril deformado</text>
+	</string>
+
+	<string id="st_condition_type_13">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]barril agrietado</text>
+	</string>
+
+	<string id="st_condition_type_14">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]disparador deformado</text>
+	</string>
+
+	<string id="st_condition_type_15">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]disparador roto</text>
+	</string>
+
+	<string id="st_condition_type_16">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]mecanismo disparador sucio</text>
+	</string>
+
+	<string id="st_condition_type_17">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]mecanismo de disparo deformado</text>
+	</string>
+
+	<string id="st_condition_type_18">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]mecanismo de disparo roto</text>
+	</string>
+
+	<string id="st_condition_type_19">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]pistуn de gas sucio</text>
+	</string>
+
+	<string id="st_condition_type_20">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]pistуn de gas deformado</text>
+	</string>
+
+	<string id="st_condition_type_21">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]pistуn de gas roto</text>
+	</string>
+
+	<string id="st_condition_type_22">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]tornillo sucio</text>
+	</string>
+
+	<string id="st_condition_type_23">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]perno deformado</text>
+	</string>
+
+	<string id="st_condition_type_24">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]tubo de gas agrietado</text>
+	</string>
+
+	<string id="st_condition_type_25">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]25</text>
+	</string>
+
+	<string id="st_condition_type_26">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]26</text>
+	</string>
+
+	<string id="st_condition_type_27">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]27</text>
+	</string>
+
+	<string id="st_condition_type_28">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]palanca selectora de seguridad rota</text>
+	</string>
+
+	<string id="st_condition_type_29">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]bloque de visiуn frontal deformado</text>
+	</string>
+
+	<string id="st_condition_type_30">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]freno de boca roto</text>
+	</string>
+
+	<string id="st_condition_type_31">
+		<text>\n %c[0,204,0,51] • %c[0,204,0,51]agrietado</text>
+	</string>
+
+	<string id="st_condition_type_32">
+		<text>\n %c[0,93,0,116] • %c[0,255,0,0]ERROR</text>
+	</string>
+
+
+	<string id="st_condition_type_text">
+		<text>Arreglar: </text>
+	</string>
+<!--
+	<string id="st_condition_type_text_0">
+		<text>???????????</text>
+	</string>
+
+	<string id="st_condition_type_text_1">
+		<text>usado barrel?????????</text>
+	</string>
+
+	<string id="st_condition_type_text_2">
+		<text>agrietado barrel?????????</text>
+	</string>
+
+	<string id="st_condition_type_text_3">
+		<text>primavera principal sucia</text>
+	</string>
+
+	<string id="st_condition_type_text_4">
+		<text>primavera principal gastada</text>
+	</string>
+
+	<string id="st_condition_type_text_5">
+		<text>primavera de retroceso sucio</text>
+	</string>
+
+	<string id="st_condition_type_text_6">
+		<text>muelle de retroceso deformado</text>
+	</string>
+
+	<string id="st_condition_type_text_7">
+		<text>????????? grip</text>
+	</string>
+
+	<string id="st_condition_type_text_8">
+		<text>stock roto</text>
+	</string>
+
+	<string id="st_condition_type_text_9">
+		<text>martillo deformado</text>
+	</string>
+
+	<string id="st_condition_type_text_10">
+		<text>martillo roto</text>
+	</string>
+
+	<string id="st_condition_type_text_11">
+		<text>barril sucio</text>
+	</string>
+
+	<string id="st_condition_type_text_12">
+		<text>barril deformado</text>
+	</string>
+
+	<string id="st_condition_type_text_13">
+		<text>barril de galletas</text>
+	</string>
+
+	<string id="st_condition_type_text_14">
+		<text>gatillo deformado</text>
+	</string>
+
+	<string id="st_condition_type_text_15">
+		<text>gatillo roto</text>
+	</string>
+
+	<string id="st_condition_type_text_16">
+		<text>mecanismo de disparo sucio</text>
+	</string>
+
+	<string id="st_condition_type_text_17">
+		<text>mecanismo detonante deformado</text>
+	</string>
+
+	<string id="st_condition_type_text_18">
+		<text>mecanismo de disparo roto</text>
+	</string>
+
+	<string id="st_condition_type_text_19">
+		<text>pistуn de gas sucio</text>
+	</string>
+
+	<string id="st_condition_type_text_20">
+		<text>pistуn de gas deformado</text>
+	</string>
+
+	<string id="st_condition_type_text_21">
+		<text>pistуn de gas roto</text>
+	</string>
+
+	<string id="st_condition_type_text_22">
+		<text>dirty????</text>
+	</string>
+
+	<string id="st_condition_type_text_23">
+		<text>deformido????</text>
+	</string>
+
+	<string id="st_condition_type_text_24">
+		<text>tubo de gas agrietado</text>
+	</string>
+
+	<string id="st_condition_type_text_25">
+		<text>25</text>
+	</string>
+
+	<string id="st_condition_type_text_26">
+		<text>26</text>
+	</string>
+
+	<string id="st_condition_type_text_27">
+		<text>27</text>
+	</string>
+
+	<string id="st_condition_type_text_28">
+		<text>palanca de seguridad rota</text>
+	</string>
+
+	<string id="st_condition_type_text_29">
+		<text>bloque de vista frontal roto</text>
+	</string>
+
+	<string id="st_condition_type_text_30">
+		<text>freno de boca roto</text>
+	</string>
+
+	<string id="st_condition_type_text_31">
+		<text>puntero agrietado</text>
+	</string>
+
+	<string id="st_condition_type_text_32">
+		<text>??????</text>
+	</string>
+-->
+
+	<string id="st_condition_type_text_0">
+		<text>ninguna</text>
+	</string>
+
+	<string id="st_condition_type_text_1">
+		<text>Reemplazar el receptor</text>
+	</string>
+
+	<string id="st_condition_type_text_2">
+		<text>Reemplazar el receptor</text>
+	</string>
+
+	<string id="st_condition_type_text_3">
+		<text>limpiar el resorte principal</text>
+	</string>
+
+	<string id="st_condition_type_text_4">
+		<text>reemplace el muelle principal</text>
+	</string>
+
+	<string id="st_condition_type_text_5">
+		<text>limpiar el resorte de retroceso</text>
+	</string>
+
+	<string id="st_condition_type_text_6">
+		<text>ajustar el resorte de retroceso</text>
+	</string>
+
+	<string id="st_condition_type_text_7">
+		<text>reemplace el agarre</text>
+	</string>
+
+	<string id="st_condition_type_text_8">
+		<text>reemplazar el stock</text>
+	</string>
+
+	<string id="st_condition_type_text_9">
+		<text>ajustar el martillo</text>
+	</string>
+
+	<string id="st_condition_type_text_10">
+		<text>Reemplace el martillo</text>
+	</string>
+
+	<string id="st_condition_type_text_11">
+		<text>limpiar el barril</text>
+	</string>
+
+	<string id="st_condition_type_text_12">
+		<text>ajustar el barril</text>
+	</string>
+
+	<string id="st_condition_type_text_13">
+		<text>reemplazar el barril</text>
+	</string>
+
+	<string id="st_condition_type_text_14">
+		<text>ajustar el disparador</text>
+	</string>
+
+	<string id="st_condition_type_text_15">
+		<text>reemplazar el gatillo</text>
+	</string>
+
+	<string id="st_condition_type_text_16">
+		<text>limpiar el mecanismo de disparo</text>
+	</string>
+
+	<string id="st_condition_type_text_17">
+		<text>ajustar el mecanismo de disparo</text>
+	</string>
+
+	<string id="st_condition_type_text_18">
+		<text>reemplazar el mecanismo de disparo</text>
+	</string>
+
+	<string id="st_condition_type_text_19">
+		<text>limpiar el pistуn de gas</text>
+	</string>
+
+	<string id="st_condition_type_text_20">
+		<text>ajustar el pistуn de gas</text>
+	</string>
+
+	<string id="st_condition_type_text_21">
+		<text>reemplace el pistуn de gas</text>
+	</string>
+
+	<string id="st_condition_type_text_22">
+		<text>limpiar el perno</text>
+	</string>
+
+	<string id="st_condition_type_text_23">
+		<text>ajustar el perno</text>
+	</string>
+
+	<string id="st_condition_type_text_24">
+		<text>reemplace el tubo de gas</text>
+	</string>
+
+	<string id="st_condition_type_text_25">
+		<text>25</text>
+	</string>
+
+	<string id="st_condition_type_text_26">
+		<text>26</text>
+	</string>
+
+	<string id="st_condition_type_text_27">
+		<text>27</text>
+	</string>
+
+	<string id="st_condition_type_text_28">
+		<text>reemplace la palanca del selector de seguridad</text>
+	</string>
+
+	<string id="st_condition_type_text_29">
+		<text>reemplace el bloque de mira</text>
+	</string>
+
+	<string id="st_condition_type_text_30">
+		<text>ajustar el freno de boca</text>
+	</string>
+
+	<string id="st_condition_type_text_31">
+		<text>reemplace el guardamanos</text>
+	</string>
+
+	<string id="st_condition_type_text_32">
+		<text>Error</text>
+	</string>
+
+
+</string_table>

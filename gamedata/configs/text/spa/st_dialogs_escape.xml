@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<!-- esc_2_12_stalker_trader -->
+	<string id="esc_2_12_stalker_trader_start_dialog_0">
+		<text>Oye, stalker! їQue necesitas?</text>
+	</string>
+
+	<string id="esc_2_12_stalker_trader_start_dialog_1">
+		<text>Una cara nueva... їo te he visto antes, stalker? Soy el tipo que estб por aquн para ver si necesitas comprar o vender equipos. Si buscas una fuente de ingresos, siempre estoy en la necesidad de alguien dispuesto a hacer un trabajo sucio. Miro por encima de este campamento, y todos los stalkeres son bienvenidos aquн para descansar, siempre y cuando se mantengan fuera de problemas. Tambiйn te advierto que no te metas con los militares; Paguй un buen dinero para mantenerlos alejados de este lugar. Los acechadores deberнan ser relativamente seguros siempre que no abandonen el campamento.</text>
+	</string>
+
+	<string id="esc_2_12_stalker_trader_start_dialog_11">
+		<text>Sн. Soy nuevo. Finalmente decidн echar un vistazo y decir hola.</text>
+	</string>
+
+	<string id="esc_2_12_stalker_trader_start_dialog_111">
+		<text>Ya veo. Mi error, entonces. Bueno, si tienes alguna pregunta, pregъntame y responderй a lo que sй.</text>
+	</string>
+
+	<string id="esc_2_12_stalker_trader_start_dialog_110">
+		<text>їTienes algo mбs? Preguntar mientras estoy de humor.</text>
+	</string>
+
+	<string id="esc_2_12_stalker_trader_start_dialog_1119">
+		<text>Creo que es suficiente.</text>
+	</string>
+
+	<string id="esc_2_12_stalker_trader_start_dialog_1111">
+		<text>No tengo nada con lo que empezar, pero unos miles de rublos. їPodrнa sugerir quй debo hacer a continuaciуn?</text>
+	</string>
+
+	<string id="esc_2_12_stalker_trader_start_dialog_11111">
+		<text>Bueno, veamos... їTienes una mochila? Si no, aquн. Lo venderй por un precio barato, y es cуmodo, fuerte y muy espacioso. їPor quй lo necesitarнas, podrнas preguntar? Bien, lo comprenderб una vez que termine escapando de los perros ciegos hambrientos mientras lleva una mochila llena de cosas importantes.\n Si estб seguro de que puede sobrevivir a la luz del dнa, debe prepararse para la noche. Sugerirнa un saco de dormir, pero vendн el ъltimo que tenнa hace una semana. Te darй una manta por ahora. No serб tan ъtil cuando quieras dormir al aire libre; las noches son realmente frнas, їsabes? Dormir cerca de fogatas es lo mejor que puedes hacer. Y ni siquiera pienses en pasar la noche durmiendo en el lugar de otra persona; seguro, puedes tomar una siesta, pero tienes que encontrar un lugar donde puedas llamar a tu casa. Aquн estбn las reglas.\n No necesito mencionar por quй * realmente * necesita una mбscara de gas y dosнmetro. Sin ellos, incluso los stalkeres mбs experimentados no sobrevivirнan lo suficiente.\n Si quieres ir a cazar, entonces debes obtener un cuchillo confiable. Tambiйn hay dos tipos de juegos de cocina con diferentes tipos de combustibles. Despuйs de todo, la carne mutada debe cocinarse si no quieres envenenarse.</text>
+	</string>
+
+	<string id="esc_2_12_stalker_trader_start_dialog_111111">
+		<text>Entonces hay muchas cosas para considerar. їQuй mбs?</text>
+	</string>
+
+	<string id="esc_2_12_stalker_trader_start_dialog_1112">
+		<text>Veo que tienes mucha textolita, colofonia, aceite; ese tipo de cosas. їPor quй lo necesitas? їLos stalkeres incluso lo compran?</text>
+	</string>
+
+	<string id="esc_2_12_stalker_trader_start_dialog_11121">
+		<text>їQue clase de pregunta es esa? Por supuesto que lo compran! Para los novatos, son muy necesarios. Es algo viejo, por supuesto, y no todos quieren molestarse con йl, pero un stalker inteligente harб uso de todo tipo de basura que puedas imaginar, si tiene las herramientas adecuadas a mano. Estas herramientas, por cierto, tienen una gran demanda, especialmente entre los tйcnicos. De todos modos, arrastre todas esas cosas que puede encontrar aquн, y con mucho gusto lo comprarй. Solo ten en cuenta: no regatear.</text>
+	</string>
+
+	<string id="esc_2_12_stalker_trader_start_dialog_111211">
+		<text>Ya veo.</text>
+	</string>
+
+	<string id="esc_2_12_stalker_trader_start_dialog_1113">
+		<text>їHay algo bueno para comer? Espero que el pan seco no sea una comida regular por aquн.</text>
+	</string>
+
+	<string id="esc_2_12_stalker_trader_start_dialog_11131">
+		<text>Puedo escuchar esa triste sinfonнa viniendo de tu pobre estуmago. Estб bien.\n En general, la comida buena y saludable se trae aquн solo en pequeсos paquetes; cosas como diferentes tipos de alimentos enlatados, pan, vodka y mбs. La triste noticia es que la buena comida tiene un alto precio. Y ni siquiera comiences a quejarme de eso; Lo escucho cientos de veces al dнa. Si quieres comer, entonces debes pagar. Asн es como es. Es cierto que la Zona es un lugar peligroso, y por lo tanto, es normal tomar riesgos de salud aquн. Los lugareсos se han acostumbrado a obtener su propia comida de todo lo que viene bajo su control, que generalmente es algo malvado y radiactivo... Cazar mutantes para la carne es bastante comъn aquн. Jabalнes, carne, quimeras... lo que sea. Vas a arriesgar tu vida por eso, y el sabor de la carne mutada no es tan malo si estб bien cocinado. La carne mezclada con pan puede servirte bien. Puede envolver la carne en papel y dejarla durante varios dнas para neutralizar y reducir el riesgo de radiaciуn.</text>
+	</string>
+	<string id="esc_2_12_stalker_trader_start_dialog_111311">
+		<text>Bueno, al menos es algo. Gracias por eso.</text>
+	</string>
+
+	<string id="esc_2_12_stalker_trader_start_dialog_1114">
+		<text>їPor quй no hay armas en venta? Me gustarнa comprar un arma. O mejor aъn, una escopeta.</text>
+	</string>
+
+	<string id="esc_2_12_stalker_trader_start_dialog_11141">
+		<text>No estoy autorizado a intercambiar armas; el ejйrcito no lo permite. їQuй sucede si vendo un arma justo delante de sus narices a algъn idiota que va a iniciar una guerra justo en el puesto de control? Quemarбn todo el campamento hasta el suelo y agacharбn mi cabeza en la pared. Y confнa en mн cuando digo que no quiero eso. Sin embargo, llegamos a un acuerdo sobre la venta de municiones; aunque no es el mejor tipo que puedes encontrar, deberнan ser lo suficientemente confiables hasta que salgas del Cordуn.</text>
+	</string>
+
+	<string id="esc_2_12_stalker_trader_start_dialog_111411">
+		<text>Me las arreglarй con lo que hay.</text>
+	</string>
+
+	<string id="esc_2_12_stalker_trader_start_dialog_esc_m_trader_task_1_complete">
+		<text>El negocio estб cuidado? Buen trabajo. Aquн estб su pago.</text>
+	</string>
+	<string id="esc_2_12_stalker_trader_start_dialog_esc_m_trader_task_2_complete">
+		<text>Tienes un verdadero talento. їTъ lo sabes? Aquн estб su pago. Esto serб bueno para los negocios.</text>
+	</string>
+
+	<!-- esc_2_12_stalker_wolf_start -->
+	<string id="esc_2_12_stalker_wolf_start_dialog_1">
+		<text>Hola stalker. їQuй te trae a la aldea hoy?</text>
+	</string>
+
+	<!-- esc_2_12_stalker_fanat -->
+	<string id="esc_2_12_stalker_fanat_start_dialog_1">
+		<text>ЎVen y siйntate con nosotros junto al fuego, stalker!</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_start_dialog_esc_m_trader_task_2">
+		<text>їNecesitas algo, stalker?</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_about_esc_m_trader_task_2_0">
+		<text>Hay bandidos que necesitan cuidado en el estacionamiento. Sidorovich dijo que tal vez quieras ayudarme.</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_about_esc_m_trader_task_2_1">
+		<text>Sн. Te ayudare. No quiero que hagan mбs daсo a los novatos.</text>
+	</string>
+
+	<!-- esc_2_12_stalker_nimble -->
+	<!-- esc_2_12_stalker_trader_mar_base_owl_stalker_trader_task_1 -->
+	<string id="esc_2_12_stalker_nimble_mar_base_owl_stalker_trader_task_1">
+		<text>Oh, por fнn! ЎEl tan esperado PDA! ЎEspere dos semanas para obtenerlo de Spore! ЎGracias! Aquн estб tu recompensa.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_mar_base_owl_stalker_trader_task_1_about">
+		<text>Traje algo aquн en la asignaciуn.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_no">
+		<text>No creo ser el que estбs buscando.</text>
+	</string>
+
+
+	<string id="esc_2_12_stalker_nimble_about_0">
+		<text>Tengo un par de preguntas para ti.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_about_01">
+		<text>Por supuesto. їQuй te interesa?</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_about_011">
+		<text>Cuйntame sobre ti.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_about_0111">
+		<text>Nada realmente interesante. Fui miembro de Clear Sky hasta que se produjo la gran emisiуn, cuando abandonй los pantanos del Cordon. Sidorovich me salvу el trasero, asн que comencй a trabajar con йl, y despuйs de obtener algunas conexiones en el mundo comercial, dejй el Cordуn para ir al norte: al Skadovsk. Allн, establecн mi propio negocio, vendiendo armas y equipos raros. Todo iba bien hasta que esos malditos fanбticos reactivaron el Cauterizador Cerebral, asн que decidн regresar aquн, donde comencй. No espero уrdenes serias por aquн, asн que mi negocio no es tan bueno como lo fue.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_about_012">
+		<text>їDуnde podrнa buscar artefactos... si eso no es un secreto, por supuesto?</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_about_0121">
+		<text>Artefactos? No encontrarбs nada aquн. Deberнas moverte mбs hacia la Zona. Pero no se olvide de llevar consigo un par de contenedores de artefactos, junto con una mejor mбscara de gas y un detector confiable. Intenta dirigirte a бreas anуmalas; eso es lo que puedo decirte. Puedes encontrar muchos artefactos en montones de basura. Los lingotes son bastante comunes allн. Si encuentra alguno, embбlelos dentro de sus contenedores y dirнjase a los pantanos. Deberнa encontrar buenos compradores allн, y los muchachos suelen ser generosos. He estado lidiando con ellos durante mucho tiempo; nunca me fallу Ellos aceptan partes mutantes tambiйn. Buen trato, si me preguntas.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_about_01211">
+		<text>їCuбnto puedo obtener por un lingote?</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_about_012111">
+		<text>Cinco o seis mil, si no recuerdo mal. Es buen dinero. Ese artefacto podrнa salvar tu vida un dнa.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_about_999">
+		<text>Ya veo. Gracias.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_about_9999">
+		<text>Feliz de ayudar.</text>
+	</string>
+
+	<string id="esc_2_12_stalker_nimble_get_order_0">
+		<text>Estoy aquн para recoger mi pedido.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_111">
+		<text>Aquн estб tu Estepa Бguila. Resultу mбs complicado de lo que pensaba. Algъn tipo de beso de pistola mostrу mucho interйs, pero apenas lo arrebatй a tiempo. Vea por usted mismo: un arma artesanal. Todos los componentes se ajustan con una precisiуn sin igual. їAlguna vez se preguntу cуmo serнa una pistola de francotirador perfecta? Bueno, esto es todo. Me debes 2.800 extra.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_1111">
+		<text>De acuerdo, aquн tienes.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_11111">
+		<text>Ahн tienes. Es grato hacer negocios contigo.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_1112">
+		<text>No tengo mucho sobre mн.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_11121">
+		<text>De acuerdo, voy a sostener el arma por un tiempo. Espero que encuentres el dinero pronto.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_1113">
+		<text>No quiero comprar esto</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_11131">
+		<text>Si se niega a recoger el pedido, no podrй contar con usted la prуxima vez. Tendrй que incluir la estimaciуn de riesgo en el precio y pedir un anticipo mбs grande.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_111311">
+		<text>Aъn asн, no recopilarй esta orden.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_1113111">
+		<text>Todo bien. Adaptarse a ti mismo.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_1114">
+		<text>Lo pensare.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_11141">
+		<text>Claro, eso depende de ti. Voy a sostener el arma por un tiempo.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_112">
+		<text>Aquн estб su бguila esteparia de ultra alta precisiуn. Me debes 2.800 extra.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_121">
+		<text>Contempla lo alpino: una verdadera belleza. Puede estar seguro de que esta pistola es ъnica en toda la zona. Un modelo ъnico; nъmero muy limitado encargado de una unidad especial ъnica. No fue fбcil de obtener. Incluso tuve que involucrar a uno de mis socios en el extranjero. Una revista expandida, barril de acero extra duro, receptor hecho de polнmeros extra fuertes. Agrega los 2.800 restantes y este bebй es tuyo.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_122">
+		<text>Aquн estб su pistola Alpine con una revista expandida. Agrega los 2.800 restantes y este bebй es tuyo.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_131">
+		<text>Lookit: esto es marzo. La pistola pertenecнa a un mercenario llamado Wolfhound. Un tirador compacto de alto calibre con retroceso corto y un perno aligerado. Wolfhound era cien por ciento escoria, pero conocнa sus armas; tengo que darle eso. Dicen que su truco favorito fue volar las cuatro extremidades de sus vнctimas y luego su cabeza... antes de tocar el suelo. De todos modos, serбn 2.800.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_132">
+		<text>Aquн estб su pistola de marzo de fuego rбpido. Me debes 2.800 extra.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_211">
+		<text>Aquн tienes: Cutter, una ametralladora. Dйjame decirlo de inmediato, no te importe la apariencia. Es un modelo nuevo, no en producciуn en serie todavнa. Es un prototipo, reciйn salido de la armerнa. Los diseсadores intentaron hacer una nueva generaciуn de armas de corto alcance; una combinaciуn de alto calibre, fuego rбpido y precisiуn. Entonces serбn 8,000 extra.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_212">
+		<text>Sн. Aquн estб Cutter, una metralleta de fuego rбpido. Eso serб 8,000 extra.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_221">
+		<text>Aquн hay un buen ejemplar: Carabineros. Una verdadera escopeta del ejйrcito. Capaz de disparar de forma automбtica y al mismo tiempo proporcionar un buen antirretroceso gracias a un sistema equilibrado y sin golpes. Agrega 8,000 y es tuyo.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_222">
+		<text>Aquн estб Carabiner, una escopeta automбtica. Agrega 8,000 y es tuyo.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_231">
+		<text>Creo que esto es justo lo que necesitas. Eliminator, un ъltimo desarrollo. Se suponнa que todo el lote debнa enviarse a Бfrica Central, pero recibн una "muestra" como un favor especial de mis amigos. Una escopeta automбtica con una gran revista y una excelente cadencia de fuego. Tuyo por solo 8,000.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_232">
+		<text>Por supuesto. Eliminador automбtico de escopeta, con una revista extendida. Por 8,000.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_311">
+		<text>Por supuesto. Behold Storm, una submaquina y un lanzagranadas en uno. Este prototipo es una versiуn modificada de un arma convencional diseсada para unidades especiales que operan en la Zona. Innovaciуn tйcnica en lo mejor de nuestros hermanos eslavos... Agregar 16,000 y es tuyo.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_312">
+		<text>Por supuesto. Aquн estб Storm, una submбquina y lanzagranadas con una revista extendida, por un adicional de 16,000.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_321">
+		<text>Aquн estб: GP37, un fusil de asalto de nueva generaciуn. Preciso, confiable y conveniente con un alcance уptico incorporado. Anteriormente era propiedad de un observador de la ONU. Su grupo fue enviado a la Zona para investigar. Sin embargo, la situaciуn empeorу... 16,000 y el rifle es tuyo.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_322">
+		<text>Aquн estб: GP37, un fusil de asalto de nueva generaciуn. El precio es 16,000.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_331">
+		<text>Solo un segundo. Aquн hay un rifle modular FT-200M, una idea original de los fabricantes de armas belgas. Preciso, multiuso, prбctico tanto para diestros como para zurdos, viene con un alcance уptico y un lanzagranadas. Lo obtuve de algunos desafortunados observadores de la ONU... Eso serб 16,000 extra.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_332">
+		<text>Aquн hay un rifle modular FT-200M. Eso serб 16,000 extra.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_411">
+		<text>Aquн estб Tide. Basado en un rifle de francotirador silencioso, fue diseсado especнficamente para unidades militares para luchar contra zombis. Tide produce una tasa de fuego a favor de detener el poder, permitiendo que el francotirador elimine a los zombis uno por uno sin revelar su ubicaciуn. Sin embargo, luego quedу claro que los stalkeres por sн solos serбn suficientes para detener a los zombis en la Barrera, por lo que el rifle nunca llegу a la producciуn en masa. Este bebй es tuyo por 16,000 extra.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_412">
+		<text>Aquн estб Tide: un rifle de francotirador silencioso con mayor potencia de frenado. Agregue 16,000 adicionales y disfrute.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_421">
+		<text>Aquн. Este es un SVU2-A, un rifle de francotirador corto con una mayor velocidad de disparo. Lo comprй en Mac, el legendario guardia de la Libertad. Jurу que no hay otros como йl en toda la Zona. Es un artнculo exclusivo, al menos en estas partes. Serбn 16,000 extra.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_422">
+		<text>Sн. SVU2-A, un rifle de francotirador corto con una mayor velocidad de disparo. Serбn 16,000 extra.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_431">
+		<text>Por supuesto. Solo mira a Lynx aquн. Hecho a mano por un experto local. Йl ha fallecido ahora, asн que no habrб ninguna copia. Se parece a cualquier otro rifle, pero sбcalo para practicar tiro al blanco y notarбs la diferencia. Tiene una combinaciуn perfecta de precisiуn y potencia de frenado. Agrega los 16,000 restantes y este bebй es tuyo.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_432">
+		<text>Sн, Lynx: un rifle de francotirador con mayor precisiуn y potencia. Agrega 16,000 y es tuyo.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_511">
+		<text>Mira aquн. Logrй sacar todo de mi lista: un CS-3a con casco. El casco no es nada especial por sн mismo, pero permite instalar un complejo tбctico mуvil, que incluye un sistema de visiуn nocturna de alta calidad y un sensor infrarrojo activo. Ahora, la armadura CS-3a es una verdadera belleza. La excelente protecciуn contra balas y anomalнas es una caracterнstica excepcional en un traje tan liviano y mуvil como este. Todo esto te costarб 32,000.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_512">
+		<text>Sн. Un conjunto de armadura CS-3a con casco tбctico. 32,000 en total.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_611">
+		<text>Especialmente para ti, un traje de SEVA. Todo tal como lo ordenу: un mуdulo respiratorio de ciclo cerrado, un circuito elйctrico protector y resistente a la temperatura y materiales anticorrosiуn de superficie exterior. Ademбs de varios contenedores de artefactos incorporados como una ventaja. Un traje imprescindible para cualquier stalker. Mezcle en 24,000 como acordamos y es tuyo.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_612">
+		<text>Aquн. Un traje de SEVA. El precio es de 24,000, como acordamos.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_711">
+		<text>Ahн estб: un exoesqueleto de combate tan grande como la vida. La mejor protecciуn que puede obtener en la Zona contra balas, garras o fragmentos de granadas, a excepciуn de los vehнculos blindados. Pero tambiйn toma despuйs de los vehнculos blindados en que alivia su carga de peso; dentro de lo razonable, por supuesto. 48,000 y es tuyo, verrugas y todo... err... con eso quiero decir baterнas y servomotores.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_get_order_712">
+		<text>Ahн estб: un exoesqueleto de combate tan grande como la vida. 48,000 y es tuyo</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_0">
+		<text>Quiero hacer un pedido.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_1">
+		<text>No hay problema. їQue necesitas?</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_11">
+		<text>Una pistola</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_111">
+		<text>Por supuesto. Serбn 3.500, de los cuales requerirй un pago anticipado de 700.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_1111">
+		<text>De acuerdo, aquн tienes.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_11111">
+		<text>Me pondrй en contacto con usted tan pronto como la orden estй lista.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_1112">
+		<text>No tengo el dinero conmigo.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_11121">
+		<text>Bueno, vuelve cuando tengas el efectivo.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_1113">
+		<text>Ya sabes, he cambiado de opiniуn.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_11131">
+		<text>Multa. Si finalmente decides hacer un pedido, siempre estoy aquн.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_112">
+		<text>No eres un cliente muy confiable, por lo que la pistola te costarб 4.200. Y requerirй un pago anticipado de 1,400.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_113">
+		<text>Me temo que las mejores pistolas ya se han agotado. Si quieres las cosas normales, Owl es el hombre para ver.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_12">
+		<text>Un arma de corto alcance.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_121">
+		<text>Cosa segura. El precio es de 10,000, y necesitarй 2,000 de eso por adelantado.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_122">
+		<text>Te negaste a recoger tu ъltimo pedido... Asн que este te costarб 12,000, y necesitarй 4,000 de eso por adelantado.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_123">
+		<text>Hm... ya sabes, probablemente no pueda ayudarte allн. La demanda es muy alta.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_13">
+		<text>Un arma de asalto.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_131">
+		<text>Algo de alto calibre y con capacidad de disparo rбpido, estб bien... El precio regular es de 20,000, con un pago adelantado de 4,000. їQuй dices?</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_132">
+		<text>Eres un cliente difнcil Tendrй que cobrarle 24,000 y necesito 8,000 por adelantado. їAcuerdo?</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_133">
+		<text>En este momento es un mal momento... Los militares estбn haciendo las cosas bien en el Cordon. Alguien atacу su puesto avanzado el otro dнa, lo que los hizo aъn mбs difнciles de tratar.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_14">
+		<text>Un arma de francotirador.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_141">
+		<text>Para ti, puedo obtener lo mejor por solo 20,000, pero tendrбs que pagarme 4.000 por adelantado.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_142">
+		<text>Trabajar con usted implica una cierta cantidad de riesgo... Puedo tratar de organizar su pedido por 24,000, pero tendrб que hacer un pago inicial de 8,000.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_143">
+		<text>Lo sentimos, este tipo de arma es difнcil de encontrar ahora. Mi contacto para cosas de francotiradores es... digamos que estб indispuesto.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_15">
+		<text>Un traje blindado.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_151">
+		<text>Sн, puedo pensar en algo... adecuado. Te costarб 40,000, pero tendrбs que pagarme 8,000 por adelantado.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_152">
+		<text>Sн, puedo pensar en algo... adecuado. Se negу a cobrar su ъltimo pedido, por lo que el precio serб de 48,000 y deberб pagarme 16,000 por adelantado.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_153">
+		<text>No podrй hacer nada mejor que la ъltima demanda que recibн por ti. Ese fue ъnico y superior.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_16">
+		<text>Un traje con un mуdulo respiratorio de ciclo cerrado.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_161">
+		<text>Es una tarea difнcil... No serб fбcil de obtener. Ni por asomo. Puedo tratar de obtener uno de estos bebйs por 30,000, pero tengo que pedir un pago inicial de 6,000.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_162">
+		<text>Me decepcionaste en el ъltimo pedido, asн que tengo que pensarlo dos veces esta vez. Puedo tratar de obtener uno de estos bebйs por 36,000, pero tengo que pedir un pago inicial de 12,000.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_163">
+		<text>Me inclinй hacia atrбs para obtener el ъltimo. No creo que pueda repetir eso.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_17">
+		<text>Un exoesqueleto.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_171">
+		<text>Debes haber pensado mucho en esta elecciуn. Puedo tener en mis manos una versiуn de combate, pero te costarб 60,000. Caro, lo sй, pero bien vale la pena. Tenga en cuenta que necesitarй 12,000 de eso pagado ahora.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_172">
+		<text>No me trataste muy bien en el ъltimo pedido, asн que este te devolverб 72,000. Tenga en cuenta que necesitarй 24,000 de eso pagado ahora.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_173">
+		<text>De ninguna manera. Desde que cerraron la planta de fabricaciуn, los exoesqueletos vacнos generalmente se encuentran solo en los cadбveres... Ese no es mi mйtodo.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_18">
+		<text>Nada por el momento.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_place_order_2">
+		<text>Lo siento, mi tienda estб cerrada en este momento. Dificultades temporales con los envнos de pedidos...</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_start_11">
+		<text>ЎHola! Soy бgil. La gente viene a buscarme armas ъnicas: modelos raros, prototipos, tiradores ъnicos, cosas asн, ademбs de equipos de йlite; las ъltimas modificaciones de trajes de protecciуn y combate. Reviso cada artнculo personalmente, por lo que la calidad estб garantizada.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_start_12">
+		<text>Hola. їLe gustarнa hacer un pedido?</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_start_13">
+		<text>Hola.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_start_14">
+		<text>Tu pedido serб entregado muy pronto.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_start_15">
+		<text>El pedido esta terminado. Por favor, ven a recogerlo.</text>
+	</string>
+</string_table>

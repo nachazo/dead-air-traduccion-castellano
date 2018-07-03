@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_zat_b55_name">
+		<text>Anomalнa de garra</text>
+	</string>
+	<string id="st_zat_b100_name">
+		<text>Anomalнa del Bosque de Hierro</text>
+	</string>
+	<string id="st_zat_b104_name">
+		<text>Aserradero</text>
+	</string>
+	<string id="st_zat_b38_name">
+		<text>Complejo de antenas Krug</text>
+	</string>
+	<string id="st_zat_b40_name">
+		<text>Estaciуn de procesamiento de residuos</text>
+	</string>
+	<string id="st_zat_b56_name">
+		<text>Anomalнa Circus</text>
+	</string>
+	<string id="st_zat_b5_name">
+		<text>Estaciуn de guardabosques</text>
+	</string>
+	<string id="st_zat_a2_name">
+		<text>Skadovsk</text>
+	</string>
+	<string id="st_zat_b20_name">
+		<text>Alquerнa quemada</text>
+	</string>
+	<string id="st_zat_fire_name">
+		<text>Anomalнa Inferno de barcaza</text>
+	</string>
+	<string id="st_zat_b53_name">
+		<text>Anomalнa de la caldera</text>
+	</string>
+	<string id="st_zat_b101_name">
+		<text>Pantano</text>
+	</string>
+	<string id="st_zat_waste_name">
+		<text>Anomalнa Sullage</text>
+	</string>
+	<string id="st_zat_b106_name">
+		<text>Izumrudnoye</text>
+	</string>
+	<string id="st_zat_b7_name">
+		<text>Shevchenko</text>
+	</string>
+	<string id="st_zat_b14_name">
+		<text>Estaciуn de dragado</text>
+	</string>
+	<string id="st_zat_tide_name">
+		<text>Anomalнa de marejada</text>
+	</string>
+	<string id="st_zat_b52_name">
+		<text>Grъas de muelle</text>
+	</string>
+	<string id="st_zat_b39_name">
+		<text>Anomalнa de Oakpine</text>
+	</string>
+	<string id="st_zat_b33_name">
+		<text>Estaciуn de abastecimiento de combustible</text>
+	</string>
+	<string id="st_zat_b18_name">
+		<text>Antigua barcaza</text>
+	</string>
+	<string id="st_zat_b54_name">
+		<text>Anomalнa de la cicatriz</text>
+	</string>
+	<string id="st_zat_b12_name">
+		<text>Puente Preobrazhensky</text>
+	</string>
+	<string id="st_zat_b28_name">
+		<text>Meseta sureсa</text>
+	</string>
+	<string id="st_zat_b103_name">
+		<text>Talleres de subestaciones</text>
+	</string>
+	<string id="st_jup_b1_name">
+		<text>Anomalнa de Ash Heap</text>
+	</string>
+	<string id="st_jup_b46_name">
+		<text>Torre de enfriamiento</text>
+	</string>
+	<string id="st_jup_b202_name">
+		<text>Subestaciуn</text>
+	</string>
+	<string id="st_jup_b211_name">
+		<text>Anomalнa de Plavni</text>
+	</string>
+	<string id="st_jup_b200_name">
+		<text>Fбbrica de cemento</text>
+	</string>
+	<string id="st_jup_b19_name">
+		<text>Kopachy</text>
+	</string>
+	<string id="st_jup_a6_name">
+		<text>Yanov</text>
+	</string>
+	<string id="st_jup_b25_name">
+		<text>Cantera</text>
+	</string>
+	<string id="st_jup_earth_name">
+		<text>Anomalнa de tierra agrietada</text>
+	</string>
+	<string id="st_jup_b6_name">
+		<text>Bъnker de cientнficos</text>
+	</string>
+	<string id="st_jup_b205_name">
+		<text>Complejo Volkhov AA</text>
+	</string>
+	<string id="st_jup_b206_name">
+		<text>Bosque anуmalo</text>
+	</string>
+	<string id="st_jup_grove_name">
+		<text>Anomalнa de Rotten Grove</text>
+	</string>
+	<string id="st_jup_b32_name">
+		<text>Estacionamiento</text>
+	</string>
+	<string id="st_jup_a10_name">
+		<text>Control</text>
+	</string>
+	<string id="st_jup_b209_name">
+		<text>Anomalнa del betъn</text>
+	</string>
+	<string id="st_jup_b208_name">
+		<text>Tъnel oriental</text>
+	</string>
+	<string id="st_jup_a12_name">
+		<text>Almacйn de contenedores</text>
+	</string>
+	<string id="st_jup_b212_name">
+		<text>Complejo de ventilaciуn</text>
+	</string>
+	<string id="st_jup_b9_name">
+		<text>Helipuertos</text>
+	</string>
+	<string id="st_jup_b201_name">
+		<text>Anomalнa de baсo de hormigуn</text>
+	</string>
+	<string id="st_jup_a9_name">
+		<text>Planta de Jъpiter</text>
+	</string>
+	<string id="st_pri_a28_name">
+		<text>Sala de cine Prometheus</text>
+	</string>
+	<string id="st_pri_b36_name">
+		<text>Puerto fluvial</text>
+	</string>
+	<string id="st_pri_b303_name">
+		<text>Antiguo centro de servicio</text>
+	</string>
+	<string id="st_pri_b301_name">
+		<text>Colegio</text>
+	</string>
+	<string id="st_pri_a17_name">
+		<text>Hospital</text>
+	</string>
+	<string id="st_pri_b306_name">
+		<text>Centro de servicio Yubileiny</text>
+	</string>
+	<string id="st_pri_plug_name">
+		<text>Anomalнa de bujнa</text>
+	</string>
+	<string id="st_pri_a16_name">
+		<text>Lavanderнa</text>
+	</string>
+	<string id="st_pri_a25_name">
+		<text>Jardнn de infancia</text>
+	</string>
+	<string id="st_pri_b35_name">
+		<text>Complejo de apartamentos</text>
+	</string>
+	<string id="st_pri_a21_name">
+		<text>Tienda de comestibles</text>
+	</string>
+	<string id="st_pri_b304_name">
+		<text>Grandes almacenes</text>
+	</string>
+	<string id="st_pri_bath_name">
+		<text>Anomalнa Acid Bath</text>
+	</string>
+	<string id="st_pri_a18_name">
+		<text>Librerнa</text>
+	</string>
+	<string id="st_pri_b302_name">
+		<text>Anomalнa de la vid</text>
+	</string>
+	<string id="st_pri_b307_name">
+		<text>Anomalнa del volcбn</text>
+	</string>
+	<string id="st_mar_2c_01_anomaly_spot_name">
+		<text>Anomalнa del Dios Acre</text>
+	</string>
+	<string id="st_mar_2c_02_anomaly_spot_name">
+		<text>Anomalнa del destino del explorador</text>
+	</string>
+	<string id="st_ds_2c_01_anomaly_spot_name">
+		<text>Anomalнa de Rock Trap</text>
+	</string>
+	<string id="st_ds_2c_02_anomaly_spot_name">
+		<text>Anomalнa de la carretera brillante</text>
+	</string>
+	<string id="st_ds_2c_03_anomaly_spot_name">
+		<text>Anomalнa de la montaсa calva</text>
+	</string>
+	<string id="st_ds_2c_04_anomaly_spot_name">
+		<text>Anomalнa de palillo</text>
+	</string>
+	<string id="st_trc_2c_01_rift_anom_spot_name">
+		<text>Anomalнa del surco del bus</text>
+	</string>
+	<string id="st_trc_2c_02_chem_anom_spot_name">
+		<text>Anomalнa de Thorn Bath</text>
+	</string>
+	<string id="st_trc_2c_03_desolation_anom_spot_name">
+		<text>Anomalнa de la morada del carbуn de leсa</text>
+	</string>
+	<string id="st_esc_2c_01_high_hopes_anomaly_spot_name">
+		<text>Anomalнa de altas expectativas</text>
+	</string>
+	<string id="st_gar_2c_01_nwi_anomaly_spot_name">
+		<text>Anomalнa Push-Pull</text>
+	</string>
+	<string id="st_gar_2c_02_toaster_anomaly_spot_name">
+		<text>Anomalнa de fuego griego</text>
+	</string>
+	<string id="st_agr_2c_01_hg_anomaly_spot_name">
+		<text>Anomalнa de hierba pesada</text>
+	</string>
+	<string id="st_labx18_2c_01_deep_burn_anomaly_spot_name">
+		<text>Anomalнa Deep Burn</text>
+	</string>
+	<string id="st_labx18_2c_02_ff_anomaly_spot_name">
+		<text>Anomalнa Fuente de fuego</text>
+	</string>
+	<string id="st_labx18_2c_03_elders_anomaly_spot_name">
+		<text>Anomalнa de la comida del gusano</text>
+	</string>
+	<string id="st_labx18_2c_04_bioh_anomaly_spot_name">
+		<text>Anomalнa Biohazard</text>
+	</string>
+	<string id="st_bar_2c_01_grant_anomaly_spot_name">
+		<text>Anomalнa Mantrap</text>
+	</string>
+	<string id="st_ros_2c_01_tunnel_anomaly_spot_name">
+		<text>Anomalнa Sparkle Deadlock</text>
+	</string>
+	<string id="st_ros_2c_02_crispy_train_anomaly_spot_name">
+		<text>Anomalнa Crispy Train</text>
+	</string>
+	<string id="st_ros_2c_03_yc_anomaly_spot_name">
+		<text>Anomalнa del conflagrador</text>
+	</string>
+	<string id="st_mil_2c_01_hw_anomaly_spot_name">
+		<text>Anomalнa de Hell Walls</text>
+	</string>
+	<string id="st_yan_2c_01_cd_anomaly_spot_name">
+		<text>Anomalнa de descarga de hormigуn</text>
+	</string>
+	<string id="st_x16_lab_2c_01_fb_anomy_spot_name">
+		<text>Anomalнa del baсo del pie</text>
+	</string>
+	<string id="st_cit_2c_01_ch_anomaly_spot_name">
+		<text>Anomalнa de rociadores de jardнn</text>
+	</string>
+	<string id="st_cit_2c_02_pg_anomaly_spot_name">
+		<text>Prueba de anomalнa de tierra</text>
+	</string>
+	<string id="st_lim_2c_01_ls_anomaly_spot_name">
+		<text>Anomalнa del ъltimo paso</text>
+	</string>
+	<string id="st_lim_2c_02_ib_anomaly_spot_name">
+		<text>Anomalнa Blathy</text>
+	</string>
+	<string id="st_rad_2c_01_bl_anomaly_spot_name">
+		<text>Anomalнa de Walking Ghost</text>
+	</string>
+	<string id="st_rad_2c_02_pp_anomaly_spot_name">
+		<text>Anomalнa en el conjunto de dolor</text>
+	</string>
+	<string id="st_bun_2c_01_f_anomaly_spot_name">
+		<text>Anomalнa del horno</text>
+	</string>
+	<string id="st_bun_2c_02_gp_anomaly_spot_name">
+		<text>Anomalнa Gravity Pipe</text>
+	</string>
+	<string id="st_pri_2c_01_pp_anomaly_spot_name">
+		<text>Anomalнa de la raнz de la raнz</text>
+	</string>
+	<string id="st_pri_2c_02_gt_anomaly_spot_name">
+		<text>Anomalнa de barricada</text>
+	</string>
+	<string id="st_pri_2c_03_wr_anomaly_spot_name">
+		<text>Anomalнa del colisionador</text>
+	</string>
+	<string id="st_pri_2c_04_o_anomaly_spot_name">
+		<text>Anomalнa olнmpica</text>
+	</string>
+	<string id="st_aes_2c_01_ce_anomaly_spot_name">
+		<text>Anomalнa Gatekeeper</text>
+	</string>
+	<string id="st_aes_2c_02_p_anomaly_spot_name">
+		<text>Anomalнa del pilуn</text>
+	</string>
+	<string id="st_aes2_2c_01_bo_anomaly_spot_name">
+		<text>Anomalнa Barrel Organ</text>
+	</string>
+	<string id="st_aes2_2c_02_at_anomaly_spot_name">
+		<text>Anomalнa del carro бcido</text>
+	</string>
+	<string id="st_sar_2c_01_r_anomaly_spot_name">
+		<text>Anomalнa del reactor</text>
+	</string>
+	<string id="st_gen_2c_01_ss_anomaly_spot_name">
+		<text>Anomalнa de Soul Stairway</text>
+	</string>
+	<string id="st_mar_smart_terrain_11_3_anomaly_spot_name">
+		<text>Anomalнa de falla</text>
+	</string>
+	<string id="st_mar_smart_terrain_12_2_anomaly_spot_name">
+		<text>Anomalнa Teravolt</text>
+	</string>
+	<string id="st_mar_smart_terrain_10_10_anomaly_spot_name">
+		<text>Anomalнa Thunderclap</text>
+	</string>
+	<string id="st_mar_smart_terrain_base_anomaly_spot_name">
+		<text>Anomalнa Bog Pounder</text>
+	</string>
+	<string id="st_mar_smart_terrain_8_8_anomaly_spot_name">
+		<text>Anomalнa de Fermi</text>
+	</string>
+	<string id="st_mar_smart_terrain_3_7_anomaly_spot_name">
+		<text>Anomalнa de Stomper</text>
+	</string>
+	<string id="st_mar_smart_terrain_3_3_anomaly_spot_name">
+		<text>Anomalнa de Lungrot</text>
+	</string>
+	<string id="st_esc_smart_terrain_1_11_anomaly_spot_name">
+		<text>Anomalнa del compactador de basura</text>
+	</string>
+	<string id="st_esc_smart_terrain_8_9_anomaly_spot_name">
+		<text>Anomalнa Rock Crusher</text>
+	</string>
+	<string id="st_esc_smart_terrain_5_4_anomaly_spot_name">
+		<text>Anomalнa del comedor novato</text>
+	</string>
+	<string id="st_gar_smart_terrain_3_7_anomaly_spot_name">
+		<text>Anomalнa Hindi caliente</text>
+	</string>
+	<string id="st_gar_smart_terrain_3_7_anomaly_spot_2_name">
+		<text>Anomalнa fundida de Lada</text>
+	</string>
+	<string id="st_gar_smart_terrain_2_4_anomaly_spot_name">
+		<text>Anomalнa de sinapsis</text>
+	</string>
+	<string id="st_gar_smart_terrain_6_7_anomaly_spot_name">
+		<text>Anomalнa de Mauler</text>
+	</string>
+	<string id="st_gar_smart_terrain_5_6_anomaly_spot_name">
+		<text>Anomalнa de gelatina de bruja</text>
+	</string>
+	<string id="st_gar_smart_terrain_1_7_anomaly_spot_name">
+		<text>Anomalнa de Slammer</text>
+	</string>
+	<string id="st_agr_smart_terrain_1_3_anomaly_spot_name">
+		<text>Anomalнa de Bedrock Claws</text>
+	</string>
+	<string id="st_agr_smart_terrain_4_4_near_3_anomaly_spot_name">
+		<text>Anomalнa de Wracker del nervio</text>
+	</string>
+	<string id="st_agr_smart_terrain_5_7_anomaly_spot_name">
+		<text>Anomalнa de Bushwhacker</text>
+	</string>
+	<string id="st_agr_smart_terrain_5_2_anomaly_spot_name">
+		<text>Anomalнa de perro Mincer</text>
+	</string>
+	<string id="st_agr_smart_terrain_1_2_anomaly_spot_name">
+		<text>Anomalнa del pantano tуxico</text>
+	</string>
+	<string id="st_val_smart_terrain_9_10_anomaly_spot_name">
+		<text>Anomalнa Glowing Pit</text>
+	</string>
+	<string id="st_val_smart_terrain_6_4_anomaly_spot_name">
+		<text>Anomalнa de Basher</text>
+	</string>
+	<string id="st_val_smart_terrain_8_6_anomaly_spot_name">
+		<text>Anomalнa de Bug Zapper</text>
+	</string>
+	<string id="st_val_smart_terrain_9_4_anomaly_spot_name">
+		<text>Anomalнa baсo de burbujas</text>
+	</string>
+	<string id="st_val_smart_terrain_8_9_anomaly_spot_name">
+		<text>Anomalнa de Maimer</text>
+	</string>
+	<string id="st_mil_smart_terrain_4_7_anomaly_spot_name">
+		<text>Anomalнa de Corpse Disposer</text>
+	</string>
+	<string id="st_mil_smart_terrain_2_1_anomaly_spot_name">
+		<text>Anomalнa de Shock Therapy</text>
+	</string>
+	<string id="st_mil_smart_terrain_2_6_anomaly_spot_name">
+		<text>Anomalнa de Newton</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_4_anomaly_spot_name">
+		<text>Anomalнa de Masher</text>
+	</string>
+	<string id="st_mil_smart_terrain_8_3_anomaly_spot_name">
+		<text>Anomalнa de malezas de lignito</text>
+	</string>
+	<string id="st_yan_smart_terrain_2_5_anomaly_spot_name">
+		<text>Anomalнa de Tesla</text>
+	</string>
+	<string id="st_yan_smart_terrain_zombi_spawn_anomaly_spot_name">
+		<text>Anomalнa de Edison</text>
+	</string>
+	<string id="st_yan_smart_terrain_5_3_anomaly_spot_name">
+		<text>Anomalнa de Blackwater</text>
+	</string>
+	<string id="st_yan_smart_terrain_4_2_anomaly_spot_name">
+		<text>Anomalнa de hoguera</text>
+	</string>
+	<string id="st_red_smart_terrain_6_3_anomaly_spot_name">
+		<text>Anomalнa de Symbiont</text>
+	</string>
+	<string id="st_red_smart_terrain_4_5_anomaly_spot_name">
+		<text>Anomalнa superconductora</text>
+	</string>
+	<string id="st_red_smart_terrain_monsters_anomaly_spot_name">
+		<text>Anomalнa Swingset</text>
+	</string>
+	<string id="st_red_smart_terrain_3_2_anomaly_spot_name">
+		<text>Anomalнa canaria muerta</text>
+	</string>
+	<string id="st_red_smart_terrain_6_6_anomaly_spot_name">
+		<text>Anomalнa del carrusel</text>
+	</string>
+	<string id="st_red_smart_terrain_3_1_anomaly_spot_name">
+		<text>La anomalнa de Slutsky's Rest</text>
+	</string>
+	<string id="st_gen_smart_terrain_urod_anomaly_spot_name">
+		<text>Anomalнa de la picadora de carne</text>
+	</string>
+	<string id="st_trc_sim_13_anomal_zone_spot_name">
+		<text>Anomalнa del laberinto de Zealot</text>
+	</string>
+	<string id="cit_2c_03_gravi_anomal_spot_name">
+		<text>Jaula</text>
+	</string>
+	<string id="cit_2c_04_gravi_anomal_spot_name">
+		<text>Khrushchyovka</text>
+	</string>
+	<string id="cit_2c_05_chemical_anomal_spot_name">
+		<text>Quinto piso</text>
+	</string>
+	<string id="gar_2c_03_gravi_anomal_spot_name">
+		<text>Montaсa rusa</text>
+	</string>
+	<string id="gar_2c_04_gravi_anomal_spot_name">
+		<text>Compactador</text>
+	</string>
+	<string id="hos_2c_01_term_anomaly_spot_name">
+		<text>Morgue</text>
+	</string>
+	<string id="mil_2c_02_psy_anomal_spot_name">
+		<text>Casa silenciosa</text>
+	</string>
+	<string id="rad_2c_03_psy_anomaly_spot_name">
+		<text>Brain Teaser</text>
+	</string>
+	<string id="lim_2c_03_gravi_anomaly_spot_name">
+		<text>Callejуn</text>
+	</string>
+	<string id="lim_2c_04_electric_anomaly_spot_name">
+		<text>Descarga</text>
+	</string>
+	<string id="red_2c_01_double_anomal_spot_name">
+		<text>Frailecillo</text>
+	</string>
+	<string id="red_2c_02_mine_chemical_anomal_spot_name">
+		<text>Yupi</text>
+	</string>
+	<string id="ros_2c_04_chemical_anomaly_spot_name">
+		<text>Dolorido</text>
+	</string>
+</string_table>

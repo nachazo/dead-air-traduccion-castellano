@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<!--===========================================================
+<
+< TEXT STRINGS FOR TASKS ON ESCAPE (CORDON) MAP
+<   CoC 1.4.08 - DoctorX Questlines 1.6
+<
+<   Modified by: DoctorX
+<   Last revised: October 07, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- STORYLINE TASK TEXT STRINGS
+	<!--
+	<!--    Modified by DoctorX
+	<!--    for DoctorX Questlines 1.6
+	<!--    October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sidorovich (Loner Trader) Default Storyline Task -->
+
+	<string id="drx_sl_esc_m_trader_default_task_name">
+		<text>Obtener la siguiente tarea</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_default_task_text">
+		<text>Recibe tu prуxima tarea.</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_default_task_about">
+		<text>No tengo nada para ti, pero conozco a alguien que podrнa. Marquй su ubicaciуn en tu mapa.</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_default_task_finish">
+		<text>Buena suerte stalker.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sidorovich (Loner Trader) Mutant Safari Storyline Task -->
+
+	<string id="drx_sl_esc_m_trader_task_1_name">
+		<text>Safari mutante</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_task_1_text">
+		<text>Se te ha encomendado liderar a un grupo de turistas en una bъsqueda de mutantes.</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_task_1_about">
+		<text>Tengo un grupo de turistas llegando y quieren ver cуmo es matar a un mutante. Llйvalos a cazar, dales una emociуn. Solo asegъrate de que no se maten. Es malo para los negocios.</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_task_1_finish">
+		<text>їDe regreso de la caza? Bueno. Aquн estб su pago.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sidorovich (Loner Trader) Rookie Initiation Storyline Task- -->
+
+	<string id="drx_sl_esc_m_trader_task_2_name">
+		<text>Iniciaciуn Novato</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_task_2_text">
+		<text>Lleve a un grupo de novatos a la zona y muйstreles cуmo sobrevivir.</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_task_2_about">
+		<text>Los nuevos novatos en el campamento son muy verdes. Me preocupa que no durarбn un dнa en la Zona. Si mueren, es malo para los negocios, їves? Que muchos menos clientes para mi. Quiero que los lleves en una expediciуn a la Zona. Dнgales de quй preocuparse, muйstrenles una anomolia, ensйсeles cуmo mantenerse con vida.</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_task_2_finish">
+		<text>Ah, mis clientes todavнa estбn vivos. Y ellos necesitan comprar mбs municiуn de mi parte, jeje. Gracias, stalker. Toma esto por tu problema.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Xenotech (Loner Mechanic) Default Storyline Task -->
+
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_default_task_name">
+		<text>Obtener la siguiente tarea</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_default_task_text">
+		<text>Recibe tu prуxima tarea.</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_default_task_about">
+		<text>Un amigo mнo podrнa usar tus servicios. Marquй su ubicaciуn en tu mapa.</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_default_task_finish">
+		<text>Buena suerte stalker.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Xenotech (Loner Mechanic) Rescue Missing Stalker Storyline Task -->
+
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_name">
+		<text>Rescate de Stalker Perdido</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_text">
+		<text>Un stalker falta en el campamento de Xenotech. Encontrarlo.</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_about">
+		<text>Necesito tu ayuda. Un stalker de mi campamento saliу a buscar provisiones y no ha regresado. Temo que algo le haya pasado a йl. Marcarй su ъltima ubicaciуn conocida en su mapa, a ver si puede encontrarlo.</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_finish">
+		<text>ЎLo salvaste! Excelente stalker de trabajo. Toma esto como un signo de mi gratitud.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Xenotech (Loner Mechanic) Track Wounded Attacker Storyline Task -->
+
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_name">
+		<text>Seguir al atacante herido</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_text">
+		<text>Un escuadrуn militar colorado atacу el campamento de Xenotech y los asesinу. Uno de los atacantes logrу escapar. Rastrealo.</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_about">
+		<text>їDуnde has estado? Un escuadrуn militar llegу hasta aquн y rompiу el lugar. Entre ellos y ese maldito helicуptero aniquilaron a casi todos en el campamento. Pudimos eliminar a la mayorнa de ellos, pero uno de ellos logrу escapar. Йl puede estar herido, ver si puede seguir el rastro de sangre. Te mostrarй la direcciуn en que se dirigнa.</text>
+	</string>
+	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_finish">
+		<text>Gracias, stalker. Toma esto como un regalo por tus acciones.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- CHANGE FACTIONS TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sidorovich (Loner Trader) Payoff Change Factions Task -->
+
+	<string id="drx_sl_esc_m_trader_cf_task_1_name">
+		<text>PAga a Sidorovich para convertirte en Solitario</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_cf_task_1_text">
+		<text>Sidorovich te sacarб de tus compromisos actuales de facciуn por una tarifa de 10,000 RU.</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_cf_task_1_about">
+		<text>Bueno, es bueno que hayas venido a mн entonces. Tengo muchas conexiones aquн en la Zona. Puedo sacarte de tu compromiso con tu facciуn, pero no serб barato. Necesitarй engrasar algunas palmas, їsabes? Si puedes atraparme, digamos... 10,000 RU Verй quй puedo hacer por ti.</text>
+	</string>
+	<string id="drx_sl_esc_m_trader_cf_task_1_finish">
+		<text>Ah, esto deberнa hacer bien. Harй los arreglos necesarios, disfrutarй tu nueva vida como Solitario.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- DYNAMIC TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sidorovich (Loner Trader) Eliminate Car Park Bandits Task -->
+
+	<string id="esc_m_trader_task_1_name">
+		<text>Elimina a los bandidos del parque</text>
+	</string>
+	<string id="esc_m_trader_task_1_text">
+		<text>Lleve a cabo un asalto al estacionamiento y elimine a los bandidos que ocupan la ubicaciуn.</text>
+	</string>
+	<string id="esc_m_trader_task_1_about">
+		<text>Los bandidos han tomado base en el viejo aparcamiento. Estos pendejos matan o matan a cualquiera que use las carreteras que conducen dentro y fuera del campamento. Estб alterando las actividades locales para mis clientes y los stalkeres que se refugian en el campamento. ЎDuele el negocio! Necesito que te "cuides" de ellos. Si lo desea, hable con Fanatic, йl puede ofrecerle ayuda.</text>
+	</string>
+	<string id="esc_m_trader_task_1_finish">
+		<text>ЎBuen trabajo, stalker! ЎTъ y yo seremos los mejores si sigues asн! Esto es lo que prometн.</text>
+	</string>
+
+
+	<string id="esc_m_trader_task_2_name">
+		<text>Contrato de asesinato para Sidorovich</text>
+	</string>
+	<string id="esc_m_trader_task_2_text">
+		<text>Sidorovich te contratу para ejecutar un golpe. Encuentre y elimine el objetivo y luego regrese a Sidorovich para el pago.</text>
+	</string>
+	<string id="esc_m_trader_task_2_about">
+		<text>Tengo una lista de recompensas pendientes y stalkeres que deben ser atendidos. El peor tipo de escoria y villanнa suele terminar en esta lista... por varias razones. La Zona necesita sacar su basura de vez en cuando. їQuй dices, stalker, serбs mi arma contratada?</text>
+	</string>
+	<string id="esc_m_trader_task_2_finish">
+		<text>Bien, Ўte deshicнste de ese imbйcil! Esto es lo que prometн.</text>
+	</string>
+
+	
+	<string id="esc_m_trader_task_3_name">
+		<text>Entrega</text>
+	</string>
+	<string id="esc_m_trader_task_3_text">
+		<text>Encuentra y trae el envнo de Sidorovich.</text>
+	</string>
+	<string id="esc_m_trader_task_3_about"> <!-- revision -->
+		<text>Se suponнa que uno de los stalkeres debнa entregarme un cargamento importante, pero el sabelotodo se encontrу en una mala situaciуn en su camino de regreso. Apenas lo hizo con vida y segъn sus palabras, el contenedor fue arrojado al escondite mбs cercano. El lugar deberнa estar seguro ahora, їme lo traerнas?</text>
+	</string>
+	<string id="esc_m_trader_task_3_finish">
+		<text>Bien hecho, stalker!</text>
+	</string>
+
+	
+	<!-- esc_2_12_stalker_wolf -->
+	<string id="esc_2_12_stalker_wolf_task_1_name">
+		<text>Eliminar la amenaza mutante de Cordon</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_1_text">
+		<text>Wolf te pidiу que purgases un бrea de todas las amenazas de mutantes para garantizar la seguridad de la aldea novata; asн como los stalkeres que pasan por Cordon. Llega a la ubicaciуn y elimina todos los mutantes en el бrea. Regrese a Wolf para el pago despuйs de que su trabajo estй completo.</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_1_about">
+		<text>Stalker, necesito a alguien que tenga mбs experiencia que los novatos para una tarea. El Cordуn se estб convirtiendo en un lugar muy peligroso con toda esta proliferaciуn mutante desenfrenada. Necesito que cace alrededor de un бrea que marcarй en su PDA. El trabajo es matar a cualquier mutantes que veas. Si haces esto por mн, te harб ganar dinero en efectivo. їAsi que va a?</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_1_finish">
+		<text>Gracias. Los novatos ahora serбn mucho mбs seguros gracias a ti. Aquн estб su pago.</text>
+	</string>
+	<!-- esc_smart_terrain_5_7_loner_mechanic_stalker -->
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Wolf (Loner Honcho) Stalker Search and Rescue Dynamic Task -->
+
+	<string id="esc_2_12_stalker_wolf_task_2_name">
+		<text>Bъsqueda y rescate de Stalker</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_2_text">
+		<text>Busque al stalker perdido.</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_2_about">
+		<text>Un stalker falta en el campamento. Necesito que averigьes en quй tipo de problemas se metiу.</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_2_finish">
+		<text>Gracias. Son stalkeres como usted los que mantienen este lugar como una de las ъnicas бreas seguras de la Zona.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Wolf (Loner Honcho) Stalker Guide Dynamic Task -->
+
+	<string id="esc_2_12_stalker_wolf_task_3_name">
+		<text>Guнa al Stalker</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_3_text">
+		<text>Dirige a un grupo de novatos a la Zona.</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_3_about">
+		<text>Un grupo de novatos se dirige a la Zona por primera vez. Necesito un stalker competente que los guнe y los mantenga a salvo.</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_3_finish">
+		<text>Gracias por mantener a los novatos a salvo, stalker.</text>
+	</string>
+
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Wolf (Loner Honcho) Stalker Shoot Megaphone Task -->
+
+	<string id="esc_2_12_stalker_wolf_task_4_name">
+		<text>El silencio es oro</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_4_text">
+		<text>Wolf te pidiу que apagaras el megбfono en el puesto de control militar para siempre.</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_4_about"> <!-- revision -->
+		<text>Tengo una solicitud personal. їPuedes oнr ese fuerte megбfono? Viene del puesto de control militar hacia el sur. ЎNunca se calla! Esto debe ser eliminado antes de que pierda la cabeza... Un par de tomas precisas resolverнan fбcilmente este problema, pero es peligroso acercarse mбs. Serнa mбs seguro tratarlo desde largas distancias. Desafortunadamente, nadie tiene un rifle confiable de largo alcance en este pueblo. їTal vez puedes deshacerte de esto?</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_4_finish">
+		<text>ЎAhhhh puedo oнrme pensar de nuevo! No sй cuбnto tiempo les tomarб arreglar esa ruidosa mierda, pero al menos conseguimos un par de noches tranquilas. ЎGracias!</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Nimble (Loner Trader) Find Weapon Task -->
+
+	<string id="esc_2_12_stalker_nimble_task_1_name">
+		<text>Encuentre un %s para Nimble</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_text">
+		<text>Nimble te ha pedido que encuentres un arma de fuego especнfica. Necesita estar en perfecto estado. Regresa a йl cuando encuentres lo que estб buscando.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_about">
+		<text>Tengo un cliente que busca un arma de fuego especнfica y necesito a alguien que me ayude a encontrarlo. Si estбs interesado, te darй mбs detalles. їQuй dices?</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_fetch_about">
+		<text>%s... Eso es lo que necesito, pero debe estar en perfecto estado. El cliente estб pagando mucho dinero y no quiere una mierda oxidada que se bloquee en una situaciуn de vida o muerte. Te darй la mayor parte de los beneficios ya que estбs haciendo todo el trabajo. Vuelve cuando lo encuentres, hombre.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_fetch_finish">
+		<text>Esta es una buena arma. Creo que mi cliente estarб contento cuando le entregue esto. Esto es lo que te debo.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Nimble (Loner Trader) Retrieve PDA Dynamic Task -->
+
+	<string id="esc_2_12_stalker_nimble_task_2_name">
+		<text>Recuperar PDA para Nimble</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_2_text">
+		<text>Nimble tiene un PDA que necesita recuperar.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_2_about">
+		<text>Necesito que recojas un PDA para mн. Estб escondido en un lugar un poco lejos de aquн.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_2_finish">
+		<text>ЎGracias stalker!</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- MECHANIC TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Xenotech (Loner Mechanic) Find Level 1 Toolkit Task -->
+
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_name">
+		<text>Encuentra %s para Xenotech</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_text">
+		<text>Xenotech requiere %s para instalar actualizaciones de equipos bбsicos, debe devolverlos a йl si encuentra alguno.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_about">
+		<text>Necesito un favor, amigo. Muchos stalkeres vienen aquн preguntando si puedo ajustar sus armas de cierta manera, pero no puedo. Simplemente no tengo las herramientas adecuadas. Serнa capaz de realizar actualizaciones en una mayor variedad de equipos si puedo poner las manos en las herramientas adecuadas. Por favor, amigo, їme ayudarнas?</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_fetch_about">
+		<text>Necesito un conjunto de herramientas bбsicas. Debe contener lo que necesito. Si puede traer algo para mн, le estarй agradecido, incluso le ofrecerй un descuento de aquн en adelante.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_fetch_finish">
+		<text>De acuerdo, sн, esto es exactamente lo que necesito. Aquн, te prometн el pago; tуmalo.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_name">
+		<text>Encuentra %s para Xenotech</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_text">
+		<text>% es requerido por Xenotech para instalar actualizaciones avanzadas de equipos, debe traerlos de vuelta a йl si encuentra alguno.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_about">
+		<text>Mi negocio estб en auge ahora, mбs y mбs stalkeres acuden a mн cuando necesitan su arma afinada. Pero realmente podrнa usar mбs herramientas. Me trajiste un kit de herramientas de calidad la ъltima vez, pero necesito un conjunto de calidad aъn mayor. Si estбs interesado, te dirй lo que necesito.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_fetch_about">
+		<text>Necesito un %s. Si me traes uno, te lo agradecerй, incluso te pagarй por ello.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_fetch_finish">
+		<text>ЎSн Sн! Aquн hay algo de efectivo, te lo mereces.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_name">
+		<text>Encuentra %s para Xenotech</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_text">
+		<text>% es requerido por Xenotech para instalar actualizaciones de equipos expertos, debe devolverlos a йl si encuentra alguno.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_about">
+		<text>Mi negocio estб en auge ahora, mбs y mбs stalkeres acuden a mн cuando necesitan su arma afinada. Pero realmente podrнa usar mбs herramientas. Me trajiste un kit de herramientas de calidad la ъltima vez, pero necesito un conjunto de calidad aъn mayor. Si estбs interesado, te dirй lo que necesito.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_fetch_about">
+		<text>Necesito un %s. Si me traes uno, te lo agradecerй, incluso te pagarй por ello.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_fetch_finish">
+		<text>ЎSн Sн! Aquн hay algo de efectivo, te lo mereces.</text>
+	</string>
+
+
+	<!-- need serious revision and comparison with the russian text, translations didn?t make much sense -->
+	<string id="esc_7_11_rpg_quest_actor1">
+		<text>Hola chicos. їEstбs tramando algo?</text>
+	</string>
+
+	<string id="esc_7_11_rpg_quest_actor2">
+		<text>Entonces, recuйrdenme, їcuбl fue la tarea nuevamente?</text>
+	</string>
+
+	<string id="esc_7_11_rpg_quest_text11">
+		<text>їCuбl es tu puto asunto? Sigue caminando, deja de fingir que te importa.</text>
+	</string>
+
+	<string id="esc_7_11_rpg_quest_actor110">
+		<text>Tal vez pueda ayudarte con lo que sea que sea tu problema.</text>
+	</string>
+
+	<string id="esc_7_11_rpg_quest_text1101">
+		<text>Bueno... primero pensй que era solo una mala broma. Bбsicamente nuestro jefe tuvo una idea brillante. Literalmente dijo: "Mi pistola actual es una mierda". Quiero un arma que no necesite limpieza y ajuste cada segundo para el ataque. Quiero algo realmente bueno. Quй tal, un RPG-7... ". ЎEl estъpido bastardo gordo era realmente serio! pero tengo alguna opciуn? Hemos estado buscando dнas. Logramos encontrar algunas cabezas nucleares despuйs de largas negociaciones con algunos miembros de Freedom. Ahora necesitamos el gran arma en sн. Supongo que es algo que puedes manejar, їeh?</text>
+	</string>
+
+	<string id="esc_7_11_rpg_quest_text21">
+		<text>їEres tonto o algo? Estamos buscando un RPG-7, їrecuerdas?</text>
+	</string>
+
+	<string id="esc_7_11_rpg_quest_actor111">
+		<text>No digas mбs, lo encontrarй.</text>
+	</string>
+
+	<string id="esc_7_11_rpg_quest_actor112">
+		<text>Uh... este tipo de cosas no es para mн.</text>
+	</string>
+
+	<string id="esc_7_11_rpg_quest_text1111">
+		<text>ЎRealmente puedes conseguir eso para mн, hermano! Genial, regresa cuando lo tengas.</text>
+	</string>
+
+	<string id="esc_7_11_rpg_quest_text1121">
+		<text>Por supuesto, їquй esperaba de un coсo?... perderse.</text>
+	</string>
+
+	<string id="esc_7_11_rpg_quest_task_name">
+		<text>Verdadero negocio</text>
+	</string>
+	<string id="esc_7_11_rpg_quest_task_text">
+		<text>Encuentra RPG-7 para bandidos</text>
+	</string>
+	<string id="esc_7_11_rpg_quest_task_about">
+		<text>Me pidieron que buscara y trajera un RPG-7 para los bandidos en Cordon.</text>
+	</string>
+	<string id="esc_7_11_rpg_quest_task_finish">
+		<text>Whoa, cuidado con esa mierda!... Uh, esto es realmente pesado. Bueno, hermano, tienes mi respeto! Aquн tienes, por tus problemas. Gracias, es hora de nuestro prуximo movimiento.</text>
+	</string>
+</string_table>

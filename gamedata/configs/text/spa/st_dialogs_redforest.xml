@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="red_forester_hello_dialog_0">
+		<text>їA quй debo este placer?</text>
+	</string>
+	<string id="red_forester_hello_dialog_1">
+		<text>їQuй es un novato como tъ que buscas en la propiedad de Forester?</text>
+	</string>
+	<string id="red_forester_hello_dialog_2">
+		<text>їFue la casualidad lo que te trajo a mн?</text>
+	</string>
+	<string id="red_forester_hello_dialog_3">
+		<text>Buena suerte, hijo!</text>
+	</string>
+	<string id="red_forester_hello_dialog_4">
+		<text>No me olvides!</text>
+	</string>
+	<string id="red_forester_hello_dialog_5">
+		<text>ЎRecuйrdame bien!</text>
+	</string>
+	<string id="red_forester_who_are_you_0">
+		<text>їQuiйn eres tъ?</text>
+	</string>
+	<string id="red_forester_who_are_you_1">
+		<text>їQuй puedo decirle sobre mн? Soy Forester. He estado aquн por mucho tiempo; He pasado toda mi vida viviendo al lado de este bosque. Estoy viejo. A mi edad, te apegas a tu lugar de residencia, sin importar de quй se trate. Me neguй a ser evacuado despuйs del accidente en la planta de energнa, y tambiйn sobrevivн a la apariciуn de la Zona. Recuerdo un destello en el horizonte... Mucha gente muriу ese dнa, pero la Zona me salvу, їentiendes? Diablos, no solo me salvу, Ўme dio un regalo! Solнaencontrar caminos en el bosque, y ahora puedo sentir un camino seguro a travйs de anomalнas mortales. Los Stalkers me envidian, pero no puedo decir que estoy tan feliz con mi regalo. Debes entender que todo tiene un precio. Algъn dнa, la Zona aceptarб el pago de mi obsequio. De eso estoy asustado, amigo.</text>
+	</string>
+	<string id="red_forester_who_are_you_111">
+		<text>No, este era tu tнpico bosque de pinos. Bueno, tambiйn era una reserva natural, pero eso fue tan especial como lo consiguiу en ese momento. Se puso rojo despuйs del accidente en la central nuclear de Chernobyl en 1986. Estaba verde cuando me acostй, y cuando me despertй era como lo ves ahora. Entonces apareciу la Zona, y los animales y pбjaros abandonaron este bosque. Yo era el ъnico ser viviente que se quedaba atrбs. Solo yo, un bosque rojo, y esta niebla espesa que nunca se aclara.</text>
+	</string>
+	<string id="red_forester_who_are_you_11111">
+		<text>Sн, muchos stalkeres han cumplido su fin aquн. Incluso he escuchado rumores de que un espнritu malvado vive en el Bosque Rojo. Tal como lo veo, este bosque es como todo lo demбs en la Zona. Si lo tratas bien, no te tocarб. El problema es que los stalkeres no tratan nada bien. Intentas tener partes de la Zona y, a cambio, obtienes... lo que te corresponde.</text>
+	</string>
+	<string id="red_forester_about_forest_0">
+		<text>Hбblame sobre el Bosque Rojo.</text>
+	</string>
+	<string id="red_forester_about_forest_1">
+		<text>Esto solнa ser una reserva de vida silvestre, y yo era el guarda forestal local. Protegн el bosque y sus animales de los cazadores furtivos. Ahora, la Zona misma protege este lugar, y lo hace tan bien que las personas estбn dispuestas a viajar una docena de millas adicionales solo para evitarlo. Si un extraсo pone un pie en el bosque, estб muerto. Puedo ser Forester, pero incluso yo no sй exactamente quй sucede aquн. Un hombre entra en la niebla y se deja llevar por la nada. Podrнas estar caminando justo detrбs de йl y aъn no saber cуmo se encontrу con su final. Entonces eso es todo, hijo.</text>
+	</string>
+	<string id="red_forester_about_zone_0">
+		<text>їQuй puedes decirme sobre la zona?</text>
+	</string>
+	<string id="red_forester_about_zone_1">
+		<text>La Zona, heh... La Zona tiene vida propia, y nosotros las personas nos ponemos en su camino; un poco mбs, un poco menos. La Zona trabaja para neutralizar cualquier riesgo para su existencia de la misma manera en que nuestro cuerpo combate las enfermedades. Tenemos fiebre, y la Zona tambiйn tiene temblores. Emisiones... Ahora, esas son una forma de "vomitarnos". Mientras mбs irritaciуn le causamos, mбs fuertes serбn las nuevas emisiones.</text>
+	</string>
+	<string id="red_forester_about_zone_11">
+		<text>їCуmo sobreviviste aquн todos estos aсos? solo y en medio de todos los peligros?</text>
+	</string>
+	<string id="red_forester_about_zone_111">
+		<text>Una acciуn tonta puede destruir la Zona... junto con todo lo que le pertenece. No solo mutantes y anomalнas, sino tambiйn artefactos y stalkeres... y yo. Puedo sentir que la Zona estб profundamente preocupada; algo lo estб trastornando, perturbando su equilibrio. Se estб gestando una tormenta... y no sй si se puede preservar el status quo.</text>
+	</string>
+</string_table>

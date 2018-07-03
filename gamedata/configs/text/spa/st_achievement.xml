@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_perk_knife_master_name">
+		<text>Maestro de los cuchillos</text>
+	</string>
+	<string id="st_perk_knife_master_hint">
+		<text>El daсo de los ataques rбpidos con cuchillo aumenta significativamente.</text>
+	</string>
+	<string id="st_perk_knife_master_descr">
+		<text>El arma blanca siempre te ha atraнdo; su brillo uniforme y metбlico tiene un efecto calmante. Las armas de fuego son una buena opciуn, por supuesto, pero con un cuchillo en la mano, te sientes completo.</text>
+	</string>
+	<string id="st_perk_knife_master_unlock">
+		<text>Has desbloqueado el logro Maestro de los cuchillos.</text>
+	</string>
+
+	<string id="st_perk_mech_name">
+		<text>Mecбnico</text>
+	</string>
+	<string id="st_perk_mech_hint">
+		<text>Alta habilidad en reparaciуn independiente.</text>
+	</string>
+	<string id="st_perk_mech_descr">
+		<text>descripciуn st_perk_mech_descr</text>
+	</string>
+	<string id="st_perk_mech_unlock">
+		<text>Has desbloqueado el logro Mecбnico.</text>
+	</string>
+
+	<string id="st_perk_craft_name">
+		<text>Artesano</text>
+	</string>
+	<string id="st_perk_craft_hint">
+		<text>Aumenta el nъmero de artнculos disponibles para la elaboraciуn.</text>
+	</string>
+	<string id="st_perk_craft_descr">
+		<text>De niсo, ensamblaste una radio con partes viejas de la caja de herramientas de tu padre. En tu juventud, reparaste tu motocicleta con repuestos de un mercadillo. Ahora, crees que encontrarбs algъn uso en los desechos tйcnicos que se encuentran en la zona de exclusiуn.</text>
+	</string>
+	<string id="st_perk_craft_unlock">
+		<text>Has desbloqueado el logro Artesano.</text>
+	</string>
+
+	<string id="st_perk_butcher_name">
+		<text>Carnicero</text>
+	</string>
+	<string id="st_perk_butcher_hint">
+		<text>Extraes elementos de tu presa de forma mбs rбpida y efectiva con tu cuchillo.</text>
+	</string>
+	<string id="st_perk_butcher_descr">
+		<text>Tu presencia infunde miedo en las criaturas de la Zona; no es sorprendente, porque eres lo ъltimo que ven en su vida en la gran mayorнa de los casos. Despuйs de haber aprendido cуmo lidiar con el cadбver de un mutante despuйs de un combate, la gente comienza a temerte.</text>
+	</string>
+	<string id="st_perk_butcher_unlock">
+		<text>Has desbloqueado el logro de Carnicero.</text>
+	</string>
+
+	<string id="st_perk_strong_stomach_name">
+		<text>Estуmago fuerte</text>
+	</string>
+	<string id="st_perk_strong_stomach_hint">
+		<text>Menos daсo al consumir alimentos daсinos.</text>
+	</string>
+	<string id="st_perk_strong_stomach_descr">
+		<text>La comida sabrosa y de alta calidad en la Zona es una rareza, pero tъ puedes consumir y digerir lo que cualquier otra persona en su sano juicio no considerarнa comer.</text>
+	</string>
+	<string id="st_perk_strong_stomach_unlock">
+		<text>Has desbloqueado el logro Estуmago fuerte.</text>
+	</string>
+
+	<string id="st_perk_lead_backpack_name">
+		<text>Mochila de plomo</text>
+	</string>
+	<string id="st_perk_lead_backpack_hint">
+		<text>Reducciуn de la radiaciуn de artefactos en su mochila.</text>
+	</string>
+	<string id="st_perk_lead_backpack_descr">
+		<text>Los dones que ofrece la Zona son atractivos pero extremadamente peligrosos. No hace mucho tiempo, adquiriste una mochila especial, que deberнa poder neutralizar parte de su radiaciуn. Ha llegado el momento de ponerlo en prбctica.</text>
+	</string>
+	<string id="st_perk_lead_backpack_unlock">
+		<text>Has desbloqueado el logro Mochila de plomo.</text>
+	</string>
+
+	<string id="st_perk_thoroughness_name">
+		<text>Atento</text>
+	</string>
+	<string id="st_perk_thoroughness_hint">
+		<text>Mayor posibilidad de encontrar elementos adicionales en los escondites.</text>
+	</string>
+	<string id="st_perk_thoroughness_descr">
+		<text>Has aprendido a notar los detalles mбs insignificantes no solo en el comportamiento de las personas, sino tambiйn en el entorno. Durante tus bъsquedas, ni un solo kopeck, tornillo o persona se las arregla para esconderse de tн...</text>
+	</string>
+	<string id="st_perk_thoroughness_unlock">
+		<text>Has desbloqueado el logro Atento.</text>
+	</string>
+
+	<string id="st_perk_geologist_name">
+		<text>Geуlogo</text>
+	</string>
+	<string id="st_perk_geologist_hint">
+		<text>Mayor posibilidad de encontrar artefactos.</text>
+	</string>
+	<string id="st_perk_geologist_descr">
+		<text>Tarareando, siseando, escupiendo; ningъn tipo de anomalнa es capaz de intimidarte nunca mбs, y tu deseo de explorar te anima a viajar a бreas llenas de ellas.</text>
+	</string>
+	<string id="st_perk_geologist_unlock">
+		<text>Has desbloqueado el logro Geуlogo.</text>
+	</string>
+
+	<string id="st_perk_authority_name">
+		<text>Autoridad</text>
+	</string>
+	<string id="st_perk_authority_hint">
+		<text>Aumenta el nъmero de acompaсantes, los interrogatorios son mбs efectivos, la reputaciуn se gana mбs rбpido, opciones adicionales en los diбlogos.</text>
+	</string>
+	<string id="st_perk_authority_descr">
+		<text>Ya sea a travйs del encanto, una habilidad natural para socializar, o tal vez un conocimiento sutil de la psicologнa humana; eso no importa. Te ganas fбcilmente el corazуn de cualquier persona, ya sea un codicioso tendero o un psicуpata evidente.</text>
+	</string>
+	<string id="st_perk_authority_unlock">
+		<text>Has desbloqueado el logro de la Autoridad.</text>
+	</string>
+
+	<string id="st_perk_steady_hands_name">
+		<text>Mano firme</text>
+	</string>
+	<string id="st_perk_steady_hands_hint">
+		<text>El retroceso usando armas pequeсas se reduce significativamente.</text>
+	</string>
+	<string id="st_perk_steady_hands_descr">
+		<text>En cualquier situaciуn en la que te encuentres, ya sea en shock emocional, una resaca salvaje o un pequeсo terremoto mientras viajas en transporte pъblico, tu mano nunca falla. El agarre de tu arma es lo suficientemente fuerte como para abollar el guardamanos y la culata.</text>
+	</string>
+	<string id="st_perk_steady_hands_unlock">
+		<text>Has desbloqueado el logro Mano firme.</text>
+	</string>
+</string_table>

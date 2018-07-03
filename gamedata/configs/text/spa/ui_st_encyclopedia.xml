@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<!-- PDA -->
+	<string id="pda_btn_encyclopedia">
+		<text>Guнa</text>
+	</string>
+
+	<string id="pda_btn_encyclopedia_hint">
+		<text>Mostrar la guнa del usuario</text>
+	</string>
+
+	<string id="pda_encyclopedia_title">
+		<text>Guнa de la zona</text>
+	</string>
+
+	<string id="pda_btn_encyclopedia_notify">
+		<text>Nuevo artнculo desbloqueado</text>
+	</string>
+
+	<string id="pda_btn_encyclopedia_locked">
+		<text>El artнculo estб bloqueado</text>
+	</string>
+	
+	<string id="pda_btn_encyclopedia_text_locked">
+		<text>La informaciуn estб ausente</text>
+	</string>
+	
+</string_table>

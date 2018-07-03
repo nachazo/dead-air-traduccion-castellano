@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="kb_active_jobs">
+		<text>PDA</text>
+	</string>
+	<string id="kb_alife_command">
+		<text>Orden para atacar</text>
+	</string>
+	<string id="kb_always_run">
+		<text>Caminar / agacharse</text>
+	</string>
+	<string id="kb_artefact">
+		<text>Artefacto</text>
+	</string>
+	<string id="kb_backward">
+		<text>Hacia atrбs</text>
+	</string>
+	<string id="kb_binoculars">
+		<text>Prismбticos</text>
+	</string>
+	<string id="kb_buy_menu">
+		<text>Comprar menъ</text>
+	</string>
+	<string id="kb_chat">
+		<text>Charla</text>
+	</string>
+	<string id="kb_chat_team">
+		<text>Chat en equipo</text>
+	</string>
+	<string id="kb_console">
+		<text>Consola</text>
+	</string>
+	<string id="kb_contacts">
+		<text>Contactos en el PDA</text>
+	</string>
+	<string id="kb_crouch">
+		<text>Agacharse</text>
+	</string>
+	<string id="kb_crouch_toggle">
+		<text>Mantenerse agachado</text>
+	</string>
+	<string id="kb_detector">
+		<text>Detector</text>
+	</string>
+	<string id="kb_down">
+		<text>Abajo</text>
+	</string>
+	<string id="kb_drop">
+		<text>Soltar</text>
+	</string>
+	<string id="kb_fire">
+		<text>Disparar</text>
+	</string>
+	<string id="kb_firemode_next">
+		<text>Modo de disparo siguiente</text>
+	</string>
+	<string id="kb_firemode_prev">
+		<text>Modo de disparo anterior</text>
+	</string>
+	<string id="kb_forward">
+		<text>Adelante</text>
+	</string>
+	<string id="kb_func">
+		<text>Lanzagranadas acoplado</text>
+	</string>
+	<string id="kb_grp_common">
+		<text>General</text>
+	</string>
+	<string id="kb_grp_direction">
+		<text>Direcciуn</text>
+	</string>
+	<string id="kb_grp_inventory">
+		<text>Inventario</text>
+	</string>
+	<string id="kb_grp_movement">
+		<text>Movimiento</text>
+	</string>
+	<string id="kb_grp_multiplayer">
+		<text>Multijugador</text>
+	</string>
+	<string id="kb_grp_weapons">
+		<text>Armas</text>
+	</string>
+	<string id="kb_grp_squad">
+		<text>Gestiуn del grupo</text>
+	</string>
+	<string id="kb_inventory">
+		<text>Inventario</text>
+	</string>
+	<string id="kb_jump">
+		<text>Saltar</text>
+	</string>
+	<string id="kb_left">
+		<text>Izquierda</text>
+	</string>
+	<string id="kb_left_lookout">
+		<text>Magra izquierda</text>
+	</string>
+	<string id="kb_left_strafe">
+		<text>Ametrallar a la izquierda</text>
+	</string>
+	<string id="kb_map">
+		<text>Mapa</text>
+	</string>
+	<string id="kb_next_slot">
+		<text>Siguiente arma</text>
+	</string>
+	<string id="kb_night_vision">
+		<text>Visiуn nocturna</text>
+	</string>
+	<string id="kb_pause">
+		<text>Pausa</text>
+	</string>
+	<string id="kb_pda">
+		<text>PDA</text>
+	</string>
+	<string id="kb_prev_slot">
+		<text>Arma anterior</text>
+	</string>
+	<string id="kb_quit">
+		<text>Salida</text>
+	</string>
+	<string id="kb_reload">
+		<text>Recargar arma / limpiar mбscara</text>
+	</string>
+	<string id="kb_repair">
+		<text>Reparar</text>
+	</string>
+	<string id="kb_right">
+		<text>Derecha</text>
+	</string>
+	<string id="kb_right_lookout">
+		<text>Inclinarse a la derecha</text>
+	</string>
+	<string id="kb_right_strafe">
+		<text>Deslizarse a la derecha</text>
+	</string>
+	<string id="kb_scores">
+		<text>Puntos</text>
+	</string>
+	<string id="kb_screenshot">
+		<text>Captura de pantalla</text>
+	</string>
+	<string id="kb_skin_menu">
+		<text>Menъ de selecciуn de modelo</text>
+	</string>
+	<string id="kb_sprint">
+		<text>Sprint</text>
+	</string>
+	<string id="kb_team_menu">
+		<text>Menъ de selecciуn de equipo</text>
+	</string>
+	<string id="kb_torch">
+		<text>Linterna de mano</text>
+	</string>
+	<string id="kb_turn_engine">
+		<text>Activar</text>
+	</string>
+	<string id="kb_up">
+		<text>Arriba</text>
+	</string>
+	<string id="kb_use">
+		<text>Utilizar</text>
+	</string>
+	<string id="kb_use_bandage">
+		<text>Vendaje rбpido</text>
+	</string>
+	<string id="kb_use_medkit">
+		<text>Kit mйdico rбpido</text>
+	</string>
+	<string id="kb_vote_begin">
+		<text>Empezar a votar</text>
+	</string>
+	<string id="kb_vote_menu">
+		<text>Votar</text>
+	</string>
+	<string id="kb_vote_no">
+		<text>Votar "No"</text>
+	</string>
+	<string id="kb_vote_yes">
+		<text>Votar "Sн"</text>
+	</string>
+	<string id="kb_weapon1">
+		<text>Cuchillo</text>
+	</string>
+	<string id="kb_weapon2">
+		<text>Arma principal</text>
+	</string>
+	<string id="kb_weapon3">
+		<text>Arma secundaria</text>
+	</string>
+	<string id="kb_weapon4">
+		<text>Cuerpo a cuerpo rбpido</text>
+	</string>
+	<string id="kb_weapon5">
+		<text>Pistola</text>
+	</string>
+	<string id="kb_weapon6">
+		<text>Tornillo</text>
+	</string>
+	<string id="kb_weapon7">
+		<text>Granada / binoculares</text>
+	</string>
+	<string id="kb_wpn_next">
+		<text>Cambiar el tipo de municiуn</text>
+	</string>
+	<string id="kb_wpn_prev">
+		<text>Arma anterior de este tipo</text>
+	</string>
+	<string id="kb_zoom">
+		<text>Enfocar</text>
+	</string>
+	<string id="speech_menu_group">
+		<text>Mensajes de voz (1)</text>
+	</string>
+	<string id="speech_menu_personal">
+		<text>Mensajes de voz (2)</text>
+	</string>
+	<string id="kb_quick_use_1">
+		<text>Ranura de acceso rбpido (1)</text>
+	</string>
+	<string id="kb_quick_use_2">
+		<text>Ranura de acceso rбpido (2)</text>
+	</string>
+	<string id="kb_quick_use_3">
+		<text>Ranura de acceso rбpido (3)</text>
+	</string>
+	<string id="kb_quick_use_4">
+		<text>Ranura de acceso rбpido (4)</text>
+	</string>
+
+	<!-- Call of Chernobyl -->
+	<string id="kb_cam_1">
+		<text>Vista en 1Є persona</text>
+	</string>
+	<string id="kb_cam_2">
+		<text>Vista de tercera persona (1)</text>
+	</string>
+	<string id="kb_cam_3">
+		<text>Vista de tercera persona (2)</text>
+	</string>
+	<string id="kb_cam_autoaim">
+		<text>3a persona auto-objetivo</text>
+	</string>
+	<string id="kb_cam_zoom_in">
+		<text>Zoom de la cбmara</text>
+	</string>
+	<string id="kb_cam_zoom_out">
+		<text>Alejar la cбmara</text>
+	</string>
+	<string id="kb_custom1">
+		<text>Alternar combate de compaсero</text>
+	</string>
+	<string id="kb_custom2">
+		<text>Alternar movimiento de compaсero</text>
+	</string>
+	<string id="kb_custom3">
+		<text>Alternar mover al punto de compaсero</text>
+	</string>
+	<string id="kb_custom4">
+		<text>Alternar tomar cobertura de compaсero</text>
+	</string>
+	<string id="kb_custom5">
+		<text>Alternar saqueo de compaсero</text>
+	</string>
+	<string id="kb_custom6">
+		<text>Mapa de PDA</text>
+	</string>
+	<string id="kb_custom7">
+		<text>Relaciones PDA</text>
+	</string>
+	<string id="kb_custom8">
+		<text>Contactos de PDA</text>
+	</string>
+	<string id="kb_custom9">
+		<text>Estadнsticas PDA</text>
+	</string>
+	<string id="kb_custom10">
+		<text>Mensajes de PDA</text>
+	</string>
+</string_table>

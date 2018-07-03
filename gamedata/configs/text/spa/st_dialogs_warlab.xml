@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="oso_chernobyl_crush_0">
+		<text>їEs la explosiуn de '86 tu responsabilidad, tambiйn?</text>
+	</string>
+	<string id="oso_chernobyl_crush_1">
+		<text>No, no tuvimos nada que ver con eso. La mayorнa de nosotros reciйn comenzбbamos en la ciencia en aquel entonces. La zona de Chernobyl no se usу como un sitio de prueba para experimentos hasta 1989.</text>
+	</string>
+	<string id="oso_death_truck_0">
+		<text>їQuй son los "camiones de la muerte"?</text>
+	</string>
+	<string id="oso_death_truck_1">
+		<text>Los transportes que utilizamos para enviar nuestros "agentes" marcados a la Zona. Se infiltran en la "comunidad" stalker y llevan a cabo nuestras уrdenes sin darse cuenta. Desafortunadamente, mбs de la mitad de los stalkeres mueren durante el transporte; la zona es muy inestable Usted es uno de nuestros agentes enviados a matar a Strelok, y ahora estamos tratando de descubrir cуmo cometimos ese error.</text>
+	</string>
+	<string id="oso_no_0">
+		<text>No voy a ayudarte en este engaсo.</text>
+	</string>
+	<string id="oso_osoznanie_start_11">
+		<text>Hola. Veo que tienes muchas preguntas para mн. Bien, pregъnteles, y luego podemos decidir quй hacer con usted.</text>
+	</string>
+	<string id="oso_osoznanie_start_21">
+		<text>La decisiуn es tuya.</text>
+	</string>
+	<string id="oso_stalker_0">
+		<text>їQuй significa el tatuaje "S.T.A.L.K.E.R."?</text>
+	</string>
+	<string id="oso_stalker_1">
+		<text>S.T.A.L.K.E.R. es un acrуnimo codificado, que usamos para marcar agentes programados para misiones particulares. Su misiуn, como agente nuestro, era matar a Strelok y su grupo. Se acercaron demasiado para descubrir cosas que no deberнan saber. Creamos una red de psi-fields camino al centro de la Zona para reclutar agentes. Conoces uno de estos campos con el nombre de Cauterizador Cerebral. Cuando un stalker intenta llegar al centro de la Zona para cumplir algъn deseo, adquirimos control sobre su conciencia y lo programamos para una misiуn especнfica. Se cometiу un error y tu misiуn fue suicidarte.</text>
+	</string>
+	<string id="oso_what_about_me_0">
+		<text>їQuй me pasу?</text>
+	</string>
+	<string id="oso_what_about_me_1">
+		<text>Eres un cerrojo que se cayу de la mбquina. Desafortunadamente, eso no nos llamу la atenciуn por mucho tiempo. Desde el momento en que se formу la Zona, muchas personas han tratado de llegar a su centro, pero no podemos permitir que eso suceda. La humanidad no estб lista para la verdad. Es por eso que reclutamos stalkeres prometiйndoles el cumplimiento de sus deseos mбs codiciados. Una vez reclutados, serнan enviados para proteger el secreto de la Zona.</text>
+	</string>
+	<string id="oso_what_is_the_zone_0">
+		<text>їCuбl es la zona? їCуmo ocurriу?</text>
+	</string>
+	<string id="oso_what_is_the_zone_1">
+		<text>Lo que ves es el resultado de una intervenciуn mal considerada en la noosfera de la Tierra. Los intentos de afectar a la noosfera provocaron un crack local. La zona es simplemente la manifestaciуn visible de esta grieta. El problema subyacente es mucho mayor de lo que puedas imaginar.</text>
+	</string>
+	<string id="oso_what_next_0">
+		<text>їQuй sigue?</text>
+	</string>
+	<string id="oso_what_next_1">
+		<text>Eso depende de ti. La zona estб creciendo. Estamos tratando de frenar su expansiуn, pero la humanidad parece tener la intenciуn de obstaculizar nuestro trabajo. Nuestros recursos no son ilimitados, y los cuerpos conectados a C-Conciencia finalmente mueren. Si te unes a nosotros, podemos restringir el crecimiento de la Zona. Si decide lo contrario, no podemos hacer un pronуstico creнble del resultado.</text>
+	</string>
+	<string id="oso_who_are_you_0">
+		<text>їQuiйn eres tъ?</text>
+	</string>
+	<string id="oso_who_are_you_1">
+		<text>Somos el resultado de un experimento dirigido a crear una superconciencia llamada 'C-Conciencia'; las conciencias de siete voluntarios estuvieron conectadas durante el experimento que condujo a la creaciуn de la superconciencia que somos nosotros. Inmediatamente subordinamos a los que estaban llevando a cabo el experimento y los asignamos a tareas que necesitбbamos que llevaran a cabo. De acuerdo con nuestros cбlculos, la Tierra estб rodeada por un campo de informaciуn especial, la llamada noosfera. Incluye a todos los habitantes del planeta con habilidades cognitivas. Nuestro principal objetivo era hacer pequeсos ajustes a la noosfera, lo que nos permite eliminar cosas como la ira, la crueldad, la codicia y otros factores negativos del planeta. Los individuos no pueden afectar a la noosfera, pero C-Consciousness podrнa. Desafortunadamente cometimos un error y nuestra interferencia engendrу la Zona, que hemos intentado contener desde entonces.</text>
+	</string>
+	<string id="oso_why_chernobyl_0">
+		<text>їPor quй sucediу aquн?</text>
+	</string>
+	<string id="oso_why_chernobyl_1">
+		<text>Fue el mejor lugar Despuйs de la explosiуn en 1986, quedaba muy poca gente en esta бrea y podнamos trabajar sin temor a ser encontrados. Ademбs, habнa muchas antenas poderosas aquн, que son extremadamente importantes para nuestros experimentos de optimizaciуn cognitiva.</text>
+	</string>
+	<string id="oso_yes_0">
+		<text>Estoy de acuerdo en unirme al proyecto C-Consciousness.</text>
+	</string>
+	<string id="warlab_entity_start_11">
+		<text>He estado esperando este momento por tanto tiempo... ЎSi no puedo salir al mundo, que el mundo venga a mн!</text>
+	</string>
+	<string id="warlab_entity_start_12">
+		<text>їQuiйn o quй eres?</text>
+	</string>
+	<string id="warlab_entity_start_13">
+		<text>Mнrame. ЎSoy tu hermano! ЎHe estado en esta jaula durante diecisйis aсos! ЎNo estoy seguro de lo que estoy viendo! Puede ser otra ilusiуn tambiйn. ЎDime que ves! їMe ves de pie frente a ti? їNo soy puro frente al creador?</text>
+	</string>
+	<string id="warlab_entity_start_14">
+		<text>їEstбs bien?</text>
+	</string>
+	<string id="warlab_entity_start_15">
+		<text>Llevarбs mi mensaje al mundo, humano. Su forma fнsica se adapta bien para esta tarea. La Zona aumentarб su territorio con tu ayuda.</text>
+	</string>
+	<string id="warlab_entity_start_16">
+		<text>їQuй pasa si elijo no llevar tu "mensaje"?</text>
+	</string>
+	<string id="warlab_entity_start_17">
+		<text>Morirбs... pero juguemos un poco, primero. Puedo ser un poltergeist, un bloodsucker o un controlador; No importa. Atrбpame si puedes!</text>
+	</string>
+	<string id="warlab_entity_start_18">
+		<text>...</text>
+	</string>
+</string_table>

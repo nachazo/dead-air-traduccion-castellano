@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<!-- FIND AND ENTER THE WARLAB -->
+	<string id="sar_perception">
+		<text>Camino al norte</text>
+	</string>
+	<string id="sar_perception_1">
+		<text>Descubre quiйn o quй estб detrбs del Monolito.</text>
+	</string>
+	<string id="sar_perception_2">
+		<text>Encuentra el laboratorio secreto mencionado en los documentos y descubra quй se esconde en йl</text>
+	</string>
+	<string id="sar_perception_3">
+		<text>Abre la puerta con el decodificador.</text>
+	</string>
+	<string id="sar_perception_4">
+		<text>Mata a los guardias y entra a la habitaciуn.</text>
+	</string>
+	<string id="sar_perception_5">
+		<text>Aprende el cуdigo de acceso de los documentos.</text>
+	</string>
+	<string id="warlab_kill_crazy_entity_title">
+		<text>Trata con una criatura desconocida.</text>
+	</string>
+	<string id="warlab_kill_crazy_entity_1">
+		<text>Habla con la criatura</text>
+	</string>
+	<string id="warlab_kill_crazy_entity_2">
+		<text>Destruye las tres formas fнsicas de la Criatura para abrir la puerta.</text>
+	</string>
+</string_table>

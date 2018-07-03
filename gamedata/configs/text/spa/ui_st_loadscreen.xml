@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="ls_header">
+		<text>В</text>
+	</string>
+
+	<list_renderer x="200" y="5" width="188" height="20" list_length="5" always_show_scroll="0">
+		<options_item entry="renderer" group="mm_opt_video" depend="restart"/>
+		<list_font r="170" g="170" b="170" font="letterica16"/>
+		<text_color>
+			<e r="170" g="170" b="170"/>
+			<d r="70" g="70" b="70"/>
+		</text_color>
+	</list_renderer>
+
+	<string id="ls_tip_number">
+		<text>XRay Engine 1.6.0</text>
+	</string>
+
+	<string id="ls_tip_1">
+		<text>txt1</text>
+	</string>
+
+	<string id="ls_tip_2">
+		<text>S.T.A.L.K.E.R .: Dead Air</text>
+	</string>
+
+	<string id="ls_tip_3">
+		<text>La mayorнa de los mecбnicos requieren herramientas bбsicas, avanzadas y expertas para realizar ciertas mejoras en armas y conjuntos. Dichos artнculos a menudo se pueden encontrar en stashes recibidos como recompensas por completar tareas.</text>
+	</string>
+	
+	<string id="ls_tip_4">
+		<text>La falta de sueсo es una caracterнstica opcional en la que el paso del tiempo y el uso de consumibles drenarбn gradualmente al jugador, lo que finalmente requerirб que descanse cuando se le solicite. No hacerlo puede tener consecuencias nefastas.</text>
+	</string>
+	
+	<string id="ls_tip_5">
+		<text>Se pueden ver helicуpteros artillados patrullando muchas de las ubicaciones de la Zona. Cuando participan en el combate, los miembros de la facciуn del helicуptero a menudo pueden solicitar apoyo aйreo para ayudar a destruir las fuerzas atacantes o defensoras.</text>
+	</string>
+	
+	<string id="ls_tip_6">
+		<text>El modo Ironman le da un verdadero sentido de mortalidad. Cuando el jugador muere, todos los rescates para ese personaje especнfico se eliminan y nunca se pueden restaurar. Elige tu facciуn y comienza la ubicaciуn sabiamente.</text>
+	</string>
+	
+	<string id="ls_tip_7">
+		<text>Los kits de armero y costura se utilizan para reparar sus armas y trajes, respectivamente, cuando estбn en el campo. Cada uno permite hasta tres usos y se usan mejor para reparar artнculos de mayor valor que los propios kits.</text>
+	</string>
+	
+	<string id="ls_tip_8">
+		<text>Las mochilas se pueden comprar o encontrar y luego se pueden usar para crear un escondite personalizado. Las estrategias creadas por el jugador nunca se deshacen ni son saqueadas por otros stalkeres. Son permanentes hasta que se eliminen todos los elementos.</text>
+	</string>
+	
+	<string id="ls_tip_9">
+		<text>Los sacos de dormir son una excelente manera de descansar en la Zona si no puede encontrar una cama decente donde dormir. Se pueden comprar en la mayorнa de los principales comerciantes o se pueden encontrar en el escondite de otro stalker.</text>
+	</string>
+	
+	<string id="ls_tip_10">
+		<text>Cementerio de camiones es un gran cementerio de vehнculos agrнcolas, civiles y militares irradiados. Como un gran lugar para esconder un alijo, un stalker de ojos de бguila puede encontrar muchos objetos de valor entre los restos.</text>
+	</string>
+	
+	<string id="ls_tip_11">
+		<text>Los tipos de artefactos son indicativos de las anomalнas en las que se encuentran. їDesea uno que aumente su resistencia a la combustiуn? Busque una anomalнa de "Quemador" o "Cometa" y vaya a cazar con su detector.</text>
+	</string>
+	
+	<string id="ls_tip_12">
+		<text>Completar las tareas de las facciones aumentarб su buena voluntad con ellas. A medida que aumenta, sus operadores gradualmente le ofrecerбn mayores descuentos en sus productos y servicios.</text>
+	</string>
+	
+	<string id="ls_tip_13">
+		<text>A medida que consigas mбs en el juego aumentarб tu rango, los rangos disponibles son los siguientes: "Novato", "Aprendiz", "Experimentado", "Profesional", "Veterano", "Experto", "Maestro" y "Leyenda". "</text>
+	</string>
+	
+	<string id="ls_tip_14">
+		<text>La mayorнa de las tareas se pueden cancelar despuйs de que usted acuerde completarlas. Puedes hacerlo hablando con el stalker que te dio la tarea. Solo recuerde que cancelar una tarea disminuirб su reputaciуn y buena voluntad.</text>
+	</string>
+	
+	<string id="ls_tip_15">
+		<text>La reputaciуn es una representaciуn de cуmo un stalker es visto por su facciуn. Se gana y se pierde al ayudar o daсar a los stalkeres no hostiles, respectivamente.</text>
+	</string>
+	
+	<string id="ls_tip_16">
+		<text>La reputaciуn es dinбmica y puede cambiar con frecuencia; las reputaciones disponibles son las siguientes: "Terrible", "Sombrнo", "Terrible", "Malo", "Neutro", "Bueno", "Excelente", "Brillante" y "Excelente". "</text>
+	</string>
+	
+	<string id="ls_tip_17">
+		<text>Darkscape es un gran bosque entre Cordon y Dark Valley. Si bien hay pocas razones para visitar, se utiliza con frecuencia como un escondite por parte de solitarios y bandidos con una recompensa colocada en sus cabezas.</text>
+	</string>
+	
+	<string id="ls_tip_18">
+		<text>Recuerde preguntar a los stalkeres regulares si tienen trabajos disponibles. El hecho de que no sean importantes no significa que no estйn dispuestos a pagarle para que haga su trabajo sucio.</text>
+	</string>
+	
+	<string id="ls_tip_19">
+		<text>La arena de Rostok alberga dos tipos de competiciones: las luchas tradicionales donde los acechadores luchan entre sн por recompensas en efectivo, o desafнos donde intentan matar a los mutantes cada vez mбs duros.</text>
+	</string>
+	
+	<string id="ls_tip_20">
+		<text>El radio de exclusiуn en lнnea se puede establecer a travйs de las opciones del juego y el valor predeterminado es 25m. Crea un бrea sin generaciуn alrededor del jugador que evita que los mutantes y otros stalkeres se reproduzcan de manera injusta y peligrosa.</text>
+	</string>
+	
+	<string id="ls_tip_21">
+		<text>Cold, Spore y el resto de los personajes principales de Clear Sky pueden preguntar sobre su historia. Esto te ayudarб a reconstruir cуmo sobreviviу la facciуn despuйs de los eventos de S.T.A.L.K.E.R .: Clear Sky.</text>
+	</string>
+	
+	<string id="ls_tip_22">
+		<text>La libertad ocupa por completo la Estaciуn Yanov en Jъpiter despuйs de que un misterioso stalker los ayudу hace varios aсos. Algunos de sus conocidos miembros se han mudado a su nueva base del norte.</text>
+	</string>
+	
+	<string id="ls_tip_23">
+		<text>El logro "Completionist" se recibe para desbloquear todos los demбs logros disponibles. El nъmero de logros disponibles depende de tu facciуn y de si el modo historia estб habilitado o no.</text>
+	</string>
+	
+	<string id="ls_tip_24">
+		<text>Es mucho mбs fбcil evitar la detecciуn cuando se viaja durante la noche o bajo una lluvia intensa. Sin embargo, corre el riesgo de encontrarse con feroces mutantes nocturnos.</text>
+	</string>
+
+	<string id="ls_tip_25">
+		<text>Deberнamos prohibir la venta de productos importados. No hay nadie para verificar su calidad, por lo que deben apestar. Come solo alimentos producidos por Zone si quieres ser un verdadero Stalker.</text>
+	</string>
+
+	<string id="ls_tip_26">
+		<text>їDуnde demonios estб mi mochila? Freaking sistema de liberaciуn rбpida. Ahora no tengo ni idea de dуnde lo puse.</text>
+	</string>
+
+	<string id="ls_tip_27">
+		<text>Si las cosas se ponen un poco difнciles para ti, relбjate, bebe un poco de vodka y fuma.</text>
+	</string>
+
+	<string id="ls_tip_28">
+		<text>Muйvete sin vacilaciуn o perderбs tu enfoque.</text>
+	</string>
+
+	<string id="ls_tip_29">
+		<text>Mess with Duty, Freedoms te ama. Mess with Freedom, Duty te ama. Y me encanta el conflicto, asн que me meto con ambos.</text>
+	</string>
+
+	<string id="ls_tip_30">
+		<text>Quien pelee con monstruos deberнa asegurarse de que en el proceso no se convierta en un monstruo.</text>
+	</string>
+
+	<string id="ls_tip_31">
+		<text>Libro de texto de Guide: "La noche es una bestia en sн misma. Si tienes que abandonar el refugio despuйs del anochecer, asegъrate de tener siempre las estrellas (y la luna) para guiarte".</text>
+	</string>
+
+	<string id="ls_tip_32">
+		<text>Tome cada bala sin importar el tipo y la esconda, tal vez maсana la necesite. Y tal vez no, pero tуmenlo, sin embargo, la municiуn tambiйn es una buena fuente de ingresos.</text>
+	</string>
+
+	<string id="ls_tip_33">
+		<text>No ignores un arma solo porque no has sido especialmente entrenado con ella. La municiуn es escasa, e incluso el mejor francotirador tendrб que escapar apresuradamente de vez en cuando.</text>
+	</string>
+
+	<string id="ls_tip_34">
+		<text>Nunca le pegarбs a tu objetivo si tienes miedo.</text>
+	</string>
+
+	<string id="ls_tip_35">
+		<text>Confнa en tus oнdos. El sonido transporta colinas y densos arbustos. Un sonido dйbil pero familiar puede ser todo lo que necesita para prepararse para un ataque furtivo.</text>
+	</string>
+
+	<string id="ls_tip_36">
+		<text>No tires esta pistola. Guбrdelo y algunas municiones como respaldo. Nunca sabes cuбndo lo necesitarбs.</text>
+	</string>
+
+	<string id="ls_tip_37">
+		<text>Si sobrevives a los peligros de la Zona pero dejas que tu conciencia muera, no eres mejor que un mutante que serб perseguido y destruido.</text>
+	</string>
+
+	<string id="ls_tip_38">
+		<text>Siempre ten cuidado con el cielo. Las aves y las nubes son una maravilla, pero si ves una bengala, no lo pienses, simplemente corre.</text>
+	</string>
+
+	<string id="ls_tip_39">
+		<text>Cuando estбs en una pelea, la ъnica regla es ganar. Trucos si es necesario. Ser justo es menos importante que estar vivo.</text>
+	</string>
+
+	<string id="ls_tip_40">
+		<text>Si te disparan, mantйn la calma, cuenta sus rondas y ataca cuando vuelvan a cargar.</text>
+	</string>
+
+	<string id="ls_tip_41">
+		<text>Mбs vale prevenir que curar. ЎLa supervivencia es tu responsabilidad!</text>
+	</string>
+
+	<string id="ls_tip_42">
+		<text>No hay pбjaros carpinteros en la Zona. їMe escuchas? ЎSin pбjaros carpinteros! Whoa, їquй fue eso?</text>
+	</string>
+
+	<string id="ls_tip_43">
+		<text>їCrees que Beard paga regalнas por tocar la mъsica en Skadovsk?</text>
+	</string>
+
+	<string id="ls_tip_44">
+		<text>їAlguna vez te dije cuбl es la definiciуn de locura? Va a la caza de artefactos sin el equipo apropiado.</text>
+	</string>
+
+	<string id="ls_tip_45">
+		<text>Prevenido vale por dos. Recopila informaciуn antes de continuar.</text>
+	</string>
+
+	<string id="ls_tip_46">
+		<text>Si se enfrenta a un controlador, intente conseguir que un objeto bloquee su lнnea de visiуn (бrbol, roca, pared). Si no te ve, no puede controlarte. Y no escuches a este idiota de Flint.</text>
+	</string>
+
+	<string id="ls_tip_47">
+		<text>Tu mejor medio de defensa contra mutantes son otros Stalkers</text>
+	</string>
+
+	<string id="ls_tip_48">
+		<text>Stimpacks son bastante ъtiles. Te sanarбn mucho mбs rбpido que los botiquines.</text>
+	</string>
+
+	<string id="ls_tip_49">
+		<text>Usar un casco afecta tus capacidades de sprint.</text>
+	</string>
+
+	<string id="ls_tip_50">
+		<text>Debo decir que tienes que amar tu municiуn. Perforaciуn de armadura, chamarra metбlica completa, uranio empobrecido, punta hueca, barras de chocolate... їQuй demonios estбn haciendo aquн las barras de chocolate?</text>
+	</string>
+
+	<string id="ls_tip_51">
+		<text>Entonces... volviendo loco... pesado... Nunca... acero... platos...</text>
+	</string>
+
+	<string id="ls_tip_52">
+		<text>Nunca confнes en los bandidos. Incluso los amigos solo quieren tus artefactos, para que no lo piensen dos veces antes de apuсalarte por la espalda.</text>
+	</string>
+
+	<string id="ls_tip_53">
+		<text>El ejйrcito NO estб aquн para protegerte de la Zona, asн que si ves a un soldado, huye para salvar tu vida. Y no te mires en el espejo.</text>
+	</string>
+
+	<string id="ls_tip_54">
+		<text>Mantenga su equipo para que pueda mantenerlo.</text>
+	</string>
+
+	<string id="ls_tip_55">
+		<text>Deje que cada loco que se atreva a levantar su mano contra la Zona, asegъrese de que la Zona corte esta mano sin remordimiento.</text>
+	</string>
+
+	<string id="ls_tip_56">
+		<text>No vale la pena ayudar a otras personas cuando estбn en apuros. Todo lo que puedes esperar es una bala en la cabeza cuando bajas la guardia. Entonces no te molestes</text>
+	</string>
+
+	<string id="ls_tip_57">
+		<text>Evita el combate siempre que sea posible. Sй un ratуn hasta que te fuercen a rugir.</text>
+	</string>
+
+	<string id="ls_tip_58">
+		<text>La Zona esta, la Zona que. No me importa un comino, y generalmente nos mantenemos al margen del otro.</text>
+	</string>
+
+	<string id="ls_tip_59">
+		<text>Al reparar armas muy daсadas, los tйcnicos le cargarбn un brazo y una pierna. Las piezas de repuesto no aparecen de la nada, y pagas extra por ellas, por lo que no vale la pena.</text>
+	</string>
+
+	<string id="ls_tip_60">
+		<text>Escuche los sonidos de las anomalнas: su sentido del oнdo a veces puede indicar mejor la posiciуn de una anomalнa que su vista.</text>
+	</string>
+
+	<string id="ls_tip_61">
+		<text>Asegъrate de que tu tirador siempre estй cargado. Solo los anarquistas mantienen sus clips medio vacнos.</text>
+	</string>
+
+	<string id="ls_tip_62">
+		<text>Siempre lleve drogas para que no comience una emisiуn y no haya ningъn refugio cerca. Es posible que no lo protejan por completo, pero tal vez, solo tal vez le permita llegar a un lugar seguro antes de ser asado.</text>
+	</string>
+
+	<string id="ls_tip_63">
+		<text>Comience a recoger municiones para su tirador favorito tan pronto como obtenga el efectivo, incluso si sabe que va a ser una larga espera. Pero va a doler, si no encuentras el arma en absoluto.</text>
+	</string>
+
+	<string id="ls_tip_64">
+		<text>Lleve lo menos posible al salir, para que pueda recoger mбs golosinas y venderlas a los comerciantes cuando regrese. Lo siento, "si" vuelves.</text>
+	</string>
+
+	<string id="ls_tip_65">
+		<text>Haga que su detector de artefactos salga con la mayor frecuencia posible. A veces, los artefactos aparecen despuйs de las tormentas psi.</text>
+	</string>
+
+	<string id="ls_tip_66">
+		<text>Si escuchas a un chupasangre y te sientes afortunado, quйdate quieto. Gire hacia el sonido, ubнquelo y sonrнa. Es una broma.</text>
+	</string>
+
+	<string id="ls_tip_67">
+		<text>Nunca pase el territorio enemigo con la luz solar directa en sus ojos o con la luz solar directa en su espalda. Mejor aъn, no pases por territorio enemigo.</text>
+	</string>
+
+	<string id="ls_tip_68">
+		<text>Serб mejor que abandones todas las nociones de moralidad. La Zona se rige por su propio conjunto ъnico de reglas que no tiene nada que ver con lo que aprendes en la Gran Tierra.</text>
+	</string>
+
+	<string id="ls_tip_69">
+		<text>No seas un hйroe Nunca tengas miedo de huir de un enemigo.</text>
+	</string>
+
+	<string id="ls_tip_70">
+		<text>Recuerda, no tienes amigos en la Zona. Si escuchas a alguien en apuros, sigue caminando como si nada hubiera sucedido a menos que te apetezca una muerte rбpida.</text>
+	</string>
+
+	<string id="ls_tip_71">
+		<text>Recuerde los sonidos emitidos por mutantes. Saber quй le estб subiendo hace que sea mбs fбcil lidiar con la situaciуn de la mejor manera posible.</text>
+	</string>
+
+	<string id="ls_tip_72">
+		<text>Siempre lleve un clip de rondas perforantes para cualquier arma que tenga. Los mutantes pueden no usar armadura, pero los Stalkers hostiles sн.</text>
+	</string>
+
+	<string id="ls_tip_73">
+		<text>Lleve al menos una botella de vodka en todo momento. Cuando te quedes sin anti rads en medio de una anomalнa, me lo agradecerбs.</text>
+	</string>
+
+	<string id="ls_tip_74">
+		<text>Un paquete de cigarrillos al dнa mantiene a raya el hambre.</text>
+	</string>
+
+	<string id="ls_tip_75">
+		<text>Al tratar de acercarse sigilosamente a alguien o algo, recuerde apagar su linterna.</text>
+	</string>
+
+	<string id="ls_tip_76">
+		<text>Mantenerse sano. Evite las drogas si puede, coma alimentos limpios, beba agua purificada y duerma regularmente.</text>
+	</string>
+
+	<string id="ls_tip_77">
+		<text>Tome nota de su estado mental, relбjese cuando pueda y encuentre un pasatiempo favorito para aliviar el estrйs. La mayorнa de los Stalkers se atienen a la pornografнa, pero puedes ser un poquito mбs original.</text>
+	</string>
+
+	<string id="ls_tip_78">
+		<text>Examina un бrea cuidadosamente antes de pasar. Al detectar a un chupasangre antes de que descubra que seguramente salvarб su vida.</text>
+	</string>
+
+	<string id="ls_tip_79">
+		<text>La Zona estб viva, te puedo decir eso. Come, respira y miente. Y cuando se caiga, serб mejor que te cubras si no te apetece que te tiren al inodoro.</text>
+	</string>
+
+	<string id="ls_tip_80">
+		<text>La belleza de todo es lo que mбs me llamу la atenciуn. Sin embargo, no tienes tiempo para admirarlo, porque la Zona puede llamarte la atenciуn cuando menos lo esperas.</text>
+	</string>
+
+	<string id="ls_tip_81">
+		<text>Los tontos son aquellos que no temen a nada, sin embargo afirman saber todo.</text>
+	</string>
+
+	<string id="ls_tip_82">
+		<text>Nunca subestimes a un perro hambriento. Cuando hay uno, hay una docena.</text>
+	</string>
+
+	<string id="ls_tip_83">
+		<text>Tenga cuidado al acercarse a un compaсero Stalker. Los corazones de los hombres mantienen las sombras mбs oscuras que la propia Zona.</text>
+	</string>
+
+	<string id="ls_tip_84">
+		<text>La amistad es mбgica. Incluso en la zona.</text>
+	</string>
+
+	<string id="ls_tip_85">
+		<text>Dнa 1: mi cabello comenzу a caerse. Dнa 2: Mi piel se estб desprendiendo. Dнa 3: No me puedo mover. La avaricia. Querнa ahorrar en medicamentos. Y ahora es demasiado tarde.</text>
+	</string>
+
+	<string id="ls_tip_86">
+		<text>Sultan es una escoria. Va a golpear a cada Stalker que se le oponga. Asн que se bueno, y йl serб gentil.</text>
+	</string>
+
+	<string id="ls_tip_87">
+		<text>Cada vez que se sienta deprimido, descanse en una fogata y escuche un poco de mъsica.</text>
+	</string>
+
+	<string id="ls_tip_88">
+		<text>Siempre explore cada rincуn y grieta... Nunca se sabe lo que alguien puede haber escondido allн.</text>
+	</string>
+
+	<string id="ls_tip_89">
+		<text>El mundo entero se fue al infierno. Colapso econуmico en la Gran Tierra y la Zona... La Zona es el infierno en la tierra, y sus fuegos te consumirбn.</text>
+	</string>
+
+	<string id="ls_tip_90">
+		<text>El Diablo ha hablado, y por sus palabras surgiу la Zona. Y engendrу a sus poderosos siervos que difundieron su palabra y que llevarбn al mundo a su perdiciуn.</text>
+	</string>
+
+	<string id="ls_tip_91">
+		<text>Cuando baje la cabeza por la noche, siempre mantenga su pistola al alcance de la mano.</text>
+	</string>
+
+	<string id="ls_tip_92">
+		<text>Las dos cabezas de Chimera reflejan su naturaleza. Huirб solo para regresar un segundo despuйs para asesinarte sin piedad. Te atacarб desde atrбs solo para saltar a la oscuridad una vez mбs.</text>
+	</string>
+
+	<string id="ls_tip_93">
+		<text>Los chupasangres son dueсos de la sombra y querrнas verlos antes que en el fogonazo de tu arma.</text>
+	</string>
+
+	<string id="ls_tip_94">
+		<text>Solo aventъrate en los territorios de Monolith y Merc por la noche: las patrullas son menos frecuentes y sus bases estбn menos ocupadas.</text>
+	</string>
+
+	<string id="ls_tip_95">
+		<text>Los controladores pueden tratar de detener su mente con sus poderes, pero no pueden detener un juego de rol en su cara.</text>
+	</string>
+
+	<string id="ls_tip_96">
+		<text>Contrariamente a la creencia popular, usar una mбscara de gas no evitarб que comas o bebas.</text>
+	</string>
+
+	<string id="ls_tip_97">
+		<text>No hay vergьenza en golpear F9 cuando las cosas van hacia el sur.</text>
+	</string>
+
+	<string id="ls_tip_98">
+		<text>Eres mбs fбcil de matar cuando dejas de moverte, entonces. no lo hagas detener. emocionante.</text>
+	</string>
+
+	<string id="ls_tip_99">
+		<text>Mantente alerta Stalker, la muerte siempre estб cerca. Si lo ves, apunta a la cabeza.</text>
+	</string>
+
+	<string id="ls_tip_100">
+		<text>Morirбs en una semana si no comes. Pero puedes morir en cuestiуn de segundos si una bala te golpea. Siempre mantenga su traje en buenas condiciones para que pueda vivir un poco mбs de tiempo.</text>
+	</string>
+</string_table>

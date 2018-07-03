@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<!-- PART 1: Ask player to join --> 
+
+	<string id="ds2_gonta_quest_task_name">
+		<text>Ayuda a Gonta a proteger el campamento.</text>
+	</string>
+
+	<string id="ds2_gonta_quest_task_text1">
+		<text>Espera a que llegue la noche.</text>
+	</string>
+
+	<string id="ds2_gonta_quest_task_text2">
+		<text>Ъnete al destacamento.</text>
+	</string>
+
+	<string id="ds2_gonta_quest_task_text3">
+		<text>Vacнe el campamento de bandidos.</text>
+	</string>
+
+	<string id="ds2_gonta_quest_task_text4">
+		<text>Habla con Gonta.</text>
+	</string>
+
+	<string id="ds2_gonta_quest_actor0A">
+		<text>Hola chicos. їPor quй el estado de бnimo serio?</text>
+	</string>
+
+	<string id="ds2_gonta_quest_actor0B">
+		<text>Bueno, їcуmo es el estado de бnimo?</text>
+	</string>
+
+	<string id="ds2_gonta_quest_text1A">
+		<text>Trate de divertirse aquн... Hemos estado aquн durante mucho tiempo, hemos ayudado a otros en paz, hemos ayudado a los reciйn llegados a la Zona a sobrevivir... todo estuvo bien hasta que llegaron los bandidos. Creo que es hora de deshacernos definitivamente de este lнo. Pero... solo somos tres y estoy muy preocupado, no podemos hacer esto solos. їEstarнas dispuesto a unirte a nosotros? Necesitamos actuar rбpidamente antes de que reъnan a mбs personas.</text>
+	</string>
+
+	<string id="ds2_gonta_quest_text1B">
+		<text>їHas decidido ir con nosotros mientras todavнa tenemos la oportunidad?</text>
+	</string>
+
+	<string id="ds2_gonta_quest_actor1A">
+		<text>Sн, pase lo que pase, Ўestoy contigo!</text>
+	</string>
+
+	<string id="ds2_gonta_quest_actor1B">
+		<text>No, no puedo ahora.</text>
+	</string>
+
+	<string id="ds2_gonta_quest_text2A">
+		<text>ЎAquн estб nuestro hombre! ЎExcelente! Ahora, preparйmonos lentamente, descanse, revise nuestro equipo. Atacaremos cuando estй oscuro, serнa mejor para la medianoche. Les daremos un sabor de su propia medicina...</text>
+	</string>
+
+	<string id="ds2_gonta_quest_text2B">
+		<text>Entiendo. Ven con nosotros si decides hacerlo.</text>
+	</string>
+
+
+	<!-- PART 2: Ready, set, go! -->
+
+	<string id="ds2_gonta_quest_text3A">
+		<text>Bueno, їnos pondremos en marcha?</text>
+	</string>
+
+	<string id="ds2_gonta_quest_text3B">
+		<text>Mis manos estбn picando... Pero es temprano, debemos esperar.</text>
+	</string>
+
+	<string id="ds2_gonta_quest_text3C">
+		<text>ЎAhora no es el momento de charlar!</text>
+	</string>
+
+	<string id="ds2_gonta_quest_actor3A">
+		<text>Listo? ЎVAMOS!</text>
+	</string>
+
+
+	<!-- PART 3A: Grand Finale -->
+
+	<string id="ds2_gonta_quest_complete1">
+		<text>ЎEsto es genial! ЎAcabo de recibir informaciуn de que no hay mбs bandidos en el campamento! їCuбntos de ellos estaban allн? Una docena... їmбs? Y todos cayeron? Por tal milagro, quнtenme este regalo, Ўno todos los dнas sucede algo asн en la Zona!</text>
+	</string>
+
+	<string id="ds2_gonta_quest_complete2">
+		<text>Gracias por su apoyo, la prуxima vez van a pensar antes de cruzar con nosotros. Aquн, para tu alma.</text>
+	</string>
+
+	<string id="ds2_gonta_quest_complete3">
+		<text>Continъa, en paz.</text>
+	</string>
+
+	<string id="ds2_gonta_quest_complete4">
+		<text>Usted huyу y lo delatу, їeh? їCrees que no nos darнamos cuenta de cуmo se comportaron los bandidos despuйs de tu llegada? Eres una rata!</text>
+	</string>
+
+	<string id="ds2_gonta_quest_actor4?">
+		<text>Yo tambien...</text>
+	</string>
+
+	<string id="ds2_antigonta_quest_task_name">
+		<text>Ayuda a los bandidos.</text>
+	</string>
+
+
+	<!-- PART 3B: TOP 10 ANIME BETRAYALS -->
+
+	<string id="ds2_antigonta_quest_task_text">
+		<text>Mata a Gonta.</text>
+	</string>
+
+	<string id="ds2_antigonta_quest_task_complete">
+		<text>Eres un asesino en serie! Todo lo que puedo decir estб bien hecho. Si necesitas recostarte o relajarte puedes dirigirte a nuestra base no lejos de aquн, les dirй a nuestros muchachos que no te toquen.</text>
+	</string>
+
+	<string id="ds2_antigonta_quest_actor0">
+		<text>Oye, hermano, aquн, esta informaciуn es interesante.</text>
+	</string>
+
+	<string id="ds2_antigonta_quest_quest01">
+		<text>Bueno, vamos, їinteresado en la informaciуn?</text>
+	</string>
+
+	<string id="ds2_antigonta_quest_quest011">
+		<text>En resumen, escuchй que habнa problemas con los stalkeres cercanos, por lo que decidieron reunir gente para un ataque.</text>
+	</string>
+
+	<string id="ds2_antigonta_quest_quest012">
+		<text>Ya sabes, no es tan importante, olvнdalo.</text>
+	</string>
+
+	<string id="ds2_antigonta_quest_quest0111">
+		<text>ЎAquн estб la maldita perra! Hablй con ellos, no hay necesidad de esperar, solo patearlos. Y aquн, para ti.</text>
+	</string>
+
+	<string id="ds2_antigonta_quest_quest0121">
+		<text>ЎSal de aquн, payaso!</text>
+	</string>
+
+	<string id="ds2_antigonta_quest_quest01111">
+		<text>Tal vez necesitas algo de ayuda?</text>
+	</string>
+
+	<string id="ds2_antigonta_quest_quest01112">
+		<text>No hay problema, estaba feliz de ayudar.</text>
+	</string>
+
+	<string id="ds2_antigonta_quest_quest011111">
+		<text>Oh, entonces tenemos un saboteador? Eso es todo, una luz en el cruce, y llegar rбpido y hablaremos.</text>
+	</string>
+</string_table>

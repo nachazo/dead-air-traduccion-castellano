@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="jup_a6_freedom_trader_ashot_start_dialog_0">
+		<text>їQuй puedo venderte hoy?</text>
+	</string>
+	<string id="jup_b19_freedom_yar_start_dialog_0">
+		<text>Hola stalker. їQue necesitas?</text>
+	</string>
+
+	<string id="jup_b220_trapper_start_11">
+		<text>Soy Trapper... No hay necesidad de presentarte.</text>
+	</string>
+	<string id="jup_b220_trapper_start_12">
+		<text>їQuй te trae por aquн?</text>
+	</string>
+
+	<string id="jup_a6_stalker_medik_start_dialog_0">
+		<text>їEstбs buscando suministros mйdicos o solo aquн para charlar?</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_0">
+		<text>Necesito asistencia medica</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_1">
+		<text>Echemos un vistazo...</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_2">
+		<text>Echemos un vistazo... Bueno, su hнgado es mбs grande de lo que esperaba, pero eso es un riesgo laboral, їno? Aparte de eso, eres tan saludable como un burer.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_111">
+		<text>Bueno, definitivamente necesitas un tratamiento. Pero no harй nada gratis. Tomo 2000 para un tratamiento de salud completo, independientemente de sus problemas. Esto no incluye la eliminaciуn de irradiaciуn, que le costarб 1500 RU por separado.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_11">
+		<text>їY, quй piensas? їYa estoy muerto?</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_1111">
+		<text>Bien. Pagarй. Despuйs de todo, no llevarй dinero a la tumba.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_1112">
+		<text>Esa mierda es demasiado cara para mн.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_1115">
+		<text>ЎNo te pagarй tanto! ЎPreferirнa morir!</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_1114">
+		<text>Elijo la opciуn para la gente pobre. Radiaciуn solamente, por favor.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_1113">
+		<text>Tengo botiquines de primeros auxilios, asн que solo elimine la radiaciуn.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_11111">
+		<text>Espera un momento... Aja, ahora eres tan bueno como nuevo. Dos aсos de garantнa, siempre y cuando no salga de Yanov.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_11112">
+		<text>No doy prйstamos. Ve a mendigar en otro lado.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_11113">
+		<text>Por lo tanto, ten una linda muerte, amigo.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_11114">
+		<text>De acuerdo, aquн tienes. Ya no necesitas antirads.</text>
+	</string>
+
+	<string id="jup_a6_freedom_leader_start_dialog_11">
+		<text>Entonces, їquй tienes que decir?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_start_dialog_12">
+		<text>їCuбl es tu problema aquн?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_0">
+		<text>Cuйntame sobre la Libertad.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1">
+		<text>Es una larga historia. їQue quieres saber?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1111">
+		<text>їQuй es lo que haces aquн?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11111">
+		<text>Nos aseguramos de que varios funcionarios no oculten nada a la gente comъn. Ya sabes cуmo es esto: tan pronto como encuentran un nuevo laboratorio o algunos documentos que arrojan luz sobre los secretos de la Zona, inmediatamente organizan una operaciуn militar y limpian todo mejor que una jodida aspiradora. La ъnica manera de encontrar una mierda es llegar primero.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1112">
+		<text>їQuй te trajo al centro de la zona?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11121">
+		<text>Bueno, a los chicos les apetecнa dar un paseo por un lugar nuevo... Es una broma. Es una oportunidad para encontrar cosas que el mundo no ha visto antes. Ni el ejйrcito ni los stalkeres han estado aquн antes, por lo que hay algo nuevo en todos lados.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_111211">
+		<text>їEncontraste algo?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1112111">
+		<text>Un par de puertas cerradas con llave y algunos artefactos nuevos y extraсos.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1113">
+		<text>їCуmo terminaste en Freedom?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11131">
+		<text>Bueno, era amigo de los lнderes de la Libertad cuando no habнa Zona. Eso sн, en aquellos dнas, no eran lнderes: eran hippies regulares. Entonces, cuando hice un movimiento en la Zona en busca de artefactos y me encontrй con rostros familiares, pensй que podrнa ir con lo que sй.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1114">
+		<text>їQuй opinas sobre Duty?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11141">
+		<text>Son idiotas, eso es lo que creo. Quiero decir, їpor quй demonios querrнan destruir la Zona? No estб consumiendo recursos preciosos ni creciendo, ni nada. Podrнan simplemente sentarse allн y estudiarlo para su corazуn. Solo piense en cuбntos descubrimientos cientнficos se podrнan hacer... Es decir, en la historia de la humanidad, nadie nunca ha sido capaz de comprender la antigravitaciуn, їverdad? Y en la Zona, tienes dispositivos anti-gravitaciуn listos para ti por todas partes. No estarнa de mбs patearles el trasero, pero es demasiada molestia.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1115">
+		<text>Bueno. Olvнdalo.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11151">
+		<text>No hay problema.</text>
+	</string>
+
+	<string id="jup_a6_stalker_barmen_start_dialog_11">
+		<text>Bienvenido a mi humilde morada de placer y alegrнa. їDespuйs de la alegrнa, el placer o ambos en igual medida?</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_start_dialog_12">
+		<text>їVienes a relajarte? Mis bebidas no son nada especial, Ўpero este es un lugar acogedor y amigable!</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_start_dialog_13">
+		<text>Tengo toda la mierda que necesitarбs. їQue eres despuйs? їTe apetece un poco de comida, una bebida o te apetece disparar unas cuantas rondas?</text>
+	</string>
+
+	<string id="jup_b6_scientist_nuclear_physicist_start_11">
+		<text>їQuй te gustarнa decirme?</text>
+	</string>
+	<string id="jup_b16_biochemist_oasis_start_11">
+		<text>їQuй te trae por aquн?</text>
+	</string>
+
+	<string id="jup_b6_scientist_medic_start_11">
+		<text>їQuй te trae por aquн?</text>
+	</string>
+
+	<!-- Cut dialogue with Hawaiian -->
+	<string id="jup_a6_barmen_oasis_art_sell_0">
+		<text>Estuve en el Oasis recientemente y encontrй un artefacto allн. їTu interesado?</text>
+	</string>
+	<string id="jup_a6_barmen_oasis_art_sell_1">
+		<text>Ja, no esperas que yo crea eso, їverdad? He oнdo mucho sobre el Oasis, pero NUNCA he oнdo hablar de alguien que haya estado allн. Simplemente creerй en el Oasis tanto como creo en Pink Unicorns y Tentacled Gods. Y eso se reduce a un sano escepticismo.</text>
+	</string>
+
+	<!-- Ashot and Yar -->
+	<string id="st_jup_yar_reply_1">
+		<text>Ve y dile a %s que traiga su culo gordo por aquн.</text>
+	</string>
+	<string id="st_jup_yar_reply_2">
+		<text>їNo sabe йl que estoy ocupado? Dile que venga aquн.</text>
+	</string>
+	<string id="st_jup_yar_reply_3">
+		<text>No me pagan por caminar. Dile que venga a mн.</text>
+	</string>
+	<string id="st_jup_yar_reply_4">
+		<text>їQuй? їQuiere una silla de ruedas? Ir a buscar %s para mн.</text>
+	</string>
+	<string id="st_jup_yar_reply_5">
+		<text>їDуnde estб %s? No puedo arreglarlo hasta que lo traiga aquн.</text>
+	</string>
+
+	<string id="st_jup_ashot_reply_1">
+		<text>Si %s lo quiere, dile que venga aquн y quнtatelo.</text>
+	</string>
+	<string id="st_jup_ashot_reply_2">
+		<text>їLlegar de nuevo? Si йl lo quiere, йl viene y lo consigue. їBueno?</text>
+	</string>
+	<string id="st_jup_ashot_reply_3">
+		<text>Dile a ese bastardo calvo que se arrastre hasta aquн.</text>
+	</string>
+	<string id="st_jup_ashot_reply_4">
+		<text>No puedo dejar mi tienda solo. Йl tiene que venir a mн, їeh?</text>
+	</string>
+	<string id="st_jup_ashot_reply_5">
+		<text>їMe veo como un chico de los recados? Dile a %s que lo haga йl mismo.</text>
+	</string>
+</string_table>

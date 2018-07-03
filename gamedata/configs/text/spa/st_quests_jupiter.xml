@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<!--===========================================================
+<
+< TEXT STRINGS FOR TASKS ON JUPITER (YANOV) MAP
+<   CoC 1.4.08 - DoctorX Questlines 1.6
+<
+<   Modified by: DoctorX
+<   Last revised: October 07, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- STORYLINE TASK TEXT STRINGS
+	<!--
+	<!--    Modified by DoctorX
+	<!--    for DoctorX Questlines 1.6
+	<!--    October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Tukarev (Ecologist Mechanic) Default Storyline Task -->
+
+	<string id="drx_sl_jup_b6_scientist_tech_default_task_name">
+		<text>Obtener la siguiente tarea</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_default_task_text">
+		<text>Recibe tu prуxima tarea.</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_default_task_about">
+		<text>Sн, un colega mнo necesita su ayuda.</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_default_task_finish">
+		<text>Buena suerte stalker.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Tukarev  (Ecologist Mechanic) Mutant Tissue Experiment Storyline Task -->
+
+	<string id="drx_sl_jup_b6_scientist_tech_task_1_name">
+		<text>Experimento %s de Tukarev</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_task_1_text">
+		<text>Recolecta un %s y devuйlvelo a Tukarev.</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_task_1_about">
+		<text>Necesito realizar un experimento en un mutante en particular. Necesito que cace uno para mн.</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_task_1_fetch_about">
+		<text>Encuйntrame un %s. Te recompensarй bien si tienes йxito.</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_task_1_fetch_finish">
+		<text>Lo has hecho bien. Esto es exactamente lo que necesitaba. Toma esto como tu recompensa.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Tukarev  (Ecologist Mechanic) Find Missing Scientist Storyline Task -->
+
+	<string id="drx_sl_jup_b6_scientist_tech_task_2_name">
+		<text>Encuentra al cientнfico desaparecido</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_task_2_text">
+		<text>Busque al cientнfico desaparecido.</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_task_2_about">
+		<text>Uno de mis cientнficos ha desaparecido. Saliу en una expediciуn de investigaciуn y nunca regresу. Aquн estб el бrea que estaba investigando, busca allн y ve si puedes encontrarlo.</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_task_2_finish">
+		<text>Gracias, stalker.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Tukarev  (Ecologist Mechanic) Recover Stolen PDA Storyline Task -->
+
+	<string id="drx_sl_jup_b6_scientist_tech_task_3_name">
+		<text>Recuperar PDA robado para Tukarev</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_task_3_text">
+		<text>Tukarev tuvo un PDA robado que contenнa investigaciones importantes. Encuйntralo y devuйlveselo a йl.</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_task_3_about">
+		<text>Los bandidos irrumpieron en uno de nuestros laboratorios mуviles y lo saquearon. Una de las cosas que tomaron fue un PDA que tiene algunos datos de investigaciуn que son muy importantes. He recibido un consejo sobre dуnde podrнan haberlo escondido. Echale un vistazo. Si encuentra el PDA, lo recompensarй por su devoluciуn.</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_task_3_finish">
+		<text>ЎExcelente! Lo has hecho bien.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Tukarev  (Ecologist Mechanic) Search Jupiter Underground Storyline Task -->
+
+	<string id="drx_sl_jup_b6_scientist_tech_task_4_name">
+		<text>Buscar el subterrбneo de Jъpiter</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_task_4_text">
+		<text>Recupere los documentos de investigaciуn perdidos en el subterrбneo de Jъpiter.</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_task_4_about">
+		<text>Uno de nuestros mejores cientнficos fue asesinado en el pasadizo subterrбneo mientras regresaba de Pripyat. Llevaba una importante investigaciуn con йl. Necesito que lo encuentres y me lo traigas.</text>
+	</string>
+	<string id="drx_sl_jup_b6_scientist_tech_task_4_finish">
+		<text>Excelente trabajo. Lo has hecho bien.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Loki  (Freedom Honcho) Default Storyline Task -->
+
+	<string id="drx_sl_jup_a6_freedom_leader_default_task_name">
+		<text>Obtener la siguiente tarea</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_default_task_text">
+		<text>Recibe tu prуxima tarea.</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_default_task_about">
+		<text>Necesito que visites a un stalker. Pregunta quй puedes hacer por йl. Йl te pagarб bien.</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_default_task_finish">
+		<text>Buena suerte stalker.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Loki  (Freedom Honcho) Arms Dealer Storyline Task -->
+
+	<string id="drx_sl_jup_a6_freedom_leader_task_1_name">
+		<text>%s Distribuidor de armas</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_1_text">
+		<text>Loki necesita %s entregado a йl.</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_1_about">
+		<text>La libertad estб teniendo dificultades para mantener un soporte de pie aquн. Necesito armas. Muchos de ellos.</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_1_fetch_about">
+		<text>Necesito unos pocos %ss. Si puedes encontrar una manera de llevarlos aquн mбs allб del Cauterizador Cerebral, estarй dispuesto a pagar.</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_1_fetch_finish">
+		<text>Lo has hecho bien. Cuantos mбs rifles tengo, mejor duermo. Toma este pago.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Loki  (Freedom Honcho) Clear Monolith Beachhead Storyline Task -->
+
+	<string id="drx_sl_jup_a6_freedom_leader_task_2_name">
+		<text>Despeja la punta de lanza del Monolito</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_2_text">
+		<text>Despeja el бrea designada de cualquier luchador Monolito en preparaciуn para el asalto principal de Freedom.</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_2_about">
+		<text>Estamos preparando una invasiуn del territorio de Monolith. Quiero que limpies un бrea para que nuestra principal fuerza de asalto pueda mudarse.</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_2_finish">
+		<text>ЎBien hecho! ЎAhora podemos comenzar nuestra invasiуn! Bueno, no ahora, mбs tarde hoy... tal vez maсana. De todos modos, gracias hermano.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Loki  (Freedom Honcho) Hunt Artefact Storyline Task -->
+
+	<string id="drx_sl_jup_a6_freedom_leader_task_3_name">
+		<text>Caza un %s para Loki</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_3_text">
+		<text>Loki ha solicitado un %s para proteger a uno de sus hombres.</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_3_about">
+		<text>Enviarй a uno de los muchachos en una misiуn que requerirб que tenga mбs protecciуn de la que nuestros mejores trajes pueden ofrecer. Necesito un artefacto particular para protegerlo.</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_3_fetch_about">
+		<text>Trбeme un %s. Si puede encontrar uno, lo compensarй bien por ello.</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_3_fetch_finish">
+		<text>Ah, perfecto. Buen trabajo hermano.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Loki  (Freedom Honcho) Search Monolith Control Center (Chernobyl) Storyline Task -->
+
+	<string id="drx_sl_jup_a6_freedom_leader_task_4_name">
+		<text>Busca el centro de control del Monolito</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_4_text">
+		<text>Busque en el laboratorio secreto dentro de Chernobyl NPP los documentos relacionados con un arma prototipo.</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_4_about">
+		<text>Hay rumores de que existen planes para una nueva arma dentro de un laboratorio secreto dentro de Chernobyl NPP. Debemos recuperarlos del Monolito si queremos tener una oportunidad contra ellos. Sй cuбn graves son los riesgos, pero si estб dispuesto a capturar los documentos, lo recompensarй bien.</text>
+	</string>
+	<string id="drx_sl_jup_a6_freedom_leader_task_4_finish">
+		<text>Excelente trabajo. Lo has hecho bien.</text>
+	</string>
+
+	
+		<!-- Hermann (Nuclear Physicist) Install Scanners Tasks -->
+	<string id="jup_b6_scientist_nuclear_physicist_task_1_name">
+		<text>Verificar anomalнas.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_1_text0">
+		<text>Obtener un escбner de Tokarev.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_1_text1_0">
+		<text>Entregar el escбner.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_1_text1_1">
+		<text>Entregar el escбner a Zaton.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_1_text2">
+		<text>Coloque el escбner.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_1_text3">
+		<text>Informe sobre la implementaciуn.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_1_about">
+		<text>ЎEres muy bienvenido! Nuestro grupo estб haciendo todo lo posible para averiguar quй tipo de relaciуn tienen las emisiones y los artefactos al realizar experimentos en algunas formaciones anуmalas en esta бrea. Pero nuestro equipo de investigaciуn no es el mбs calificado, por lo que necesitamos urgentemente un voluntario para nuestra misiуn. Necesitamos que alguien obtenga un escбner de Tokarev, luego entregue y coloque el escбner cerca de las anomalнas, las coordenadas se enviarбn a su PDA.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_2_about">
+		<text>Si desea continuar instalando escбneres, aъn tenemos anomalнas que no hemos estudiado. Si desea ayudarnos, el equipo puede obtenerse de Tokarev.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_3_about">
+		<text>ЎRealmente has hecho un gran trabajo y gracias a ti tenemos datos de todo Jъpiter! Si tan solo hubiera una manera de obtener informaciуn de las бreas mбs remotas... En este momento estamos realmente interesadosen Zaton, pero ningъn stalker estб dispuesto a ayudar. їQuizбs nos ayude una vez mбs con nuestra investigaciуn? En esencia, es lo mismo que antes, instalando escбneres en бreas cuyas coordenadas se enviarбn a su PDA.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_4_about">
+		<text>Todavнa necesitamos reunir tanta informaciуn como sea posible. Espero que Tokarev tenga suficientes escбneres.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_5_about">
+		<text>Parece que esta serб su misiуn final para nuestros estudios, lo que queda por hacer es instalar el ъltimo escбner en la ъnica regiуn anуmala inexplorada restante.</text>
+	</string>
+
+	<string id="jup_b6_scientist_nuclear_physicist_task_1_finish">
+		<text>ЎAsombroso! Ya obtuve toda la informaciуn, y todo gracias a ti. Aquн estб tu recompensa, stalker.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_2_finish">
+		<text>Veo que el escбner funciona segъn lo previsto. Gracias stalker, estoy muy agradecido.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_3_finish">
+		<text>No esperaba verte tan pronto. Dйjame revisar los sensores... ЎSн! ЎEsto es genial! La seсal de Zaton es dйbil pero es completamente estable. Por favor acepta mi agradecimiento.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_4_finish">
+		<text>їHas instalado otro escбner? Muy bien. Aquн, una pequeсa compensaciуn por su trabajo.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_5_finish">
+		<text>Bueno, este es el final de nuestra cooperaciуn. Gracias por su arduo trabajo, gracias a ustedes nuestra investigaciуn se ha desenterrado de un callejуn sin salida. ЎTenemos una enorme cantidad de anomalнas y datos para investigar! Ni siquiera puedo imaginar los descubrimientos que descubriremos en el futuro. Todo esto es gracias a usted, y para eso, acepte la modesta gratitud de todo nuestro personal, ya ha hecho mбs que suficiente.</text>
+	</string>
+
+
+	<string id="jup_b6_scientist_nuclear_physicist_task_1_take_scanner">
+		<text>Necesito un escбner para poder investigar anomalнas.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_task_1_give_scanner">
+		<text>Toma esto. Herman dijo que te diera uno.</text>
+	</string>
+
+	
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- DYNAMIC TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	
+	
+	<!-- Yar Kill Zombied Task -->
+	<string id="jup_b19_freedom_yar_task_1_name">
+		<text>La entrega especial</text>
+	</string>
+	<string id="jup_b19_freedom_yar_task_1_text">
+		<text>Debe entregar un mensaje. їCуmo te atrapaste en medio de esto?</text>
+	</string>
+	<string id="jup_b19_freedom_yar_task_1_about">
+		<text>De acuerdo, tengo un trabajo muy simple para ti. Necesito que le entregues un mensaje a mi amigo, Ashot. Йl necesita su PDA fija, dile que la traiga aquн.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_task_1_finish">
+		<text>Jaja, solo jugбbamos una broma contigo, stalker. No puedo creer que aguantes esta mierda por tanto tiempo.</text>
+	</string>
+
+	
+	
+	
+	
+	<!-- Tukarev (Ecog Mechanic) Escort Jupiter Scientists Task -->
+
+	<string id="jup_b6_scientist_biochemist_task_1_name">
+		<text>Escolta cientнficos en Jъpiter</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_task_1_text">
+		<text>Los cientнficos lo han contratado para guiarlos a un lugar especнfico para estudiar. Una vez que su investigaciуn se haya llevado a cabo con йxito, devuйlvalos de forma segura al campamento.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_task_1_about">
+		<text>Necesitamos un stalker experimentado para llevar a algunos de nuestros colegas al campo de estudio. їEstбs listo para la tarea?</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_task_1_fetch_finish">
+		<text>Gracias por tu protecciуn, stalker. Por favor, toma esto como muestra de nuestra gratitud.</text>
+	</string>
+
+
+	<string id="jup_b6_scientist_biochemist_task_2_name">
+		<text>Encuentra el artefacto %s</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_task_2_text">
+		<text>Se te ha pedido que recuperes el %s artefacto. Devuйlvelo a los ecologistas si tienes uno en tus manos.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_task_2_about">
+		<text>Estamos buscando ciertos tipos de artefactos. Si estб interesado, le dirй lo que necesitamos.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_task_2_fetch_about">
+		<text>Necesito que nos traigas un %s. їAlguna vez has oнdo hablar de eso? Tenemos algo que podemos darle a cambio que creo que encontrarб ъtil.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_task_2_fetch_finish">
+		<text>ЎEstupendo! Has encontrado exactamente lo que estamos buscando. Toma este traje, ofrece una gran protecciуn contra la Zona y estoy seguro de que puedes obtener un buen precio.</text>
+	</string>
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Tukarev (Ecog Mechanic) Brains vs Brawn Dynamic Task -->
+
+	<string id="jup_b6_scientist_biochemist_task_3_name">
+		<text>Cerebros vs Brawn</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_task_3_text">
+		<text>Dirige a un grupo de guardias ecologistas a la batalla contra los bandidos.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_task_3_about">
+		<text>Mis investigadores estбn en constante peligro. Hay bandidos por toda el бrea y nadie parece estar haciendo absolutamente nada al respecto. Quiero que limpies el бrea con algunos de mis hombres. No dejes que tus niveles A te engaсen, estos chicos saben cуmo pelear. ЎAhora sal y llйvalos a la victoria!</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_task_3_finish">
+		<text>Excelente trabajo. Gracias.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Trapper (Loner Honcho) Lead Mutant Hunt Task -->
+
+	<string id="jup_b220_trapper_task_1_name">
+		<text>Dirige una caza de mutantes</text>
+	</string>
+	<string id="jup_b220_trapper_task_1_text">
+		<text>Se han detectado mutantes cerca de esta ubicaciуn, lo que hace que el бrea sea peligrosa para algunos lugareсos. Se te ha encomendado liderar una partida de caza para reducir la amenaza de los mutantes dentro del бrea. Informe a Trapper luego de terminar el trabajo.</text>
+	</string>
+	<string id="jup_b220_trapper_task_1_about">
+		<text>He organizado una cacerнa para ayudar a mantener el бrea alrededor de Yanov un poco mбs segura al despoblar las distintas guaridas de mutantes que se encuentran en el бrea. Necesito a alguien con experiencia para dirigirlo. їTe gustarнa el trabajo?</text>
+	</string>
+	<string id="jup_b220_trapper_task_1_finish">
+		<text>Gracias, stalker. El бrea serб mucho mбs segura para los demбs por su culpa. Aquн estб su pago.</text>
+	</string>
+	<string id="jup_b220_trapper_task_2_name">
+		<text>Juego mбs mortal</text>
+	</string>
+	<string id="jup_b220_trapper_task_2_text">
+		<text>Trapper tiene un objetivo de alto valor que debe eliminarse.</text>
+	</string>
+	<string id="jup_b220_trapper_task_2_about">
+		<text>Tengo una amenaza peligrosa que debe ser eliminada. No es un mutante esta vez, sino un hombre. No serб fбcil de conseguir, pero prometo pagarte bien. їEstбs listo para el trabajo?</text>
+	</string>
+	<string id="jup_b220_trapper_task_2_finish">
+		<text>Excelente stalker de trabajo. Aquн estб su pago.</text>
+	</string>
+
+	
+	<!-- FIND WEAPON FOR HUNTSMAN TASK -->
+	<string id="jup_b220_trapper_task_3_name">
+		<text>Encontrar un %s para Trapper</text>
+	</string>
+	<string id="jup_b220_trapper_task_3_text">
+		<text>Trapper estб buscando un arma de fuego especнfica en perfecto estado. Regresa a йl si encuentras uno.</text>
+	</string>
+	<string id="jup_b220_trapper_task_3_about">
+		<text>Uno de mis cazadores estб en el mercado para un arma de fuego especнfica que no tengo disponible. їSerнas capaz de rastrear uno por mн?</text>
+	</string>
+	<string id="jup_b220_trapper_task_3_fetch_about">
+		<text>Necesito un %s. El cazador que lo quiere va tras un juego peligroso, por lo que necesita que estй en excelentes condiciones. Puedo pagarte bien si encuentras uno.</text>
+	</string>
+	<string id="jup_b220_trapper_task_3_fetch_finish">
+		<text>Ah, perfecto. Esto harб muy bien. Aquн estб el dinero que te prometн.</text>
+	</string>
+
+	
+	<!-- FIND MUTANT PARTS FOR HUNTSMAN TASK -->
+	<string id="jup_b220_trapper_task_4_name">
+		<text>Caza de trofeo %s</text>
+	</string>
+	<string id="jup_b220_trapper_task_4_text">
+		<text>Trapper dice que pagarб bien si le puedo dar un %s .</text>
+	</string>
+	<string id="jup_b220_trapper_task_4_about">
+		<text>Tengo una recompensa por un tipo particular de mutante. їEstбs interesado?</text>
+	</string>
+	<string id="jup_b220_trapper_task_4_fetch_about">
+		<text>Mata a este mutante y trбeme su %s y te pagarй bien, stalker.</text>
+	</string>
+	<string id="jup_b220_trapper_task_4_fetch_finish">
+		<text>Ah, otra amenaza eliminada y una nueva decoraciуn para el campamento. Bien hecho, stalker.</text>
+	</string>
+
+	
+	<!--- Call of Chernobyl -->
+	
+	
+	<string id="jup_b217_stalker_tech_task_1_name">
+		<text>Encuentra %s para Nitro</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_1_text">
+		<text>% Nitro requiere que Nitro instale las actualizaciones bбsicas del equipo, debe devolverlas si encuentra alguna.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_1_about">
+		<text>Necesito nuevas herramientas, stalker, algo que es difнcil de encontrar en la Zona. Si estб interesado en ayudarme, le dirй lo que necesito.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_1_fetch_about">
+		<text>Necesito un conjunto de herramientas bбsicas. Debe contener lo que necesito. Si puede traer algo para mн, le estarй agradecido, incluso le ofrecerй un descuento de aquн en adelante.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_1_fetch_finish">
+		<text>ЎPerfecto! Esto es justo lo que necesito, stalker. Si necesita afinar alguno de sus equipos, ahora puedo hacerlo correctamente.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_2_name">
+		<text>Encuentra %s para Nitro</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_2_text">
+		<text>% Nitro requiere que Nitro instale actualizaciones avanzadas de equipos. Si encuentra alguna, debe devolvйrselos.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_2_about">
+		<text>El conjunto de herramientas que me trajiste es genial, pero no tiene todo lo que necesito. їCrees que puedes encontrarme un mejor conjunto?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_2_fetch_about">
+		<text>Necesito un %s. No estoy seguro de dуnde puede obtener uno de estos, pero si puede encontrar uno, lo necesito.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_2_fetch_finish">
+		<text>Whoa! Encontraste un buen conjunto de herramientas para mн. Aquн, te prometн algo de dinero a cambio.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_3_name">
+		<text>Encuentra %s para Nitro</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_3_text">
+		<text>% Nitro requiere que Nitro instale actualizaciones de equipos expertos, debe devolverlos si encuentra alguno.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_3_about">
+		<text>El conjunto de herramientas que me trajiste es genial, pero no tiene todo lo que necesito. їCrees que puedes encontrarme un mejor conjunto?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_3_fetch_about">
+		<text>Necesito un %s. No estoy seguro de dуnde puede obtener uno de estos, pero si puede encontrar uno, lo necesito.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_3_fetch_finish">
+		<text>Whoa! Encontraste un buen conjunto de herramientas para mн. Aquн, te prometн algo de dinero a cambio.</text>
+	</string>
+</string_table>

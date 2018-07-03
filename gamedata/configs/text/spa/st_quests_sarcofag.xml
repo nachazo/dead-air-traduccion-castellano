@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="sar_monolith">
+		<text>La llamada del Monolito</text>
+	</string>
+	<string id="sar_monolith_0">
+		<text>Habla con el Wish Granter</text>
+	</string>
+	<string id="sar_monolith_1">
+		<text>Escuchй la llamada. La llamada desde el centro de la Zona. Tengo que ir allн y encontrar su fuente.</text>
+	</string>
+	<string id="sar_monolith_2">
+		<text>La voz me estб llamando. Tiene que ser el Wish Granter. Tiene que estar en algъn lugar debajo del Sarcуfago. Tengo que encontrarlo</text>
+	</string>
+	<string id="sar_monolith_destroy">
+		<text>Tumba de hormigуn</text>
+	</string>
+	<string id="sar_monolith_destroy_0">
+		<text>Necesita encontrar la base principal del Monolito, que se menciona en los documentos, y descubrir quй estбn tratando de ocultar.</text>
+	</string>
+	<string id="sar_monolith_destroy_1">
+		<text>Destruye el monolito: destruye 10 ondas de proyecciones psi creadas por el monolito.</text>
+	</string>
+	<string id="sar_monolith_destroy_2">
+		<text>Inhabilitar los generadores que aseguran el funcionamiento de los autoclaves C-Conciencia.</text>
+	</string>
+		<string id="sar_monolith_destroy_3">
+		<text>Deshabilitar generadores</text>
+	</string>
+</string_table>

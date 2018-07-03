@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="cit_doctor_hello_dialog_11">
+		<text>їSн? їQuй deseas? їStrelok? їEres tu?</text>
+	</string>
+	<string id="cit_doctor_hello_dialog_21">
+		<text>Te dije todo lo que sй.</text>
+	</string>
+	<string id="cit_doctor_main_dialog_0">
+		<text>їStrelok? Creo que me tienes confundido, viejo. Escuchй que tienes informaciуn sobre la Zona.</text>
+	</string>
+	<string id="cit_doctor_main_dialog_1">
+		<text>їConfuso? Oh... Es posible que tenga la informaciуn que busca, pero querrй que haga algo a cambio.</text>
+	</string>
+	<string id="cit_doctor_main_dialog_11">
+		<text>Por supuesto. їQuй quieres que haga?</text>
+	</string>
+	<string id="cit_doctor_main_dialog_2">
+		<text>La Zona me ha pasado factura en los ъltimos aсos, asн que paso mis ъltimos dнas aquн, en un lugar tranquilo, pero preferirнa disfrutar de ver a mis viejos amigos una vez mбs. Me temo que Strelok y Guide pueden estar muertos, pero me gustarнa mucho hablar con Fang y Ghost mientras aъn haya tiempo. Si puede encontrarlos y traerlos aquн, le agradecerнa mucho sus esfuerzos.</text>
+	</string>
+	<string id="cit_doctor_main_dialog_21">
+		<text>їCuбnto tiempo has vivido aquн? Fang y Ghost son stalkeres legendarios, pero ambos han muerto hace mucho tiempo. Fang fue asesinado por un mercenario llamado Scar en los almacenes del ejйrcito, y Ghost fue encontrado debajo de Yantar en el laboratorio X16 alrededor de un aсo despuйs. їRealmente no sabнas?</text>
+	</string>
+	<string id="cit_doctor_main_dialog_3">
+		<text>їAmbos estбn muertos? їEstбs seguro? Yo solo... Oh, estб bien... їQuй es lo que quieres saber?</text>
+	</string>
+	<string id="cit_doctor_main_dialog_31">
+		<text>De Verdad? їMe estбs diciendo eso fбcilmente? Siento que solo estбs perdiendo el tiempo, viejo.</text>
+	</string>
+	<string id="cit_doctor_main_dialog_4">
+		<text>ЎEspere! No vayas... No esperaba que terminaran mal. Cuando Strelok fue a visitarlo por ъltima vez, me dio una clave y las coordenadas para un escondite en Pripyat. No ha visitado en aсos, asн que no creo que le haya ido mucho mejor. Йl estaba diciendo algo sobre el Monolito. No entendн demasiado, y tampoco estoy muy seguro de haberlo hecho. Aquн tomalу. Y una cosa mбs... Pasу mucho tiempo buscando pistas de una conspiraciуn en laboratorios subterrбneos; algъn tipo de encubrimiento secreto, creo. Quizбs encuentres tus respuestas allн.</text>
+	</string>
+	<string id="cit_doctor_main_dialog_41">
+		<text>Ya veo. Gracias. Aprecio tu ayuda.</text>
+	</string>
+	<string id="cit_doctor_main_dialog_5">
+		<text>Ahora ve. Deja a un anciano en paz.</text>
+	</string>
+
+
+
+	<string id="cit_doctor_health_care_0">
+		<text>Doctor, necesito asistencia mйdica.</text>
+	</string>
+	<string id="cit_doctor_health_care_1">
+		<text>Ya veo. Ven aquн y te echarй un vistazo.</text>
+	</string>
+	<string id="cit_doctor_health_care_11">
+		<text>їQuй tan malo es?</text>
+	</string>
+	<string id="cit_doctor_health_care_111">
+		<text>Parece que necesitas un parche. No puedo eliminar ninguna radiaciуn, pero me ocuparй de las heridas.</text>
+	</string>
+	<string id="cit_doctor_health_care_112">
+		<text>No hay lesiones o radiaciуn, parece. Todo estб bien, muchacho.</text>
+	</string>
+	<string id="cit_doctor_health_care_1111">
+		<text>Bien, doctor. Por favor ayuda.</text>
+	</string>
+	<string id="cit_doctor_health_care_1112">
+		<text>Gracias por la ayuda.</text>
+	</string>
+	<string id="cit_doctor_health_care_11111">
+		<text>Un momento, por favor... Todo deberнa estar bien ahora. Eres libre de irte.</text>
+	</string>
+
+
+
+
+	<!-- mar_base_owl_stalker_trader -->
+	<string id="mar_base_owl_stalker_trader_start_dialog_1">
+		<text>їNecesita suministros o equipo? їInformaciуn?... їO tal vez quieres vender informaciуn?</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_need_health_care_0">
+		<text>Necesito asistencia medica</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_need_health_care_1">
+		<text>Bien. Verй lo que puedo hacer.</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_need_health_care_11">
+		<text>[continuar...]</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_need_health_care_111">
+		<text>Eso no fue tan malo, їeh? Se puede ir.</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_need_health_care_2">
+		<text>Bien, voy a echar un vistazo... їNo hay heridas? No muestras signos de enfermedad por radiaciуn. Creo que todo estб en orden; Tъ eres bueno para irte.</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_start_1">
+		<text>їQuй necesita, stalker?</text>
+	</string>
+	<string id="marsh_stalker_barmen_start_dialog_1">
+		<text>Una cara fresca! La gente de por aquн me llama bibliotecaria. Soy el cantinero local. Estarй encantado de responder cualquier pregunta que tengas. A veces publico ofertas de trabajo o escucho algunos rumores interesantes, asн que vuelve a consultar con frecuencia.</text>
+	</string>
+	<string id="marsh_stalker_barmen_start_dialog_2">
+		<text>Oye, stalker. їQue necesitas?</text>
+	</string>
+	<string id="marsh_stalker_tech_start_1">
+		<text>Saludos, stalker. їPuedo ser de ayuda? Las buenas herramientas son difнciles de encontrar en la Zona, pero aъn puedo reparar su kit y realizar pequeсas actualizaciones.</text>
+	</string>
+	<string id="marsh_stalker_medic_background">
+		<text>їYo? Solнa ser una guнa, lo creas o no. Principalmente me quedй pegado a las marismas, pero a menudo llevaba a los acechadores a lugares bastante lejos de aquн. Pero ese era un momento diferente, antes de que encontraran a ese maldito mercenario en las caсas con la boca llena de agua de pantano. Todos los dнas olvidaba el modo de entrar y salir de la base, y tenнa que llevarlo a no mбs de cinco minutos caminando de aquн a la aldea de pescadores y de regreso. Y luego, en tan solo unas pocas semanas, de alguna manera logrу convencer a nuestro liderazgo y a la mayorнa de nuestros hombres de que cargaran en la central elйctrica. No hace falta decir que ni йl ni gran parte de nuestra facciуn volvieron de su locura. Al final, no me quedaba nadie para guiarme, pero habнa mucha gente para remendar. Asн que aquн estoy. Todo por ese puto merc loco.</text>
+	</string>
+	<string id="marsh_stalker_barman_background">
+		<text>Soy el barman. Sirvo bebidas, comida y mantengo la radio en funcionamiento. No es un trabajo emocionante, pero es preferible a estar en el campo. He estado trabajando aquн por algunos aсos; me atraparon en el interior de los pantanos cuando la emisiуn golpeу, asн que estaba bastante atrapado aquн. Dirigн el sur como la mayorнa de la gente lo intentу, pero yo fui uno de los pocos que no fueron atacados por los bandidos en el camino. Busquй esta base y me unн a Clear Sky. O eso o morir en un charco en alguna parte. Pasй las primeras semanas como un gruсуn repeliendo a los anarquistas de nuestros puestos de vigilancia y luego conseguн el trabajo como el nuevo barman cuando Cold fue promovido. Naturalmente, aceptй, ya que preferirнa estar bebiendo tragos que balas. ЎPero suficiente charla! їQuй tal un buen frнo?</text>
+	</string>
+	<string id="marsh_stalker_trader_background">
+		<text>Spore es el nombre. Me hice cargo de este concierto hace aproximadamente un aсo. Llegу a la Zona en busca de riqueza como todos los demбs y se encontrу con un stalker llamado Nimble. Descubrimos que compartнamos muchos de los mismos talentos: ambos tenнan muchos contactos externos, eran buenos traficando bienes dentro y fuera de la Zona y vendнan informaciуn. Entonces, cuando sucediу el resurgimiento de Monolith y los negocios se llevaron al sur, lo seguimos. Logrй hacerme un buen trabajo aquн despuйs de que Nimble me recomendara Cold. Йl era un miembro de Clear Sky en el dнa, їsabes? Nos da a ambos una pequeсa y agradable operaciуn aquн. Tenemos acceso a una ruta de contrabando sin ejйrcito a travйs de los pantanos, y Clear Sky es la primera elecciуn de todo lo que tenemos en nuestras manos. Haga una visita a Nimble si alguna vez estб en Cordon; lo ъltimo que escuchй fue que estuvo dando vueltas por el campamento de novatos. Si alguna vez necesita un arma difнcil de conseguir o un traje de contrabando desde el exterior, йl es el tipo que vende los productos.</text>
+	</string>
+	<string id="marsh_stalker_tech_background">
+		<text>El nombre es Novikov, pero algunos me llaman Gray. Soy el tйcnico que mantiene todo funcionando, y la ъnica persona a la que recurre un buen stalker si su tirador comienza a interferir. Solнatrabajar aquн hace mucho tiempo hasta justo antes de que Cold se hiciera cargo. Cuando todo se fue a la mierda, busquй un lugar mбs verde y fui contratado por los cientнficos cerca de Jъpiter. Estuve allн por unos aсos, hasta que un dнa escuchй que, de alguna manera, estos chicos salieron adelante, y tan pronto como mi contrato terminу, volvн. Me tomaron sin preguntar; mis habilidades con un banco de trabajo y mis contactos dentro de los cientнficos eran muy necesarios. Nos pusimos a trabajar con sus chicos para poder continuar con nuestra investigaciуn anterior. Si te gusta el trabajo, siempre estбn buscando guнas para las anomalнas locales. Habla con Spore si estбs interesado.</text>
+	</string>
+	<string id="marsh_stalker_leader_background">
+		<text>їDуnde empiezo? Me llaman frнo en estas partes. Soy el lнder de Clear Sky. Solнaser el viejo dispensador de bebidas aquн hace mucho tiempo hasta que le di ese honor a la bibliotecaria una vez que nos enteramos de lo que le sucediу a Lebedev, Suslov y al resto de nuestros comandantes. Luego de largas e intensas negociaciones con el ъltimo envнo de vodka contrabandeado, la fuerza local decidiу que yo era el mбs adecuado para tomar las riendas, y desde entonces me he mantenido aferrado a ellas.</text>
+	</string>
+	<string id="marsh_csky_history_ask1">
+		<text>Cuйntame sobre Clear Sky.</text>
+	</string>
+	<string id="marsh_csky_history_ask2">
+		<text>їQuй es lo que quieres saber?</text>
+	</string>
+	<string id="marsh_csky_history_destroyed1">
+		<text>їNo fue la facciуn destruida?</text>
+	</string>
+	<string id="marsh_csky_history_destroyed2">
+		<text>Casi, pero logramos salir adelante. Si bien la mayorнa de nuestros muchachos fueron eliminados en la planta de energнa, no todos lo йramos. Un buen nъmero todavнa se encontraba en nuestros otros territorios, que mбs tarde quedaron aislados del resto de la Zona por anomalнas posteriores a la emisiуn. Cuando se hizo obvio para aquellos en los pantanos en el momento en que estaban casi atrapados aquн sin una salida fбcil, todo se fue al infierno. Los stalkeres honestos se convirtieron en bandidos durante la noche, mientras que el resto tratу de huir a nuestra base, o vivir de los mutantes de la zona. Nos enfrentamos a muchos hombres, y nuestras tiendas de alimentos aseguraron su lealtad, y despuйs de un tiempo, se hizo evidente que necesitarнamos un nuevo lнder. Asumн la carga y le pedн a nuestro Bibliotecario que cuidara el bar en mi lugar; se habнa ganado un buen nombre en el corto tiempo desde que se uniу. Despuйs de unos meses de asaltos cuerpo a cuerpo con los bandidos, logramos eliminar a la mayorнa de ellos, pero eso no impidiу que el ejйrcito sintiera que necesitaban mudarse y terminar el trabajo. Incluso ahora, todavнa tienen a ese pбjaro suyo mirando las бreas que tomaron.</text>
+	</string>
+</string_table>

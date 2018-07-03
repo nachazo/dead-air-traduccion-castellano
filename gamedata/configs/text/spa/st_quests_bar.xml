@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<!--===========================================================
+<
+< TEXT STRINGS FOR TASKS ON BAR (ROSTOK) MAP
+<   CoC 1.4.08 - DoctorX Questlines 1.6
+<
+<   Modified by: DoctorX
+<   Last revised: October 07, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Petrenko (Duty Trader) Default Storyline Task -->
+
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_default_task_name">
+		<text>Obtener la siguiente tarea</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_default_task_text">
+		<text>Recibe tu prуxima tarea.</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_default_task_about">
+		<text>Alguien que conozco necesita ayuda. Йl es un cabrуn, pero merece ayuda. Informe a йl y vea lo que quiere.</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_default_task_finish">
+		<text>Buena suerte stalker.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Petrenko (Duty Trader) Raid Enemy Camp Storyline Task- -->
+
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_1_name">
+		<text>Asalta el campamento enemigo para Deber</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_1_text">
+		<text>Dirige una incursiуn de servicio contra un campamento enemigo.</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_1_about">
+		<text>Estamos preparando una redada en un campamento enemigo. Necesito que lideres el asalto.</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_1_finish">
+		<text>Excelente trabajo. Eres un buen guerrero.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Petrenko (Duty Trader) Locate Brain Scorcher Equipment Storyline Task -->
+
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_2_name">
+		<text>Localiza el equipo del Cauterizador Cerebral</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_2_text">
+		<text>Un stalker ha eliminado una parte de Cauterizador Cerebral y la ha escondido en algъn lugar de la Zona. Encuйntralo y devuйlvelo al general Petrenko</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_2_about">
+		<text>Tengo informaciуn de que un stalker ha logrado robar un equipo del Cauterizador Cerebral y lo escondiу en alguna parte. Debemos recuperarlo, podrнa ser un arma poderosa y no debe caer en las manos equivocadas. Hay algunos lugares donde podrнa estar escondido. Tengo la mitad de la base buscando por ahora. Quiero que revises una de las ubicaciones posibles. Si lo encuentras, trбelo aquн de inmediato.</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_2_finish">
+		<text>Lo has hecho bien. Gracias.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Petrenko (Duty Trader) Most Wanted Storyline Task -->
+
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_3_name">
+		<text>El mбs buscado de Petrenko</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_3_text">
+		<text>Un cierto miembro de la facciуn ha llegado a la cima de la lista de los mбs buscados del general Petrenko y quiere que sea ejecutado.</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_3_about">
+		<text>Hay un miembro de cierta facciуn que me ha causado mбs problemas que cualquier otra persona en la Zona. Hasta el momento ninguno de mis hombres ha podido llegar a йl. Si puedes matarlo, te recompensarй bien.</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_3_finish">
+		<text>Bien, Ўte deshice de ese imbйcil! Buen trabajo. Aquн estб su pago.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Petrenko (Duty Trader) Search Lab X-19 (Radar) Storyline Task -->
+
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_4_name">
+		<text>Buscar Lab X-19</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_4_text">
+		<text>El general Petrenko pagarб generosamente por cualquier documento que se encuentre dentro del Laboratorio X-19 en Radar.</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_4_about">
+		<text>Mis fuentes me dicen que planeas infiltrarte en Cauterizador Cerebral en Radar. Creo que estбs loco, pero si realmente vas a seguir adelante, tengo una oferta para ti. Recupera cualquier documentaciуn que encuentres allн. Yo te recompensarй bien.</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_4_finish">
+		<text>Excelente trabajo. Lo has hecho bien.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mangun (Duty Mechanic) Default Storyline Task -->
+
+	<string id="drx_sl_bar_visitors_stalker_mechanic_default_task_name">
+		<text>Obtener la siguiente tarea</text>
+	</string>
+	<string id="drx_sl_bar_visitors_stalker_mechanic_default_task_text">
+		<text>Recibe tu prуxima tarea.</text>
+	</string>
+	<string id="drx_sl_bar_visitors_stalker_mechanic_default_task_about">
+		<text>Un amigo mнo podrнa usar tu ayuda. Ve a verlo</text>
+	</string>
+	<string id="drx_sl_bar_visitors_stalker_mechanic_default_task_finish">
+		<text>Buena suerte stalker.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mangun (Duty Mechanic) Find Replacement Weapon Storyline Task- -->
+
+	<string id="drx_sl_bar_visitors_stalker_mechanic_task_1_name">
+		<text>Encontrar Reemplazo %s para Mangun</text>
+	</string>
+	<string id="drx_sl_bar_visitors_stalker_mechanic_task_1_text">
+		<text>Mangun jodiу una reparaciуn y necesita un %s de reemplazo para su cliente.</text>
+	</string>
+	<string id="drx_sl_bar_visitors_stalker_mechanic_task_1_about">
+		<text>Necesito ayuda, hermano. Un Dutier me trajo su rifle para repararlo, pero lo arruinй bastante mal. Necesito encontrar un reemplazo para йl antes de que venga a recogerlo.</text>
+	</string>
+	<string id="drx_sl_bar_visitors_stalker_mechanic_task_1_fetch_about">
+		<text>Si encuentras un %s, trбemelo. No tengo mucho dinero, pero tengo algo que puedo cambiarte por eso.</text>
+	</string>
+	<string id="drx_sl_bar_visitors_stalker_mechanic_task_1_fetch_finish">
+		<text>Hola, genial! Encontraste uno. Gracias hermano, me salvaste el culo.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mangun (Duty Mechanic) Clear Out Mutants Storyline Task -->
+
+	<string id="drx_sl_bar_visitors_stalker_mechanic_task_2_name">
+		<text>Limpeza de mutantes para Mangun</text>
+	</string>
+	<string id="drx_sl_bar_visitors_stalker_mechanic_task_2_text">
+		<text>Mangun necesita el camino fuera del Bar libre de mutantes.</text>
+	</string>
+	<string id="drx_sl_bar_visitors_stalker_mechanic_task_2_about">
+		<text>Oye hermano, їpuedes hacer algo por mн? Tengo que irme a algъn lado pero escuchй que hay mutantes en el camino que sale del Bar. No soy bueno para disparar, puede que el objetivo sea inestable por alguna razуn. їPodrнas limpiarlos por mн? Tengo un rifle que un cliente nunca recogiу y que puedo darte.</text>
+	</string>
+	<string id="drx_sl_bar_visitors_stalker_mechanic_task_2_finish">
+		<text>Gracias hermano. Aquн estб el rifle que te prometн. Espero que tengas mejor suerte que su dueсo anterior... pobre muchacho. Lo bueno es que me pagу por adelantado, jeje.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+	<!-- Petrenko (Duty Trader) Payoff Change Factions Task -->
+
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_cf_task_1_name">
+		<text>Tasa de iniciaciуn de Deber</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_cf_task_1_text">
+		<text>El general Petrenko le permitirб unirse a Deber por una tarifa de 12,000 RU.</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_cf_task_1_about">
+		<text>Estarнamos mбs que felices de que te unas a Deber. Hay una tarifa de iniciaciуn, por supuesto. Si puedes traerme 12,000 RU, te harй entrar.</text>
+	</string>
+	<string id="drx_sl_bar_dolg_general_petrenko_stalker_cf_task_1_finish">
+		<text>Bienvenido a deber, stalker. Nos enorgullece</text>
+	</string>
+	
+	<!-- Voronin (Duty Leader) army permission task -->
+
+	<string id="drx_sl_bar_dolg_leader_gp_task_1_name">
+		<text>Acuerdo temporal con las Fuerzas Armadas</text>
+	</string>
+	<string id="drx_sl_bar_dolg_leader_gp_task_1_text">
+		<text>Usted posee un permiso, que le garantiza 5 dнas de neutralidad con el Ejйrcito.</text>
+	</string>
+	<string id="drx_sl_bar_dolg_leader_gp_task_1_about">
+		<text>їDecidiste visitar Military? Si tiene 25 000 RU en el bolsillo, puedo emitir el permiso ahora mismo. Enviarй un certificado digital a su PDA, y les informarй sobre usted a travйs de sus canales. El permiso serб vбlido por 5 dнas y no serб prolongado. Despuйs de eso, tendrбs que comprar otro permiso.</text>
+	</string>
+	<string id="drx_sl_bar_dolg_leader_gp_task_1_finish">
+		<text>El perнodo de validez del permiso ha expirado.</text>
+	</string>
+
+	<!-- Informator killer permission task -->
+
+	<string id="drx_sl_bar_visitors_informer_stalker_gp_task_1_name">
+		<text>Acuerdo temporal con los mercenarios</text>
+	</string>
+	<string id="drx_sl_bar_visitors_informer_stalker_gp_task_1_text">
+		<text>Tienes un permiso, que te garantiza 7 dнas de neutralidad con los Mercenarios.</text>
+	</string>
+	<string id="drx_sl_bar_visitors_informer_stalker_gp_task_1_about">
+		<text>Pagueme 50000 RU, y le conseguirй el permiso ahora mismo.</text>
+	</string>
+	<string id="drx_sl_bar_visitors_informer_stalker_gp_task_1_finish">
+		<text>El perнodo de validez del permiso ha expirado.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+	<!-- Barmen Find meat -->
+
+	<string id="bar_visitors_barman_stalker_trader_task_1_name">
+		<text>Buscar provisiones</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_1_text">
+		<text>Traer %s a Barman.</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_1_about">
+		<text>Tengo algunos problemas con el suministro de carne fresca. їInteresado?</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_1_fetch_about">
+		<text>La reciente caza de mutantes de Duty fue muy infructuosa. Afortunadamente, nadie muriу, pero obtuve carne. Todavнa tengo que alimentar a las personas con algo. Entonces, si quieres ganar algo de dinero, dame un %s. Estarй muy agradecido, y le informarй a Duty sobre eso.</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_1_finish">
+		<text>Bien hecho, stalker!</text>
+	</string>
+
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Barmen Find PDA -->
+
+	<string id="bar_visitors_barman_stalker_trader_task_2_name">
+		<text>Encuentra un PDA</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_2_text">
+		<text>Trae PDA a Barman.</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_2_about">
+		<text>Necesito que me traigas mi PDA de mi escondite.</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_2_finish">
+		<text>ЎExcelente! Aquн estб tu recompensa.</text>
+	</string>
+
+
+
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Petrenko (Duty Trader) Defend Rostok Task -->
+
+	<string id="bar_dolg_general_petrenko_stalker_task_1_name">
+		<text>Defender Rostok</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_1_text">
+		<text>Las fuerzas hostiles estбn invadiendo la base Duty en Rostok. El general Petrenko le ha pedido que elimine la amenaza.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_1_about">
+		<text>Me informaron que las fuerzas enemigas estбn avanzando en nuestra ubicaciуn. Necesito que los detengas antes de que lleguen aquн.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_1_finish">
+		<text>Excelente trabajo. Eres un buen guerrero.</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_2_name">
+		<text>Recuperar el territorio de servicio</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_2_text">
+		<text>Se te ha encomendado recuperar el territorio por deber. Informe al general Petrenko despuйs de terminar el trabajo.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_2_about">
+		<text>Tengo una misiуn importante disponible. El enemigo ha tomado uno de nuestros campamentos y necesito un especialista para recuperarlo.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_2_finish">
+		<text>La tarea estб hecha? Buen trabajo.</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_3_name">
+		<text>Asesinar a VIP para Petrenko</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_3_text">
+		<text>El general Petrenko le ha ordenado que busque y elimine un objetivo.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_3_about">
+		<text>Tengo una lista de VIP que necesitan... cuidados. Algunos son informantes, miembros de alto rango de la Libertad, lнderes de escuadrones, tбcticos o simplemente escoria. Extrae informaciуn si puedes, de lo contrario mata a primera vista.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_3_finish">
+		<text>ЎEstupendo! Nos haces sentir orgullosos Esto es lo que prometн.</text>
+	</string>
+	
+	<string id="bar_dolg_general_petrenko_stalker_task_4_name">
+		<text>Destruye la guarida del mutante</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_4_text">
+		<text>El coronel Petrenko me ordenу que limpiara la zona.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_4_about">
+		<text>Algunos mutantes se han convertido en una nueva guarida no muy lejos de aquн. Los Stalkers caminan por esa бrea todo el tiempo. No podemos permitir que ningъn pseudo-perro muerda a ningъn reciйn llegado. Su tarea serб limpiar el бrea y asegurar el camino hacia la barra.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_4_finish">
+		<text>ЎBien hecho! Aquн estб tu recompensa.</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_5_name">
+		<text>Salva al Stalker</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_5_text">
+		<text>Recibн una orden para salvar al Stalker perdido.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_5_about">
+		<text>Hace unos dнas, un Stalker local desapareciу. Los hombres dicen que simplemente fue a cazar y nunca regresу. No puedo organizar una operaciуn de rescate a gran escala para una persona, pero este caso no se puede dejar solo.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_5_finish">
+		<text>ЎBuen trabajo! Eres un hйroe! Aquн estб tu recompensa.</text>
+	</string>
+
+	<!-- bar_visitors_stalker_mechanic -->
+	<string id="bar_visitors_stalker_mechanic_task_1_name">
+		<text>Encuentra %s para Mangun</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_text">
+		<text>%s son requeridos por Mangun para instalar actualizaciones de equipos bбsicos, debes devolvйrselos si encuentras alguno.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_about">
+		<text>Realmente puedo usar un buen conjunto de herramientas, stalker... y tal vez algo de dinero. Si estб interesado en ayudarme, le dirй lo que estoy buscando.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_fetch_about">
+		<text>Necesito un conjunto de herramientas bбsicas. Debe contener lo que necesito. Si puede traer algo para mн, le estarй agradecido, incluso le ofrecerй un descuento de aquн en adelante.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_fetch_finish">
+		<text>Genial amigo... uh, lo siento, no puedo pagarte. Sin embargo, te darй un buen descuento, amigo.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_name">
+		<text>Encuentra %s para Mangun</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_text">
+		<text>%s son requeridos por Mangun para instalar actualizaciones avanzadas de equipos, deberнas devolvйrselos si encuentras alguno.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_about">
+		<text>Oye, amigo, si encuentras algunas herramientas mбs avanzadas, te darй un descuento. їMe vigilarбs?</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_fetch_about">
+		<text>Necesito un conjunto de herramientas avanzadas. Debe contener lo que necesito. Si puede traer algo para mн, le estarй agradecido, incluso le ofrecerй un descuento de aquн en adelante.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_fetch_finish">
+		<text>ЎBien bien! Ahora quizбs pueda ganar un maldito dinero. Voy a ser GRANDE, stalker... si solo puedo hacer mi acto juntos. No tengo mucho que ofrecerte aparte de un descuento. Lo siento, amigo</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_3_name">
+		<text>Encuentra %s para Mangun</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_3_text">
+		<text>%s son requeridos por Mangun para instalar actualizaciones de equipos expertos, deberнas devolvйrselos si encuentras alguno.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_3_about">
+		<text>Oye, amigo, si encuentras algunas herramientas mбs avanzadas, te darй un descuento. їMe vigilarбs?</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_3_fetch_about">
+		<text>Necesito un conjunto de herramientas expertas. Debe contener lo que necesito. Si puede traer algo para mн, le estarй agradecido, incluso le ofrecerй un descuento de aquн en adelante.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_3_fetch_finish">
+		<text>ЎBien bien! Ahora quizбs pueda ganar un maldito dinero. Voy a ser GRANDE, stalker... si solo puedo hacer mi acto juntos. No tengo mucho que ofrecerte aparte de un descuento. Lo siento, amigo</text>
+	</string>
+</string_table>
