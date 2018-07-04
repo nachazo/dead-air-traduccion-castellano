@@ -2155,7 +2155,7 @@
 		<text>Maldición... ¡%s! El otro día recibí esto por el triple del precio de un comerciante.</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_5">
-		<text>¡%s! ¡Finalmente! Hora de curarme.</text>
+		<text>¡%s! ¡Por fín! Hora de curarme.</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_6">
 		<text>Encontrado un %s. ¿Debería venderlo? O simplemente quedármelo...?</text>
@@ -2177,7 +2177,7 @@
 		<text>¡Maldición... %s! El otro día recibí esto por el triple del precio de un comerciante.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_4">
-		<text>¡%s! ¡Finalmente! Hora de comer</text>
+		<text>¡%s! ¡Por fín! Hora de comer</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_5">
 		<text>¡Oh! ¡Encontré algunos %s! Justo a tiempo.</text>
@@ -2203,7 +2203,7 @@
 		<text>¿Alguien sabe la tarifa actual para un %s?</text>
 	</string>
 	<string id="st_dyn_news_gossip_arte_3">
-		<text>¡Un %s! ¡Quizás finalmente pueda retirarme!</text>
+		<text>¡Un %s! ¡Quizás por fín pueda retirarme!</text>
 	</string>
 	<string id="st_dyn_news_gossip_arte_4">
 		<text>Sajarov querrá poner sus manos en este %s!</text>
@@ -2488,7 +2488,7 @@
 		<text>Me mantendría alejado si fuera tú.</text>
 	</string>
 	<string id="st_dyn_news_builder_ending_13">
-		<text>¿Alguien quiere verlo?</text>
+		<text>¿Alguien quiere ir a ver?</text>
 	</string>
 	<string id="st_dyn_news_builder_ending_14">
 		<text>Mierda, deberíamos salir de este lugar.</text>

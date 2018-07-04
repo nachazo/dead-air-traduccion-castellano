@@ -85,7 +85,7 @@
 		<text>mSv/sec</text>
 	</string>
 	<string id="st_microg">
-		<text>?g de adren.</text>
+		<text>µg de adren.</text>
 	</string>
 	<string id="st_microg_sec">
 		<text>µg de adren./sec</text>

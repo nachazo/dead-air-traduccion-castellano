@@ -500,16 +500,16 @@
 		<text>No necesitas descansar</text>
 	</string>
 	<string id="st_sleep_awake_wired">
-		<text>Usted tiene mucha cafeína y no puede descansar</text>
+		<text>Tienes mucha cafeína y no puedes descansar</text>
 	</string>
 	<string id="st_sleep_bleeding">
 		<text>Estás sangrando; buscar atención médica</text>
 	</string>
 	<string id="st_sleep_bleeding_irradiated">
-		<text>Estás sangrando e irradiando; buscar atención médica</text>
+		<text>Estás sangrando e irradiando; busca atención médica</text>
 	</string>
 	<string id="st_sleep_deprived">
-		<text>Usted fue asesinado mientras estaba inconsciente</text>
+		<text>Fuiste asesinado mientras estabas inconsciente</text>
 	</string>
 	<string id="st_sleep_event">
 		<text>No estás lo suficientemente loco como para descansar durante este</text>
@@ -532,7 +532,7 @@
 		<text>Ya has puesto un stash en alguna parte</text>
 	</string>
 	<string id="st_stash_unsafe">
-		<text>Stash no puede ser colocado aquí</text>
+		<text>El stash no puede ser colocado aquí</text>
 	</string>
 
 
@@ -552,13 +552,13 @@
 		<text>Posición no en el mapa de AI</text>
 	</string>
 	<string id="st_lamp_disconnected">
-		<text>Lámpara principal desconectada de UPD</text>
+		<text>Linterna principal desconectada de UPD</text>
 	</string>
 	<string id="st_lamp_equipped">
-		<text>Lámpara de cabeza equipada</text>
+		<text>Linterna de cabeza equipada</text>
 	</string>
 	<string id="st_level_changer_descr">
-		<text>Pasar al siguiente nivel?</text>
+		<text>¿Pasar al siguiente nivel?</text>
 	</string>
 	<string id="st_travel_already_here">
 		<text>Ya estás en tu destino</text>

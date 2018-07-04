@@ -326,7 +326,7 @@
 
 	<!-- ACTOR:  Leaves npc: -->
 	<string id="st_drx_sl_change_factions_actor_exit">
-		<text>Bueno.</text>
+		<text>Vale.</text>
 	</string>
 
 <!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
@@ -348,7 +348,7 @@
 
 	<!-- ACTOR: Leaves npc: -->
 	<string id="st_accept_army_permission_task_exit">
-		<text>Bueno.</text>
+		<text>Vale.</text>
 	</string>
 
 
@@ -409,7 +409,7 @@
 		<text>No importa.</text>
 	</string>
 	<string id="dm_universal_actor_agree">
-		<text>Bueno.</text>
+		<text>Vale.</text>
 	</string>
 	<string id="dm_universal_actor_exit_thanks">
 		<text>Gracias.</text>
@@ -1592,7 +1592,7 @@
 		<text>Estamos persiguiendo a un zombie. Cáscaras vacías de una vez grandes stalkeres. Pobres infelices...</text>
 	</string>
 	<string id="dm_traveler_travel_cost">
-		<text>Bueno. Te costará</text>
+		<text>Vale. Te costará</text>
 	</string>
 	<string id="dm_traveler_actor_dont_go_with_squad">
 		<text>He cambiado de opinion.</text>

@@ -19,7 +19,7 @@
 		<text>Cuerpo de búsqueda ($$ACTION_USE$$)</text>
 	</string>
 	<string id="dead_character_use_or_drag">
-		<text>Cuerpo de búsqueda ($$ACTION_USE$$) \nCuerpo de arrastre (SHIFT +$$ACTION_USE$$)</text>
+		<text>Buscar en cuerpo ($$ACTION_USE$$) \nArrastrar cuerpo (SHIFT +$$ACTION_USE$$)</text>
 	</string>
 	<string id="general_complete_task">
 		<text>Misión cumplida:</text>
@@ -49,13 +49,13 @@
 		<text>Misión actualizada:</text>
 	</string>
 	<string id="gun_jammed">
-		<text>Tu arma se ha atascado Vuelve a recargarla.</text>
+		<text>Tu arma se ha atascado. Vuelve a recargarla.</text>
 	</string>
 	<string id="inventory_box_use">
-		<text>Cuadro de búsqueda ($$ACTION_USE$$)</text>
+		<text>Buscar en contenedor ($$ACTION_USE$$)</text>
 	</string>
 	<string id="inventory_item_use">
-		<text>Elemento de recogida ($$ACTION_USE$$)</text>
+		<text>Recoger elemento ($$ACTION_USE$$)</text>
 	</string>
 	<string id="jup_b10_ufo_searching_tips">
 		<text>Buscar avión ($$ACTION_USE$$)</text>
@@ -76,7 +76,7 @@
 		<text>Ingrese el código ($$ACTION_USE$$)</text>
 	</string>
 	<string id="jup_b206_use_plant">
-		<text>Tomar planta ($$ACTION_USE$$)</text>
+		<text>Coger planta ($$ACTION_USE$$)</text>
 	</string>
 	<string id="jup_b209_scanner_place_tips">
 		<text>Configurar el escáner ($$ACTION_USE$$)</text>
@@ -259,7 +259,7 @@
 		<text>¡Advertencia! ¡Peligro químico!</text>
 	</string>
 	<string id="zat_b57_vintil_press">
-		<text>Gire la válvula ($$ACTION_USE$$)</text>
+		<text>Gira la válvula ($$ACTION_USE$$)</text>
 	</string>
 	<string id="zat_b33_car_searching_tip">
 		<text>Buscar coche ($$ACTION_USE$$)</text>
@@ -288,7 +288,7 @@
 
 	<!-- Call of Chernobyl -->
 	<string id="bar_arena_actor_afraid">
-		<text>¡La pelea está apagada! ¡El retador se calló y no salió a pelear!</text>
+		<text>¡La pelea se terminó! ¡El duelista se cagó y no ha salido a pelear!</text>
 	</string>
 	<string id="bar_arena_fight_10">
 		<text>¡Han pasado 10 segundos!</text>
@@ -369,7 +369,7 @@
 		<text>Estimado colega, le puedo recordar que a partir de mañana asistirá al contenedor en la sala del laboratorio central. Debe inspeccionar los contenedores cada dos horas. Informar todo directamente a mí. El código para la sala del laboratorio central es 9524. Jefe del laboratorio X18, Piotr Ilyitch Kalugin.</text>
 	</string>
 	<string id="st_lx18_pda">
-		<text>Escuche la grabación de PDA</text>
+		<text>Escucha la grabación de PDA</text>
 	</string>
 	<string id="st_make_a_wish">
 		<text>Pide un deseo ($$ACTION_USE$$)</text>
@@ -381,7 +381,7 @@
 		<text>Nada útil</text>
 	</string>
 	<string id="st_screen_field_dress">
-		<text>Vestido de campo ($$ACTION_USE$$)</text>
+		<text>Despellejar ($$ACTION_USE$$)</text>
 	</string>
 	<string id="st_screen_kick">
 		<text>Patada</text>
@@ -416,7 +416,7 @@
 
 	<!-- Dead Air -->
 	<string id="st_light_switch">
-		<text>Use ($$ACTION_USE$$)</text>
+		<text>Usar ($$ACTION_USE$$)</text>
 	</string>
 	<string id="st_chemical_danger">
 		<text>Nivel peligroso de contaminación química.</text>

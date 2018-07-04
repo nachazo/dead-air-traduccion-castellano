@@ -208,7 +208,7 @@
 		<text>¡Estupendo! Aquí está el efectivo.</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_after_surge">
-		<text>Stalkers, la emisión finalmente ha terminado. Espero que estéis de una sola pieza.</text>
+		<text>Stalkers, la emisión por fín ha terminado. Espero que estéis de una sola pieza.</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_farewell_1">
 		<text>Sumérgete si surge algo interesante. Skadovsk no irá a ninguna parte, eso seguro...</text>
@@ -655,7 +655,7 @@
 		<text>Tómalos abajo, muchachos!</text>
 	</string>
 	<string id="zat_b52_port_bandits_after_pay_snd_1">
-		<text>Bueno. Ahora lárgate de aquí, ¡antes de que cambie de opinión!</text>
+		<text>Vale. Ahora lárgate de aquí, ¡antes de que cambie de opinión!</text>
 	</string>
 	<string id="zat_b52_port_bandits_after_pay_snd_2">
 		<text>¿Todavía estás aquí? No soy un hombre paciente, sabes...</text>
@@ -1855,7 +1855,7 @@
 		<text>¡Sígueme!</text>
 	</string>
 	<string id="pri_a15_army_go_with_me">
-		<text>Bueno. Sígueme.</text>
+		<text>Vale. Sígueme.</text>
 	</string>
 	<string id="pri_a15_army_hide_weapon">
 		<text>¡Pon tus armas en el suelo, ahora!</text>
@@ -2206,10 +2206,10 @@
 		<text>Coronel, ¿por qué bajaron las comunicaciones?</text>
 	</string>
 	<string id="pri_a28_center_to_colonel_2">
-		<text>Bueno. Está bien, escuchen, operación. El USS está asumiendo el control de Fairway. ¿Está el mayor Degtyarev allí?</text>
+		<text>Vale. Está bien, escuchen, operación. El USS está asumiendo el control de Fairway. ¿Está el mayor Degtyarev allí?</text>
 	</string>
 	<string id="pri_a28_center_to_colonel_3">
-		<text>Bueno. Él está al mando a partir de ahora. Dile que se quede quieto. Él será contactado por un superior en breve.</text>
+		<text>Vale. Él está al mando a partir de ahora. Dile que se quede quieto. Él será contactado por un superior en breve.</text>
 	</string>
 	<string id="pri_a28_colonel_about_heli">
 		<text>¡Mira eso! Los hijos de puta en realidad lo hicieron... Tenías razón, Strelok.</text>
@@ -2595,10 +2595,10 @@
 		<text>De acuerdo, adios.</text>
 	</string>
 	<string id="esc_mech_meet_bye_2">
-		<text>¿Entonces eres 1? Finalmente.</text>
+		<text>¿Entonces eres el número uno? Por fín.</text>
 	</string>
 	<string id="esc_mech_meet_bye_3">
-		<text>Finalmente, me dejas en paz. Me trae felicidad.</text>
+		<text>Por fín, me dejas en paz. Eso me da felicidad.</text>
 	</string>
 	<string id="esc_nimble_greeting_1">
 		<text>Hola stalker. ¿Pensando en hacer un pedido?</text>

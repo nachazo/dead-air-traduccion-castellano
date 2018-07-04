@@ -107,7 +107,7 @@
 		<text>Vamos a tener una cena de celebración pronto. Algún gourmet local (no señalaré los dedos) está especialmente feliz de probar mi plato de autor con una salsa especial, que es su propio jugo con mayonesa. Solo de pensarlo me hace babear. Necesito %s para eso. ¿Me lo traerás? Te lo debo.</text>
 	</string>
 	<string id="simulation_task_3_fetch_finish">
-		<text>Sí, finalmente tendremos una cena normal! ¡Gracias, stalker!</text>
+		<text>Sí, ¡por fín tendremos una cena normal! ¡Gracias, stalker!</text>
 	</string>
 
 
@@ -125,7 +125,7 @@
 		<text>¿Tienes suerte de encontrar cosas? ¿Podrías ayudarme? Si encuentra %s artefacto, hágamelo saber. Mis hijos y yo estábamos buscándolo, pero no podemos encontrarlo. No te preocupes por la recompensa, te pagaré bien.</text>
 	</string>
 	<string id="simulation_task_4_fetch_finish">
-		<text>¡Al final! Bueno, espero que todo salga bien, gracias. Aquí está tu parte.</text>
+		<text>¡Por fín! Bueno, espero que todo salga bien, gracias. Aquí está tu parte.</text>
 	</string>
 
 	<!-- FIND WEAPON FOR STALKER TASK -->
@@ -236,7 +236,7 @@
 		<text>Sí, ¡ayúdame, hermano! Algún bastardo ha puesto precio a mi cabeza. Cuídalo por mí y te pagaré el doble de la recompensa que él tiene conmigo.</text>
 	</string>
 	<string id="simulation_task_11_finish">
-		<text>Oh, gracias stalker! Aquí está su pago. ¡Finalmente puedo dormir por primera vez en días!</text>
+		<text>Oh, gracias stalker! Aquí está su pago. ¡Por fín puedo dormir por primera vez en días!</text>
 	</string>
 
 
