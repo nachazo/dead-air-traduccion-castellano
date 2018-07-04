@@ -3,7 +3,7 @@
 <!--===========================================================
 <
 < TEXT  STRINGS FOR DIALOGS
-<	CoC 1.4.21 - DoctorX Questlines 1.20
+<	CoC 14.21 - DoctorX Questlines 1.20
 <
 <	Modified by: DoctorX
 <	Last revised: December 21, 2016
@@ -267,7 +267,7 @@
 
 	<!-- SULTAN STORYLINE START GAME 1 END GAME 1 TEXT: -->
 	<string id="drx_sl_zat_b7_bandit_boss_sultan_start_game_1_endgame_1">
-		<text>¿Wadda quieres? .. * hic *... Oh, itz you .. * hic * .. Te conozco. Oye, ¿has hecho lo que quería que hicieras? Ahhh, sabía que no me decepcionarías amigo, siempre eres amigo... * hic *... Aquí, únete a mí en una bebida... inna... ¿dónde está mi botella? .. * hic *... ¡Es una celelegrinación! ¡Yo voy a estar loco! .. * hic *</text>
+		<text>¿Wadda quieres?.. * hic *... Oh, itz you.. * hic *.. Te conozco. Oye, ¿has hecho lo que quería que hicieras? Ahhh, sabía que no me decepcionarías amigo, siempre eres amigo... * hic *... Aquí, únete a mí en una bebida... inna... ¿dónde está mi botella?.. * hic *... ¡Es una celelegrinación! ¡Yo voy a estar loco!.. * hic *</text>
 	</string>
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
@@ -780,7 +780,7 @@
 
 	<!-- Information -->
 	<string id="dm_information_general_1">
-		<text>¿Qué hay de nuevo en La Zona?</text>
+		<text>¿Qué novedades hay en la Zona?</text>
 	</string>
 	<string id="dm_information_general_2">
 		<text>¿Sabes lo que está pasando por aquí?</text>
@@ -1214,7 +1214,7 @@
 		<text>¿Has intentado contactar al exterior desde aquí? No es posible, los teléfonos celulares se congelarán en su mano tan pronto como marque el número. La Zona quiere proteger sus secretos, supongo. 3G, GPS, todas las ondas de radio se mezclan cuando se dirigen de adentro hacia afuera o al revés. Incluso los cables por el amor de Dios, también se fríen. No tiene ningún sentido. Las poderosas radios de grado militar logran mantener el contacto por unos momentos antes de que se apaguen para siempre. Este lugar es un desierto tranquilo, y seguramente seguirá así.</text>
 	</string>
 	<string id="dm_information_141">
-		<text>Durante la ruptura de la noosfera hace un tiempo, cuando la Zona se convirtió en la Zona, algo bastante extraño sucedió con algunos circuitos eléctricos. Por razones desconocidas para la ciencia, la resistencia de algunos circuitos se ha reducido a casi 1,5 ° ? m, que es un rango que normalmente solo está presente en los superconductores más potentes, los que están superconectados. Esto ha hecho que esos circuitos funcionen prácticamente durante años sin ningún voltaje aplicado, ya que los electrones se mueven a través de ellos en bucles sin fin sin perder energía. Como resultado, algunos circuitos se volvieron autosuficientes y perfectamente conservados a través de los años, pudiendo impulsar cualquier equipo que estuviera enchufado en ellos en el momento de esta emisión masiva. Por otro lado, algunos circuitos fueron completamente apagados, y los nuevos circuitos a veces ni siquiera funcionan en absoluto aquí. Esto plantea un problema para los científicos, especialmente porque tienen que sellar magnéticamente sus complejos mecanismos, lo que requiere mucho esfuerzo, tiempo y es bastante costoso. Si este no fuera el caso, apuesto a que verías a muchos más científicos que Stalkers en la Zona.</text>
+		<text>Durante la ruptura de la noosfera hace un tiempo, cuando la Zona se convirtió en la Zona, algo bastante extraño sucedió con algunos circuitos eléctricos. Por razones desconocidas para la ciencia, la resistencia de algunos circuitos se ha reducido a casi 1,5 °? m, que es un rango que normalmente solo está presente en los superconductores más potentes, los que están superconectados. Esto ha hecho que esos circuitos funcionen prácticamente durante años sin ningún voltaje aplicado, ya que los electrones se mueven a través de ellos en bucles sin fin sin perder energía. Como resultado, algunos circuitos se volvieron autosuficientes y perfectamente conservados a través de los años, pudiendo impulsar cualquier equipo que estuviera enchufado en ellos en el momento de esta emisión masiva. Por otro lado, algunos circuitos fueron completamente apagados, y los nuevos circuitos a veces ni siquiera funcionan en absoluto aquí. Esto plantea un problema para los científicos, especialmente porque tienen que sellar magnéticamente sus complejos mecanismos, lo que requiere mucho esfuerzo, tiempo y es bastante costoso. Si este no fuera el caso, apuesto a que verías a muchos más científicos que Stalkers en la Zona.</text>
 	</string>
 	<string id="dm_information_142">
 		<text>No quieres desmayarte o dejar de moverte ni por un segundo. Si lo haces, eres carne muerta. Ningún Stalker, un tipo bueno o un tipo malo, te ayudará si no puedes cuidarte. Si te disparan, incluso si tienes tu chaleco antibalas, esa perra te duele como un hijo de puta. Unos cuantos golpes más y estarás luchando para mantenerte consciente del dolor. No dejes que eso suceda. Ahí es cuando las cosas terminan para ti. Estaba este aspirante a Stalker, este novato que acaba de salir de la caja, todavía lleno de frijoles, pensó que si invertía en un buen chaleco, algunos platos a prueba de balas, sería imparable. Murió en algún lugar después de que se comió algunas balas en el pecho. El impacto aplastó sus costillas y las costillas pincharon sus pulmones. El dolor fue demasiado para él. Él vomitó su interior, y probablemente se deshidrató allí mismo. Encontraron su cuerpo destrozado por hambrientos perritos o algo más feo. No quiero contar la historia de cómo encontraron tu cuerpo, aight?</text>
@@ -1571,7 +1571,7 @@
 		<text>Nada. Simplemente me estoy relajando.</text>
 	</string>
 	<string id="dm_stalker_doing_nothing_3">
-		<text>Qué te parece? Estoy vagueando...</text>
+		<text>¿Qué te parece? Estoy vagueando...</text>
 	</string>
 	<string id="dm_stalker_doing_nothing_4">
 		<text>Estoy tratando de sobrevivir aquí, eso es todo.</text>
@@ -2080,7 +2080,7 @@
 
 	<!-- Tasks -->
 	<string id="st_ordered_task_query">
-		<text>¿Hay algún trabajo que quieras hacer?</text>
+		<text>¿Hay algún trabajo que quieras que haga?</text>
 	</string>
 	<string id="st_ordered_task_query_finished">
 		<text>El trabajo está hecho.</text>
@@ -2172,7 +2172,7 @@
 		<text>Tus malditos %s estarán listos en una hora y %s minutos. Estaré borracho para entonces.</text>
 	</string>
 	<string id="st_inventory_upgrade_reply_5">
-		<text>No es fácil reparar algo cuando tienes temblores... Vuelve dentro de una hora para tus %s .</text>
+		<text>No es fácil reparar algo cuando tienes temblores... Vuelve dentro de una hora para tus %s.</text>
 	</string>
 	<string id="st_inventory_upgrade_reply_6">
 		<text>Oye, stal-oh, diablos. Olvidé que estaba reparando tu equipo. Vuelve por tus %s en una hora y %s minutos.</text>

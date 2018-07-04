@@ -13,7 +13,7 @@
 		<text>Empanada</text>
 	</string>
 	<string id="lname_bandit_101">
-		<text>Espiar</text>
+		<text>Espia</text>
 	</string>
 	<string id="lname_bandit_102">
 		<text>Bisonte</text>
@@ -223,7 +223,7 @@
 		<text>Falla</text>
 	</string>
 	<string id="lname_bandit_165">
-		<text>La licenciatura</text>
+		<text>Licenciado</text>
 	</string>
 	<string id="lname_bandit_166">
 		<text>Antílope</text>
@@ -280,16 +280,16 @@
 		<text>Demonio necrófago</text>
 	</string>
 	<string id="lname_bandit_19">
-		<text>Avaro</text>
+		<text>Ávaro</text>
 	</string>
 	<string id="lname_bandit_2">
 		<text>Roto</text>
 	</string>
 	<string id="lname_bandit_20">
-		<text>Avaro</text>
+		<text>Ávaro</text>
 	</string>
 	<string id="lname_bandit_21">
-		<text>Estrabismo</text>
+		<text>Estrábico</text>
 	</string>
 	<string id="lname_bandit_22">
 		<text>Demonio</text>
@@ -325,7 +325,7 @@
 		<text>Limo</text>
 	</string>
 	<string id="lname_bandit_32">
-		<text>Mordimiento</text>
+		<text>Mordísco</text>
 	</string>
 	<string id="lname_bandit_33">
 		<text>Monóculo</text>
@@ -391,7 +391,7 @@
 		<text>Robusto</text>
 	</string>
 	<string id="lname_bandit_52">
-		<text>De maniático</text>
+		<text>Maniático</text>
 	</string>
 	<string id="lname_bandit_53">
 		<text>Conocedor</text>
@@ -493,7 +493,7 @@
 		<text>Maníaco</text>
 	</string>
 	<string id="lname_bandit_83">
-		<text>enterrador</text>
+		<text>Enterrador</text>
 	</string>
 	<string id="lname_bandit_84">
 		<text>Carnicero</text>
@@ -3154,7 +3154,7 @@
 		<text>Robusto</text>
 	</string>
 	<string id="lname_stalker_134">
-		<text>Estudiante de segundo año</text>
+		<text>Sophomore</text>
 	</string>
 	<string id="lname_stalker_135">
 		<text>Nativo</text>
@@ -3202,7 +3202,7 @@
 		<text>Heterodoxo</text>
 	</string>
 	<string id="lname_stalker_149">
-		<text>Persona que practica jogging</text>
+		<text>Jogging</text>
 	</string>
 	<string id="lname_stalker_15">
 		<text>Atleta</text>
@@ -3241,7 +3241,7 @@
 		<text>Zinger</text>
 	</string>
 	<string id="lname_stalker_160">
-		<text>Witcher</text>
+		<text>Mago</text>
 	</string>
 	<string id="lname_stalker_161">
 		<text>Visitante</text>
@@ -3337,7 +3337,7 @@
 		<text>Guardián</text>
 	</string>
 	<string id="lname_stalker_19">
-		<text>Obrero temporal</text>
+		<text>Hobo</text>
 	</string>
 	<string id="lname_stalker_190">
 		<text>Consejero</text>
@@ -3370,16 +3370,16 @@
 		<text>Duque</text>
 	</string>
 	<string id="lname_stalker_2">
-		<text>rojo</text>
+		<text>Rojo</text>
 	</string>
 	<string id="lname_stalker_20">
 		<text>Afeitado</text>
 	</string>
 	<string id="lname_stalker_200">
-		<text>cosaco</text>
+		<text>Cosaco</text>
 	</string>
 	<string id="lname_stalker_201">
-		<text>cocinar</text>
+		<text>Cocinero</text>
 	</string>
 	<string id="lname_stalker_202">
 		<text>Brujo</text>
@@ -3400,7 +3400,7 @@
 		<text>Fumador</text>
 	</string>
 	<string id="lname_stalker_208">
-		<text>mensajero</text>
+		<text>Mensajero</text>
 	</string>
 	<string id="lname_stalker_209">
 		<text>Entrenador</text>
@@ -3430,7 +3430,7 @@
 		<text>Maníaco</text>
 	</string>
 	<string id="lname_stalker_217">
-		<text>marciano</text>
+		<text>Marciano</text>
 	</string>
 	<string id="lname_stalker_218">
 		<text>Masón</text>
@@ -3442,7 +3442,7 @@
 		<text>Bigtime</text>
 	</string>
 	<string id="lname_stalker_220">
-		<text>enterrador</text>
+		<text>Enterrador</text>
 	</string>
 	<string id="lname_stalker_221">
 		<text>Moderador</text>
@@ -3487,7 +3487,7 @@
 		<text>Punk</text>
 	</string>
 	<string id="lname_stalker_234">
-		<text>papi</text>
+		<text>Papi</text>
 	</string>
 	<string id="lname_stalker_235">
 		<text>Guerrilla</text>
@@ -3514,7 +3514,7 @@
 		<text>Transportador</text>
 	</string>
 	<string id="lname_stalker_242">
-		<text>Silbar</text>
+		<text>Silbido</text>
 	</string>
 	<string id="lname_stalker_243">
 		<text>Piloto</text>
@@ -3658,7 +3658,7 @@
 		<text>Chulo</text>
 	</string>
 	<string id="lname_stalker_286">
-		<text>Contador de frijol</text>
+		<text>Contador de judías</text>
 	</string>
 	<string id="lname_stalker_287">
 		<text>Soldado</text>
@@ -3742,7 +3742,7 @@
 		<text>Jorobado</text>
 	</string>
 	<string id="lname_stalker_310">
-		<text>Espiar</text>
+		<text>Espia</text>
 	</string>
 	<string id="lname_stalker_311">
 		<text>Electricista</text>
@@ -3811,7 +3811,7 @@
 		<text>Manul</text>
 	</string>
 	<string id="lname_stalker_331">
-		<text>ganso</text>
+		<text>Ganso</text>
 	</string>
 	<string id="lname_stalker_332">
 		<text>Delfín</text>
@@ -3832,7 +3832,7 @@
 		<text>Escarabajo</text>
 	</string>
 	<string id="lname_stalker_338">
-		<text>liebre</text>
+		<text>Liebre</text>
 	</string>
 	<string id="lname_stalker_339">
 		<text>Bestia</text>
@@ -3925,7 +3925,7 @@
 		<text>Pitón</text>
 	</string>
 	<string id="lname_stalker_366">
-		<text>liebre</text>
+		<text>Liebre</text>
 	</string>
 	<string id="lname_stalker_367">
 		<text>Búho</text>
@@ -4060,7 +4060,7 @@
 		<text>Ataúd</text>
 	</string>
 	<string id="lname_stalker_406">
-		<text>Hora de verano</text>
+		<text>Verano</text>
 	</string>
 	<string id="lname_stalker_407">
 		<text>Motor</text>
@@ -4102,7 +4102,7 @@
 		<text>Ladrillo</text>
 	</string>
 	<string id="lname_stalker_419">
-		<text>pegamento</text>
+		<text>Pegamento</text>
 	</string>
 	<string id="lname_stalker_42">
 		<text>Meany</text>
@@ -4291,7 +4291,7 @@
 		<text>Cincel</text>
 	</string>
 	<string id="lname_stalker_476">
-		<text>junio</text>
+		<text>Junio</text>
 	</string>
 	<string id="lname_stalker_477">
 		<text>Ajo</text>
@@ -4369,7 +4369,7 @@
 		<text>Moretón</text>
 	</string>
 	<string id="lname_stalker_5">
-		<text>gris</text>
+		<text>Gris</text>
 	</string>
 	<string id="lname_stalker_50">
 		<text>Avaro</text>
@@ -4531,7 +4531,7 @@
 		<text>Buffer</text>
 	</string>
 	<string id="lname_stalker_548">
-		<text>Bola de masa hervida</text>
+		<text>Dumpling</text>
 	</string>
 	<string id="lname_stalker_549">
 		<text>Whist</text>
@@ -4552,10 +4552,10 @@
 		<text>Batería</text>
 	</string>
 	<string id="lname_stalker_554">
-		<text>montañés</text>
+		<text>Montañés</text>
 	</string>
 	<string id="lname_stalker_555">
-		<text>La licenciatura</text>
+		<text>Licenciado</text>
 	</string>
 	<string id="lname_stalker_556">
 		<text>Duendecillo</text>
@@ -4639,7 +4639,7 @@
 		<text>Lisiado</text>
 	</string>
 	<string id="lname_stalker_580">
-		<text>PI.</text>
+		<text>P.I.</text>
 	</string>
 	<string id="lname_stalker_581">
 		<text>Ravioles</text>
@@ -4681,7 +4681,7 @@
 		<text>Tabaco</text>
 	</string>
 	<string id="lname_stalker_593">
-		<text>Parte de horas</text>
+		<text>Timesheet</text>
 	</string>
 	<string id="lname_stalker_594">
 		<text>As</text>
@@ -4702,7 +4702,7 @@
 		<text>Truco</text>
 	</string>
 	<string id="lname_stalker_6">
-		<text>gris</text>
+		<text>Gris</text>
 	</string>
 	<string id="lname_stalker_60">
 		<text>Pateador</text>
@@ -5438,7 +5438,7 @@
 		<text>Comerciante</text>
 	</string>
 	<string id="lname_bandit_trader_1">
-		<text>Traficante en dinero</text>
+		<text>Traficante de dinero</text>
 	</string>
 	<string id="lname_bandit_trader_2">
 		<text>Comerciante</text>
@@ -5453,7 +5453,7 @@
 		<text>Especulativo</text>
 	</string>
 	<string id="lname_bandit_trader_6">
-		<text>Comercio</text>
+		<text>Comerciante</text>
 	</string>
 	<string id="lname_bandit_trader_7">
 		<text>Barterer</text>

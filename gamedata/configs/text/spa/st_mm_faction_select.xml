@@ -92,7 +92,7 @@
 	<string id="st_mm_ck_azazel_mode_desc">
 		<text>%c[0,245,245,220]En el modo Azazel, la muerte no es el final. \n
    \nComo el demonio Azazel, poseerás un nuevo cuerpo cuando mueras; tomando la forma de otro acechador aleatorio que existe en la Zona. \n
-   \nSi tiene compañeros, se convertirá en uno de ellos. Esta función complementa muy bien los modos Ironman y / o Survival.\n
+   \nSi tiene compañeros, se convertirá en uno de ellos. Esta función complementa muy bien los modos Ironman y/o Survival.\n
    \nNo es compatible con el modo Historia.</text>
 	</string>
 	<string id="st_mm_ck_laststand_desc">

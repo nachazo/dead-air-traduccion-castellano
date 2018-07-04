@@ -85,7 +85,7 @@
 		<text>Avanzado</text>
 	</string>
 	<string id="ui_mm_alternative">
-		<text>Alternativa</text>
+		<text>Alternativo</text>
 	</string>
 	<string id="ui_mm_anisotropic">
 		<text>Anisótropo</text>
@@ -121,7 +121,7 @@
 		<text>Créditos</text>
 	</string>
 	<string id="ui_mm_default">
-		<text>Defecto</text>
+		<text>Por defecto</text>
 	</string>
 	<string id="ui_mm_delete">
 		<text>Borrar</text>
@@ -166,7 +166,7 @@
 		<text>Detalle del objeto</text>
 	</string>
 	<string id="ui_mm_invert_mouse">
-		<text>Invertir el ratón</text>
+		<text>Invertir ratón</text>
 	</string>
 	<string id="ui_mm_aim_toggle">
 		<text>Alternar apuntado</text>
@@ -187,10 +187,10 @@
 		<text>Distancia iluminación</text>
 	</string>
 	<string id="ui_mm_load">
-		<text>Carga</text>
+		<text>Cargar</text>
 	</string>
 	<string id="ui_mm_load_game">
-		<text>Cargar juego</text>
+		<text>Cargar partida</text>
 	</string>
 	<string id="ui_mm_logout">
 		<text>Salir del perfil</text>
@@ -217,7 +217,7 @@
 		<text>Multijugador</text>
 	</string>
 	<string id="ui_mm_music_volume">
-		<text>Volumen de la música</text>
+		<text>Volumen música</text>
 	</string>
 	<string id="ui_mm_need_restart">
 		<text>Los cambios solo tendrán efecto después de reiniciar el juego</text>
@@ -226,7 +226,7 @@
 		<text>Multijugador</text>
 	</string>
 	<string id="ui_mm_newgame">
-		<text>Nuevo juego</text>
+		<text>Nueva partida</text>
 	</string>
 	<string id="ui_mm_novice">
 		<text>Fácil</text>
@@ -241,13 +241,13 @@
 		<text>Opciones</text>
 	</string>
 	<string id="ui_mm_weather_options">
-		<text>Opciones de clima</text>
+		<text>Opciones del clima</text>
 	</string>
 	<string id="ui_mm_particles_distance">
 		<text>Distancia de partículas</text>
 	</string>
 	<string id="ui_mm_quality_presets">
-		<text>Ajustes de calidad</text>
+		<text>Ajustes calidad</text>
 	</string>
 	<string id="ui_mm_quit2windows">
 		<text>Salir a escritorio</text>
@@ -304,7 +304,7 @@
 		<text>Render 2</text>
 	</string>
 	<string id="ui_mm_renderer">
-		<text>Tipo de renderizado</text>
+		<text>Renderizado</text>
 	</string>
 	<string id="ui_mm_resolution">
 		<text>Resolución</text>
@@ -322,10 +322,10 @@
 		<text>Azul</text>
 	</string>
 	<string id="ui_mm_vibrance">
-		<text>Vibrance</text>
+		<text>Intensidad (vibrance)</text>
 	</string>
 	<string id="ui_mm_return_game">
-		<text>Regresar al juego</text>
+		<text>Volver al juego</text>
 	</string>
 	<string id="ui_mm_save">
 		<text>Guardar</text>
@@ -412,7 +412,7 @@
 		<text>Modo SSAO</text>
 	</string>
 	<string id="ui_mm_ssao">
-		<text>Defecto</text>
+		<text>Por defecto</text>
 	</string>
 	<string id="ui_mm_hdao">
 		<text>HDAO</text>
@@ -502,7 +502,7 @@
 		<text>Interfaz: animaciones</text>
 	</string>
 	<string id="ui_mm_crouch_toggle">
-		<text>Modo agachado / parado</text>
+		<text>Modo agachado/de pie</text>
 	</string>
 	<string id="ui_mm_important_save">
 		<text>Autoguardado</text>
@@ -514,13 +514,13 @@
 		<text>Juego: patrullas de helicópteros</text>
 	</string>
 	<string id="ui_mm_only_campfire">
-		<text>Juego: fogata guarda partida</text>
+		<text>Juego: solo fogatas guardan</text>
 	</string>
 	<string id="ui_mm_use_battery">
 		<text>Juego: usar baterías</text>
 	</string>
 	<string id="ui_mm_dynamic_news">
-		<text>Juego: noticias</text>
+		<text>Juego: noticias dinámicas</text>
 	</string>
 	<string id="ui_mm_sleep_deprived">
 		<text>Juego: privación del sueño</text>
@@ -535,7 +535,7 @@
 		<text>Juego: música de radio</text>
 	</string>
 	<string id="ui_mm_heli_engine_sound">
-		<text>Juego: sonidos de helicóptero</text>
+		<text>Juego: sonidos de helicópteros</text>
 	</string>
 	<string id="ui_mm_offline_battles">
 		<text>Juego: batallas fuera de línea</text>
@@ -544,7 +544,7 @@
 		<text>Identificación de NPC</text>
 	</string>
 	<string id="ui_mm_mask_hud">
-		<text>Interfaz: casco / máscara</text>
+		<text>Interfaz: casco/máscara</text>
 	</string>
 	<string id="ui_mm_letterbox">
 		<text>Interfaz: buzón</text>
@@ -565,7 +565,7 @@
 		<text>Punto de mira dinámico</text>
 	</string>
 	<string id="ui_mm_crosshair_distance">
-		<text>Distancia objetivo punto de mira</text>
+		<text>Distancia objetivo punto mira</text>
 	</string>
 	<string id="ui_mm_show_crosshair">
 		<text>Dibujar punto de mira</text>
@@ -595,7 +595,7 @@
 		<text>Retrato por armadura</text>
 	</string>
 	<string id="ui_mm_quicksave_cnt">
-		<text>Quicksave count</text>
+		<text>Nº de salvados rápidos</text>
 	</string>
 	<string id="ui_mm_actor_hud">
 		<text>Superposición de máscara</text>

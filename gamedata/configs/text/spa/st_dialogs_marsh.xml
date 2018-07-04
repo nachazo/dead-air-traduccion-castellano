@@ -90,7 +90,7 @@
 		<text>¿Qué necesita, stalker?</text>
 	</string>
 	<string id="marsh_stalker_barmen_start_dialog_1">
-		<text>Una cara fresca! La gente de por aquí me llama bibliotecaria. Soy el cantinero local. Estaré encantado de responder cualquier pregunta que tengas. A veces publico ofertas de trabajo o escucho algunos rumores interesantes, así que vuelve a consultar con frecuencia.</text>
+		<text>Una cara fresca! La gente de por aquí me llama Bibliotecario. Soy el cantinero local. Estaré encantado de responder cualquier pregunta que tengas. A veces publico ofertas de trabajo o escucho algunos rumores interesantes, así que vuelve a consultar con frecuencia.</text>
 	</string>
 	<string id="marsh_stalker_barmen_start_dialog_2">
 		<text>Oye, stalker. ¿Que necesitas?</text>
@@ -111,7 +111,7 @@
 		<text>El nombre es Novikov, pero algunos me llaman Gray. Soy el técnico que mantiene todo funcionando, y la única persona a la que recurre un buen stalker si su tirador comienza a interferir. Solíatrabajar aquí hace mucho tiempo hasta justo antes de que Cold se hiciera cargo. Cuando todo se fue a la mierda, busqué un lugar más verde y fui contratado por los científicos cerca de Júpiter. Estuve allí por unos años, hasta que un día escuché que, de alguna manera, estos chicos salieron adelante, y tan pronto como mi contrato terminó, volví. Me tomaron sin preguntar; mis habilidades con un banco de trabajo y mis contactos dentro de los científicos eran muy necesarios. Nos pusimos a trabajar con sus chicos para poder continuar con nuestra investigación anterior. Si te gusta el trabajo, siempre están buscando guías para las anomalías locales. Habla con Spore si estás interesado.</text>
 	</string>
 	<string id="marsh_stalker_leader_background">
-		<text>¿Dónde empiezo? Me llaman frío en estas partes. Soy el líder de Clear Sky. Solíaser el viejo dispensador de bebidas aquí hace mucho tiempo hasta que le di ese honor a la bibliotecaria una vez que nos enteramos de lo que le sucedió a Lebedev, Suslov y al resto de nuestros comandantes. Luego de largas e intensas negociaciones con el último envío de vodka contrabandeado, la fuerza local decidió que yo era el más adecuado para tomar las riendas, y desde entonces me he mantenido aferrado a ellas.</text>
+		<text>¿Dónde empiezo? Me llaman frío en estas partes. Soy el líder de Clear Sky. Solíaser el viejo dispensador de bebidas aquí hace mucho tiempo hasta que le di ese honor a Bibliotecario una vez que nos enteramos de lo que le sucedió a Lebedev, Suslov y al resto de nuestros comandantes. Luego de largas e intensas negociaciones con el último envío de vodka contrabandeado, la fuerza local decidió que yo era el más adecuado para tomar las riendas, y desde entonces me he mantenido aferrado a ellas.</text>
 	</string>
 	<string id="marsh_csky_history_ask1">
 		<text>Cuéntame sobre Clear Sky.</text>

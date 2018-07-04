@@ -25,7 +25,7 @@ function opt_menu_on_init(menu)
 		menu.gameplay_options["extra_animations"]	= {default=true, 	debug_only=false, 	typ="check"}
 	end
 	-- localization
-	menu.gameplay_options["localization"] = {default="spa", debug_only=false, typ="list", list={"rus","eng","spa"}, on_accept=function(handler,optMgr,ctrl)
+	menu.gameplay_options["localization"] = {default="eng", debug_only=false, typ="list", list={"rus","eng","spa"}, on_accept=function(handler,optMgr,ctrl)
 		local language = ctrl:GetText()
 		if (language and language ~= "") then
 			local loc_ini = ini_file_ex("localization.ltx",true)

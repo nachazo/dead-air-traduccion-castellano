@@ -13,7 +13,7 @@
 		<text>Puerta abierta ($$ACTION_USE$$)</text>
 	</string>
 	<string id="character_use">
-		<text>Habla ($$ACTION_USE$$)</text>
+		<text>Hablar ($$ACTION_USE$$)</text>
 	</string>
 	<string id="dead_character_use">
 		<text>Cuerpo de búsqueda ($$ACTION_USE$$)</text>

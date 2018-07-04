@@ -412,7 +412,7 @@
 		<text>cueva peligrosa</text>
 	</string>
 	<string id="ui_st_upgrade">
-		<text>Reparar / Modificar</text>
+		<text>Reparar/Modificar</text>
 	</string>
 	<string id="ui_st_buy">
 		<text>Comprar</text>
@@ -421,7 +421,7 @@
 		<text>Vender</text>
 	</string>
 	<string id="ui_st_trade">
-		<text>Comercio</text>
+		<text>Comerciar</text>
 	</string>
 	<string id="ui_st_exit_hint">
 		<text>Cerrar ventana ($$ ACTION_USE $$)</text>
@@ -632,7 +632,7 @@
 		<text>Seleccionado</text>
 	</string>
 	<string id="ui_st_barter">
-		<text>Comercio</text>
+		<text>Comerciar</text>
 	</string>
 	<string id="ui_st_barter_hint">
 		<text>Intercambia los artículos seleccionados</text>

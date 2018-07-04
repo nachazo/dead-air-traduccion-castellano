@@ -64,7 +64,7 @@
 		<text>Mostrar el mapa y la lista de tareas</text>
 	</string>
 	<string id="pda_btn_ranking">
-		<text>Estadística</text>
+		<text>Estadísticas</text>
 	</string>
 	<string id="pda_btn_ranking_hint">
 		<text>Mostrar estadísticas personales</text>
@@ -241,7 +241,7 @@
 		<text>Almacenamiento personal</text>
 	</string>
 	<string id="filter_primary_objects_text">
-		<text>Áreas anómalas</text>
+		<text>Áreas de anomalías</text>
 	</string>
 	<string id="filter_quest_npcs_text">
 		<text>Objetos importantes</text>
@@ -418,7 +418,7 @@
 	</string>
 
 	<string id="st_mm_pda_statistics">
-		<text>Estadística</text>
+		<text>Estadísticas</text>
 	</string>
 	<string id="st_mm_pda_stalkers_killed">
 		<text>Stalkers muertos</text>

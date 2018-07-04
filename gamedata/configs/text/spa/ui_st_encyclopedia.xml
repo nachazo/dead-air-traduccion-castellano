@@ -18,11 +18,11 @@
 	</string>
 
 	<string id="pda_btn_encyclopedia_locked">
-		<text>El artículo está bloqueado</text>
+		<text>Este artículo está bloqueado</text>
 	</string>
 	
 	<string id="pda_btn_encyclopedia_text_locked">
-		<text>La información está ausente</text>
+		<text>No hay información</text>
 	</string>
 	
 </string_table>

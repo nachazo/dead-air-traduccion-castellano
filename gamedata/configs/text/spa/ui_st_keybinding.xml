@@ -7,7 +7,7 @@
 		<text>Orden para atacar</text>
 	</string>
 	<string id="kb_always_run">
-		<text>Caminar / agacharse</text>
+		<text>Caminar/agacharse</text>
 	</string>
 	<string id="kb_artefact">
 		<text>Artefacto</text>
@@ -94,10 +94,10 @@
 		<text>Izquierda</text>
 	</string>
 	<string id="kb_left_lookout">
-		<text>Magra izquierda</text>
+		<text>Inclinarse a la izquierda</text>
 	</string>
 	<string id="kb_left_strafe">
-		<text>Ametrallar a la izquierda</text>
+		<text>Desp. lateral izquierdo</text>
 	</string>
 	<string id="kb_map">
 		<text>Mapa</text>
@@ -121,7 +121,7 @@
 		<text>Salida</text>
 	</string>
 	<string id="kb_reload">
-		<text>Recargar arma / limpiar máscara</text>
+		<text>Recargar arma/limpiar máscara</text>
 	</string>
 	<string id="kb_repair">
 		<text>Reparar</text>
@@ -133,7 +133,7 @@
 		<text>Inclinarse a la derecha</text>
 	</string>
 	<string id="kb_right_strafe">
-		<text>Deslizarse a la derecha</text>
+		<text>Desp. lateral derecha</text>
 	</string>
 	<string id="kb_scores">
 		<text>Puntos</text>
@@ -199,7 +199,7 @@
 		<text>Tornillo</text>
 	</string>
 	<string id="kb_weapon7">
-		<text>Granada / binoculares</text>
+		<text>Granada/binoculares</text>
 	</string>
 	<string id="kb_wpn_next">
 		<text>Cambiar el tipo de munición</text>

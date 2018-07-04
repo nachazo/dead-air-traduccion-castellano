@@ -109,7 +109,7 @@
 		<text>Un mayor número de placas de titanio mejora considerablemente la durabilidad de la armadura corporal.</text>
 	</string>
 	<string id="st_up_arm_a1_name">
-		<text>Placas adicionales de aluminio / titanio</text>
+		<text>Placas adicionales de aluminio/titanio</text>
 	</string>
 	<string id="st_up_arm_a2_descr">
 		<text>Placas reforzadas que duran más, pero que no son más duraderas.</text>
@@ -130,7 +130,7 @@
 		<text>Componentes sólidos de titanio</text>
 	</string>
 	<string id="st_up_arm_a5_descr">
-		<text>Reemplazar el metal con fibra de carbono permite reducir el peso de la armadura corporal sin sacrificar la confiabilidad.</text>
+		<text>Reemplazar el metal con fibra de carbono permite reducir el peso de la armadura corporal sin sacrificar la fiabilidad.</text>
 	</string>
 	<string id="st_up_arm_a5_name">
 		<text>Reemplazo de componentes de armadura de cuerpo de metal con fibra de carbono</text>
@@ -193,7 +193,7 @@
 		<text>Si bien más placas no significan una mejor protección, sí garantizan una mayor durabilidad.</text>
 	</string>
 	<string id="st_up_arm_b6_name">
-		<text>Una segunda capa de respaldo</text>
+		<text>Una segunda capa de refuerzo</text>
 	</string>
 	<string id="st_up_arm_b7_descr">
 		<text>Las placas móviles protegen las articulaciones de las heridas de bala.</text>
@@ -676,7 +676,7 @@
 		<text>Al descargar el cañon, el retroceso se reduce considerablemente.</text>
 	</string>
 	<string id="st_up_barp_b5_name">
-		<text>Transferencia del compensador de cañon / reductor de flash en el marco</text>
+		<text>Transferencia del compensador de cañon/reductor de flash en el marco</text>
 	</string>
 	<string id="st_up_barp_c1_descr">
 		<text>Permite reducir el calor del cañon y aumenta la cadencia de tiro sin sacrificar la planicidad.</text>
@@ -760,7 +760,7 @@
 		<text>Inserciones protectoras de polímero</text>
 	</string>
 	<string id="st_up_kom_a7_descr">
-		<text>Body Expanse de Freedom utilizado para localizar artefactos en áreas anómalas.</text>
+		<text>Body Expanse de Freedom utilizado para localizar artefactos en áreas de anomalías.</text>
 	</string>
 	<string id="st_up_kom_a7_name">
 		<text>Body de protección anómala de la expansión</text>
@@ -1168,7 +1168,7 @@
 		<text>Sistema automático de adquisición de objetivos</text>
 	</string>
 	<string id="st_up_resp_b3_descr">
-		<text>Dispositivo basado en ondas científicas desarrollado para trabajar en áreas anómalas con emisiones psi.</text>
+		<text>Dispositivo basado en ondas científicas desarrollado para trabajar en áreas de anomalías con emisiones psi.</text>
 	</string>
 	<string id="st_up_resp_b3_name">
 		<text>Oracle psi-estimulador</text>
@@ -1408,7 +1408,7 @@
 		<text>Marco de acero sólido</text>
 	</string>
 	<string id="st_up_stvp_b1_descr">
-		<text>Un reemplazo técnico del armazón de la pistola con uno más liviano no afecta la confiabilidad del arma.</text>
+		<text>Un reemplazo técnico del armazón de la pistola con uno más liviano no afecta la fiabilidad del arma.</text>
 	</string>
 	<string id="st_up_stvp_b1_name">
 		<text>Marco de pistola de polímero</text>
@@ -1534,7 +1534,7 @@
 		<text>Bioestimulador solar</text>
 	</string>
 	<string id="st_up_tch_b4_descr">
-		<text>Dispositivo basado en ondas científicas desarrollado para trabajar en áreas anómalas con emisiones psi.</text>
+		<text>Dispositivo basado en ondas científicas desarrollado para trabajar en áreas de anomalías con emisiones psi.</text>
 	</string>
 	<string id="st_up_tch_b4_name">
 		<text>Oracle psi-estimulador</text>

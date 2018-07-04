@@ -214,13 +214,13 @@
 		<text>Soleado</text>
 	</string>
 	<string id="st_list_periods_clear_foggy">
-		<text>Soleado / Niebla</text>
+		<text>Soleado/Niebla</text>
 	</string>
 	<string id="st_list_periods_foggy">
 		<text>Brumoso</text>
 	</string>
 	<string id="st_list_periods_foggy_rainy">
-		<text>Brumoso / Lluvioso</text>
+		<text>Brumoso/Lluvioso</text>
 	</string>
 	<string id="st_list_periods_wet">
 		<text>Llovizna</text>

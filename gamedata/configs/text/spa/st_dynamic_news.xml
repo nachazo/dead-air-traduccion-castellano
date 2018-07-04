@@ -57,22 +57,22 @@
 		<text>una carne</text>
 	</string>
 	<string id="st_dyn_news_flesh_2">
-		<text>Fuimos atacados por una carne</text>
+		<text>Fuimos atacados por una Carne</text>
 	</string>
 	<string id="st_dyn_news_flesh_3">
-		<text>Nos encontramos con una carne</text>
+		<text>Nos encontramos con una Carne</text>
 	</string>
 	<string id="st_dyn_news_flesh_4">
-		<text>Fuimos apresurados por un grupo de carne</text>
+		<text>Fuimos apresurados por un grupo de Carne</text>
 	</string>
 	<string id="st_dyn_news_flesh_5">
-		<text>Fuimos atacados por un carne</text>
+		<text>Fuimos atacados por un Carne</text>
 	</string>
 	<string id="st_dyn_news_flesh_6">
-		<text>un grupo de carne</text>
+		<text>un grupo de Carnes</text>
 	</string>
 	<string id="st_dyn_news_flesh_7">
-		<text>carne</text>
+		<text>Carnes</text>
 	</string>
 
 	<string id="st_dyn_news_pseudodog_0">
@@ -88,13 +88,13 @@
 		<text>Un pseudoperro nos saltó</text>
 	</string>
 	<string id="st_dyn_news_pseudodog_4">
-		<text>Fuimos golpeados por un grupo de pseudoperro</text>
+		<text>Fuimos atacados por un grupo de pseudoperros</text>
 	</string>
 	<string id="st_dyn_news_pseudodog_5">
-		<text>Nos encontramos con un grupo de pseudoperro</text>
+		<text>Nos encontramos con un grupo de pseudoperros</text>
 	</string>
 	<string id="st_dyn_news_pseudodog_6">
-		<text>un grupo de pseudoperro</text>
+		<text>un grupo de pseudoperros</text>
 	</string>
 	<string id="st_dyn_news_pseudodog_7">
 		<text>pseudoperros</text>
@@ -122,7 +122,7 @@
 		<text>Un grupo de snorks</text>
 	</string>
 	<string id="st_dyn_news_snork_7">
-		<text>snork</text>
+		<text>snorks</text>
 	</string>
 
 	<string id="st_dyn_news_bloodsucker_0">
@@ -151,28 +151,28 @@
 	</string>
 
 	<string id="st_dyn_news_burer_0">
-		<text>burer</text>
+		<text>Burer</text>
 	</string>
 	<string id="st_dyn_news_burer_1">
-		<text>un burer</text>
+		<text>un Burer</text>
 	</string>
 	<string id="st_dyn_news_burer_2">
-		<text>Fuimos atacados por un burer</text>
+		<text>Fuimos atacados por un Burer</text>
 	</string>
 	<string id="st_dyn_news_burer_3">
-		<text>Nos encontramos con un burer</text>
+		<text>Nos encontramos con un Burer</text>
 	</string>
 	<string id="st_dyn_news_burer_4">
-		<text>Fuimos atacados por burers</text>
+		<text>Fuimos atacados por Burers</text>
 	</string>
 	<string id="st_dyn_news_burer_5">
-		<text>Nos encontramos con algunos burers</text>
+		<text>Nos encontramos con algunos Burers</text>
 	</string>
 	<string id="st_dyn_news_burer_6">
-		<text>un grupo de burers</text>
+		<text>un grupo de Burers</text>
 	</string>
 	<string id="st_dyn_news_burer_7">
-		<text>burers</text>
+		<text>Burers</text>
 	</string>
 
 	<string id="st_dyn_news_chimera_0">
@@ -301,60 +301,60 @@
 	</string>
 
 	<string id="st_dyn_news_psy_dog_0">
-		<text>psy-dog</text>
+		<text>psy-perro</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_1">
-		<text>un psy-dog</text>
+		<text>un psy-perro</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_2">
-		<text>Fuimos atacados por un psy-dog</text>
+		<text>Fuimos atacados por un psy-perro</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_3">
-		<text>Fuimos emboscados por un psy-dog</text>
+		<text>Fuimos emboscados por un psy-perro</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_4">
-		<text>Nos encontramos con un grupo de psy-dogs</text>
+		<text>Nos encontramos con un grupo de psy-perro</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_5">
-		<text>Fuimos atacados por psy-dogs</text>
+		<text>Fuimos atacados por psy-perros</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_6">
-		<text>un grupo de psy-dogs</text>
+		<text>un grupo de psy-perros</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_7">
-		<text>psy-dogs</text>
+		<text>psy-perros</text>
 	</string>
 
 	<string id="st_dyn_news_psy_dog_phantom_0">
-		<text>psy-dog fantasma</text>
+		<text>psy-perro fantasma</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_phantom_1">
-		<text>un psy-dog fantasma</text>
+		<text>un psy-perro fantasma</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_phantom_2">
-		<text>Fuimos atacados por un psy-dog fantasma</text>
+		<text>Fuimos atacados por un psy-perro fantasma</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_phantom_3">
-		<text>Nos encontramos con un psy-dog fantasma</text>
+		<text>Nos encontramos con un psy-perro fantasma</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_phantom_4">
-		<text>Fuimos emboscados por psy-dogs fantasmas</text>
+		<text>Fuimos emboscados por psy-perros fantasma</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_phantom_5">
-		<text>Nos encontramos con un grupo de psy-dogs fantasmas</text>
+		<text>Nos encontramos con un grupo de psy-perros fantasma</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_phantom_6">
-		<text>un grupo de psy-dog fantasmas</text>
+		<text>un grupo de psy-perro fantasma</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_phantom_7">
-		<text>psy-dogs fantasmas</text>
+		<text>psy-perros fantasma</text>
 	</string>
 
 	<string id="st_dyn_news_zombied_0">
 		<text>stalker zombi</text>
 	</string>
 	<string id="st_dyn_news_zombied_1">
-		<text>un stalker zombificado</text>
+		<text>un stalker zombi</text>
 	</string>
 	<string id="st_dyn_news_zombied_2">
 		<text>Fuimos atacados por un zombie</text>
@@ -401,28 +401,28 @@
 	</string>
 
 	<string id="st_dyn_news_fracture_0">
-		<text>izlom</text>
+		<text>Izlom</text>
 	</string>
 	<string id="st_dyn_news_fracture_1">
-		<text>un izlom</text>
+		<text>un Izlom</text>
 	</string>
 	<string id="st_dyn_news_fracture_2">
-		<text>Fuimos atacados por un izlom</text>
+		<text>Fuimos atacados por un Izlom</text>
 	</string>
 	<string id="st_dyn_news_fracture_3">
-		<text>Nos encontramos con un izlom</text>
+		<text>Nos encontramos con un Izlom</text>
 	</string>
 	<string id="st_dyn_news_fracture_4">
-		<text>Fuimos atacados por un montón de izlom</text>
+		<text>Fuimos atacados por un montón de Izloms</text>
 	</string>
 	<string id="st_dyn_news_fracture_5">
-		<text>Los izlom nos atacaron</text>
+		<text>Los Izloms nos atacaron</text>
 	</string>
 	<string id="st_dyn_news_fracture_6">
-		<text>un grupo de izloms</text>
+		<text>un grupo de Izloms</text>
 	</string>
 	<string id="st_dyn_news_fracture_7">
-		<text>izloms</text>
+		<text>Izloms</text>
 	</string>
 
 	<string id="st_dyn_news_zombie_0">
@@ -479,13 +479,13 @@
 		<text>un stalker</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_2">
-		<text>un solitario</text>
+		<text>un Solitario</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_3">
 		<text>algún stalker</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_4">
-		<text>un poco solitario</text>
+		<text>algunos Solitarios</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_5">
 		<text>stalker</text>
@@ -497,13 +497,13 @@
 		<text>stalkeres</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_8">
-		<text>solitarios</text>
+		<text>Solitarios</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_9">
 		<text>stalkeres</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_10">
-		<text>solitarios</text>
+		<text>Solitarios</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_11">
 		<text>¡Necesitamos ayuda!</text>
@@ -518,13 +518,13 @@
 		<text>¡Ayuda!</text>
 	</string>
 	<string id="st_dyn_news_comm_monolith_1">
-		<text>un monolito</text>
+		<text>un Monolito</text>
 	</string>
 	<string id="st_dyn_news_comm_monolith_2">
-		<text>uno de los monolitos</text>
+		<text>uno de los Monolitos</text>
 	</string>
 	<string id="st_dyn_news_comm_monolith_3">
-		<text>alguna tropa Monolito</text>
+		<text>algunas tropas de Monolito</text>
 	</string>
 	<string id="st_dyn_news_comm_monolith_4">
 		<text>un monolito</text>
@@ -539,16 +539,16 @@
 		<text>Monolito</text>
 	</string>
 	<string id="st_dyn_news_comm_monolith_8">
-		<text>Tropas monolíticas</text>
+		<text>Tropas de Monolito</text>
 	</string>
 	<string id="st_dyn_news_comm_monolith_9">
 		<text>Monolito</text>
 	</string>
 	<string id="st_dyn_news_comm_monolith_10">
-		<text>Fuerzas monolíticas</text>
+		<text>Fuerzas de Monolito</text>
 	</string>
 	<string id="st_dyn_news_comm_monolith_11">
-		<text>Hermanos, ayúdenos!</text>
+		<text>Hermanos, ¡ayúdennos!</text>
 	</string>
 	<string id="st_dyn_news_comm_monolith_12">
 		<text>Hermanos, ayuda!</text>
@@ -593,28 +593,28 @@
 		<text>¡Ayúdenos!</text>
 	</string>
 	<string id="st_dyn_news_comm_bandit_12">
-		<text>¡Necesitamos una puta ayuda!</text>
+		<text>¡Necesitamos puta ayuda!</text>
 	</string>
 	<string id="st_dyn_news_comm_bandit_13">
-		<text>Estamos en una mierda profunda aquí, muchachos!</text>
+		<text>¡Estamos hasta el culo de mierda aquí, muchachos!</text>
 	</string>
 	<string id="st_dyn_news_comm_bandit_14">
 		<text>Hey, hey, hey, ¡necesitamos ayuda!</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_1">
-		<text>un Dutier</text>
+		<text>un Deber</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_2">
-		<text>un chico de deber</text>
+		<text>un chico de Deber</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_3">
-		<text>un tipo de deber</text>
+		<text>un tipo de Deber</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_4">
-		<text>uno de los chicos de Duty</text>
+		<text>uno de los chicos de Deber</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_5">
-		<text>deber</text>
+		<text>Deber</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_6">
 		<text>Deber</text>
@@ -623,37 +623,37 @@
 		<text>Deber</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_8">
-		<text>Soldados de servicio</text>
+		<text>soldados de Deber</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_9">
 		<text>Deber</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_10">
-		<text>Fuerzas de servicio</text>
+		<text>fuerzas de Deber</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_11">
-		<text>Necesitamos respaldo!</text>
+		<text>¡Necesitamos refuerzos!</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_12">
-		<text>Solicitando respaldo</text>
+		<text>Solicitando refuerzos</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_13">
-		<text>Solicitando soporte inmediato!</text>
+		<text>¡Solicitando soporte inmediato!</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_14">
-		<text>Necesitamos refuerzos!</text>
+		<text>¡Necesitamos refuerzos!</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_1">
 		<text>un científico</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_2">
-		<text>una cabeza de huevo</text>
+		<text>una cabezahuevo</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_3">
 		<text>algún ecologista</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_4">
-		<text>alguna cabeza de huevo</text>
+		<text>algún cabezahuevo</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_5">
 		<text>defecto</text>
@@ -671,7 +671,7 @@
 		<text>algunos científicos</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_10">
-		<text>cabezas de huevo</text>
+		<text>cabezashuevo</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_11">
 		<text>¡Ayuda! ¡Alguien por favor ayúdenos!</text>
@@ -680,13 +680,13 @@
 		<text>¡Por favor ayuda! ¡Alguien!</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_13">
-		<text>Este es un equipo de ciencia remoto que solicita asistencia.</text>
+		<text>Aquí un equipo científico remoto que solicita asistencia.</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_14">
-		<text>Alguien, ayuda!</text>
+		<text>Alguien, ¡ayuda!</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_1">
-		<text>un stalker de cielo despejado</text>
+		<text>un stalker de Clear Sky</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_2">
 		<text>un chico de Clear Sky</text>
@@ -698,31 +698,31 @@
 		<text>un tipo de Clear Sky</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_5">
-		<text>Cielo limpio</text>
+		<text>Clear Sky</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_6">
-		<text>Cielo limpio</text>
+		<text>Clear Sky</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_7">
-		<text>Cielo limpio</text>
+		<text>Clear Sky</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_8">
-		<text>Cielo limpio</text>
+		<text>Clear Sky</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_9">
-		<text>Cielo limpio</text>
+		<text>Clear Sky</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_10">
-		<text>Clear Sky stalkers</text>
+		<text>stalkers Clear Sky</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_11">
-		<text>Help us out!</text>
+		<text>¡Ayúdanos!</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_12">
 		<text>Habla Clear Sky, necesitamos ayuda!</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_13">
-		<text>Stalkers, ayudádnos!</text>
+		<text>Stalkers, ¡ayudádnos!</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_14">
 		<text>¡Ayuda!</text>
@@ -758,13 +758,13 @@
 		<text>el militar</text>
 	</string>
 	<string id="st_dyn_news_comm_army_11">
-		<text>Solicitando soporte!</text>
+		<text>¡Solicitando soporte!</text>
 	</string>
 	<string id="st_dyn_news_comm_army_12">
-		<text>Necesitamos respaldo!</text>
+		<text>¡Necesitamos refuerzos!</text>
 	</string>
 	<string id="st_dyn_news_comm_army_13">
-		<text>Solicitando refuerzos!</text>
+		<text>¡Solicitando refuerzos!</text>
 	</string>
 	<string id="st_dyn_news_comm_army_14">
 		<text>¡Escuadrón a base! ¡Solicitando refuerzos inmediatos!</text>
@@ -776,7 +776,7 @@
 		<text>uno de los mercenarios</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_3">
-		<text>algunos merc</text>
+		<text>algunos mercenarios</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_4">
 		<text>uno de los mercenarios</text>
@@ -800,28 +800,28 @@
 		<text>mercenarios</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_11">
-		<text>Solicitando respaldo</text>
+		<text>Solicitando refuerzos</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_12">
-		<text>Necesitamos respaldo!</text>
+		<text>¡Necesitamos refuerzos!</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_13">
-		<text>Solicitando soporte!</text>
+		<text>¡Solicitando soporte!</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_14">
-		<text>Enviar copia de seguridad</text>
+		<text>Enviar refuerzos</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_1">
 		<text>un stalker</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_2">
-		<text>un solitario</text>
+		<text>un Solitario</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_3">
 		<text>algún stalker</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_4">
-		<text>un poco solitario</text>
+		<text>algún Solitario</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_5">
 		<text>stalker</text>
@@ -833,7 +833,7 @@
 		<text>stalkeres</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_8">
-		<text>solitarios</text>
+		<text>Solitarios</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_9">
 		<text>algunos stalkeres</text>
@@ -896,19 +896,19 @@
 		<text>Uuurrh...</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_1">
-		<text>un Freedomer</text>
+		<text>un soldado de Libertad</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_2">
-		<text>un chico de Freedom</text>
+		<text>un chico de Libertad</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_3">
-		<text>un tipo de Freedom</text>
+		<text>un tipo de Libertad</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_4">
-		<text>uno de los chicos de Freedom</text>
+		<text>uno de los chicos de Libertad</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_5">
-		<text>libertad</text>
+		<text>Libertad</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_6">
 		<text>Libertad</text>
@@ -917,25 +917,25 @@
 		<text>Libertad</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_8">
-		<text>Stalkeres de la libertad</text>
+		<text>Stalkeres de Libertad</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_9">
 		<text>Libertad</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_10">
-		<text>Fuerzas de libertad</text>
+		<text>Fuerzas de Libertad</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_11">
-		<text>Chicos, ayuda!</text>
+		<text>Chicos, ¡ayuda!</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_12">
 		<text>¡Necesitamos ayuda aquí!</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_13">
-		<text>Oye, ayúdanos!</text>
+		<text>¡Oye, ayúdanos!</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_14">
-		<text>Mierda, ayuda!</text>
+		<text>Mierda, ¡ayuda!</text>
 	</string>
 
 	<!-- weapon class description -->
@@ -946,7 +946,7 @@
 		<text>disparos</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_1_3">
-		<text>completamente automatico</text>
+		<text>totalmente automatico</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_1_4">
 		<text>disparar</text>
@@ -970,7 +970,7 @@
 		<text>algunos disparos de rifle</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_2_3">
-		<text>completamente automatico</text>
+		<text>totalmente automatico</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_2_4">
 		<text>disparar</text>
@@ -1000,7 +1000,7 @@
 		<text>disparar</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_3_5">
-		<text>tomar fotos en</text>
+		<text>tomando disparos en</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_3_6">
 		<text>matar</text>
@@ -1063,7 +1063,7 @@
 		<text>Heridas de cuchillo</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_6_2">
-		<text>algunos melee</text>
+		<text>algunas melee</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_6_3">
 		<text>cuchillo</text>
@@ -1178,7 +1178,7 @@
 		<text>en Darkscape,</text>
 	</string>
 	<string id="st_dyn_news_k02_trucks_cemetery">
-		<text>en el cementerio de camiones,</text>
+		<text>en el Cementerio de Camiones,</text>
 	</string>
 	<string id="st_dyn_news_l01_escape">
 		<text>en el Cordón,</text>
@@ -1196,16 +1196,16 @@
 		<text>en Rostok,</text>
 	</string>
 	<string id="st_dyn_news_l06_rostok">
-		<text>en el territorio salvaje,</text>
+		<text>en el Territorio Salvaje,</text>
 	</string>
 	<string id="st_dyn_news_new_military">
-		<text>cerca de los almacenes del ejército,</text>
+		<text>cerca de los Almacenes del Ejército,</text>
 	</string>
 	<string id="st_dyn_news_l08_yantar">
 		<text>en Yantar,</text>
 	</string>
 	<string id="st_dyn_news_l09_deadcity">
-		<text>en la ciudad muerta,</text>
+		<text>en la Ciudad Muerta,</text>
 	</string>
 	<string id="st_dyn_news_l10_limansk">
 		<text>en Limansk,</text>
@@ -1217,7 +1217,7 @@
 		<text>en el Bosque Rojo,</text>
 	</string>
 	<string id="st_dyn_news_l11_hospital">
-		<text>en el hospital abandonado</text>
+		<text>en el Hospital Abandonado</text>
 	</string>
 	<string id="st_dyn_news_l11_pripyat">
 		<text>en Pripyat,</text>
@@ -1226,19 +1226,19 @@
 		<text>en el laboratorio X8,</text>
 	</string>
 	<string id="st_dyn_news_pripyat">
-		<text>en las afueras,</text>
+		<text>en las Afueras,</text>
 	</string>
 	<string id="st_dyn_news_zaton">
 		<text>en Zaton,</text>
 	</string>
 	<string id="st_dyn_news_l12_stancia">
-		<text>en la central nuclear de Chernobyl (sur),</text>
+		<text>en la Central Nuclear de Chernobyl (sur),</text>
 	</string>
 	<string id="st_dyn_news_l12_stancia_2">
-		<text>en la central nuclear de Chernobyl (norte),</text>
+		<text>en la Central Nuclear de Chernobyl (norte),</text>
 	</string>
 	<string id="st_dyn_news_l13_generators">
-		<text>en los generadores,</text>
+		<text>en los Generadores,</text>
 	</string>
 
 	<!-- Daleko -->
@@ -1402,7 +1402,7 @@
 		<text>la anomalía en la colina sur</text>
 	</string>
 	<string id="st_dyn_new_military_daleko_3">
-		<text>la base de Freedom</text>
+		<text>la base de Libertad</text>
 	</string>
 	<string id="st_dyn_new_military_daleko_4">
 		<text>la vieja choza</text>
@@ -1471,10 +1471,10 @@
 		<text>la vieja iglesia</text>
 	</string>
 	<string id="st_dyn_l10_limansk_daleko_1">
-		<text>el camino a la ciudad muerta</text>
+		<text>el camino a la Ciudad Muerta</text>
 	</string>
 	<string id="st_dyn_l10_limansk_daleko_2">
-		<text>el túnel hacia el bosque rojo</text>
+		<text>el túnel hacia el Bosque Rojo</text>
 	</string>
 	<string id="st_dyn_l04_darkvalley_daleko_1">
 		<text>la granja abandonada</text>
@@ -1492,7 +1492,7 @@
 		<text>la gasolinera</text>
 	</string>
 	<string id="st_dyn_l04_darkvalley_daleko_6">
-		<text>la base bandido</text>
+		<text>la base de los bandidos</text>
 	</string>
 	<string id="st_dyn_l04_darkvalley_daleko_7">
 		<text>la salida a la basura</text>
@@ -1528,7 +1528,7 @@
 		<text>el camino hacia el Radar</text>
 	</string>
 	<string id="st_dyn_l11_pripyat_daleko_2">
-		<text>la base Monolith</text>
+		<text>la base de Monolito</text>
 	</string>
 	<string id="st_dyn_l10_radar_daleko_1">
 		<text>las antenas</text>
@@ -1743,7 +1743,7 @@
 		<text>en la estación de dragado</text>
 	</string>
 	<string id="st_dyn_zaton_blizko_15">
-		<text>en las grúas de muelle</text>
+		<text>en las grúas del muelle</text>
 	</string>
 	<string id="st_dyn_zaton_blizko_16">
 		<text>en la anomalía de Oakpine</text>
@@ -1854,7 +1854,7 @@
 		<text>en el pueblo viejo</text>
 	</string>
 	<string id="st_dyn_new_military_blizko_6">
-		<text>a la salida de Dead City</text>
+		<text>a la salida de la Ciudad Muerta</text>
 	</string>
 	<string id="st_dyn_new_military_blizko_7">
 		<text>por el camino hacia el Radar</text>
@@ -1914,7 +1914,7 @@
 		<text>por la vieja iglesia</text>
 	</string>
 	<string id="st_dyn_l10_limansk_blizko_1">
-		<text>a la salida de Dead City</text>
+		<text>a la salida de la Ciudad Muerta</text>
 	</string>
 	<string id="st_dyn_l10_limansk_blizko_2">
 		<text>por el túnel al bosque rojo</text>
@@ -2025,7 +2025,7 @@
 		<text>por la entrada de la planta</text>
 	</string>
 	<string id="st_dyn_l08_yantar_blizko_5">
-		<text>a la salida de Dead City</text>
+		<text>a la salida de la Ciudad Muerta</text>
 	</string>
 	<string id="st_dyn_labx8_blizko_1">
 		<text>en el laboratorio</text>
@@ -2129,81 +2129,81 @@
 
 	<!-- Bounty gossip -->
 	<string id="st_dyn_news_gossip_bounty_1">
-		<text>Acabo de ver %s, %s. Escuché que alguien puso una recompensa en su cabeza.</text>
+		<text>Acabo de ver a %s, %s. He oído que alguien puso una recompensa por su cabeza.</text>
 	</string>
 	<string id="st_dyn_news_gossip_bounty_2">
-		<text>Escuché que alguien puso una recompensa en la cabeza de %s</text>
+		<text>Escuché que alguien puso una recompensa por la cabeza de %s</text>
 	</string>
 	<string id="st_dyn_news_gossip_bounty_3">
-		<text>¿Alguien sabe qué pasa con %s últimamente? Él ha estado dando vueltas %s. Es casi como si se estuviera escondiendo de alguien.</text>
+		<text>¿Alguien sabe qué pasa con %s últimamente? %s ha estado dando vueltas. Casi como si se estuviera escondiendo de alguien.</text>
 	</string>
 	<string id="st_dyn_news_gossip_bounty_4">
-		<text>Escuché que Sidorovich está buscando %s. Solo lo vi %s .</text>
+		<text>Escuché que Sidorovich está buscando a %s. Solo lo vi a %s.</text>
 	</string>
 
 	<!-- Medicine gossip -->
 	<string id="st_dyn_news_gossip_med_1">
-		<text>Oh!  %s! Justo a tiempo para repararlo.</text>
+		<text>¡Oh! ¡%s! Justo a tiempo para repararlo.</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_2">
-		<text>%s No está mal. Es difícil encontrar suministros como este por ahí.</text>
+		<text>%s. No está mal. Es difícil encontrar suministros como estos por ahí.</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_3">
-		<text>¿Quién está comprando suministros médicos a los mejores precios disponibles? Tengo %s, y no tengo mucho uso para eso.</text>
+		<text>¿Quién está comprando suministros médicos a los mejores precios disponibles? Tengo %s, y no me sirve de mucho.</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_4">
-		<text>Maldición... %s! El otro día recibí esto por el triple del precio de un comerciante.</text>
+		<text>Maldición... ¡%s! El otro día recibí esto por el triple del precio de un comerciante.</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_5">
-		<text>%s! ¡Finalmente! Hora de curar.</text>
+		<text>¡%s! ¡Finalmente! Hora de curarme.</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_6">
-		<text>Encontrado %s. ¿Debería venderlo? O simplemente tómalo para mí...?</text>
+		<text>Encontrado un %s. ¿Debería venderlo? O simplemente quedármelo...?</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_7">
-		<text>¡Oye! ¿Alguno de ustedes casi pateó estira la pata hace un segundo? ¿Será %s de alguna ayuda?</text>
+		<text>¡Oye! ¿Alguno de ustedes casi estira la pata hace un segundo? ¿Será un %s de alguna ayuda?</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_8">
-		<text>Veamos qué tenemos aquí... %s! ¡Bien! Eso será de utilidad.</text>
+		<text>Veamos qué tenemos aquí... ¡%s! ¡Bien! Será de utilidad.</text>
 	</string>
 
 	<string id="st_dyn_news_gossip_food_1">
-		<text>%s No está mal. Es difícil encontrar comida como esta por ahí.</text>
+		<text>%s. No está mal. Es difícil encontrar comida como esta por ahí.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_2">
-		<text>¿Quién está comprando raciones a los mejores precios disponibles? Tengo algunos %s, y no tengo mucho uso para eso.</text>
+		<text>¿Quién está comprando raciones a los mejores precios disponibles? Tengo algunos %s, y no me sirven de mucho.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_3">
-		<text>Maldición... %s! El otro día recibí esto por el triple del precio de un comerciante.</text>
+		<text>¡Maldición... %s! El otro día recibí esto por el triple del precio de un comerciante.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_4">
-		<text>%s! ¡Finalmente! Hora de masticar</text>
+		<text>¡%s! ¡Finalmente! Hora de comer</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_5">
-		<text>Oh! ¡Encontré algunos %s! Sobre maldita vez.</text>
+		<text>¡Oh! ¡Encontré algunos %s! Justo a tiempo.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_6">
-		<text>Encontrado %s. ¿Debería venderlo? O simplemente tómalo para mí...?</text>
+		<text>Encontrado %s. ¿Debería venderlo? ¿O simplemente comérmelo yo...?</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_7">
-		<text>¡Oye! ¡Acabo de encontrar un cacho para cualquiera que lo necesite! ¿Será %s de alguna ayuda?</text>
+		<text>¡Ey! ¡Acabo de encontrar un trozo para quien que lo necesite! ¿Será %s de alguna ayuda?</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_8">
-		<text>%s Sí. He tenido mejores días.</text>
+		<text>%s. Sí. He tenido mejores días.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_9">
-		<text>%s! ¡Estupendo! Mi estómago ha estado retumbando...</text>
+		<text>¡%s! ¡Estupendo! Me ha estado sonando el estómago...</text>
 	</string>
 
 	<!-- Arte gossip -->
 	<string id="st_dyn_news_gossip_arte_1">
-		<text>¡Mi día de suerte! Acabo de encontrar un %s .</text>
+		<text>¡Es mi día de suerte! Acabo de encontrar un %s.</text>
 	</string>
 	<string id="st_dyn_news_gossip_arte_2">
 		<text>¿Alguien sabe la tarifa actual para un %s?</text>
 	</string>
 	<string id="st_dyn_news_gossip_arte_3">
-		<text>¡Como! ¡Quizás pueda finalmente retirarme!</text>
+		<text>¡Un %s! ¡Quizás finalmente pueda retirarme!</text>
 	</string>
 	<string id="st_dyn_news_gossip_arte_4">
 		<text>Sajarov querrá poner sus manos en este %s!</text>
@@ -2211,22 +2211,22 @@
 
 	<!-- Heli gossip -->
 	<string id="st_dyn_news_gossip_heli_1">
-		<text>Solicitando ayuda de helicópteros. Bogey encuentra %s .</text>
+		<text>Solicito ayuda de helicópteros. Bogey encuentra %s.</text>
 	</string>
 	<string id="st_dyn_news_gossip_heli_2">
-		<text>Solicitar soporte aéreo a nuestra ubicación; necesitamos respaldo.</text>
+		<text>Solicito soporte aéreo a nuestra ubicación; necesitamos refuerzo.</text>
 	</string>
 	<string id="st_dyn_news_gossip_heli_3">
 		<text>Enemigo visto %s. Se necesita asistencia aérea, más.</text>
 	</string>
 	<string id="st_dyn_news_gossip_heli_4">
-		<text>Tierra a "Airhog": ¡necesitamos respaldo lo antes posible!</text>
+		<text>Tierra a "Airhog": ¡necesitamos refuerzos lo antes posible!</text>
 	</string>
 	<string id="st_dyn_news_gossip_heli_5">
-		<text>Solicitando asistencia de helicóptero %s. Estamos bajo ataque por %s .</text>
+		<text>Solicito asistencia de helicóptero %s. Estamos bajo ataque por %s.</text>
 	</string>
 	<string id="st_dyn_news_gossip_heli_6">
-		<text>Enemigos descubiertos %s. Nuestro escuadrón está siendo atacado por %s .</text>
+		<text>Enemigos descubiertos %s. Nuestro escuadrón está siendo atacado por %s.</text>
 	</string>
 	<string id="st_dyn_news_gossip_heli_7">
 		<text>Unidad de tierra a unidad de aire, solicitando ayuda %s. Estamos siendo atacados por %s!</text>
@@ -2234,7 +2234,7 @@
 
 	<!-- buy gossip -->
 	<string id="st_dyn_news_gossip_buy_1_1">
-		<text>%s está ofreciendo algunas ofertas de mierda. Creo que me estafó en %s .</text>
+		<text>%s está ofreciendo algunas ofertas de mierda. Creo que me estafó en %s.</text>
 	</string>
 	<string id="st_dyn_news_gossip_buy_1_2">
 		<text>¿Alguien sabe cuando %s está obteniendo más %s en stock?</text>
@@ -2255,7 +2255,7 @@
 		<text>Mierda... Buenas ofertas en %s hoy.</text>
 	</string>
 	<string id="st_dyn_news_gossip_buy_2_4">
-		<text>Acabo de comprar %s. Solo espero que algún gilipollas no lo agarre de mi escondite...</text>
+		<text>Acabo de comprar %s. Solo espero que algún gilipollas no lo coja de mi escondite...</text>
 	</string>
 
 	<!-- kill wounded -->
@@ -2266,19 +2266,19 @@
 		<text>¡Rápido! Por ahí. Él todavía está vivo.</text>
 	</string>
 	<string id="st_dyn_news_gossip_kill_wounded_3">
-		<text>Éste pensó que podía escapar jugando a la muerte.</text>
+		<text>Éste pensó que podía escapar jugando con la muerte.</text>
 	</string>
 	<string id="st_dyn_news_gossip_kill_wounded_4">
 		<text>Es hora de dejarlo para siempre.</text>
 	</string>
 	<string id="st_dyn_news_gossip_kill_wounded_5">
-		<text>Que los perros durmientes mientan.</text>
+		<text>Deja las cosas como están.</text>
 	</string>
 	<string id="st_dyn_news_gossip_kill_wounded_6">
 		<text>Todavía queda uno. Veamos si podemos extraer información.</text>
 	</string>
 	<string id="st_dyn_news_gossip_kill_wounded_7">
-		<text>¡Deja este perro!</text>
+		<text>¡Deja a este perro!</text>
 	</string>
 	<string id="st_dyn_news_gossip_kill_wounded_8">
 		<text>¡Ríndete, gilipollas! ¡Sabemos que estás herido!</text>
@@ -2292,7 +2292,7 @@
 		<text>Parece que tenemos un rehén, muchachos.</text>
 	</string>
 	<string id="st_dyn_news_gossip_hostage_2">
-		<text>Este punk-asno pensó que podría escapar. Alguien lo vigila.</text>
+		<text>Este maldito pensó que podría escapar. Alguien debe vigilarlo.</text>
 	</string>
 	<string id="st_dyn_news_gossip_hostage_3">
 		<text>¿Crees que esos stalkeres pagarán su rescate?</text>
@@ -2301,7 +2301,7 @@
 		<text>¡No creo que tus amigos vengan por ti!</text>
 	</string>
 	<string id="st_dyn_news_gossip_hostage_5">
-		<text>Busco ofertas por este idiota. Si no, lo mataremos!</text>
+		<text>Busco ofertas por este idiota. Si no, ¡lo mataremos!</text>
 	</string>
 	<string id="st_dyn_news_gossip_hostage_6">
 		<text>Veamos si podemos extraer información de este bajo perfil.</text>
@@ -2326,7 +2326,7 @@
 		<text>Estamos bajo fuego de</text>
 	</string>
 	<string id="st_dyn_news_builder_attacked_2">
-		<text>Estamos tomando fuego de</text>
+		<text>Estamos recibiendo fuego de</text>
 	</string>
 	<string id="st_dyn_news_builder_attacked_3">
 		<text>Estamos bajo ataque por</text>
@@ -2367,13 +2367,13 @@
 		<text>Tenemos información sobre</text>
 	</string>
 	<string id="st_dyn_news_builder_monster_far_2">
-		<text>Los Stalkers regresaron del ataque, dicen que se toparon con</text>
+		<text>Los Stalkers regresaron del combate, dicen que se toparon con</text>
 	</string>
 	<string id="st_dyn_news_builder_monster_far_3">
-		<text>Los borrachos locales deliveran ese monolito entregado</text>
+		<text>Los borrachos locales deliran que los propios Monolito han entregado</text>
 	</string>
 	<string id="st_dyn_news_builder_monster_far_4">
-		<text>Me están ofreciendo un trabajo aquí para ir a una redada en</text>
+		<text>Me están ofreciendo un trabajo aquí para ir a una incursión en</text>
 	</string>
 	<string id="st_dyn_news_builder_monster_far_5">
 		<text>Chicos cuentan historias sobre que han visto</text>
@@ -2389,19 +2389,19 @@
 		<text>Estaba pasando y vi por el rabillo del ojo</text>
 	</string>
 	<string id="st_dyn_news_builder_monster_near_3">
-		<text>Notado recientemente</text>
+		<text>He notado recientemente</text>
 	</string>
 	<string id="st_dyn_news_builder_monster_near_4">
 		<text>Parece que vi</text>
 	</string>
 	<string id="st_dyn_news_builder_monster_near_5">
-		<text>Chicos! Juro que vi</text>
+		<text>¡Chicos! Juro que vi</text>
 	</string>
 	<string id="st_dyn_news_builder_monster_near_6">
 		<text>Los cazadores planean emboscar</text>
 	</string>
 	<string id="st_dyn_news_builder_monster_near_7">
-		<text>Has oído las noticias? ¡Un grupo de mutantes corre por aquí! Ya lo he visto</text>
+		<text>¿Has oído las noticias? ¡Un grupo de mutantes corre por aquí! Yo los he visto</text>
 	</string>
 
 	<string id="st_dyn_news_builder_sight_1">
@@ -2455,7 +2455,7 @@
 		<text>Quédate alerta.</text>
 	</string>
 	<string id="st_dyn_news_builder_ending_2">
-		<text>Mira tu fuego.</text>
+		<text>Atención a quien disparan.</text>
 	</string>
 	<string id="st_dyn_news_builder_ending_3">
 		<text>Me pregunto qué pasa.</text>

@@ -22,25 +22,25 @@
 		<text>Lab X18</text>
 	</string>
 	<string id="st_main_2_search_labx18_text">
-		<text>Explore Lab X18 en busca de información.</text>
+		<text>Explora el Lab X18 en busca de información.</text>
 	</string>
 	<string id="st_main_3_search_labx16_name">
 		<text>Lab X16</text>
 	</string>
 	<string id="st_main_3_search_labx16_text">
-		<text>Explore Lab X16 en busca de información.</text>
+		<text>Explora el Lab X16 en busca de información.</text>
 	</string>
 	<string id="st_main_4_search_labx10_name">
 		<text>Lab X19 (X10)</text>
 	</string>
 	<string id="st_main_4_search_labx10_text">
-		<text>Explore Lab X19 (X10) en busca de información.</text>
+		<text>Explora el Lab X19 (X10) en busca de información.</text>
 	</string>
 	<string id="st_main_5_search_labx8_name">
 		<text>Lab X8</text>
 	</string>
 	<string id="st_main_5_search_labx8_text">
-		<text>Explore Lab X8 en busca de información.</text>
+		<text>Explora el Lab X8 en busca de información.</text>
 	</string>
 	<string id="st_main_6_search_jup_ug_name">
 		<text>Paso inferior "Pripyat-1"</text>
@@ -52,7 +52,7 @@
 		<text>ChNPP</text>
 	</string>
 	<string id="st_main_7_search_mon_con_text">
-		<text>Explore la central nuclear de Chernobyl en busca de información.</text>
+		<text>Explora la central nuclear de Chernobyl en busca de información.</text>
 	</string>
 
 
@@ -80,7 +80,7 @@
 		<text>Obtener %s</text>
 	</string>
 	<string id="simulation_task_2_text">
-		<text>Orden recibida para encontrar: %s .</text>
+		<text>Orden recibida para encontrar: %s.</text>
 	</string>
 	<string id="simulation_task_2_about">
 		<text>Relajarse cazando...</text>
@@ -260,13 +260,13 @@
 		<text>Encontrar: %s</text>
 	</string>
 	<string id="simulation_task_13_text">
-		<text>Un bandido tiene un botín que quiere cambiar si puedo traerlo %s .</text>
+		<text>Un bandido tiene un botín que quiere cambiar si puedo traerlo %s.</text>
 	</string>
 	<string id="simulation_task_13_about">
 		<text>¿Quieres intercambiar un poco de botín?</text>
 	</string>
 	<string id="simulation_task_13_fetch_about">
-		<text>Tengo algo de mierda que puedo darte si puedes conseguirme un %s .</text>
+		<text>Tengo algo de mierda que puedo darte si puedes conseguirme un %s.</text>
 	</string>
 	<string id="simulation_task_13_fetch_finish">
 		<text>Gran hombre, gracias!</text>
@@ -284,7 +284,7 @@
 		<text>¿Tienes algún suministro que quieras intercambiar?</text>
 	</string>
 	<string id="simulation_task_14_fetch_about">
-		<text>Te diré algo, te cambiaré un poco de munición extra que tengo si puedes conseguirme un %s .</text>
+		<text>Te diré algo, te cambiaré un poco de munición extra que tengo si puedes conseguirme un %s.</text>
 	</string>
 	<string id="simulation_task_14_fetch_finish">
 		<text>Gran hombre, gracias!</text>
@@ -428,7 +428,7 @@
 		<text>Llevar %s a miembro de Monolito</text>
 	</string>
 	<string id="simulation_task_23_text">
-		<text>Uno de tus hermanos está enfermo y requiere %s .</text>
+		<text>Uno de tus hermanos está enfermo y requiere %s.</text>
 	</string>
 	<string id="simulation_task_23_about">
 		<text>Debo ser fuerte para servir bien al Monolito pero confieso que mi fuerza se está debilitando. ¿Puedes ayudarme, hermano?</text>
@@ -705,7 +705,7 @@
 		<text>Necesito que alguien me compre un artículo específico, ¿estás preparado?</text>
 	</string>
 	<string id="simulation_task_39_fetch_about">
-		<text>Tenía una orden anterior, déjame ver... Sí. %s, ¿me puedes ayudar a conseguirlo?</text>
+		<text>Tenía un pedido antiguo, déjame ver... Sí: %s, ¿puedes ayudarme a conseguirlo?</text>
 	</string>
 	<string id="simulation_task_39_finish">
 		<text>¡Gracias hombre!</text>
@@ -718,7 +718,7 @@
 		<text>Encuentra %s</text>
 	</string>
 	<string id="simulation_task_48_text">
-		<text>Un stalker te ha pedido que encuentres %s .</text>
+		<text>Un stalker te ha pedido que encuentres %s.</text>
 	</string>
 	<string id="simulation_task_48_about">
 		<text>¿Tienes tiempo para recuperar un par de artículos?</text>
@@ -735,7 +735,7 @@
 		<text>Encontrar: %s</text>
 	</string>
 	<string id="simulation_task_49_text">
-		<text>Se te ha encomendado encontrar %s .</text>
+		<text>Se te ha encomendado encontrar %s.</text>
 	</string>
 	<string id="simulation_task_49_about">
 		<text>Tengo una solicitud importante, pero todo lo que digo debe mantenerse en secreto y solo entre nosotros. ¿Estamos bien?</text>
