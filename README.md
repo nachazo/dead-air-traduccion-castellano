@@ -26,3 +26,5 @@ Créditos al equipo de traducción al inglés y francés:
 * [Traducción al inglés en moddb](https://www.moddb.com/mods/dead-air/downloads/dead-air-english-translation)
 * [Traducción al francés en moddb](https://www.moddb.com/mods/dead-air/downloads/dead-air-french-translation-trad-franaise)
 * [GitHub de la traducción en inglés](https://github.com/Appuruu/dead-air-english-translation)
+* [Dead Air en moddb](https://www.moddb.com/mods/dead-air)
+* [Dead Air en Vk](https://www.vk.com/callofmisery)
