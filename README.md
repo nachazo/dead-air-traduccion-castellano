@@ -10,7 +10,7 @@ Ante posibles errores se recomienda cambiar de nuevo al idioma inglés e igualme
 1. Descarga la [última versión de la traducción](https://github.com/nachazo/dead-air-traduccion-castellano/releases/latest).
 1. Descomprime el contenido del archivo en la carpeta donde tengas instalado "Dead Air".
 1. Abre el juego y cambia el idioma en Opciones > Juego (Options > Game).
-1. Todo listo.
+1. Posiblemente solicite reiniciar el juego, hazlo y todo listo.
 
 Las versiones se irán historificando en la pestaña "Releases".
 
