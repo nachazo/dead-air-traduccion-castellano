@@ -581,10 +581,10 @@
 		<text>Guiso de %s</text>
 	</string>
 	<string id="simulation_task_32_text">
-		<text>Un bandido tiene una receta especial para preparar carne mutante y necesita %s traído a él.</text>
+		<text>Un bandido tiene una receta especial para preparar carne de mutante y necesita %s traído a él.</text>
 	</string>
 	<string id="simulation_task_32_about">
-		<text>Hombre, ¿alguna vez probaste carne mutante? Muchos chicos no lo tocarán a menos que estén hambrientos, pero personalmente me encanta. ¿Eres bueno para cazar?</text>
+		<text>Hombre, ¿alguna vez probaste carne de mutante? Muchos chicos no lo tocarán a menos que estén hambrientos, pero personalmente me encanta. ¿Eres bueno para cazar?</text>
 	</string>
 	<string id="simulation_task_32_fetch_about">
 		<text>Si me consigues unos buenos cortes de %s, haré que valga la pena. Mmm... estoy babeando solo de pensarlo.</text>

@@ -10,7 +10,7 @@
 		<text>¿Qué son los "camiones de la muerte"?</text>
 	</string>
 	<string id="oso_death_truck_1">
-		<text>Los transportes que utilizamos para enviar nuestros "agentes" marcados a la Zona. Se infiltran en la "comunidad" stalker y llevan a cabo nuestras órdenes sin darse cuenta. Desafortunadamente, más de la mitad de los stalkeres mueren durante el transporte; la zona es muy inestable Usted es uno de nuestros agentes enviados a matar a Strelok, y ahora estamos tratando de descubrir cómo cometimos ese error.</text>
+		<text>Los transportes que utilizamos para enviar nuestros "agentes" marcados a la Zona. Se infiltran en la "comunidad" stalker y llevan a cabo nuestras órdenes sin darse cuenta. Desafortunadamente, más de la mitad de los stalkeres mueren durante el transporte; la Zona es muy inestable Usted es uno de nuestros agentes enviados a matar a Strelok, y ahora estamos tratando de descubrir cómo cometimos ese error.</text>
 	</string>
 	<string id="oso_no_0">
 		<text>No voy a ayudarte en este engaño.</text>
@@ -34,7 +34,7 @@
 		<text>Eres un cerrojo que se cayó de la máquina. Desafortunadamente, eso no nos llamó la atención por mucho tiempo. Desde el momento en que se formó la Zona, muchas personas han tratado de llegar a su centro, pero no podemos permitir que eso suceda. La humanidad no está lista para la verdad. Es por eso que reclutamos stalkeres prometiéndoles el cumplimiento de sus deseos más codiciados. Una vez reclutados, serían enviados para proteger el secreto de la Zona.</text>
 	</string>
 	<string id="oso_what_is_the_zone_0">
-		<text>¿Cuál es la zona? ¿Cómo ocurrió?</text>
+		<text>¿Cuál es la Zona? ¿Cómo ocurrió?</text>
 	</string>
 	<string id="oso_what_is_the_zone_1">
 		<text>Lo que ves es el resultado de una intervención mal considerada en la noosfera de la Tierra. Los intentos de afectar a la noosfera provocaron un crack local. La zona es simplemente la manifestación visible de esta grieta. El problema subyacente es mucho mayor de lo que puedas imaginar.</text>

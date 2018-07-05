@@ -361,7 +361,7 @@
 	</string>
 
 	<string id="bar_visitors_informer_stalker_killer_permission_info_text">
-		<text>Varios acechadores están trabajando para mí, obtienen información para mí, se envían los pedidos, es algo común. En toda la zona, no es conveniente contratar mercenarios, pero a veces hay que conocerlos. En tal caso, tenemos un contrato, por lo que sin ninguna preocupación mis muchachos no tendrían ningún problema. Puedo escribirte aparte de mis correos durante una semana, pero ten en cuenta que este servicio no es barato. Teniendo en cuenta todos los posibles riesgos y gastos de mi parte, te costará 50000.
+		<text>Varios acechadores están trabajando para mí, obtienen información para mí, se envían los pedidos, es algo común. En toda la Zona, no es conveniente contratar mercenarios, pero a veces hay que conocerlos. En tal caso, tenemos un contrato, por lo que sin ninguna preocupación mis muchachos no tendrían ningún problema. Puedo escribirte aparte de mis correos durante una semana, pero ten en cuenta que este servicio no es barato. Teniendo en cuenta todos los posibles riesgos y gastos de mi parte, te costará 50000.
   .</text>
 	</string>
 
@@ -384,6 +384,6 @@
 
 	<!-- bar_visitors_stalker_mechanic -->
 	<string id="bar_visitors_stalker_mechanic_start_dialog_1">
-		<text>Hey! Chico. ¿Cómo va la zona? Entonces... espero que tengas que hacer un trabajo de reparación... heh. Necesito algo de dinero en efectivo.</text>
+		<text>Hey! Chico. ¿Cómo va la Zona? Entonces... espero que tengas que hacer un trabajo de reparación... heh. Necesito algo de dinero en efectivo.</text>
 	</string>
 </string_table>

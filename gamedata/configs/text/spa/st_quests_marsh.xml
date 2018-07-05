@@ -355,7 +355,7 @@
 
 	<!-- FIND SWAMP DOCTOR -->
 	<string id="mar_doctor_task">
-		<text>Misterios de la zona</text>
+		<text>Misterios de la Zona</text>
 	</string>
 	<string id="mar_doctor_task_0">
 		<text>Llegaste a la Zona buscando desentrañar sus misterios, una cara familiar puede contener las respuestas que buscas.</text>

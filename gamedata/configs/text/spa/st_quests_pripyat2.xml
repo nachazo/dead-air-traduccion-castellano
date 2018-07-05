@@ -77,7 +77,7 @@
 	<!-- Rabbit (Monolith Trader) Venture into the Zone Storyline Task -->
 
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_task_3_name">
-		<text>Aventúrate en la zona</text>
+		<text>Aventúrate en la Zona</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_task_3_text">
 		<text>Debes demostrar tu valía al sobrevivir a un viaje a la Zona.</text>

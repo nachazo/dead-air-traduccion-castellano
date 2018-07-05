@@ -16,10 +16,10 @@
 		<text>10 de junio de 2006. La zona se ilumina con un destello de luz cegadora. Esta explosión de luz es seguida por un momento de completo silencio y nubes que se evaporan en el cielo. Un repique de trueno entonces sacude la tierra. La mayoría de los soldados que protegen el perímetro mueren al instante.</text>
 	</string>
 	<string id="zat_a1_cutscene_phrase_6">
-		<text>2007. Los científicos aún no pueden explicar lo que sucedió. Las raras expediciones a la zona generalmente terminan en tragedia, con extraños sobrevivientes contando historias de animales mutados con habilidades increíbles.</text>
+		<text>2007. Los científicos aún no pueden explicar lo que sucedió. Las raras expediciones a la Zona generalmente terminan en tragedia, con extraños sobrevivientes contando historias de animales mutados con habilidades increíbles.</text>
 	</string>
 	<string id="zat_a1_cutscene_phrase_7">
-		<text>2009. De acuerdo con diversas estimaciones, la zona alberga entre uno y trescientos individuos no identificados. Estas personas se llaman a sí mismas stalkeras y se ganan la vida recogiendo formaciones anómalas conocidas como artefactos, que pueden venderse por sumas considerables de dinero.</text>
+		<text>2009. De acuerdo con diversas estimaciones, la Zona alberga entre uno y trescientos individuos no identificados. Estas personas se llaman a sí mismas stalkeras y se ganan la vida recogiendo formaciones anómalas conocidas como artefactos, que pueden venderse por sumas considerables de dinero.</text>
 	</string>
 	<string id="zat_a1_cutscene_phrase_8">
 		<text>2010. A pesar de los cordones militares en todo el perímetro, el fenómeno del stalker está creciendo en número. Sin embargo, solo se han explorado las áreas alrededor de los bordes de la Zona: los intentos de penetrar más profundamente en la Zona han terminado en fracaso.</text>
@@ -103,7 +103,7 @@
 		<text>El área alrededor de la estación de Yanov continúa atrayendo un número creciente de stalkeres. La falta de mutantes peligrosos y la abundancia de áreas de anomalías han llevado a que los stalkeres mencionen el área como un "tesoro escondido" con una regularidad creciente.</text>
 	</string>
 	<string id="pri_a28_outro_phrase_11_b">
-		<text>El área alrededor de la estación de Yanov ganó la reputación de ser uno de los lugares más peligrosos de la zona. Cada vez menos acechadores regresaron de las redadas, muchos murieron a manos de mutantes a la vista del campamento. Uno de esos desaparecidos es Zveroboi, quien se propuso rastrear una quimera en lo que parece haber sido su última cacería.</text>
+		<text>El área alrededor de la estación de Yanov ganó la reputación de ser uno de los lugares más peligrosos de la Zona. Cada vez menos acechadores regresaron de las redadas, muchos murieron a manos de mutantes a la vista del campamento. Uno de esos desaparecidos es Zveroboi, quien se propuso rastrear una quimera en lo que parece haber sido su última cacería.</text>
 	</string>
 	<string id="pri_a28_outro_phrase_12_a">
 		<text>Zulu regresó a la base principal de Duty en la planta de Rostok. Nadie sabe lo que discutió con el líder de Duty, el general Voronin, pero varios días después fue visto al frente de un escuadrón grande que se dirigía al centro de la Zona.</text>
@@ -145,7 +145,7 @@
 		<text>Strelok transmitió la información que obtuvo en la central nuclear de Chernobyl a los comandantes del USS. Esto llevó al Gobierno a crear un Instituto Científico para la Investigación del Área Anómala de Chernobyl. Strelok asumió el puesto de Consultor Científico Principal del Instituto.</text>
 	</string>
 	<string id="pri_a28_outro_phrase_19_b">
-		<text>El conocimiento de Strelok se perdió con él. La información que encontró en la central nuclear de Chernobyl, que podría haberse utilizado para resolver los enigmas de la zona, nunca llegó al mundo exterior. Parece que la Zona sabe cómo guardar sus secretos.</text>
+		<text>El conocimiento de Strelok se perdió con él. La información que encontró en la central nuclear de Chernobyl, que podría haberse utilizado para resolver los enigmas de la Zona, nunca llegó al mundo exterior. Parece que la Zona sabe cómo guardar sus secretos.</text>
 	</string>
 	<string id="pri_a28_outro_phrase_20_a">
 		<text>Cuando el coronel Kovalsky, comandante del grupo Stingray, regresó de la Zona, informó a sus comandantes sobre las razones del fracaso de la Operación Fairway. Después de una investigación arrastrada y los intentos fallidos de echarle la culpa a él, el coronel finalmente recibió una baja honorable.</text>

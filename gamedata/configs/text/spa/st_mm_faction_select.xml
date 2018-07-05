@@ -16,7 +16,7 @@
 		<text>Deber</text>
 	</string>
 	<string id="st_faction_dolg_desc">
-		<text>%c[0,245,245,220]Deber es una facción paramilitar en desacuerdo con todos los que buscan explotar la zona y, como Deber lo ve, difundir su corrupción. \n \nHan estado en feroz conflicto con Libertad debido a sus ideales contradictorios.</text>
+		<text>%c[0,245,245,220]Deber es una facción paramilitar en desacuerdo con todos los que buscan explotar la Zona y, como Deber lo ve, difundir su corrupción. \n \nHan estado en feroz conflicto con Libertad debido a sus ideales contradictorios.</text>
 	</string>
 	<string id="st_faction_freedom">
 		<text>Libertad</text>
@@ -34,7 +34,7 @@
 		<text>Ecologista</text>
 	</string>
 	<string id="st_faction_ecolog_desc">
-		<text>%c[0,245,245,220]Los ecologistas son un organismo financiado por el gobierno que investiga la zona con el fin de aprovechar su potencial para el bien de la humanidad.</text>
+		<text>%c[0,245,245,220]Los ecologistas son un organismo financiado por el gobierno que investiga la Zona con el fin de aprovechar su potencial para el bien de la humanidad.</text>
 	</string>
 	<string id="st_faction_killer">
 		<text>Mercenario</text>
@@ -52,7 +52,7 @@
 		<text>Cielo Limpio</text>
 	</string>
 	<string id="st_faction_csky_desc">
-		<text>%c[0,245,245,220]Cielo Limpio es una organización científica y militar independiente centrada en investigar y comprender la zona. \n \nFrente al colapso casi total después de un asalto fallido y costoso en la central nuclear de Chernobyl, un puñado de unos pocos supervivientes lograron reconstruir la facción en su forma anterior.</text>
+		<text>%c[0,245,245,220]Cielo Limpio es una organización científica y militar independiente centrada en investigar y comprender la Zona. \n \nFrente al colapso casi total después de un asalto fallido y costoso en la central nuclear de Chernobyl, un puñado de unos pocos supervivientes lograron reconstruir la facción en su forma anterior.</text>
 	</string>
 	<string id="st_faction_zombied">
 		<text>Zombificado</text>
@@ -119,7 +119,7 @@
 		<text>Ubicación Aleatoria</text>
 	</string>
 	<string id="st_mm_ck_story_desc">
-		<text>%c[0,245,245,220]El modo historia inicia el juego con la historia de "Misterios de la zona" y con los objetivos para desactivar el quemador cerebral y la máquina milagrosa. \n
+		<text>%c[0,245,245,220]El modo historia inicia el juego con la historia de "Misterios de la Zona" y con los objetivos para desactivar el quemador cerebral y la máquina milagrosa. \n
    \nLos elementos de historias anteriores se toman prestados y se recrean, por lo que no es para jugadores que sienten que la continuidad estricta de la historia es esencial. \n
    \nSolo disponible para las facciones Clear Sky, Duty, Ecologist, Freedom, Loner y Mercenary. \n
    \nNo es compatible con el modo Azazel.

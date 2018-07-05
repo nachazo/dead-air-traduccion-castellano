@@ -148,7 +148,7 @@
 		<text>No lograste llegar a los helicópteros y el equipo de evacuación abandonó la Zona sin ti.</text>
 	</string>
 	<string id="st_freeplay_text_yes_no">
-		<text>¿Estás listo para abandonar la zona? No hay vuelta atrás.</text>
+		<text>¿Estás listo para abandonar la Zona? No hay vuelta atrás.</text>
 	</string>
 	<string id="st_game_over">
 		<text> </text>
