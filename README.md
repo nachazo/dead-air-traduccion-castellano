@@ -1,5 +1,5 @@
 # Dead Air: Traducción al castellano
-Traducción al castellano del mod Dead Air del juego S.T.A.L.K.E.R. Realizada con un script automático y revisión manual.
+Traducción al castellano del mod Dead Air del juego S.T.A.L.K.E.R. Realizada con un script automático y revisión manual (https://github.com/nachazo/dead-air-traduccion-castellano).
 
 ## Descripción
 La traducción está hecha con un script que utiliza Google Translate para traducir los textos al castellano. Por tanto, habrá errores; frases, párrafos o algunas palabras con mala redacción. Generalmente la calidad es aceptable. Una vez realizado este proceso automático, se dedicaron horas para revisar y corregir algunos textos comunes, descripciones relevantes, etc. Pero aun así contedrá errores y serían necesarias de más horas de revisión. Además, solo lo he probado en unos pocos mapas, pueden aparecer erróres en fases más avanzadas.
