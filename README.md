@@ -2,13 +2,13 @@
 Traducción al castellano del mod Dead Air del juego S.T.A.L.K.E.R. Realizada con un script automático y revisión manual (https://github.com/nachazo/dead-air-traduccion-castellano).
 
 ## Descripción
-La traducción se basa en el resultado del proceso de un script que he programado que utiliza Google Translate para traducir los textos de archivos de idioma de STALKER al castellano. Por tanto, habrá errores; frases, párrafos o algunas palabras con mala redacción. Generalmente la calidad es aceptable. Una vez realizado este proceso automático, se dedicaron horas para revisar y corregir algunos textos comunes, descripciones relevantes, etc. Pero aun así contedrá errores y serían necesarias de más horas de revisión. Además, solo lo he probado en unos pocos mapas, pueden aparecer erróres en fases más avanzadas.
+La traducción se basa en el resultado del proceso de un script que he programado que utiliza Google Translate para traducir los textos de archivos de idioma de STALKER al castellano. Por tanto, habrá errores; frases, párrafos o algunas palabras con mala redacción/comprensión. Generalmente la calidad es aceptable. Una vez realizado este proceso automático, se dedicaron horas para revisar y corregir algunos textos comunes, descripciones relevantes, etc. Pero aun así contedrá errores y serían necesarias más horas de revisión. Además, solo lo he probado en unos pocos mapas, pueden aparecer erróres en fases más avanzadas.
 
 Ante posibles errores se recomienda cambiar de nuevo al idioma inglés e igualmente mantener actualizad dicha traducción, por si hay textos que no se comprenden.
 
 ## Descarga e instalación
 1. Descarga la [última versión de la traducción](https://github.com/nachazo/dead-air-traduccion-castellano/releases/latest).
-1. Descomprime el contenido, sobreescribiendo si es necesario, en la carpeta donde tengas instalado "Dead Air".
+1. Descomprime el contenido, al nivel de la carpeta "gamedata", sobreescribiendo si es necesario, en la carpeta donde tengas instalado "Dead Air".
 1. Abre el juego y cambia el idioma en Opciones > Juego (Options > Game).
 1. Posiblemente solicite reiniciar el juego, hazlo y todo listo.
 
