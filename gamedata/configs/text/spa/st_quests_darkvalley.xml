@@ -237,10 +237,10 @@
 		<text>Eliminación de Stalker</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_3_text">
-		<text>Elimina a los stalkeres que atacaron a un compañero bandido.</text>
+		<text>Elimina a los stalkers que atacaron a un compañero bandido.</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_3_about">
-		<text>Un grupo de stalkeres dispararon contra uno de nuestros muchachos. Ve a tomar un par de chicos y enséñales a esos pedazos de mierda.</text>
+		<text>Un grupo de stalkers dispararon contra uno de nuestros muchachos. Ve a tomar un par de chicos y enséñales a esos pedazos de mierda.</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_3_finish">
 		<text>¿Hecho? Vale.</text>
@@ -284,7 +284,7 @@
 		<text>Chiki-Briki i v Damke</text>
 	</string>
 	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_text">
-		<text>Obtenga la ventaja sobre los stalkeres locales liberándolos de sus objetos de valor el tiempo suficiente hasta que su banda de hombres alegres esté satisfecha.</text>
+		<text>Obtenga la ventaja sobre los stalkers locales liberándolos de sus objetos de valor el tiempo suficiente hasta que su banda de hombres alegres esté satisfecha.</text>
 	</string>
 	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_about">
 		<text>Hay algunos tipos que están buscando a otro para unirse a ellos por un tiempo. Necesitan un explorador para sacarlos en busca de objetivos principales y te pagarán una vez que hayas terminado tu trabajo.</text>

@@ -610,7 +610,7 @@
 		<text>Factor de población (mutantes)</text>
 	</string>
 	<string id="ui_mm_alife_stalker_pop">
-		<text>Factor de población (stalkeres)</text>
+		<text>Factor de población (stalkers)</text>
 	</string>
 	<string id="ui_mm_hud_fov">
 		<text>HUD FOV</text>

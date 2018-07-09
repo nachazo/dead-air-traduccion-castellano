@@ -160,7 +160,7 @@
 		<text>Beard quiere que encuentres el artefacto %s para él.</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_task_2_about">
-		<text>Me ocupo de artefactos. Normalmente no los compro de stalkeres, pero hay uno en particular que me gustaría tener en mis manos. ¿Quieres intentar conseguir uno para mí?</text>
+		<text>Me ocupo de artefactos. Normalmente no los compro de stalkers, pero hay uno en particular que me gustaría tener en mis manos. ¿Quieres intentar conseguir uno para mí?</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_task_2_fetch_about">
 		<text>Estoy buscando el %s. ¿Alguna vez has visto uno? Si puede encontrarlo, le pagaré bien.</text>
@@ -377,10 +377,10 @@
 		<text>La fuente del extraño resplandor era un artefacto igualmente extraño. Es probable que sea de interés para Beard.</text>
 	</string>
 	<string id="zat_b14_learn_about_strange_occurrence_by_stalkers_name">
-		<text>Extraño fenómeno: pregunta a los stalkeres sobre el artefacto</text>
+		<text>Extraño fenómeno: pregunta a los stalkers sobre el artefacto</text>
 	</string>
 	<string id="zat_b14_learn_about_strange_occurrence_by_stalkers_text">
-		<text>Los stalkeres pueden saber algo sobre el extraño artefacto o pueden sugerir a alguien que lo haga. Deberías hablar con ellos.</text>
+		<text>Los stalkers pueden saber algo sobre el extraño artefacto o pueden sugerir a alguien que lo haga. Deberías hablar con ellos.</text>
 	</string>
 	<string id="zat_b14_learn_about_strange_occurrence_name">
 		<text>Extraño fenómeno: encuentra la fuente del resplandor en la estación de dragado</text>
@@ -422,7 +422,7 @@
 		<text>Perseguidores desaparecidos: trae prueba de la participación de Tremor</text>
 	</string>
 	<string id="zat_b22_bring_proof_text">
-		<text>Debes llevar el PDA con las grabaciones de Tremor a Skadovsk y mostrárselo a Beard. Las grabaciones dejan en claro que el médico fue el responsable de las desapariciones de stalkeres.</text>
+		<text>Debes llevar el PDA con las grabaciones de Tremor a Skadovsk y mostrárselo a Beard. Las grabaciones dejan en claro que el médico fue el responsable de las desapariciones de stalkers.</text>
 	</string>
 	<string id="zat_b22_stalker_medic_start_1">
 		<text>Hola!</text>
@@ -431,7 +431,7 @@
 		<text>Perseguidores desaparecidos: encontrar pruebas de la participación de Tremor</text>
 	</string>
 	<string id="zat_b22_find_proof_text">
-		<text>Debes comprobar si Tremor dejó alguna evidencia de su participación en las desapariciones de stalkeres.</text>
+		<text>Debes comprobar si Tremor dejó alguna evidencia de su participación en las desapariciones de stalkers.</text>
 	</string>
 	<string id="zat_b28_heli_3_crash_name">
 		<text>Stingray 3: investiga el sitio del accidente</text>
@@ -551,10 +551,10 @@
 		<text>Owl, el comerciante, cree que Beard no se apega al acuerdo y le sugiere que se ponga en contacto con Sultán, el jefe criminal local, para obtener ayuda.</text>
 	</string>
 	<string id="zat_b30_sultan_task_2_name">
-		<text>Negocio sombrío: tomar detectores de stalkeres</text>
+		<text>Negocio sombrío: tomar detectores de stalkers</text>
 	</string>
 	<string id="zat_b30_sultan_task_2_text">
-		<text>Debe hacer todo lo posible para quitar los prototipos del detector a los stalkeres que buscan artefactos para Beard. Si no tiene detectores, tendrá que aceptar los términos de Sultan.</text>
+		<text>Debe hacer todo lo posible para quitar los prototipos del detector a los stalkers que buscan artefactos para Beard. Si no tiene detectores, tendrá que aceptar los términos de Sultan.</text>
 	</string>
 	<string id="zat_b30_sultan_task_3_name">
 		<text>Negocio sombrío: habla con Sultan</text>
@@ -575,10 +575,10 @@
 		<text>Necesita averiguar en qué negocio está involucrada Beard en este momento. Esto lo ayudará a cortar sus canales de suministro.</text>
 	</string>
 	<string id="zat_b30_sultan_task_7_name">
-		<text>Negocio sombrío: aleje el segundo detector de los stalkeres</text>
+		<text>Negocio sombrío: aleje el segundo detector de los stalkers</text>
 	</string>
 	<string id="zat_b30_sultan_task_7_text">
-		<text>Debe hacer todo lo posible para quitar los prototipos del detector a los stalkeres que buscan artefactos para Beard. Si no tiene detectores, tendrá que aceptar los términos de Sultan.</text>
+		<text>Debe hacer todo lo posible para quitar los prototipos del detector a los stalkers que buscan artefactos para Beard. Si no tiene detectores, tendrá que aceptar los términos de Sultan.</text>
 	</string>
 	<string id="zat_b30_task_1_name">
 		<text>Tentador negocio: trae Tukarev tres detectores Veles</text>
@@ -617,16 +617,16 @@
 		<text>Tienes el contenedor de Snag y ahora deberías devolvérselo al propietario para dividir su contenido de manera justa.</text>
 	</string>
 	<string id="zat_b38_den_of_the_bloodsucker_inform_stalkers_name">
-		<text>Guarida de chupasangres: contar a los stalkeres</text>
+		<text>Guarida de chupasangres: contar a los stalkers</text>
 	</string>
 	<string id="zat_b38_den_of_the_bloodsucker_inform_stalkers_text">
-		<text>Debes informar a los stalkeres sobre la guarida de chupasangres debajo del complejo de antenas Krug.</text>
+		<text>Debes informar a los stalkers sobre la guarida de chupasangres debajo del complejo de antenas Krug.</text>
 	</string>
 	<string id="zat_b38_den_of_the_bloodsucker_tell_barman_about_all_name">
 		<text>Guarida de chupasangres: decirle a Barba</text>
 	</string>
 	<string id="zat_b38_den_of_the_bloodsucker_tell_barman_about_all_text">
-		<text>Debe decirle a Beard sobre la guarida de chupasangre que se encuentra debajo del complejo de antenas Krug para que pueda decidir cómo proteger a los stalkeres.</text>
+		<text>Debe decirle a Beard sobre la guarida de chupasangre que se encuentra debajo del complejo de antenas Krug para que pueda decidir cómo proteger a los stalkers.</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_clean_den_of_the_bloodsucker_name">
 		<text>Perseguidores desaparecidos: seguir a Grouse</text>
@@ -644,10 +644,10 @@
 		<text>Aficionados desaparecidos: encuentra a Grouse</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_find_cop_near_port_krans_text">
-		<text>Grouse fue hacia las grúas de muelle por alguna razón, tal vez descubrió algo acerca de los stalkeres desaparecidos, por lo que debería buscarlo allí.</text>
+		<text>Grouse fue hacia las grúas de muelle por alguna razón, tal vez descubrió algo acerca de los stalkers desaparecidos, por lo que debería buscarlo allí.</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_find_out_where_is_cop_name">
-		<text>Los stalkeres desaparecidos: descubre dónde está Grouse</text>
+		<text>Los stalkers desaparecidos: descubre dónde está Grouse</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_find_out_where_is_cop_text">
 		<text>Grouse no está donde normalmente está. Deberías preguntarle a Beard adónde fue.</text>
@@ -656,7 +656,7 @@
 		<text>Aficionados desaparecidos: encuentra al cazador perdido</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_find_to_be_missing_hunter_text">
-		<text>Grouse te ha pedido que ayudes a encontrar al cazador perdido. Se suponía que el cazador encontraría la guarida de chupasangre. De acuerdo con la información actual, son los sanguijuelas los responsables de las recientes desapariciones de stalkeres.</text>
+		<text>Grouse te ha pedido que ayudes a encontrar al cazador perdido. Se suponía que el cazador encontraría la guarida de chupasangre. De acuerdo con la información actual, son los sanguijuelas los responsables de las recientes desapariciones de stalkers.</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_get_out_from_den_of_the_bloodsucker_name">
 		<text>Los acechadores desaparecidos: salgan de la guarida de la sanguijuela</text>
@@ -671,7 +671,7 @@
 		<text>Probablemente deberías conocer a Grouse y discutir la búsqueda del cazador perdido.</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_meet_cop_later_name">
-		<text>Los stalkeres desaparecidos: conocer a Grouse más tarde</text>
+		<text>Los stalkers desaparecidos: conocer a Grouse más tarde</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_meet_cop_later_text">
 		<text>No había rastro de Danila el cazador en el edificio complejo de antenas. Sin embargo, Grouse parece estar perplejo por lo que encontraste dentro y te pidió que te reunies con él más tarde para discutir el asunto con más detalle.</text>
@@ -683,7 +683,7 @@
 		<text>El lugar que Ortega indicó tenía una sanguijuela muerta y no había señales de Danila, el cazador. Sin embargo, parece que Grouse ha encontrado algo interesante y te está pidiendo que te unas a él.</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_tell_barmen_about_medic_text">
-		<text>Resultó que los chupasangres no tenían nada que ver con las desapariciones de stalkeres: era Tremor, el médico de Skadovsk.</text>
+		<text>Resultó que los chupasangres no tenían nada que ver con las desapariciones de stalkers: era Tremor, el médico de Skadovsk.</text>
 	</string>
 	<string id="zat_b3_get_tools_1_2_name">
 		<text>Herramientas: traiga herramientas de Cardan</text>
@@ -749,7 +749,7 @@
 		<text>Tres camaradas: descubre el destino de Barge's and Joker</text>
 	</string>
 	<string id="zat_b44_tech_buddies_both_text">
-		<text>Cardano te pidió que le pasaras sus disculpas a sus compañeros, stalkeres llamados Barge and Joker. Tuvieron una discusión y sus compañeros se marcharon en una dirección desconocida.</text>
+		<text>Cardano te pidió que le pasaras sus disculpas a sus compañeros, stalkers llamados Barge and Joker. Tuvieron una discusión y sus compañeros se marcharon en una dirección desconocida.</text>
 	</string>
 	<string id="zat_b44_tech_buddies_joker_name">
 		<text>Tres camaradas: descubre el destino del Joker</text>
@@ -842,7 +842,7 @@
 		<text>Guarida de sanguijuelas: informar a Beard que la guarida ha sido destruida</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_tell_stalkers_about_destroy_lair_text">
-		<text>Informe a Beard que ha destruido la guarida de la sanguijuela, asegurando la seguridad de los stalkeres de Skadovsk.</text>
+		<text>Informe a Beard que ha destruido la guarida de la sanguijuela, asegurando la seguridad de los stalkers de Skadovsk.</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_twist_vintil_name">
 		<text>Guarida de chupasangres: gira la válvula</text>
@@ -869,10 +869,10 @@
 		<text>Owl te ha ofrecido un trabajo: proteger a un comerciante durante una transacción. Claramente, la transacción es sombría y podría no ir muy bien.</text>
 	</string>
 	<string id="zat_b5_come_to_stalkers_name">
-		<text>Transacción: conoce a los stalkeres en la estación de guardabosques</text>
+		<text>Transacción: conoce a los stalkers en la estación de guardabosques</text>
 	</string>
 	<string id="zat_b5_come_to_stalkers_text">
-		<text>Conoce a los stalkeres en la estación de guardabosques y ayúdalos a interrumpir la transacción entre los bandidos y el comerciante de armas.</text>
+		<text>Conoce a los stalkers en la estación de guardabosques y ayúdalos a interrumpir la transacción entre los bandidos y el comerciante de armas.</text>
 	</string>
 	<string id="zat_b5_cover_dealer_name">
 		<text>Transacción: proteger al comerciante</text>
@@ -884,7 +884,7 @@
 		<text>Transacción: espiar la conversación</text>
 	</string>
 	<string id="zat_b5_intercept_talking_text">
-		<text>Los stalkeres quieren escuchar la conversación entre los bandidos y el traficante de armas.</text>
+		<text>Los stalkers quieren escuchar la conversación entre los bandidos y el traficante de armas.</text>
 	</string>
 	<string id="zat_b5_kill_dealer_name">
 		<text>Transacción: interrumpir la venta de armas</text>
@@ -938,16 +938,16 @@
 		<text>El golpe: decidir qué hacer</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_raiders_name">
-		<text>El golpe: atacar a los stalkeres</text>
+		<text>El golpe: atacar a los stalkers</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_stalkers_reward_name">
 		<text>El golpe: recoge tu recompensa</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_stalkers_reward_text">
-		<text>El ataque al campamento fue repelido, por lo que puedes hablar con los stalkeres para obtener tu recompensa. Probablemente lo habrían pasado muy mal si no hubieran sido advertidos sobre el ataque.</text>
+		<text>El ataque al campamento fue repelido, por lo que puedes hablar con los stalkers para obtener tu recompensa. Probablemente lo habrían pasado muy mal si no hubieran sido advertidos sobre el ataque.</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_text">
-		<text>Un grupo de stalkeres ha recurrido a la existencia de un bandido robando a su propia clase. Debes decidir si tomar parte en su asalto, advertir a los stalkeres o no involucrarse.</text>
+		<text>Un grupo de stalkers ha recurrido a la existencia de un bandido robando a su propia clase. Debes decidir si tomar parte en su asalto, advertir a los stalkers o no involucrarse.</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_wait_name">
 		<text>El golpe: esperar el tiempo acordado</text>
@@ -983,7 +983,7 @@
 		<text>El golpe: conocer a los ladrones</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_raiders_text">
-		<text>Únete a los ladrones en el ataque al campamento de stalkeres.</text>
+		<text>Únete a los ladrones en el ataque al campamento de stalkers.</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_stalkers_name">
 		<text>El golpe: únete a los ladrones</text>
@@ -992,7 +992,7 @@
 		<text>Los acechadores te han pedido que los ayudes a repeler a los ladrones R??-?... ataca. Deberías unirte a los ladrones. Cuando comiencen el asalto, podrás...... atacarlos por la espalda con impunidad.</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_meet_text">
-		<text>Los ladrones deberían estar esperando por Shevchenko. You???-?... tendré que reunirme con ellos para tomar parte en su asalto a los stalkeres.</text>
+		<text>Los ladrones deberían estar esperando por Shevchenko. You???-?... tendré que reunirme con ellos para tomar parte en su asalto a los stalkers.</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_wait_text">
 		<text>Espera la reunión con los ladrones. Quieren atacar el campamento de acechadores después de la medianoche, mientras que todavía está oscuro. El lugar acordado para la reunión es Shevchenko.</text>
@@ -1001,16 +1001,16 @@
 		<text>El golpe: consigue tu corte</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_raiders_reward_text">
-		<text>El ataque a los stalkeres fue exitoso y deberías obtener tu parte del botín.</text>
+		<text>El ataque a los stalkers fue exitoso y deberías obtener tu parte del botín.</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_time_text">
-		<text>Espera el momento adecuado cuando los ladrones se distraigan con el ataque. A continuación, puede atacarlos por detrás para ayudar a los stalkeres Shevchenko.</text>
+		<text>Espera el momento adecuado cuando los ladrones se distraigan con el ataque. A continuación, puede atacarlos por detrás para ayudar a los stalkers Shevchenko.</text>
 	</string>
 	<string id="zat_b30_sultan_task_8_name">
 		<text>Negocio sombrío: comienza a trabajar para Beard</text>
 	</string>
 	<string id="zat_b30_sultan_task_8_text">
-		<text>Quitar los prototipos de detectores a los stalkeres que trabajan para Beard requiere que te mezcles en sus filas. Esto le permitirá saber dónde están sus competidores.</text>
+		<text>Quitar los prototipos de detectores a los stalkers que trabajan para Beard requiere que te mezcles en sus filas. Esto le permitirá saber dónde están sus competidores.</text>
 	</string>
 	<string id="zat_b33_zaporojec_text_03">
 		<text>Debe llevar el contenedor y entregarlo a su propietario.</text>
@@ -1019,10 +1019,10 @@
 		<text>La computadora de a bordo Stingray 2 tenía mapas del área entre Zaton y Júpiter. Debes encontrar a alguien que pueda usarlos.</text>
 	</string>
 	<string id="zat_b20_ask_a_stalkers_name">
-		<text>Llegar a la meseta: hablar con stalkeres</text>
+		<text>Llegar a la meseta: hablar con stalkers</text>
 	</string>
 	<string id="zat_b20_ask_a_stalkers_text">
-		<text>Parece que aquí no hay una ruta directa a la meseta. Pregunte a los stalkeres locales sobre otras formas de llegar allí.</text>
+		<text>Parece que aquí no hay una ruta directa a la meseta. Pregunte a los stalkers locales sobre otras formas de llegar allí.</text>
 	</string>
 	<string id="zat_b30_compass_to_barmen_task_give_text">
 		<text>El artefacto que obtuviste de Noah es la brújula que Beard quiere.</text>

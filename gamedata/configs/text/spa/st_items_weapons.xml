@@ -416,7 +416,7 @@
 		<text>Granada RGD-5</text>
 	</string>
 	<string id="st_grenade_rgd5_descr">
-		<text>RGD-5 (Hand Grenade Remote, modificación - 5) es una granada de mano ofensiva con una pequeña zona de muerte de unos 3 metros. A menudo utilizado por stalkeres para "fumar" mutantes debido a su costo relativamente bajo.\n \n %c[0,93,0,116] • %c[0,140,140,140]Potencia explosiva: %c[0,170,170,170]media \n %c[0,93,0,116] • %c[0,140,140,140]Radio de explosión: %c[0,170,170,170]3,2 m \n %c[0,93,0,116] • %c[0,140,140,140]Radio de los fragmentos: %c[0,170,170,170]43 m \n %c[0,93,0,116] • %c[0,140,140,140]Av. número de fragmentos: %c[0,170,170,170]240 (pequeñas metrallas) \n %c[0,93,0,116] • %c[0,140,140,140]Retraso de la explosión: %c[0,170,170,170]~4 segundos</text>
+		<text>RGD-5 (Hand Grenade Remote, modificación - 5) es una granada de mano ofensiva con una pequeña zona de muerte de unos 3 metros. A menudo utilizado por stalkers para "fumar" mutantes debido a su costo relativamente bajo.\n \n %c[0,93,0,116] • %c[0,140,140,140]Potencia explosiva: %c[0,170,170,170]media \n %c[0,93,0,116] • %c[0,140,140,140]Radio de explosión: %c[0,170,170,170]3,2 m \n %c[0,93,0,116] • %c[0,140,140,140]Radio de los fragmentos: %c[0,170,170,170]43 m \n %c[0,93,0,116] • %c[0,140,140,140]Av. número de fragmentos: %c[0,170,170,170]240 (pequeñas metrallas) \n %c[0,93,0,116] • %c[0,140,140,140]Retraso de la explosión: %c[0,170,170,170]~4 segundos</text>
 	</string>
 	<string id="st_grenade_thermite">
 		<text>Granada termita</text>
@@ -509,13 +509,13 @@
 		<text>TOZ-66 (recortado)</text>
 	</string>
 	<string id="st_wpn_bm16_descr">
-		<text>Una escopeta de doble cañón con barriles acortados. Más ligero y más compacto, efectivo a corta distancia. Necesitando un arma barata y de corto alcance que sea efectiva y letal, muchos stalkeres novatos recurren al recortado de la culata y el barril en el TOZ 66 fácil de adquirir. Esto hace que la escopeta sea rápida de empuñar, pero a costa de alcance y precisión.</text>
+		<text>Una escopeta de doble cañón con barriles acortados. Más ligero y más compacto, efectivo a corta distancia. Necesitando un arma barata y de corto alcance que sea efectiva y letal, muchos stalkers novatos recurren al recortado de la culata y el barril en el TOZ 66 fácil de adquirir. Esto hace que la escopeta sea rápida de empuñar, pero a costa de alcance y precisión.</text>
 	</string>
 	<string id="st_wpn_bm16_full">
 		<text>TOZ-66</text>
 	</string>
 	<string id="st_wpn_bm16_full_descr"> <!-- revision -->
-		<text>El cañón de caza TOZ-66 es bien conocido por los cazadores experimentados. Fue posible lograr todas las ventajas de los modelos anteriores de rifles de caza en esta versión. Fue emitido desde 1968 hasta 1974 y logró ganar la gloria del rifle más fuerte entre los barriles gemelos de Tula. Es digno de mención que incluso los modelos modernos de TOZ de doble barril son muy inferiores al TOZ-66, que recibió un receptor intensificado. Siendo un arma poderosa y extremadamente fiable que todos los stalkeres pueden permitirse, se usa ampliamente en la Zona, pero debido al diseño voluminoso y al peso considerable, muchos stalkeres prefieren una pistola o una serrería.</text>
+		<text>El cañón de caza TOZ-66 es bien conocido por los cazadores experimentados. Fue posible lograr todas las ventajas de los modelos anteriores de rifles de caza en esta versión. Fue emitido desde 1968 hasta 1974 y logró ganar la gloria del rifle más fuerte entre los barriles gemelos de Tula. Es digno de mención que incluso los modelos modernos de TOZ de doble barril son muy inferiores al TOZ-66, que recibió un receptor intensificado. Siendo un arma poderosa y extremadamente fiable que todos los stalkers pueden permitirse, se usa ampliamente en la Zona, pero debido al diseño voluminoso y al peso considerable, muchos stalkers prefieren una pistola o una serrería.</text>
 	</string>
 	<string id="st_wpn_ppsh41">
 		<text>PPSh-41</text>
@@ -1109,7 +1109,7 @@
 		<text>Cuchillo casero</text>
 	</string>
 	<string id="st_knife_1_descr"> <!-- revision -->
-		<text>Un cuchillo crudo de producción artesanal, hecho por un artesano. Rápidamente, se vuelve inutilizable debido a la mala calidad y el bajo rendimiento de combate, especialmente para apuñalar. Sin embargo, es el tipo más común de cuchillos utilizados en la Zona por ser muy barato. Satisface las necesidades de la mayoría de los stalkeres. \n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,93,0,116] • %c[0,140,140,140]arma cuerpo a cuerpo \n %c[0,153,255,255] • %c[0,140,140,140]no apto para cortar mutantes de piel gruesa</text>
+		<text>Un cuchillo crudo de producción artesanal, hecho por un artesano. Rápidamente, se vuelve inutilizable debido a la mala calidad y el bajo rendimiento de combate, especialmente para apuñalar. Sin embargo, es el tipo más común de cuchillos utilizados en la Zona por ser muy barato. Satisface las necesidades de la mayoría de los stalkers. \n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,93,0,116] • %c[0,140,140,140]arma cuerpo a cuerpo \n %c[0,153,255,255] • %c[0,140,140,140]no apto para cortar mutantes de piel gruesa</text>
 	</string>
 	<string id="st_knife_5">
 		<text>Cuchillo de combate</text>
@@ -1133,7 +1133,7 @@
 		<text>Cuchillo turístico</text>
 	</string>
 	<string id="st_knife_3_descr"> <!-- revision -->
-		<text>Cuchillo práctico con una amplia gama de aplicaciones, desde palos para afilar hasta cortar carne y pieles gruesas de mutantes grandes como jabalíes. Es una elección preferible entre los stalkeres debido a su versatilidad y fiabilidad, los stalkeres más experimentados prefieren los cuchillos de combate de alta calidad. Las características de combate no son notables, pero con la destreza y la experiencia adecuadas puede causar un daño significativo al objetivo.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,93,0,116] • %c[0,140,140,140]cuerpo a cuerpo arma \n %c[0,153,255,255] • %c[0,140,140,140]adecuada para cortar mutantes de piel gruesa</text>
+		<text>Cuchillo práctico con una amplia gama de aplicaciones, desde palos para afilar hasta cortar carne y pieles gruesas de mutantes grandes como jabalíes. Es una elección preferible entre los stalkers debido a su versatilidad y fiabilidad, los stalkers más experimentados prefieren los cuchillos de combate de alta calidad. Las características de combate no son notables, pero con la destreza y la experiencia adecuadas puede causar un daño significativo al objetivo.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,93,0,116] • %c[0,140,140,140]cuerpo a cuerpo arma \n %c[0,153,255,255] • %c[0,140,140,140]adecuada para cortar mutantes de piel gruesa</text>
 	</string>
 	<string id="st_axe">
 		<text>Hacha</text>
@@ -1145,7 +1145,7 @@
 		<text>Palanca</text>
 	</string>
 	<string id="st_crowbar_descr">
-		<text>La mejor herramienta para romper cerraduras y romper puertas. A menudo se encuentra en áreas industriales. Algunos stalkeres lo usan como un arma contra pequeños mutantes. Aunque las corwbars no son tan populares, son bastante baratas y comunes.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,93,0,116] • %c[0,140,140,140]cuerpo a cuerpo \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]equipo y reparaciones de armas (+3%) \n %c[255,238,153,26] • %c[0,140,140,140]multiuso</text>
+		<text>La mejor herramienta para romper cerraduras y romper puertas. A menudo se encuentra en áreas industriales. Algunos stalkers lo usan como un arma contra pequeños mutantes. Aunque las corwbars no son tan populares, son bastante baratas y comunes.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,93,0,116] • %c[0,140,140,140]cuerpo a cuerpo \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]equipo y reparaciones de armas (+3%) \n %c[255,238,153,26] • %c[0,140,140,140]multiuso</text>
 	</string>
 	<string id="st_shovel_old">
 		<text>Pala</text>
@@ -1157,7 +1157,7 @@
 		<text>Martillo viejo</text>
 	</string>
 	<string id="st_hammer_descr"> <!-- revision -->
-		<text>Un martillo de hierro ordinario con mango de madera. A menudo se encuentra en áreas industriales de la Zona de exclusión. A pesar del gran peso, muchos stalkeres a menudo lo llevan en sus mochilas gracias a su utilidad en todo tipo de situaciones.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,93,0,116] • %c[0,140,140,140 ]arma cuerpo a cuerpo \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]equipo y reparaciones de armas (+3%) \n %c[255,238,153,26] • %c[0,140,140,140]de múltiples fines</text>
+		<text>Un martillo de hierro ordinario con mango de madera. A menudo se encuentra en áreas industriales de la Zona de exclusión. A pesar del gran peso, muchos stalkers a menudo lo llevan en sus mochilas gracias a su utilidad en todo tipo de situaciones.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,93,0,116] • %c[0,140,140,140 ]arma cuerpo a cuerpo \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]equipo y reparaciones de armas (+3%) \n %c[255,238,153,26] • %c[0,140,140,140]de múltiples fines</text>
 	</string>
 	<string id="st_wpn_aug">
 		<text>AGO</text>

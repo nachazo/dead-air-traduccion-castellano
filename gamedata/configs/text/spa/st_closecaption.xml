@@ -190,7 +190,7 @@
 	<!-- CLOSED CAPTIONS FOR ?CALL OF PRIPYAT? -->
 	<!-- Zaton -->
 	<string id="zat_a2_base_alarm">
-		<text>¡Atención stalkeres, Skadovsk está bajo ataque! Nos han obligado a cerrar las escotillas hasta que las cosas se calmen.</text>
+		<text>¡Atención stalkers, Skadovsk está bajo ataque! Nos han obligado a cerrar las escotillas hasta que las cosas se calmen.</text>
 	</string>
 	<string id="zat_a2_base_guard_1">
 		<text>Vamos, hombre, guarda ese arma. Este es nuestro campamento, no lo necesitas aquí.</text>
@@ -202,7 +202,7 @@
 		<text>Mira, las armas son para matar mutantes y no encontrarás ninguno aquí. Entonces, guárdalo ahora, ¿vale?</text>
 	</string>
 	<string id="zat_a2_base_relax">
-		<text>Atención stalkeres, las puertas de Skadovsk están abiertas para vosotros una vez más.</text>
+		<text>Atención stalkers, las puertas de Skadovsk están abiertas para vosotros una vez más.</text>
 	</string>
 	<string id="zat_a2_linker_b29_take_order">
 		<text>¡Estupendo! Aquí está el efectivo.</text>
@@ -235,10 +235,10 @@
 		<text>¿Qué deseas?</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_surge_phase_1">
-		<text>¡Atención stalkeres! ¡Se acerca una emisión! Repito, ¡se acerca una emisión! Buscad cobijo inmediatamente.</text>
+		<text>¡Atención stalkers! ¡Se acerca una emisión! Repito, ¡se acerca una emisión! Buscad cobijo inmediatamente.</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_surge_phase_2">
-		<text>Atención stalkeres! Una emisión comenzará en cualquier momento. Encuentra cobijo si quieres vivir!</text>
+		<text>Atención stalkers! Una emisión comenzará en cualquier momento. Encuentra cobijo si quieres vivir!</text>
 	</string>
 	<string id="zat_a23_about_x8">
 		<text>Los documentos se refieren a un laboratorio central, designado X8, que contiene información sobre experimentos secretos realizados en la Zona. Nuestros analistas han estado interesadosen este tema durante bastante tiempo.</text>
@@ -502,7 +502,7 @@
 		<text>Entonces, ¿tienes algo nuevo?</text>
 	</string>
 	<string id="zat_b30_owl_stalker_trader_greeting_2">
-		<text>¿Qué eres, una estatua? Si tienes algo, derrama los frijoles. Si no, ¡toma una caminata!</text>
+		<text>¿Qué eres, una estatua? Si tienes algo, derrama los judias. Si no, ¡toma una caminata!</text>
 	</string>
 	<string id="zat_b33_stalker_snag_greeting_gun">
 		<text>Wow, es un buen arma! Déjame echarle un vistazo.</text>
@@ -577,7 +577,7 @@
 		<text>¡Bajar!</text>
 	</string>
 	<string id="zat_b38_stalker_cop_tell_about_quest">
-		<text>No encontramos al cazador, pero tengo una idea de dónde podría estar. Déjame verlo, luego me pondré en contacto contigo. Mientras hago eso, deja que los stalkeres sepan sobre estos idiotas chupadores de sangre. Algo debe hacerse sobre ellos.</text>
+		<text>No encontramos al cazador, pero tengo una idea de dónde podría estar. Déjame verlo, luego me pondré en contacto contigo. Mientras hago eso, deja que los stalkers sepan sobre estos idiotas chupadores de sangre. Algo debe hacerse sobre ellos.</text>
 	</string>
 	<string id="zat_b38_stalker_cop_tell_stalker_about_lair">
 		<text>Necesitamos decirle a Beard sobre esto. Esperemos que él sepa cómo lidiar con estos bastardos</text>
@@ -804,7 +804,7 @@
 		<text>Te encontraré en la antigua estación de trenes.</text>
 	</string>
 	<string id="jup_a6_base_alarm">
-		<text>Atención a todos los stalkeres y a cualquier otra persona a quien le importe, ¡la estación de Yanov ha sido atacada! Por el momento hemos bloqueado todas las entradas.</text>
+		<text>Atención a todos los stalkers y a cualquier otra persona a quien le importe, ¡la estación de Yanov ha sido atacada! Por el momento hemos bloqueado todas las entradas.</text>
 	</string>
 	<string id="jup_a6_base_guard_1">
 		<text>Guarda esa arma. Esta es un área neutral.</text>
@@ -825,7 +825,7 @@
 		<text>Stalker, si quieres entrar, enfunda tu arma.</text>
 	</string>
 	<string id="jup_a6_base_relax">
-		<text>Atención a todos los stalkeres y a cualquier otra persona a quien le importe, Yanov está seguro de nuevo. Le invitamos a visitar en cualquier momento.</text>
+		<text>Atención a todos los stalkers y a cualquier otra persona a quien le importe, Yanov está seguro de nuevo. Le invitamos a visitar en cualquier momento.</text>
 	</string>
 	<string id="jup_a6_duty_leader_farewell_1">
 		<text>Te veo de nuevo algún tiempo, stalker!</text>
@@ -1092,7 +1092,7 @@
 		<text>Bueno, propongo un brindis por un valiente escuadrón de hombres de Duty, enviados a las líneas del frente para una patada en el culo de escoria verde.</text>
 	</string>
 	<string id="jup_b221_duty_main_2">
-		<text>¿Te he contado la historia de Flint? Primero instaló cazadores stalkeres para ser atacados por una quimera, luego dejó a su compañero para morir en una anomalía y luego se unió a Freedom. Yo diría que esa es una conclusión bastante lógica allí mismo. Entonces, yo diría que bebemos con la esperanza de que todos los miembros de Freedom sigan su ejemplo y que nos ocupemos de quien sea que quede.</text>
+		<text>¿Te he contado la historia de Flint? Primero instaló cazadores stalkers para ser atacados por una quimera, luego dejó a su compañero para morir en una anomalía y luego se unió a Freedom. Yo diría que esa es una conclusión bastante lógica allí mismo. Entonces, yo diría que bebemos con la esperanza de que todos los miembros de Freedom sigan su ejemplo y que nos ocupemos de quien sea que quede.</text>
 	</string>
 	<string id="jup_b221_duty_main_3">
 		<text>Tomemos el hecho de que incluso en el centro de la Zona hay personas que están dispuestas a servir a Duty. ¡A nuestro nuevo escuadrón!</text>
@@ -1173,7 +1173,7 @@
 		<text>Todos tienen uno de esos. El deber es un verdadero refugio para los hipócritas. "Protegeremos al mundo de la Zona" justo después de recoger algunos artefactos.</text>
 	</string>
 	<string id="jup_b221_freedom_reply_3">
-		<text>Buen negocio. Fanático debe quedarse con los fanáticos. También debe usar uniformes Monolith. Para que los stalkeres no puedan confundirte con los humanos.</text>
+		<text>Buen negocio. Fanático debe quedarse con los fanáticos. También debe usar uniformes Monolith. Para que los stalkers no puedan confundirte con los humanos.</text>
 	</string>
 	<string id="jup_b221_freedom_reply_4">
 		<text>De mutantes? ¿Estás seguro de que tendrás suficiente espacio en ese búnker cuando los mutantes salgan en fuerza? No es como si fuera la barra 100 Rads. No puedes simplemente esconderte allí y esperarlo.</text>
@@ -1251,7 +1251,7 @@
 		<text>No tenemos una jerarquía estricta. Gánate nuestro respeto, y obtendrás muchos seguidores. Sin embargo, cuando estamos en una misión obedecemos las órdenes del comandante sin cuestionarnos.</text>
 	</string>
 	<string id="jup_b4_freedom_squad_leader_speech">
-		<text>Respetamos la libertad de nuestros miembros y otros stalkeres, y creemos que la Zona está abierta a todos. Al ser el mejor regalo que la humanidad ha recibido, es una oportunidad de dar un gran salto en nuestro desarrollo, y todos deben comprenderlo.</text>
+		<text>Respetamos la libertad de nuestros miembros y otros stalkers, y creemos que la Zona está abierta a todos. Al ser el mejor regalo que la humanidad ha recibido, es una oportunidad de dar un gran salto en nuestro desarrollo, y todos deben comprenderlo.</text>
 	</string>
 	<string id="jup_b4_freedom_squad_leader_welcome_to_freedom">
 		<text>Entonces, bienvenido a Freedom!</text>
@@ -1299,10 +1299,10 @@
 		<text>¡Lo juramos!</text>
 	</string>
 	<string id="jup_b41_base_alarm">
-		<text>¡Atención Atención! Este es Hermann. El laboratorio de ciencias está bajo ataque. No permitiremos a los stalkeres por un tiempo.</text>
+		<text>¡Atención Atención! Este es Hermann. El laboratorio de ciencias está bajo ataque. No permitiremos a los stalkers por un tiempo.</text>
 	</string>
 	<string id="jup_b41_base_relax">
-		<text>¡Atención Atención! Este es Hermann. Nuestro laboratorio móvil está abierto a los stalkeres una vez más.</text>
+		<text>¡Atención Atención! Este es Hermann. Nuestro laboratorio móvil está abierto a los stalkers una vez más.</text>
 	</string>
 	<string id="jup_b41_bunker_megaphone_1">
 		<text>Stalker! Debo advertirte que entrar al bunker con un arma está estrictamente prohibido.</text>
@@ -2290,7 +2290,7 @@
 		<text>¡Vamos a movernos a la derecha a lo largo del edificio! ¡Doble tiempo!</text>
 	</string>
 	<string id="pri_a28_continuation">
-		<text>Mierda, ¿sigues aquí? Bueno, si necesitas algo, encuéntrame en la base. He vuelto y he traído stalkeres esta vez.</text> <!-- Bug in xenglish.db (this file should be named jup_a12_stalker_diplomat_no_talk_pda as it says ?I don?t trust you?? with a PDA voice effect -->
+		<text>Mierda, ¿sigues aquí? Bueno, si necesitas algo, encuéntrame en la base. He vuelto y he traído stalkers esta vez.</text> <!-- Bug in xenglish.db (this file should be named jup_a12_stalker_diplomat_no_talk_pda as it says ?I don?t trust you?? with a PDA voice effect -->
 	</string>
 	<string id="pri_a28_evac_com_cant_wait">
 		<text>Nuestras órdenes son despegar si nos atacan, ¡así que date prisa!</text>

@@ -37,7 +37,7 @@
 		<text>Equipado con un rifle de asalto, dos semanas de suministros y una radio para comunicarse con la sede, comienza su viaje hacia el centro de la Zona.</text>
 	</string>
 	<string id="zat_a1_cutscene_phrase_13">
-		<text>Hablar con stalkeres no produce resultados... O no tienen la información o no quieren compartirla...</text>
+		<text>Hablar con stalkers no produce resultados... O no tienen la información o no quieren compartirla...</text>
 	</string>
 	<string id="zat_a1_cutscene_phrase_14">
 		<text>La Zona aprovecha cada oportunidad para recordarle al Mayor que no es un recurso. No pasa un día sin un ataque de mutantes o, peor aún, personas.</text>
@@ -58,13 +58,13 @@
 		<text>Varias muestras experimentales se realizaron sobre la base de documentos técnicos para el ítem 62. Luego de una serie de pruebas, se decidió no continuar con el despliegue a gran escala del arma debido al alto costo de la munición. No obstante, hay evidencia de que está en curso un desarrollo secreto adicional del rifle Gauss.</text>
 	</string>
 	<string id="pri_a28_outro_phrase_4_a">
-		<text>Sultan y su pandilla abandonaron el Skadovsk después de que fracasaran sus intentos de capturar el barco. La consiguiente sensación de relativa seguridad entre los stalkeres llevó a un aumento masivo en el número de artefactos vendidos a Beard, haciendo que su negocio floreciera, mientras que el Skadovsk se hizo casi tan popular como el famoso bar 100 Rads.</text>
+		<text>Sultan y su pandilla abandonaron el Skadovsk después de que fracasaran sus intentos de capturar el barco. La consiguiente sensación de relativa seguridad entre los stalkers llevó a un aumento masivo en el número de artefactos vendidos a Beard, haciendo que su negocio floreciera, mientras que el Skadovsk se hizo casi tan popular como el famoso bar 100 Rads.</text>
 	</string>
 	<string id="pri_a28_outro_phrase_4_b">
-		<text>El orden social de Sultan se estableció firmemente en su lugar en el Skadovsk, y el buque se convirtió en una base de bandidos. No dispuesto a seguir pagando las tarifas de protección, Beard se puso en camino con un grupo de stalkeres para explorar las regiones todavía inexploradas de la Zona. Los intentos de Stalker de recuperar el control de la nave cesaron rápidamente después de que algunos personajes ingobernables se convirtieran en un ejemplo al ser arrojados del barco para morir en emisiones.</text>
+		<text>El orden social de Sultan se estableció firmemente en su lugar en el Skadovsk, y el buque se convirtió en una base de bandidos. No dispuesto a seguir pagando las tarifas de protección, Beard se puso en camino con un grupo de stalkers para explorar las regiones todavía inexploradas de la Zona. Los intentos de Stalker de recuperar el control de la nave cesaron rápidamente después de que algunos personajes ingobernables se convirtieran en un ejemplo al ser arrojados del barco para morir en emisiones.</text>
 	</string>
 	<string id="pri_a28_outro_phrase_4_c">
-		<text>Skadovsk se mantuvo como el hogar de todos aquellos que tuvieron la suerte de alcanzarlo. Los bandidos intentaron establecer su llamado 'orden' en el barco, pero los stalkeres los mantuvieron a raya. Una frágil paz estalló en el barco.</text>
+		<text>Skadovsk se mantuvo como el hogar de todos aquellos que tuvieron la suerte de alcanzarlo. Los bandidos intentaron establecer su llamado 'orden' en el barco, pero los stalkers los mantuvieron a raya. Una frágil paz estalló en el barco.</text>
 	</string>
 	<string id="pri_a28_outro_phrase_5_a">
 		<text>Desafortunadamente, no duró mucho. Los chupasangres de la guarida cerca del Skadovsk se dirigieron a la nave. Cuando los ataques de sangre comenzaron a ocurrir incluso a plena luz del día, se lanzó una misión para enfrentar el problema. Desafortunadamente, la operación no logró despejar los túneles, y poco después una ola de depredadores barrió a los residentes del barco en el olvido.</text>
@@ -73,13 +73,13 @@
 		<text>Después de la destrucción de la guarida de la sanguijuela, los mutantes no pudieron afectar significativamente el estado de las cosas en el Skadovsk. Durante un tiempo, el viejo barco se convirtió en un centro de relativa estabilidad en el mundo en constante cambio que es la Zona.</text>
 	</string>
 	<string id="pri_a28_outro_phrase_6_a">
-		<text>Freedom logró ganarse la confianza de los stalkeres en la estación de Yanov. Duty organizó un asalto en un intento por recuperar el terreno perdido, pero el teniente coronel Shulga murió en el tiroteo que siguió. El equipo de Duty se vino abajo rápidamente después de perder a su comandante.</text>
+		<text>Freedom logró ganarse la confianza de los stalkers en la estación de Yanov. Duty organizó un asalto en un intento por recuperar el terreno perdido, pero el teniente coronel Shulga murió en el tiroteo que siguió. El equipo de Duty se vino abajo rápidamente después de perder a su comandante.</text>
 	</string>
 	<string id="pri_a28_outro_phrase_6_b">
-		<text>Los nuevos reclutas y la creciente popularidad entre los stalkeres permitieron a Duty expulsar a Freedom de la estación de Yanov. Loki y su escuadrón de la Libertad murieron después de una feroz batalla.</text>
+		<text>Los nuevos reclutas y la creciente popularidad entre los stalkers permitieron a Duty expulsar a Freedom de la estación de Yanov. Loki y su escuadrón de la Libertad murieron después de una feroz batalla.</text>
 	</string>
 	<string id="pri_a28_outro_phrase_6_c">
-		<text>Se llegó a un equilibrio frágil entre los escuadrones de Freedom y Duty en la estación de Yanov. Cansadosde la lucha inútil, los combatientes de ambas facciones comenzaron a abandonar sus escuadrones y unirse a los stalkeres libres.</text>
+		<text>Se llegó a un equilibrio frágil entre los escuadrones de Freedom y Duty en la estación de Yanov. Cansadosde la lucha inútil, los combatientes de ambas facciones comenzaron a abandonar sus escuadrones y unirse a los stalkers libres.</text>
 	</string>
 	<string id="pri_a28_outro_phrase_7_a">
 		<text>La expedición de investigación científica organizada por los profesores Hermann y Ozersky fue un éxito. La información que recopilaron facilitó el desarrollo de varios dispositivos y medicamentos únicos. A la luz de esto, el financiamiento de los programas de investigación en la Zona se incrementó enormemente.</text>
@@ -88,19 +88,19 @@
 		<text>La expedición de investigación científica organizada por los profesores Hermann y Ozersky no recopiló suficientes datos y fue retirada. Al regresar al mundo exterior, los dos científicos procedieron a participar en un trabajo no relacionado.</text>
 	</string>
 	<string id="pri_a28_outro_phrase_8_a">
-		<text>Las historias de Garry sobre la lucha del ejército contra los peligros de Pripyat interesaron a muchos, y varios grupos pronto comenzaron a explorar el pueblo fantasma. A pesar de los constantes ataques de Monolith, los stalkeres lograron cavar en el antiguo campamento del ejército, que utilizaron como base para lanzar incursiones en las profundidades de la ciudad, logrando un progreso constante.</text>
+		<text>Las historias de Garry sobre la lucha del ejército contra los peligros de Pripyat interesaron a muchos, y varios grupos pronto comenzaron a explorar el pueblo fantasma. A pesar de los constantes ataques de Monolith, los stalkers lograron cavar en el antiguo campamento del ejército, que utilizaron como base para lanzar incursiones en las profundidades de la ciudad, logrando un progreso constante.</text>
 	</string>
 	<string id="pri_a28_outro_phrase_8_b">
-		<text>La historia de Garry sobre el destino del ejército asustó a los stalkeres lejos de Pripyat. Los pocos que se atrevieron a aventurarse en la ciudad se encontraron con fenómenos inexplicables y aterradores, que agregaron más trazos oscuros a una imagen ya sombría de la ciudad muerta.</text>
+		<text>La historia de Garry sobre el destino del ejército asustó a los stalkers lejos de Pripyat. Los pocos que se atrevieron a aventurarse en la ciudad se encontraron con fenómenos inexplicables y aterradores, que agregaron más trazos oscuros a una imagen ya sombría de la ciudad muerta.</text>
 	</string>
 	<string id="pri_a28_outro_phrase_9">
-		<text>El Oasis ya no era leyenda. La identidad de aquellos que lograron encontrar el camino para esta anomalía secreta se convirtió en un tema de conversación cada vez más frecuente entre los stalkeres. El número de aventureros que intentan seguir el ejemplo sigue siendo alto, algo que los bandidos continúan aprovechando. Los novatos son engañados por sus ofertas para llevarlos al Oasis, que generalmente termina en asaltos a una distancia segura de otros stalkeres.</text>
+		<text>El Oasis ya no era leyenda. La identidad de aquellos que lograron encontrar el camino para esta anomalía secreta se convirtió en un tema de conversación cada vez más frecuente entre los stalkers. El número de aventureros que intentan seguir el ejemplo sigue siendo alto, algo que los bandidos continúan aprovechando. Los novatos son engañados por sus ofertas para llevarlos al Oasis, que generalmente termina en asaltos a una distancia segura de otros stalkers.</text>
 	</string>
 	<string id="pri_a28_outro_phrase_10">
 		<text>Los escuadrones de mercenarios continúan activos en la Zona. Su interés en los laboratorios secretos ha crecido y atrajo la intensa atención del USS. A pesar de esto, los intentos de establecer la identidad del cliente detrás de los mercenarios resultaron infructuosos.</text>
 	</string>
 	<string id="pri_a28_outro_phrase_11_a">
-		<text>El área alrededor de la estación de Yanov continúa atrayendo un número creciente de stalkeres. La falta de mutantes peligrosos y la abundancia de áreas de anomalías han llevado a que los stalkeres mencionen el área como un "tesoro escondido" con una regularidad creciente.</text>
+		<text>El área alrededor de la estación de Yanov continúa atrayendo un número creciente de stalkers. La falta de mutantes peligrosos y la abundancia de áreas de anomalías han llevado a que los stalkers mencionen el área como un "tesoro escondido" con una regularidad creciente.</text>
 	</string>
 	<string id="pri_a28_outro_phrase_11_b">
 		<text>El área alrededor de la estación de Yanov ganó la reputación de ser uno de los lugares más peligrosos de la Zona. Cada vez menos acechadores regresaron de las redadas, muchos murieron a manos de mutantes a la vista del campamento. Uno de esos desaparecidos es Zveroboi, quien se propuso rastrear una quimera en lo que parece haber sido su última cacería.</text>
@@ -115,7 +115,7 @@
 		<text>Vano se dirigió a los almacenes militares controlados por la Libertad, donde su alegre personalidad y optimismo le valieron rápidamente la popularidad que merecían. En última instancia, se hizo cargo de un pequeño grupo de investigadores involucrados en la investigación de áreas de anomalías.</text>
 	</string>
 	<string id="pri_a28_outro_phrase_13_b">
-		<text>Los stalkeres en la estación de Yanov todavía piensan en el alegre Vano de vez en cuando, recordando su despreocupación y sus habilidades de acechador natural. El consenso es que dada su suerte, Vano cometió un gran error al decidir buscar un camino a Pripyat.</text>
+		<text>Los stalkers en la estación de Yanov todavía piensan en el alegre Vano de vez en cuando, recordando su despreocupación y sus habilidades de acechador natural. El consenso es que dada su suerte, Vano cometió un gran error al decidir buscar un camino a Pripyat.</text>
 	</string>
 	<string id="pri_a28_outro_phrase_14_a">
 		<text>Un nuevo grupo stalker apareció en la Zona. Están bien entrenados pero sus objetivos son desconocidos. Los rumores no confirmados sugieren que solían ser luchadores de Monolith, con el escuadrón liderado por un hombre conocido como Strider.</text>
@@ -133,7 +133,7 @@
 		<text>Owl estableció buenos contactos con clientes fuera de la Zona. Intercambia información, y si los rumores son ciertos, uno de sus principales clientes es el USS.</text>
 	</string>
 	<string id="pri_a28_outro_phrase_17">
-		<text>Un grupo de stalkeres fue forzado a buscar refugio en la vieja barcaza de Noé durante una emisión especialmente poderosa. La barcaza fue atacada por una horda de esnórquel poco después, y los stalkeres rápidamente se dieron cuenta de que la barcaza era una pequeña pero formidable fortaleza. Aún más sorprendente fue una camada de cachorros pseudodog que el propio Noah lideró en la batalla contra los buceadores.</text>
+		<text>Un grupo de stalkers fue forzado a buscar refugio en la vieja barcaza de Noé durante una emisión especialmente poderosa. La barcaza fue atacada por una horda de esnórquel poco después, y los stalkers rápidamente se dieron cuenta de que la barcaza era una pequeña pero formidable fortaleza. Aún más sorprendente fue una camada de cachorros pseudodog que el propio Noah lideró en la batalla contra los buceadores.</text>
 	</string>
 	<string id="pri_a28_outro_phrase_18_a">
 		<text>Al descubrir el destino de sus amigos, Cardan abandonó sus sueños de una carrera de stalker. Habiendo superado su alcoholismo, se mudó a Yanov, donde se asoció con Nitro para establecer un taller de reparación de servicio completo. Ambos técnicos dedican con mucho gusto todo su tiempo libre a la construcción de un vehículo adecuado para el medio ambiente implacable de la Zona.</text>

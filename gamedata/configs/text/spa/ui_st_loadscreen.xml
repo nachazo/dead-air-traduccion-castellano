@@ -46,7 +46,7 @@
 	</string>
 	
 	<string id="ls_tip_8">
-		<text>Las mochilas se pueden comprar o encontrar y luego se pueden usar para crear un escondite personalizado. Las estrategias creadas por el jugador nunca se deshacen ni son saqueadas por otros stalkeres. Son permanentes hasta que se eliminen todos los elementos.</text>
+		<text>Las mochilas se pueden comprar o encontrar y luego se pueden usar para crear un escondite personalizado. Las estrategias creadas por el jugador nunca se deshacen ni son saqueadas por otros stalkers. Son permanentes hasta que se eliminen todos los elementos.</text>
 	</string>
 	
 	<string id="ls_tip_9">
@@ -74,7 +74,7 @@
 	</string>
 	
 	<string id="ls_tip_15">
-		<text>La reputación es una representación de cómo un stalker es visto por su facción. Se gana y se pierde al ayudar o dañar a los stalkeres no hostiles, respectivamente.</text>
+		<text>La reputación es una representación de cómo un stalker es visto por su facción. Se gana y se pierde al ayudar o dañar a los stalkers no hostiles, respectivamente.</text>
 	</string>
 	
 	<string id="ls_tip_16">
@@ -86,7 +86,7 @@
 	</string>
 	
 	<string id="ls_tip_18">
-		<text>Recuerde preguntar a los stalkeres regulares si tienen trabajos disponibles. El hecho de que no sean importantes no significa que no estén dispuestos a pagarle para que haga su trabajo sucio.</text>
+		<text>Recuerde preguntar a los stalkers regulares si tienen trabajos disponibles. El hecho de que no sean importantes no significa que no estén dispuestos a pagarle para que haga su trabajo sucio.</text>
 	</string>
 	
 	<string id="ls_tip_19">
@@ -94,7 +94,7 @@
 	</string>
 	
 	<string id="ls_tip_20">
-		<text>El radio de exclusión en línea se puede establecer a través de las opciones del juego y el valor predeterminado es 25m. Crea un área sin generación alrededor del jugador que evita que los mutantes y otros stalkeres se reproduzcan de manera injusta y peligrosa.</text>
+		<text>El radio de exclusión en línea se puede establecer a través de las opciones del juego y el valor predeterminado es 25m. Crea un área sin generación alrededor del jugador que evita que los mutantes y otros stalkers se reproduzcan de manera injusta y peligrosa.</text>
 	</string>
 	
 	<string id="ls_tip_21">

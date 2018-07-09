@@ -23,13 +23,13 @@
 		<text>Que si vas allí, todos tus problemas serán resueltos... creo que tiene que ser útil, ¡no más resacas o hemorroides tienen que ser buenas! Encuéntrelo, establezca un centro turístico y permita que se acumule el efectivo.</text>
 	</string>
 	<string id="about_quests_dialog_bandit_113">
-		<text>¿Por qué me molestaría escuchar esa mierda? Todo lo que es, es una charla barata para los perdedores... Los hombres de verdad no creen esa mierda. Ya sabes, estás sentado en un bar con una cerveza fría en la mano y los stalkeres están zumbando por todas partes, discutiendo dónde está el Oasis. Y cada uno de esos tontos jura que conoce la ubicación... Aunque por alguna razón difiere de tonto a tonto.</text>
+		<text>¿Por qué me molestaría escuchar esa mierda? Todo lo que es, es una charla barata para los perdedores... Los hombres de verdad no creen esa mierda. Ya sabes, estás sentado en un bar con una cerveza fría en la mano y los stalkers están zumbando por todas partes, discutiendo dónde está el Oasis. Y cada uno de esos tontos jura que conoce la ubicación... Aunque por alguna razón difiere de tonto a tonto.</text>
 	</string>
 	<string id="about_quests_dialog_bandit_12">
 		<text>¿Alguna vez has conocido a un stalker llamado Magpie?</text>
 	</string>
 	<string id="about_quests_dialog_bandit_121">
-		<text>Claro que... Una mirada a él me dijo que era un completo tonto. He oído a los stalkeres diciendo que él es una escoria total, también. Aunque no sé dónde está... Tendrás que encontrarlo tú mismo si lo buscas.</text>
+		<text>Claro que... Una mirada a él me dijo que era un completo tonto. He oído a los stalkers diciendo que él es una escoria total, también. Aunque no sé dónde está... Tendrás que encontrarlo tú mismo si lo buscas.</text>
 	</string>
 	<string id="about_quests_dialog_bandit_122">
 		<text>Nah... La primera vez que escuché ese nombre, amigo.</text>
@@ -65,7 +65,7 @@
 		<text>Bueno, si necesita herramientas quirúrgicas las buscaría en hospitales y estaciones de emergencia. Si está buscando herramientas de construcción, busque en la cantera de Jupiter. Si buscas herramientas pequeñas, busca talleres antiguos.</text>
 	</string>
 	<string id="about_quests_dialog_bandit_166">
-		<text>¿Cómo diablos debería saber? No necesito herramientas para convencer a los stalkeres de que tosen, solo para que lo sepas... Relájate, solo estoy bromeando.</text>
+		<text>¿Cómo diablos debería saber? No necesito herramientas para convencer a los stalkers de que tosen, solo para que lo sepas... Relájate, solo estoy bromeando.</text>
 	</string>
 	<string id="about_quests_dialog_bandit_17">
 		<text>¿Quién puede desbloquear un módulo de memoria?</text>
@@ -104,7 +104,7 @@
 		<text>¡No conozco a nadie que no esté interesado! Esa es una información explosiva, amigo, así que tu mejor opción es atravesar a Owl en Skadovsk, de esa forma obtendrás algo de dinero pero no crearás ningún enemigo.</text>
 	</string>
 	<string id="about_quests_dialog_bandit_22">
-		<text>No. Piénsalo, tengo a Duty a la izquierda, Freedom a la derecha y stalkeres por mi trasero, ¿y esperas que mantengo mis ojos en el cielo?</text>
+		<text>No. Piénsalo, tengo a Duty a la izquierda, Freedom a la derecha y stalkers por mi trasero, ¿y esperas que mantengo mis ojos en el cielo?</text>
 	</string>
 	<string id="about_quests_dialog_bandit_23">
 		<text>Bueno, los muchachos dijeron que vieron a uno de los cables en el Bosque de Hierro, pero vas a ver mucho más que eso... Es probable que te topes con una anomalía o que te aplasta el cráneo con un poltergeist.</text>
@@ -155,13 +155,13 @@
 		<text>Hola amigo, ¿me veo como una guía o algo así? Quiero decir, ¿hay un tatuaje en mi frente que diga "Haga preguntas estúpidas aquí" o algo así? Ve a preguntar a Pilot, le pagan para responder preguntas sobre esa mierda.</text>
 	</string>
 	<string id="about_quests_dialog_bandit_44">
-		<text>No... ¿Qué haría allí de todos modos? ¡No hay stalkeres para estafar!</text>
+		<text>No... ¿Qué haría allí de todos modos? ¡No hay stalkers para estafar!</text>
 	</string>
 	<string id="about_quests_dialog_bandit_5">
 		<text>¿Puedes sugerir a alguien que no esté demasiado atado que esté dispuesto a hacer un movimiento para Pripyat?</text>
 	</string>
 	<string id="about_quests_dialog_bandit_51">
-		<text>Pripyat no es un lugar para hombres como nosotros. Piénselo, está lleno de mutantes y anomalías... como el resto de la Zona... pero sin acechadores y su botín. Cuando aparezcan stalkeres en Pripyat, dennos un grito y nos dirigiremos allí para mantener el orden natural de las cosas.</text>
+		<text>Pripyat no es un lugar para hombres como nosotros. Piénselo, está lleno de mutantes y anomalías... como el resto de la Zona... pero sin acechadores y su botín. Cuando aparezcan stalkers en Pripyat, dennos un grito y nos dirigiremos allí para mantener el orden natural de las cosas.</text>
 	</string>
 	<string id="about_quests_dialog_bandit_57">
 		<text>Ni idea, amigo. Lo siento.</text>
@@ -173,7 +173,7 @@
 		<text>Bueno, les preguntaría a los técnicos. Quiero decir, es asunto de ellos saber esta mierda, ¿verdad?</text>
 	</string>
 	<string id="about_quests_dialog_bandit_63">
-		<text>Me gana, pero los stalkeres de Skadovsk creen que Cardan es un genio técnico o algo así. Habla con él si quieres... Es solo un viejo borracho si me preguntas.</text>
+		<text>Me gana, pero los stalkers de Skadovsk creen que Cardan es un genio técnico o algo así. Habla con él si quieres... Es solo un viejo borracho si me preguntas.</text>
 	</string>
 	<string id="about_quests_dialog_bandit_7">
 		<text>¿A quién podría contratar para tomar medidas para los científicos?</text>
@@ -217,7 +217,7 @@
 		<text>¿Oyes algo sobre el Oasis?</text>
 	</string>
 	<string id="about_quests_dialog_dolg_111">
-		<text>Es un cuento de hadas stalker. Eso es lo que hacen los stalkeres: inventan una mierda que no es verdad y luego todos se juntan y la buscan. Yo ignoraría esas cosas si fuera tú. Es como un mito de entrada: créelo y creerá que Wish Granter existe en poco tiempo.</text>
+		<text>Es un cuento de hadas stalker. Eso es lo que hacen los stalkers: inventan una mierda que no es verdad y luego todos se juntan y la buscan. Yo ignoraría esas cosas si fuera tú. Es como un mito de entrada: créelo y creerá que Wish Granter existe en poco tiempo.</text>
 	</string>
 	<string id="about_quests_dialog_dolg_112">
 		<text>Ah, ese lugar donde las heridas se curan por sí mismas y tu energía se repone mágicamente. Tengo noticias para ti, amigo: no existe. Los Stalkers inventan esa porquería para hacer que Zone parezca menos peligrosa de lo que es, pero la dura realidad es que no hay lugares seguros en la Zona. Y tienes que mantener una firme comprensión de esa realidad, los tipos de soñador no duran mucho en la Zona.</text>
@@ -229,7 +229,7 @@
 		<text>¿Alguna vez has conocido a un stalker llamado Magpie?</text>
 	</string>
 	<string id="about_quests_dialog_dolg_121">
-		<text>Me cuesta recordar a todas las personas en deber y me preguntas por los stalkeres. Tienen su base en Skadovsk, ve a preguntar allí.</text>
+		<text>Me cuesta recordar a todas las personas en deber y me preguntas por los stalkers. Tienen su base en Skadovsk, ve a preguntar allí.</text>
 	</string>
 	<string id="about_quests_dialog_dolg_122">
 		<text>No, no lo hice.</text>
@@ -283,7 +283,7 @@
 		<text>¿Quién podría entrar en un contenedor de acero?</text>
 	</string>
 	<string id="about_quests_dialog_dolg_181">
-		<text>Dicen que hay un técnico entre los stalkeres. Aparentemente, él está borracho, pero él sabe lo que está haciendo. Hablale.</text>
+		<text>Dicen que hay un técnico entre los stalkers. Aparentemente, él está borracho, pero él sabe lo que está haciendo. Hablale.</text>
 	</string>
 	<string id="about_quests_dialog_dolg_182">
 		<text>Ja, bien podrías llevar una caja de seguridad contigo. Estoy seguro de que Nitro no podrá ayudarte con eso... si tuviera una cerradura electrónica, podría ser una historia diferente...</text>
@@ -292,7 +292,7 @@
 		<text>Estoy buscando un stalker llamado Snag. ¿Sabes dónde puedo encontrarlo?</text>
 	</string>
 	<string id="about_quests_dialog_dolg_191">
-		<text>Será mejor que les preguntes a los stalkeres, ellos conocen los suyos. Nunca he oído hablar de Snog o como se llame.</text>
+		<text>Será mejor que les preguntes a los stalkers, ellos conocen los suyos. Nunca he oído hablar de Snog o como se llame.</text>
 	</string>
 	<string id="about_quests_dialog_dolg_2">
 		<text>¿Sabes algo sobre los helicópteros estrellados?</text>
@@ -400,7 +400,7 @@
 		<text>Los artefactos son extraños y tampoco te aconsejaría que te los carguen. Entregarlo a los expertos y terminar con eso.</text>
 	</string>
 	<string id="about_quests_dialog_dolg_83">
-		<text>Deberías mostrarle eso a los stalkeres, son expertos en ese tipo de mierda. Mejor aún, enséñeselo a la persona a quien le venden sus artefactos.</text>
+		<text>Deberías mostrarle eso a los stalkers, son expertos en ese tipo de mierda. Mejor aún, enséñeselo a la persona a quien le venden sus artefactos.</text>
 	</string>
 	<string id="about_quests_dialog_dolg_9">
 		<text>Encontré una guarida de chupasangre cerca. ¿Qué vamos a hacer?</text>
@@ -423,7 +423,7 @@
 		<text>¿Qué piensas de Nimble?</text>
 	</string>
 	<string id="about_quests_dialog_freedom_101">
-		<text>No he oído mucho sobre él... Será mejor que les preguntes a los stalkeres, él es uno de ellos, ¿no?</text>
+		<text>No he oído mucho sobre él... Será mejor que les preguntes a los stalkers, él es uno de ellos, ¿no?</text>
 	</string>
 	<string id="about_quests_dialog_freedom_11">
 		<text>¿Oyes algo sobre el Oasis?</text>
@@ -435,13 +435,13 @@
 		<text>Bueno, escuché una historia interesante de este stalker. Creo que fue la primera persona en mencionarme el Oasis. Dijo que, según la leyenda, todas tus heridas se curan allí y te tranquilizas y te relajas, como si no estuvieras en la Zona. No lo había visto desde... Fue solo después de que se fue que recordé que solía caminar cojo, pero cuando se fue, caminó derecho y parecía que se había vuelto muchísimo más joven.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_113">
-		<text>Sí, los stalkeres libres me dieron las coordenadas... Diez conjuntos diferentes de coordenadas. Poniéndolos juntos nos da un área desde el Scorcher al CNPP con el bar Yanov en algún lugar cerca del centro. Es muy posible que estemos en el Oasis en este momento, ¡así que disfrútalo!</text>
+		<text>Sí, los stalkers libres me dieron las coordenadas... Diez conjuntos diferentes de coordenadas. Poniéndolos juntos nos da un área desde el Scorcher al CNPP con el bar Yanov en algún lugar cerca del centro. Es muy posible que estemos en el Oasis en este momento, ¡así que disfrútalo!</text>
 	</string>
 	<string id="about_quests_dialog_freedom_12">
 		<text>¿Alguna vez has conocido a un stalker llamado Magpie?</text>
 	</string>
 	<string id="about_quests_dialog_freedom_121">
-		<text>Nah. No conozco muchos stalkeres libres por aquí.</text>
+		<text>Nah. No conozco muchos stalkers libres por aquí.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_122">
 		<text>¿Urraca? Nah, pero ese es un nombre genial.</text>
@@ -465,7 +465,7 @@
 		<text>Tengo el PDA del operador Duty. ¿Conoces a alguien a quien le interese?</text>
 	</string>
 	<string id="about_quests_dialog_freedom_151">
-		<text>¡Eso suena interesante! Se lo daría a Loki, nuestro líder en Yanov. Se asegurará de que los stalkeres libres sepan qué clase de Duty popular recluta en sus filas.</text>
+		<text>¡Eso suena interesante! Se lo daría a Loki, nuestro líder en Yanov. Se asegurará de que los stalkers libres sepan qué clase de Duty popular recluta en sus filas.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_16">
 		<text>¿Dónde puedo encontrar herramientas por aquí?</text>
@@ -504,7 +504,7 @@
 		<text>Estoy buscando un stalker llamado Snag. ¿Sabes dónde puedo encontrarlo?</text>
 	</string>
 	<string id="about_quests_dialog_freedom_191">
-		<text>Nunca he oído hablar de él... Preguntaría a otros stalkeres libres si fuera tú.</text>
+		<text>Nunca he oído hablar de él... Preguntaría a otros stalkers libres si fuera tú.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_2">
 		<text>¿Sabes algo sobre los helicópteros estrellados?</text>
@@ -543,7 +543,7 @@
 		<text>No he visto nada, pero corre el rumor de que hay una jarra en el búnker de los científicos. Ozersky, el biólogo, dijo que él es de ese helicóptero que se estrelló contra la planta... La broma que hace las rondas es que los nerds tienen un soldado mascota.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_37">
-		<text>No personalmente, pero escuché algunas cosas de los stalkeres libres. Dijeron que el complejo Volkhov AA detectó una cabeza de jarra. Tengo que ser un fantasma o un zombie que ha despertado... ¿qué crees?</text>
+		<text>No personalmente, pero escuché algunas cosas de los stalkers libres. Dijeron que el complejo Volkhov AA detectó una cabeza de jarra. Tengo que ser un fantasma o un zombie que ha despertado... ¿qué crees?</text>
 	</string>
 	<string id="about_quests_dialog_freedom_38">
 		<text>Nah. Este individuo estaba diciendo que vio a siete soldados siguiendo a un stalker libre más allá de la planta de radio hacia Pripyat. No ha habido ninguna hierba en la Zona por un tiempo, así que creo que tiene que ser una charla loca, pura y simple.</text>
@@ -609,7 +609,7 @@
 		<text>Encontré un artefacto muy extraño. ¿Puedes sugerir un comprador?</text>
 	</string>
 	<string id="about_quests_dialog_freedom_81">
-		<text>Necesitas un coleccionista, amigo. No encontrarás uno en Yanov, ya que incluso algunos stalkeres temen venir aquí. Será mejor que preguntes en Zaton, es un poco más tranquilo en esas partes.</text>
+		<text>Necesitas un coleccionista, amigo. No encontrarás uno en Yanov, ya que incluso algunos stalkers temen venir aquí. Será mejor que preguntes en Zaton, es un poco más tranquilo en esas partes.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_83">
 		<text>¿Conoces a Beard, el barman del campamento de acechadores libres? Él compra artefactos y no te estafó demasiado. Un buen amigo, como sea que lo mires. Es una pena que no trabaje para nosotros, de verdad.</text>
@@ -618,7 +618,7 @@
 		<text>Encontré una guarida de chupasangre cerca. ¿Qué vamos a hacer?</text>
 	</string>
 	<string id="about_quests_dialog_freedom_91">
-		<text>Hombre, tienes que advertir a los stalkeres libres: después de todo, tienen su campamento principal por aquí. La vida salvaje de la Zona es valiosa, sin duda, pero estoy más preocupado por la gente de este lugar.</text>
+		<text>Hombre, tienes que advertir a los stalkers libres: después de todo, tienen su campamento principal por aquí. La vida salvaje de la Zona es valiosa, sin duda, pero estoy más preocupado por la gente de este lugar.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_98">
 		<text>De acuerdo, olvídalo.</text>
@@ -737,7 +737,7 @@
 		<text>Estoy buscando un stalker llamado Snag. ¿Sabes dónde puedo encontrarlo?</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_191">
-		<text>Mejor pregúntale a Beard, el camarero de Skadovsk. Por lo general, sabe dónde están los stalkeres.</text>
+		<text>Mejor pregúntale a Beard, el camarero de Skadovsk. Por lo general, sabe dónde están los stalkers.</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_193">
 		<text>¿Engancharse? ¿Cómo diablos debería saber? Será mejor que preguntes en Zaton, él anda por ahí muchas veces.</text>
@@ -812,10 +812,10 @@
 		<text>¿A quién podría contratar para proteger a los científicos?</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_401">
-		<text>¿Conoces a Espartaco y su escuadrón? Ya sabes, los stalkeres en Zaton? Son buenas personas y luchadores decentes; han estado allí, lo han hecho y se han llevado la camiseta. Tengo la sensación de que les gustaría la idea de proteger a los científicos.</text>
+		<text>¿Conoces a Espartaco y su escuadrón? Ya sabes, los stalkers en Zaton? Son buenas personas y luchadores decentes; han estado allí, lo han hecho y se han llevado la camiseta. Tengo la sensación de que les gustaría la idea de proteger a los científicos.</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_402">
-		<text>¿Te encontraste con el escuadrón de Hatchet en los talleres de la subestación en Zaton? Tienen sus problemas, como todos los mercenarios, pero al menos primero hacen preguntas y luego disparan. Supongo que si te las arreglas para inscribirlos para este trabajo, los científicos estarán encantados y los stalkeres pueden relajarse un poco, también. Todos están felices, ¿verdad?</text>
+		<text>¿Te encontraste con el escuadrón de Hatchet en los talleres de la subestación en Zaton? Tienen sus problemas, como todos los mercenarios, pero al menos primero hacen preguntas y luego disparan. Supongo que si te las arreglas para inscribirlos para este trabajo, los científicos estarán encantados y los stalkers pueden relajarse un poco, también. Todos están felices, ¿verdad?</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_403">
 		<text>Erm... Nada me viene a la mente... No, lo siento.</text>
@@ -845,7 +845,7 @@
 		<text>¿Conoces a Vano en la estación de Yanov? Es un tipo honesto, un buen stalker y crédulo como el infierno. Ahora hay un gato que está mejor rodeado de anomalías que las personas: mientras esté aquí, siempre habrá alguien que se aproveche de él.</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_54">
-		<text>Escucha, escuché que un escuadrón fue descubierto por el lago seco al sur del complejo AA... Aparentemente no son los stalkeres habituales ni Freedom or Duty, ¡son hombres monolíticos! Entonces, si necesitas que alguien vaya con Pripyat, ellos son solo el boleto. ¡Jajaja!... te das cuenta de que estoy bromeando, ¿verdad?</text>
+		<text>Escucha, escuché que un escuadrón fue descubierto por el lago seco al sur del complejo AA... Aparentemente no son los stalkers habituales ni Freedom or Duty, ¡son hombres monolíticos! Entonces, si necesitas que alguien vaya con Pripyat, ellos son solo el boleto. ¡Jajaja!... te das cuenta de que estoy bromeando, ¿verdad?</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_55">
 		<text>¿Conoces a Strider, el líder del nuevo escuadrón Freedom? Si vieras a su miserable besador, sabrías por ti mismo que Yanov no es el lugar para él. Deberías intentar hablar con él. Él realmente podría ir por eso.</text>
@@ -872,7 +872,7 @@
 		<text>¿Conoces a Gonta, el cazador? Estoy pensando que él y sus muchachos no se opondrían a trabajar para los científicos. Es decir, si los mutantes se convierten en una molestia, esos muchachos son exactamente lo que necesitas para lidiar con ellos.</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_72">
-		<text>¿Has oído hablar de Grizzly, Torba y Mitay, los stalkeres de Yanov? Trabajan como trío y están bien como el infierno! Creo que son adecuados para ese tipo de trabajo... siempre y cuando Mitay haya podido mantenerse fuera de problemas por una vez.</text>
+		<text>¿Has oído hablar de Grizzly, Torba y Mitay, los stalkers de Yanov? Trabajan como trío y están bien como el infierno! Creo que son adecuados para ese tipo de trabajo... siempre y cuando Mitay haya podido mantenerse fuera de problemas por una vez.</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_73">
 		<text>No hay pista, amigo. Tenemos suficiente de nuestra propia mierda de la que preocuparnos aquí.</text>
@@ -896,13 +896,13 @@
 		<text>De acuerdo, olvídalo.</text>
 	</string>
 	<string id="about_skadovsk_dialog_bandit_0">
-		<text>¿Dónde está el campamento de stalkeres más cercano por aquí?</text>
+		<text>¿Dónde está el campamento de stalkers más cercano por aquí?</text>
 	</string>
 	<string id="about_skadovsk_dialog_bandit_1">
 		<text>¿Qué eres, estúpido? No sé sobre los campamentos de acechadores, pero el campamento más cercano es Skadovsk. Te daré las coordenadas e incluso lo haré gratis. Bonito, ¿verdad?</text>
 	</string>
 	<string id="about_skadovsk_dialog_stalkers_0">
-		<text>¿Dónde está el campamento de stalkeres más cercano por aquí?</text>
+		<text>¿Dónde está el campamento de stalkers más cercano por aquí?</text>
 	</string>
 	<string id="about_skadovsk_dialog_stalkers_1">
 		<text>Subiré las coordenadas a tu PDA... Skadovsk es el único campamento importante por aquí.</text>
@@ -950,10 +950,10 @@
 		<text>¿Dónde puedo encontrar un traje con un módulo respiratorio de ciclo cerrado?</text>
 	</string>
 	<string id="about_quests_dialog_freedom_501">
-		<text>Escuché a algunos stalkeres hablar sobre este hombre con conexiones, Nimble o algo así. Él puede conseguirte casi cualquier cosa. Ya sabes: equipo, tiradores, mierda así... no droga. Se queda en Skadovsk, si lo necesitas.</text>
+		<text>Escuché a algunos stalkers hablar sobre este hombre con conexiones, Nimble o algo así. Él puede conseguirte casi cualquier cosa. Ya sabes: equipo, tiradores, mierda así... no droga. Se queda en Skadovsk, si lo necesitas.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_502">
-		<text>Una buena pregunta, amigo... Nunca los usamos aquí en Freedom... Preguntaría a los stalkeres en Zaton si fuera tú. Puede haber alguien allí que maneje ese tipo de negocio.</text>
+		<text>Una buena pregunta, amigo... Nunca los usamos aquí en Freedom... Preguntaría a los stalkers en Zaton si fuera tú. Puede haber alguien allí que maneje ese tipo de negocio.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_503">
 		<text>Heh, ¿para qué necesitas esa mierda? No es bueno en acción. Entonces de nuevo... supongo que puede ser de alguna utilidad. Hace que respirar sea más fácil y el sol no entra tanto en tus ojos... Podría buscar uno de esos. Oye, ¿sabes dónde podría conseguir uno?</text>
@@ -1317,11 +1317,11 @@
 	</string>
 
 	<string id="sim_robbery_npc_friend_9">
-		<text>En realidad, estoy muy seguro de que nunca nos hemos visto. Sin embargo, estoy bastante impresionado de que tengas las pelotas para probar eso conmigo. La mayoría de los stalkeres no tienen ese tipo de moxie. Solo por esta vez, miraré para otro lado.</text>
+		<text>En realidad, estoy muy seguro de que nunca nos hemos visto. Sin embargo, estoy bastante impresionado de que tengas las pelotas para probar eso conmigo. La mayoría de los stalkers no tienen ese tipo de moxie. Solo por esta vez, miraré para otro lado.</text>
 	</string>
 
 	<string id="sim_robbery_npc_friend_10">
-		<text>¡Bien, hoy está resultando ser un día increíble! Apenas hay stalkeres, y la única vez que pensé que encontré carne fresca... Ey, puedes ir a la mierda ahora. Me estás molestando solo de pie allí.</text>
+		<text>¡Bien, hoy está resultando ser un día increíble! Apenas hay stalkers, y la única vez que pensé que encontré carne fresca... Ey, puedes ir a la mierda ahora. Me estás molestando solo de pie allí.</text>
 	</string>
 
 	<string id="sim_robbery_actor_friend_end">

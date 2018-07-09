@@ -170,7 +170,7 @@
 		<text>Lleve a cabo un asalto al estacionamiento y elimine a los bandidos que ocupan la ubicación.</text>
 	</string>
 	<string id="esc_m_trader_task_1_about">
-		<text>Los bandidos han tomado base en el viejo aparcamiento. Estos pendejos matan o matan a cualquiera que use las carreteras que conducen dentro y fuera del campamento. Está alterando las actividades locales para mis clientes y los stalkeres que se refugian en el campamento. ¡Duele el negocio! Necesito que te "cuides" de ellos. Si lo desea, hable con Fanatic, él puede ofrecerle ayuda.</text>
+		<text>Los bandidos han tomado base en el viejo aparcamiento. Estos pendejos matan o matan a cualquiera que use las carreteras que conducen dentro y fuera del campamento. Está alterando las actividades locales para mis clientes y los stalkers que se refugian en el campamento. ¡Duele el negocio! Necesito que te "cuides" de ellos. Si lo desea, hable con Fanatic, él puede ofrecerle ayuda.</text>
 	</string>
 	<string id="esc_m_trader_task_1_finish">
 		<text>¡Buen trabajo, stalker! ¡Tú y yo seremos los mejores si sigues así! Esto es lo que prometí.</text>
@@ -184,7 +184,7 @@
 		<text>Sidorovich te contrató para ejecutar un golpe. Encuentre y elimine el objetivo y luego regrese a Sidorovich para el pago.</text>
 	</string>
 	<string id="esc_m_trader_task_2_about">
-		<text>Tengo una lista de recompensas pendientes y stalkeres que deben ser atendidos. El peor tipo de escoria y villanía suele terminar en esta lista... por varias razones. La Zona necesita sacar su basura de vez en cuando. ¿Qué dices, stalker, serás mi arma contratada?</text>
+		<text>Tengo una lista de recompensas pendientes y stalkers que deben ser atendidos. El peor tipo de escoria y villanía suele terminar en esta lista... por varias razones. La Zona necesita sacar su basura de vez en cuando. ¿Qué dices, stalker, serás mi arma contratada?</text>
 	</string>
 	<string id="esc_m_trader_task_2_finish">
 		<text>Bien, ¡te deshicíste de ese imbécil! Esto es lo que prometí.</text>
@@ -198,7 +198,7 @@
 		<text>Encuentra y trae el envío de Sidorovich.</text>
 	</string>
 	<string id="esc_m_trader_task_3_about"> <!-- revision -->
-		<text>Se suponía que uno de los stalkeres debía entregarme un cargamento importante, pero el sabelotodo se encontró en una mala situación en su camino de regreso. Apenas lo hizo con vida y según sus palabras, el contenedor fue arrojado al escondite más cercano. El lugar debería estar seguro ahora, ¿me lo traerías?</text>
+		<text>Se suponía que uno de los stalkers debía entregarme un cargamento importante, pero el sabelotodo se encontró en una mala situación en su camino de regreso. Apenas lo hizo con vida y según sus palabras, el contenedor fue arrojado al escondite más cercano. El lugar debería estar seguro ahora, ¿me lo traerías?</text>
 	</string>
 	<string id="esc_m_trader_task_3_finish">
 		<text>Bien hecho, stalker!</text>
@@ -210,7 +210,7 @@
 		<text>Eliminar la amenaza mutante de Cordon</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_1_text">
-		<text>Wolf te pidió que purgases un área de todas las amenazas de mutantes para garantizar la seguridad de la aldea novata; así como los stalkeres que pasan por Cordon. Llega a la ubicación y elimina todos los mutantes en el área. Regrese a Wolf para el pago después de que su trabajo esté completo.</text>
+		<text>Wolf te pidió que purgases un área de todas las amenazas de mutantes para garantizar la seguridad de la aldea novata; así como los stalkers que pasan por Cordon. Llega a la ubicación y elimina todos los mutantes en el área. Regrese a Wolf para el pago después de que su trabajo esté completo.</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_1_about">
 		<text>Stalker, necesito a alguien que tenga más experiencia que los novatos para una tarea. El Cordón se está convirtiendo en un lugar muy peligroso con toda esta proliferación mutante desenfrenada. Necesito que cace alrededor de un área que marcaré en su PDA. El trabajo es matar a cualquier mutantes que veas. Si haces esto por mí, te hará ganar dinero en efectivo. ¿Asi que va a?</text>
@@ -232,7 +232,7 @@
 		<text>Un stalker falta en el campamento. Necesito que averigües en qué tipo de problemas se metió.</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_2_finish">
-		<text>Gracias. Son stalkeres como usted los que mantienen este lugar como una de las únicas áreas seguras de la Zona.</text>
+		<text>Gracias. Son stalkers como usted los que mantienen este lugar como una de las únicas áreas seguras de la Zona.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -326,7 +326,7 @@
 		<text>Xenotech requiere %s para instalar actualizaciones de equipos básicos, debe devolverlos a él si encuentra alguno.</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_about">
-		<text>Necesito un favor, amigo. Muchos stalkeres vienen aquí preguntando si puedo ajustar sus armas de cierta manera, pero no puedo. Simplemente no tengo las herramientas adecuadas. Sería capaz de realizar actualizaciones en una mayor variedad de equipos si puedo poner las manos en las herramientas adecuadas. Por favor, amigo, ¿me ayudarías?</text>
+		<text>Necesito un favor, amigo. Muchos stalkers vienen aquí preguntando si puedo ajustar sus armas de cierta manera, pero no puedo. Simplemente no tengo las herramientas adecuadas. Sería capaz de realizar actualizaciones en una mayor variedad de equipos si puedo poner las manos en las herramientas adecuadas. Por favor, amigo, ¿me ayudarías?</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_fetch_about">
 		<text>Necesito un conjunto de herramientas básicas. Debe contener lo que necesito. Si puede traer algo para mí, le estaré agradecido, incluso le ofreceré un descuento de aquí en adelante.</text>
@@ -341,7 +341,7 @@
 		<text>% es requerido por Xenotech para instalar actualizaciones avanzadas de equipos, debe traerlos de vuelta a él si encuentra alguno.</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_about">
-		<text>Mi negocio está en auge ahora, más y más stalkeres acuden a mí cuando necesitan su arma afinada. Pero realmente podría usar más herramientas. Me trajiste un kit de herramientas de calidad la última vez, pero necesito un conjunto de calidad aún mayor. Si estás interesado, te diré lo que necesito.</text>
+		<text>Mi negocio está en auge ahora, más y más stalkers acuden a mí cuando necesitan su arma afinada. Pero realmente podría usar más herramientas. Me trajiste un kit de herramientas de calidad la última vez, pero necesito un conjunto de calidad aún mayor. Si estás interesado, te diré lo que necesito.</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_fetch_about">
 		<text>Necesito un %s. Si me traes uno, te lo agradeceré, incluso te pagaré por ello.</text>
@@ -356,7 +356,7 @@
 		<text>% es requerido por Xenotech para instalar actualizaciones de equipos expertos, debe devolverlos a él si encuentra alguno.</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_about">
-		<text>Mi negocio está en auge ahora, más y más stalkeres acuden a mí cuando necesitan su arma afinada. Pero realmente podría usar más herramientas. Me trajiste un kit de herramientas de calidad la última vez, pero necesito un conjunto de calidad aún mayor. Si estás interesado, te diré lo que necesito.</text>
+		<text>Mi negocio está en auge ahora, más y más stalkers acuden a mí cuando necesitan su arma afinada. Pero realmente podría usar más herramientas. Me trajiste un kit de herramientas de calidad la última vez, pero necesito un conjunto de calidad aún mayor. Si estás interesado, te diré lo que necesito.</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_fetch_about">
 		<text>Necesito un %s. Si me traes uno, te lo agradeceré, incluso te pagaré por ello.</text>

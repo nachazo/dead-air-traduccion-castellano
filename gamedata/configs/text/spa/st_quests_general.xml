@@ -68,7 +68,7 @@
 		<text>Algunas cosas se necesitan con urgencia, pero casi no queda tiempo. ¿Puedo confiar en ti?</text>
 	</string>
 	<string id="simulation_task_1_fetch_about">
-		<text>Bro, escucha. Tenemos una misión importante. Se están enviando grandes grupos de stalkeres a lo profundo de la Zona, pero las provisiones y el equipo son escasos. Hemos logrado reunir todo lo que el primer grupo necesita, excepto por una cosa. Lo último que necesitamos es %s, se necesitan pocas piezas. ¿Puedes conseguirlo?</text>
+		<text>Bro, escucha. Tenemos una misión importante. Se están enviando grandes grupos de stalkers a lo profundo de la Zona, pero las provisiones y el equipo son escasos. Hemos logrado reunir todo lo que el primer grupo necesita, excepto por una cosa. Lo último que necesitamos es %s, se necesitan pocas piezas. ¿Puedes conseguirlo?</text>
 	</string>
 	<string id="simulation_task_1_fetch_finish">
 		<text>¡Gracias hombre!</text>
@@ -758,7 +758,7 @@
 		<text>Necesito muestras para mi investigación, ¿está interesado?</text>
 	</string>
 	<string id="simulation_task_50_fetch_about"> <!-- revision -->
-		<text>Tengo una lista de muestras específicas para estudiar e investigar. Necesitamos esas muestras lo antes posible, pero falta el número y la fuerza de nuestros grupos de investigación. Por eso, es necesario involucrar a otros stalkeres en nuestra investigación. Entonces, nuestra próxima muestra en la lista sería... %s, algunas piezas. ¿Puedo contar contigo?
+		<text>Tengo una lista de muestras específicas para estudiar e investigar. Necesitamos esas muestras lo antes posible, pero falta el número y la fuerza de nuestros grupos de investigación. Por eso, es necesario involucrar a otros stalkers en nuestra investigación. Entonces, nuestra próxima muestra en la lista sería... %s, algunas piezas. ¿Puedo contar contigo?
   .</text>
 	</string>
 	<string id="simulation_task_50_fetch_finish">
@@ -921,13 +921,13 @@
 		<text>Defender la base contra mutantes</text>
 	</string>
 	<string id="faction_base_defense_yantar_name">
-		<text>Defender el campo de los científicos contra los stalkeres zombificados</text>
+		<text>Defender el campo de los científicos contra los stalkers zombificados</text>
 	</string>
 	<string id="faction_base_defense_text">
 		<text>Los mutantes están atacando la base, ayudan a defenderla.</text>
 	</string>
 	<string id="faction_base_defense_yantar_text">
-		<text>Los stalkeres zombis están atacando el laboratorio móvil, ayudan a defenderlo. Puedes intentar usar la ametralladora en el techo.</text>
+		<text>Los stalkers zombis están atacando el laboratorio móvil, ayudan a defenderlo. Puedes intentar usar la ametralladora en el techo.</text>
 	</string>
 
 
@@ -962,7 +962,7 @@
 	</string>
 
 	<string id="kill_rare_bloodsucker_about"> <!-- revision -->
-		<text>Hay un mutante peligroso que mató a muchos stalkeres experimentados. Bloodsucker, dos metros de altura, piel negra, extremadamente rápida y resistente, por lo general deambula pero no se queda en un solo lugar por mucho tiempo. Necesitamos a alguien lo suficientemente valiente como para derribarlo, ¿qué piensas?</text>
+		<text>Hay un mutante peligroso que mató a muchos stalkers experimentados. Bloodsucker, dos metros de altura, piel negra, extremadamente rápida y resistente, por lo general deambula pero no se queda en un solo lugar por mucho tiempo. Necesitamos a alguien lo suficientemente valiente como para derribarlo, ¿qué piensas?</text>
 	</string>
 
 	<string id="kill_rare_giant_about"> <!-- revision -->

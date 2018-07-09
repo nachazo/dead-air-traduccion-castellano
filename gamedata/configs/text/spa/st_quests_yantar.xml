@@ -112,7 +112,7 @@
 		<text>Sakharov quiere que junte 17,000 RU para ayudar a los ecologistas si quiero unirme a ellos.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_cf_task_1_about">
-		<text>Ah, bueno, normalmente no reclutamos stalkeres para convertirnlos en ecologistas. Sin embargo, actualmente estamos en un aprieto. Nos estamos quedando sin fondos para nuestro proyecto de investigación actual. Necesitamos al menos 17,000 RU para mantenerlo en funcionamiento. Si está dispuesto a recaudar dinero para nosotros, puede unirse a nuestro campamento.</text>
+		<text>Ah, bueno, normalmente no reclutamos stalkers para convertirnlos en ecologistas. Sin embargo, actualmente estamos en un aprieto. Nos estamos quedando sin fondos para nuestro proyecto de investigación actual. Necesitamos al menos 17,000 RU para mantenerlo en funcionamiento. Si está dispuesto a recaudar dinero para nosotros, puede unirse a nuestro campamento.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_cf_task_1_finish">
 		<text>¡Maravilloso! ¡Excelente! ¡Gracias! Por favor, siéntase como en casa aquí, compañero ecologista.</text>
@@ -173,6 +173,6 @@
 		<text>Deshabilitar la máquina milagro</text>
 	</string>
 	<string id="brain_machine_deactivate_text">
-		<text>La Máquina Milagrosa evita que los stalkeres viajen entre Yantar y la Ciudad Muerta. Deshabilitarlo requerirá un equipo de protección psi avanzado.</text>
+		<text>La Máquina Milagrosa evita que los stalkers viajen entre Yantar y la Ciudad Muerta. Deshabilitarlo requerirá un equipo de protección psi avanzado.</text>
 	</string>
 </string_table>

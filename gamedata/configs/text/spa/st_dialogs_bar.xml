@@ -40,7 +40,7 @@
 		<text>No estoy listo.</text>
 	</string>
 	<string id="bar_arena_man_job_15">
-		<text>Tienes una pelea especial hoy. ¡Incluso el ejército ha oído hablar de ti! No se sorprendan, pelean aquí también, incluso hay un general en la multitud. Estos muchachos son de Spetsnaz u OMON. Están bien armados y su armadura es tan buena como cabría esperar. Pero no te preocupes, tampoco voy a dejarte afuera bajo la lluvia. Obtendrás un chaleco utilizado por Freedom: es ligero para que no te ralentice. Vamos, demuéstrales que los stalkeres no son niños que azotan. ¡Buena suerte!</text>
+		<text>Tienes una pelea especial hoy. ¡Incluso el ejército ha oído hablar de ti! No se sorprendan, pelean aquí también, incluso hay un general en la multitud. Estos muchachos son de Spetsnaz u OMON. Están bien armados y su armadura es tan buena como cabría esperar. Pero no te preocupes, tampoco voy a dejarte afuera bajo la lluvia. Obtendrás un chaleco utilizado por Freedom: es ligero para que no te ralentice. Vamos, demuéstrales que los stalkers no son niños que azotan. ¡Buena suerte!</text>
 	</string>
 	<string id="bar_arena_man_job_151">
 		<text>Estoy listo.</text>
@@ -49,7 +49,7 @@
 		<text>No estoy listo.</text>
 	</string>
 	<string id="bar_arena_man_job_16">
-		<text>Es hora de que demuestres lo que puedes hacer. Duty capturó a un grupo de bandidos que habían estado causando problemas a los stalkeres cerca de Rostok. Duty se los llevó a la noche así que la mayoría de los bandidos fueron capturados vivos. Todos iban a ser ejecutados de todos modos, así que convencí a Duty para que les diera una oportunidad. Si alguno de ellos sobrevive, irá dentro de la lata fuera de la Zona, lo cual es mejor que morir aquí. No están bien armados, probablemente solo unas pocas pistolas y saqueos, pero hay seis, así que ten cuidado. ¡Seguir ahora!</text>
+		<text>Es hora de que demuestres lo que puedes hacer. Duty capturó a un grupo de bandidos que habían estado causando problemas a los stalkers cerca de Rostok. Duty se los llevó a la noche así que la mayoría de los bandidos fueron capturados vivos. Todos iban a ser ejecutados de todos modos, así que convencí a Duty para que les diera una oportunidad. Si alguno de ellos sobrevive, irá dentro de la lata fuera de la Zona, lo cual es mejor que morir aquí. No están bien armados, probablemente solo unas pocas pistolas y saqueos, pero hay seis, así que ten cuidado. ¡Seguir ahora!</text>
 	</string>
 	<string id="bar_arena_man_job_161">
 		<text>Estoy listo.</text>
@@ -67,7 +67,7 @@
 		<text>No estoy listo.</text>
 	</string>
 	<string id="bar_arena_man_job_18">
-		<text>Felicidades, estás en la final! Uno más para ir y este es a la muerte, cada hombre para sí mismo. Habrá otros 4 stalkeres en la arena: todos los verdaderos profesionales en exoesqueletos, pero esta vez es justo: obtendrás exactamente lo que tienen. Lo único es que no obtienes ni los botiquines ni los vendajes en una pelea hasta la muerte. Listo? Ve a demostrar que eres el mejor, ¡VE!</text>
+		<text>Felicidades, estás en la final! Uno más para ir y este es a la muerte, cada hombre para sí mismo. Habrá otros 4 stalkers en la arena: todos los verdaderos profesionales en exoesqueletos, pero esta vez es justo: obtendrás exactamente lo que tienen. Lo único es que no obtienes ni los botiquines ni los vendajes en una pelea hasta la muerte. Listo? Ve a demostrar que eres el mejor, ¡VE!</text>
 	</string>
 	<string id="bar_arena_man_job_181">
 		<text>Estoy listo.</text>
@@ -259,7 +259,7 @@
 		<text>¿Qué es este establecimiento?</text>
 	</string>
 	<string id="bar_arena_manager_info_111">
-		<text>Esta es la arena, mi pequeño negocio. Un lugar donde los stalkeres pueden poner a prueba su valía y ganar su fama luchando contra los horrores de la Zona.</text>
+		<text>Esta es la arena, mi pequeño negocio. Un lugar donde los stalkers pueden poner a prueba su valía y ganar su fama luchando contra los horrores de la Zona.</text>
 	</string>
 	<string id="bar_arena_manager_info_12">
 		<text>¿Cómo se obtienen los mutantes aquí?</text>
@@ -277,7 +277,7 @@
 		<text>¿Cuales son las normas?</text>
 	</string>
 	<string id="bar_arena_manager_rules_1">
-		<text>Oh, las reglas son bastante simples. Yo mismo los inventé. Para los desafíos, hay una jaula, y un mutante se deja dentro de la jaula. Pagas dinero y me dices la hora en que necesitas matar al monstruo. Si lo logras, ganas, si no lo haces, yo gano.\n Pero para el plato principal, los bandidos y los otros degenerados de la Zona capturados por Duty luchan en la arena por sus crímenes. Algunos son solo stalkeres a los que les gusta pelear, y no delincuentes, pero quien abandona la arena en la menor cantidad de piezas obtiene una recompensa considerable. Si siguen ganando peleas, vendrán más stalkeres y los combatientes obtendrán mayores recompensas.</text>
+		<text>Oh, las reglas son bastante simples. Yo mismo los inventé. Para los desafíos, hay una jaula, y un mutante se deja dentro de la jaula. Pagas dinero y me dices la hora en que necesitas matar al monstruo. Si lo logras, ganas, si no lo haces, yo gano.\n Pero para el plato principal, los bandidos y los otros degenerados de la Zona capturados por Duty luchan en la arena por sus crímenes. Algunos son solo stalkers a los que les gusta pelear, y no delincuentes, pero quien abandona la arena en la menor cantidad de piezas obtiene una recompensa considerable. Si siguen ganando peleas, vendrán más stalkers y los combatientes obtendrán mayores recompensas.</text>
 	</string>
 	<string id="bar_arena_manager_start_11">
 		<text>Es bueno verte stalker, bienvenido a la arena.</text>

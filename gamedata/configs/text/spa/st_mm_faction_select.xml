@@ -4,7 +4,7 @@
 		<text>Solitario</text>
 	</string>
 	<string id="st_faction_stalker_desc">
-		<text>%c[0,245,245,220]Los solitarios, o stalkeres libres, no están alineados con ninguna de las facciones que operan dentro de la Zona. \n \nA pesar de ser acosados frecuentemente por mutantes y otros stalkeres, pequeños grupos han logrado establecer fuertes puestos comerciales en toda la Zona.</text>
+		<text>%c[0,245,245,220]Los solitarios, o stalkers libres, no están alineados con ninguna de las facciones que operan dentro de la Zona. \n \nA pesar de ser acosados frecuentemente por mutantes y otros stalkers, pequeños grupos han logrado establecer fuertes puestos comerciales en toda la Zona.</text>
 	</string>
 	<string id="st_faction_bandit">
 		<text>Bandido</text>
@@ -58,7 +58,7 @@
 		<text>Zombificado</text>
 	</string>
 	<string id="st_faction_zombied_desc">
-		<text>%c[0,245,245,220]Ceeeerreeebrosss!!! \n \nLos stalkeres zombis son cáscaras estúpidas de su yo anterior reducidas a sus instintos más básicos de tipo animal y atacarán casi cualquier cosa que se acerque demasiado.</text>
+		<text>%c[0,245,245,220]Ceeeerreeebrosss!!! \n \nLos stalkers zombis son cáscaras estúpidas de su yo anterior reducidas a sus instintos más básicos de tipo animal y atacarán casi cualquier cosa que se acerque demasiado.</text>
 	</string>
 	<string id="st_mm_faction_back">
 		<text>Volver</text>

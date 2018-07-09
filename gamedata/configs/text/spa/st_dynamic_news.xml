@@ -372,7 +372,7 @@
 		<text>un grupo de zombis</text>
 	</string>
 	<string id="st_dyn_news_zombied_7">
-		<text>stalkeres zombis</text>
+		<text>stalkers zombis</text>
 	</string>
 
 	<string id="st_dyn_news_cat_0">
@@ -494,13 +494,13 @@
 		<text>Solitario</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_7">
-		<text>stalkeres</text>
+		<text>stalkers</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_8">
 		<text>Solitarios</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_9">
-		<text>stalkeres</text>
+		<text>stalkers</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_10">
 		<text>Solitarios</text>
@@ -830,13 +830,13 @@
 		<text>Solitario</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_7">
-		<text>stalkeres</text>
+		<text>stalkers</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_8">
 		<text>Solitarios</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_9">
-		<text>algunos stalkeres</text>
+		<text>algunos stalkers</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_10">
 		<text>solitarios</text>
@@ -917,7 +917,7 @@
 		<text>Libertad</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_8">
-		<text>Stalkeres de Libertad</text>
+		<text>stalkers de Libertad</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_9">
 		<text>Libertad</text>
@@ -2295,7 +2295,7 @@
 		<text>Este maldito pensó que podría escapar. Alguien debe vigilarlo.</text>
 	</string>
 	<string id="st_dyn_news_gossip_hostage_3">
-		<text>¿Crees que esos stalkeres pagarán su rescate?</text>
+		<text>¿Crees que esos stalkers pagarán su rescate?</text>
 	</string>
 	<string id="st_dyn_news_gossip_hostage_4">
 		<text>¡No creo que tus amigos vengan por ti!</text>
@@ -2309,13 +2309,13 @@
 
 	<!-- Task -->
 	<string id="st_dyn_news_gossip_task_1">
-		<text>Parece que %s está buscando stalkeres para hacer un trabajo.</text>
+		<text>Parece que %s está buscando stalkers para hacer un trabajo.</text>
 	</string>
 	<string id="st_dyn_news_gossip_task_2">
 		<text>Aviso: %s tiene un nuevo trabajo disponible.</text>
 	</string>
 	<string id="st_dyn_news_gossip_task_3">
-		<text>¿Alguno necesita algo de trabajo? Acabo de escuchar que %s está buscando stalkeres para un trabajo.</text>
+		<text>¿Alguno necesita algo de trabajo? Acabo de escuchar que %s está buscando stalkers para un trabajo.</text>
 	</string>
 	<string id="st_dyn_news_gossip_task_4">
 		<text>%s tiene un nuevo trabajo, si alguien está interesado...</text>
