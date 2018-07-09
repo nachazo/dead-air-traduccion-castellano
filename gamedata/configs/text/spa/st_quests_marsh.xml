@@ -76,7 +76,7 @@
 		<text>Encuentra un %s para Cold</text>
 	</string>
 	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_3_text">
-		<text>Cold necesita el %s artefacto.</text>
+		<text>Cold necesita el artefacto %s.</text>
 	</string>
 	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_task_3_about">
 		<text>Stalker, necesito que me traigas un artefacto.</text>

@@ -306,7 +306,7 @@
 		<text>Encuentra el artefacto %s</text>
 	</string>
 	<string id="jup_b6_scientist_biochemist_task_2_text">
-		<text>Se te ha pedido que recuperes el %s artefacto. Devuélvelo a los ecologistas si tienes uno en tus manos.</text>
+		<text>Se te ha pedido que recuperes el artefacto %s. Devuélvelo a los ecologistas si tienes uno en tus manos.</text>
 	</string>
 	<string id="jup_b6_scientist_biochemist_task_2_about">
 		<text>Estamos buscando ciertos tipos de artefactos. Si está interesado, le diré lo que necesitamos.</text>

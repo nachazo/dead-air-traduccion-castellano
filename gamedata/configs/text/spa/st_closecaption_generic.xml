@@ -452,7 +452,7 @@
 		<text>Ven aca. No voy a morder.</text>
 	</string>
 	<string id="cc_generic-killer-meet_hello_2">
-		<text>¡Hey hermano!</text>
+		<text>¡Ey hermano!</text>
 	</string>
 	<string id="cc_generic-killer-meet_hello_3">
 		<text>¿Quién eres tú?</text>
@@ -614,10 +614,10 @@
 
 	<!-- Loners -->
 	<string id="cc_generic-stalker-meet_hello_1">
-		<text>Hola-ey?</text>
+		<text>¿Hola-hola?</text>
 	</string>
 	<string id="cc_generic-stalker-meet_hello_2">
-		<text>¡Hey hermano!</text>
+		<text>¡Ey hermano!</text>
 	</string>
 	<string id="cc_generic-stalker-meet_hello_3">
 		<text>Estoy escuchando...</text>
@@ -627,10 +627,10 @@
 		<text>Guarda tu arma, hombre.</text>
 	</string>
 	<string id="cc_generic-stalker-meet_hide_weapon_2">
-		<text>Deja de joder! ¡Enfunda tu arma!</text>
+		<text>¡Deja de joder! ¡Enfunda tu arma!</text>
 	</string>
 	<string id="cc_generic-stalker-meet_hide_weapon_3">
-		<text>Vamos, hombre, guarda el arma!</text>
+		<text>Vamos, hombre, ¡guarda el arma!</text>
 	</string>
 	<string id="cc_generic-stalker-meet_hide_weapon_7">
 		<text>¡Oculta tu arma ahora!</text>

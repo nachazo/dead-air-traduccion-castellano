@@ -2,10 +2,10 @@
 <string_table>
 	<!-- val_smart_terrain_7_4_bandit_trader_stalker -->
 	<string id="val_smart_terrain_7_4_bandit_trader_stalker_start_dialog_1">
-		<text>¡Hey hombre! Tengo algunas cosas para venderte y tal vez un par de trabajos si estás interesado. ¡Soy el tipo que ven los chicos cuando se alinean en el bolsillo después de un golpe!</text>
+		<text>¡Ey hombre! Tengo algunas cosas para venderte y tal vez un par de trabajos si estás interesado. ¡Soy el tipo que ven los chicos cuando se alinean en el bolsillo después de un golpe!</text>
 	</string>
 	<string id="val_smart_terrain_7_4_bandit_trader_stalker_start_dialog_2">
-		<text>Hey hombre. ¿Que necesitas? ¿Buscando trabajo?</text>
+		<text>Ey hombre. ¿Que necesitas? ¿Buscando trabajo?</text>
 	</string>
 
 	<!-- val_smart_terrain_7_3_bandit_mechanic_stalker --->

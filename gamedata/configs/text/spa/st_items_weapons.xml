@@ -17,13 +17,13 @@
 	</string>
 
 	<string id="ammo-7.92x33_fmj-old">
-		<text>7.92x57 mm Munición de Mauser (viejas)</text>
+		<text>7.92x57 mm: Munición de Mauser (viejas)</text>
 	</string>
 	<string id="ammo-7.92x33_fmj-old_s">
 		<text>7.62x57 Mauser (viejo)</text>
 	</string>
 	<string id="ammo-7.92x33_fmj">
-		<text>7.92x57 mm Munición de Mauser</text>
+		<text>7.92x57 mm: Munición de Mauser</text>
 	</string>
 	<string id="ammo-7.92x33_fmj_s">
 		<text>7.62x57 Mauser</text>
@@ -33,13 +33,13 @@
 	</string>
 
 	<string id="ammo-7.62x51_fmj-old">
-		<text>7.62x51 mm Munición de la OTAN (viejas)</text>
+		<text>7.62x51 mm: Munición de la OTAN (viejas)</text>
 	</string>
 	<string id="ammo-7.62x51_fmj-old_s">
 		<text>7.62x51 OTAN (viejo)</text>
 	</string>
 	<string id="ammo-7.62x51_fmj">
-		<text>7.62x51 mm Munición de la OTAN</text>
+		<text>7.62x51 mm: Munición de la OTAN</text>
 	</string>
 	<string id="ammo-7.62x51_fmj_s">
 		<text>7.62x51 OTAN</text>
@@ -118,7 +118,7 @@
 
 
 	<string id="ammo-7.62x54-ap">
-		<text>7.62x54 mm Munición PP</text>
+		<text>7.62x54 mm: Munición PP</text>
 	</string>
 	<string id="ammo-7.62x54-ap_s">
 		<text>7.62x54 PP</text>
@@ -134,7 +134,7 @@
 		<text>7.62x54 R</text>
 	</string>
 	<string id="ammo-7.62x54-r_descr">
-		<text>Cheap 7.62 PP (también conocido como 7.62 R) es un calibre de rifle anticuado introducido en el Imperio soviético a finales del siglo XIX y que todavía era utilizado por la URSS después de la Segunda Guerra Mundial. Originalmente fue diseñado para el rifle de infantería de emisión estándar Mosin-Nagant y es bastante común en la Zona debido a la popularidad del rifle. La munición es relativamente barata, pero tiene capacidades de penetración sorprendentemente buenas, incluso en comparación con los tipos de munición más modernos. También se puede utilizar como una solución más económica en la ametralladora PKM.\n \n %c[0,93,0,116] • %c[0,140,140,140]Clase de armadura perforada más alta: %c[0,170,170,170]III \n %c[ 0,93,0,116] • %c[0,140,140,140]Clasificación de daño tisular: %c[0,170,170,170]medio</text>
+		<text>Cheap 7.62 PP (también conocido como 7.62 R) es un calibre de rifle anticuado introducido en el Imperio soviético a finales del siglo XIX y que todavía era utilizado por la URSS después de la Segunda Guerra Mundial. Originalmente fue diseñado para el rifle de infantería de emisión estándar Mosin-Nagant y es bastante común en la Zona debido a la popularidad del rifle. La munición es relativamente barata, pero tiene capacidades de penetración sorprendentemente buenas, incluso en comparación con los tipos de munición más modernos. También se puede utilizar como una solución más económica en la ametralladora PKM.\n \n %c[0,93,0,116] • %c[0,140,140,140]Clase de armadura perforada más alta: %c[0,170,170,170]III \n %c[0,93,0,116] • %c[0,140,140,140]Clasificación de daño tisular: %c[0,170,170,170]medio</text>
 	</string>
 
 	<string id="ammo-7.62x54-7n1-old">
@@ -183,7 +183,7 @@
 		<text>9x19 FMJ</text>
 	</string>
 	<string id="ammo-9x19-fmj_descr">
-		<text>Esta munición básica de calibre 9x19 con bala encamisada tiene buenas características a la vez que es fácil de producir. La munición es popular debido a que las convenciones internacionales prohíben el uso de municiones en expansión en combate. Ineficaz contra armadura corporal.\n \n %c[0,93,0,116] • %c[0,140,140,140]Clase de armadura perforada más alta: %c[0,170,170,170]I \n %c[0,93,0,116] • %c[ 0,140,140,140]Calificación de daño tisular: %c[0,170,170,170]medio</text>
+		<text>Esta munición básica de calibre 9x19 con bala encamisada tiene buenas características a la vez que es fácil de producir. La munición es popular debido a que las convenciones internacionales prohíben el uso de municiones en expansión en combate. Ineficaz contra armadura corporal.\n \n %c[0,93,0,116] • %c[0,140,140,140]Clase de armadura perforada más alta: %c[0,170,170,170]I \n %c[0,93,0,116] • %c[0,140,140,140]Calificación de daño tisular: %c[0,170,170,170]medio</text>
 	</string>
 
 	<string id="ammo-9x39-ap-old">
@@ -199,7 +199,7 @@
 		<text>9x39 SP-6</text>
 	</string>
 	<string id="ammo-9x39-ap_descr">
-		<text>El SP-6 es una munición de perforación de armadura subsónica con una bala de punto blando con camisa y un núcleo de acero duro que sobresale de la carcasa. Requiere un silenciador para disparar sigilosamente. Utilizado por los servicios especiales de los países del Pacto de Varsovia. Eficaz contra armadura corporal.\n \n %c[0,93,0,116] • %c[0,140,140,140]Clase de armadura perforada más alta: %c[0,170,170,170]IV \n %c[0,93,0,116] • %c[ 0,140,140,140]Clasificación de daño tisular: %c[0,170,170,170]medio - alto \n \n %c[0,170,170,170]ESPECIAL: \n \n %c[0,204,0,51] • %c[0,140,140,140]munición subsónica \n %c[0,93,0,116] • %c[0,140,140,140]gran aumento en la caída del proyectil con la distancia</text>
+		<text>El SP-6 es una munición de perforación de armadura subsónica con una bala de punto blando con camisa y un núcleo de acero duro que sobresale de la carcasa. Requiere un silenciador para disparar sigilosamente. Utilizado por los servicios especiales de los países del Pacto de Varsovia. Eficaz contra armadura corporal.\n \n %c[0,93,0,116] • %c[0,140,140,140]Clase de armadura perforada más alta: %c[0,170,170,170]IV \n %c[0,93,0,116] • %c[0,140,140,140]Clasificación de daño tisular: %c[0,170,170,170]medio - alto \n \n %c[0,170,170,170]ESPECIAL: \n \n %c[0,204,0,51] • %c[0,140,140,140]munición subsónica \n %c[0,93,0,116] • %c[0,140,140,140]gran aumento en la caída del proyectil con la distancia</text>
 	</string>
 
 	<string id="ammo-gauss">
@@ -213,7 +213,7 @@
 		<text>M203</text>
 	</string>
 	<string id="ammo-m209_descr">
-		<text>Granada de 40 mm para el lanzagranadas subacuático M203. Esta munición tiene una zona de muerte de 3.5 metros. También es adecuado para usar en el lanzagranadas integrado FN F2000.\n \n %c[0,93,0,116] • %c[0,140,140,140]Potencia de explosión: %c[0,170,170,170]medio \n %c[0,93,0,116 ] • %c[0,140,140,140]Radio de explosión: %c[0,170,170,170]4,1 m \n %c[0,93,0,116] • %c[0,140,140,140]Radio de los fragmentos: %c[0,170,170,170]28 m \n %c[ 0,93,0,116] • %c[0,140,140,140]Av. número de fragmentos: %c[0,170,170,170]95 (pequeñas metralla) \n %c[0,93,0,116] • %c[0,140,140,140]Retraso de la explosión: %c[0,170,170,170]ninguno (explota al impactar)</text>
+		<text>Granada de 40 mm para el lanzagranadas subacuático M203. Esta munición tiene una zona de muerte de 3.5 metros. También es adecuado para usar en el lanzagranadas integrado FN F2000.\n \n %c[0,93,0,116] • %c[0,140,140,140]Potencia de explosión: %c[0,170,170,170]medio \n %c[0,93,0,116 ] • %c[0,140,140,140]Radio de explosión: %c[0,170,170,170]4,1 m \n %c[0,93,0,116] • %c[0,140,140,140]Radio de los fragmentos: %c[0,170,170,170]28 m \n %c[0,93,0,116] • %c[0,140,140,140]Av. número de fragmentos: %c[0,170,170,170]95 (pequeñas metralla) \n %c[0,93,0,116] • %c[0,140,140,140]Retraso de la explosión: %c[0,170,170,170]ninguno (explota al impactar)</text>
 	</string>
 
 	<string id="ammo-og-7b">
@@ -233,7 +233,7 @@
 		<text>VOG-25</text>
 	</string>
 	<string id="ammo-vog-25_descr">
-		<text>Granadas de fragmentación regulares para el lanzador de granadas de cañón bajo GP-25 Kostyor. Esta munición tiene una zona de muerte de 2,5 metros. La granada VOG-25 también se usa en el complejo OC-14 Groza y en el lanzagranadas tipo revólver RG6/6G30.\n \n %c[0,93,0,116] • %c[0,140,140,140]Potencia explosiva: %c[ 0,170,170,170]media \n %c[0,93,0,116] • %c[0,140,140,140]Radio de explosión: %c[0,170,170,170]3,6 m \n %c[0,93,0,116] • %c[0,140,140,140]Radio de los fragmentos: %c[0,170,170,170]20 m \n %c[0,93,0,116] • %c[0,140,140,140]Av. número de fragmentos: %c[0,170,170,170]81 (pequeños metralla) \n %c[0,93,0,116] • %c[0,140,140,140]Retraso de explosión: %c[0,170,170,170]ninguno (explota al impactar)</text>
+		<text>Granadas de fragmentación regulares para el lanzador de granadas de cañón bajo GP-25 Kostyor. Esta munición tiene una zona de muerte de 2,5 metros. La granada VOG-25 también se usa en el complejo OC-14 Groza y en el lanzagranadas tipo revólver RG6/6G30.\n \n %c[0,93,0,116] • %c[0,140,140,140]Potencia explosiva: %c[0,170,170,170]media \n %c[0,93,0,116] • %c[0,140,140,140]Radio de explosión: %c[0,170,170,170]3,6 m \n %c[0,93,0,116] • %c[0,140,140,140]Radio de los fragmentos: %c[0,170,170,170]20 m \n %c[0,93,0,116] • %c[0,140,140,140]Av. número de fragmentos: %c[0,170,170,170]81 (pequeños metralla) \n %c[0,93,0,116] • %c[0,140,140,140]Retraso de explosión: %c[0,170,170,170]ninguno (explota al impactar)</text>
 	</string>
 
 	<string id="ammo-7.62x39_fmj-old">
@@ -243,7 +243,7 @@
 		<text>7.62x39 (viejo)</text>
 	</string>
 	<string id="ammo-7.62x39_fmj">
-		<text>7.62x39 mm Munición</text>
+		<text>7.62x39 mm: Munición</text>
 	</string>
 	<string id="ammo-7.62x39_fmj_s">
 		<text>7.62x39</text>
@@ -284,19 +284,19 @@
 		<text>Mirilla EOTech</text>
 	</string>
 	<string id="st_addon_scope_eotech_descr">
-		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[0,153,255,255] • %c[0,140,140,140]todos los rifles NATO \n \n %c[0,170,170,170]Vista holográfica para rifles de asalto y ametralladoras de la OTAN. \n \n %c[0,93,0,116] • %c[0,140,140,140]Aumento: %c[0,170,170,170]ninguno (colimador) \n %c[0,93,0,116] • %c[0,140,140,140]Condición: %c[ 0,170,170,170]muy bueno</text>
+		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[0,153,255,255] • %c[0,140,140,140]todos los rifles NATO \n \n %c[0,170,170,170]Vista holográfica para rifles de asalto y ametralladoras de la OTAN. \n \n %c[0,93,0,116] • %c[0,140,140,140]Aumento: %c[0,170,170,170]ninguno (colimador) \n %c[0,93,0,116] • %c[0,140,140,140]Condición: %c[0,170,170,170]muy bueno</text>
 	</string>
 	<string id="st_addon_scope_1p29">
 		<text>Mirilla 1P29 "Tulip"</text>
 	</string>
 	<string id="st_addon_scope_1p29_descr">
-		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[0,153,255,255] • %c[0,140,140,140]todos rifles Varsovia \n \n %c[0,170,170,170]La mira USP-1 (índice 1P29) tiene una disposición óptica con un sistema de montaje de prismas. Los ángulos de visión se establecen mecánicamente girando el cuerpo de la mira en relación con el soporte de montaje del arma. No requiere baterías ya que está iluminado con tritio. La escala de escala en el borde del campo de visión de la vista proporciona un medio para encontrar visualmente el rango de hasta 1200 m de un objetivo de 1,5 m de altura.\n \n %c[0,93,0,116] • %c[0,140,140,140 ]Aumento: %c[0,170,170,170]4,0x \n %c[0,93,0,116] • %c[0,140,140,140]Condición: %c[0,170,170,170]bueno \n %c[0,93,0,116] • %c[ 0,140,140,140]Patrón de retículo: %c[0,170,170,170]PSU-1</text>
+		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[0,153,255,255] • %c[0,140,140,140]todos rifles Varsovia \n \n %c[0,170,170,170]La mira USP-1 (índice 1P29) tiene una disposición óptica con un sistema de montaje de prismas. Los ángulos de visión se establecen mecánicamente girando el cuerpo de la mira en relación con el soporte de montaje del arma. No requiere baterías ya que está iluminado con tritio. La escala de escala en el borde del campo de visión de la vista proporciona un medio para encontrar visualmente el rango de hasta 1200 m de un objetivo de 1,5 m de altura.\n \n %c[0,93,0,116] • %c[0,140,140,140 ]Aumento: %c[0,170,170,170]4,0x \n %c[0,93,0,116] • %c[0,140,140,140]Condición: %c[0,170,170,170]bueno \n %c[0,93,0,116] • %c[0,140,140,140]Patrón de retículo: %c[0,170,170,170]PSU-1</text>
 	</string>
 	<string id="st_addon_scope_kobra">
 		<text>EKP 1S-03 "Kobra"</text>
 	</string>
 	<string id="st_addon_scope_kobra_descr">
-		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[0,153,255,255] • %c[0,140,140,140]todas Pacto de Varsovia rifles \n \n %c[0,170,170,170]La vista Kobra es una óptica de combate colimador abierto utilizando una HUD generado por láser para superponer un patrón de retícula en una lente filtrada. Está diseñado para acoplarse rápida metas y objetivos que aparecen durante un corto período de tiempo en lugares cerrados y combate urbano en diferentes condiciones de luz en movimiento. Proporciona una orientación clara de 104 lx a 10-2 lx (luz del día, crepúsculo y luz de la luna), uno o dos objetivos. Efectiva al disparar desde vehículos en movimiento \n \n %c[0,93,0,116] • %c[0,140,140,140]Ampliación:.% C [0,170,170,170]Ninguno (colimador) \n %c[0,93,0,116] • %c[0,140,140,140]Condición: %c[0,170,170,170]muy bueno</text>
+		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[0,153,255,255] • %c[0,140,140,140]todas Pacto de Varsovia rifles \n \n %c[0,170,170,170]La vista Kobra es una óptica de combate colimador abierto utilizando una HUD generado por láser para superponer un patrón de retícula en una lente filtrada. Está diseñado para acoplarse rápida metas y objetivos que aparecen durante un corto período de tiempo en lugares cerrados y combate urbano en diferentes condiciones de luz en movimiento. Proporciona una orientación clara de 104 lx a 10-2 lx (luz del día, crepúsculo y luz de la luna), uno o dos objetivos. Efectiva al disparar desde vehículos en movimiento \n \n %c[0,93,0,116] • %c[0,140,140,140]Ampliación: %c[0,170,170,170]Ninguno (colimador) \n %c[0,93,0,116] • %c[0,140,140,140]Condición: %c[0,170,170,170]muy bueno</text>
 	</string>
 	<string id="st_addon_scope">
 		<text>Mirilla PSO-1M</text>
@@ -308,13 +308,13 @@
 		<text>Mirilla PSO-1M2-1</text>
 	</string>
 	<string id="st_addon_scope_pso-1m2-01_descr">
-		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[0,153,255,255] • %c[0,140,140,140]todas Pacto de Varsovia rifles \n \n %c[0,170,170,170]El PSO-1M2-O1 cuenta con una muy eficaz y útil telémetro basado en la altura para uso doble, con escalas graduadas para la estimación de la figura de pie y prono. El gradiente basado 400 metros de altura Simonov (estilo estrangulador) telémetro tiene un chevron para su uso con los rifles 9x39 calibre \n \n %c[0,93,0,116] • %c[0,140,140,140]Ampliación:.% C [0,170,170,170]4.0 x \n %c[0,93,0,116] • %c[0,140,140,140]Estado: %c[0,170,170,170]muy buena \n %c[0,93,0,116] • %c[0,140,140,140]patrón de retícula: %c[ 0,170,170,170]PSO-1-1</text>
+		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[0,153,255,255] • %c[0,140,140,140]todas Pacto de Varsovia rifles \n \n %c[0,170,170,170]El PSO-1M2-O1 cuenta con una muy eficaz y útil telémetro basado en la altura para uso doble, con escalas graduadas para la estimación de la figura de pie y prono. El gradiente basado 400 metros de altura Simonov (estilo estrangulador) telémetro tiene un chevron para su uso con los rifles 9x39 calibre \n \n %c[0,93,0,116] • %c[0,140,140,140]Ampliación: %c[0,170,170,170]4.0 x \n %c[0,93,0,116] • %c[0,140,140,140]Estado: %c[0,170,170,170]muy buena \n %c[0,93,0,116] • %c[0,140,140,140]patrón de retícula: %c[0,170,170,170]PSO-1-1</text>
 	</string>
 	<string id="st_addon_scope_po4x34">
 		<text>Mirilla PO4x34</text>
 	</string>
 	<string id="st_addon_scope_po4x34_descr">
-		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[0,153,255,255] • %c[0,140,140,140]Serie de armas OTs-14 \n \n %c[0,170,170,170]Vista óptica para la serie de armas OTs-14. \n \n %c[0,93,0,116] • %c[0,140,140,140]Ampliación: %c[0,170,170,170]4,0x \n %c[0,93,0,116] • %c[0,140,140,140]Estado: %c[ 0,170,170,170]bueno \n %c[0,93,0,116] • %c[0,140,140,140]Patrón de retículo: %c[0,170,170,170]4x34</text>
+		<text>\n \n %c[0,140,140,140]COMPATIBILIDAD: \n \n %c[0,153,255,255] • %c[0,140,140,140]Serie de armas OTs-14 \n \n %c[0,170,170,170]Vista óptica para la serie de armas OTs-14. \n \n %c[0,93,0,116] • %c[0,140,140,140]Ampliación: %c[0,170,170,170]4,0x \n %c[0,93,0,116] • %c[0,140,140,140]Estado: %c[0,170,170,170]bueno \n %c[0,93,0,116] • %c[0,140,140,140]Patrón de retículo: %c[0,170,170,170]4x34</text>
 	</string>
 	<string id="st_addon_scope_pu">
 		<text>Mirilla PU</text>
@@ -416,13 +416,13 @@
 		<text>Granada RGD-5</text>
 	</string>
 	<string id="st_grenade_rgd5_descr">
-		<text>RGD-5 (Hand Grenade Remote, modificación - 5) es una granada de mano ofensiva con una pequeña zona de muerte de unos 3 metros. A menudo utilizado por stalkeres para "fumar" mutantes debido a su costo relativamente bajo.\n \n %c[0,93,0,116] • %c[0,140,140,140]Potencia explosiva: %c[0,170,170,170]media \n %c[ 0,93,0,116] • %c[0,140,140,140]Radio de explosión: %c[0,170,170,170]3,2 m \n %c[0,93,0,116] • %c[0,140,140,140]Radio de los fragmentos: %c[0,170,170,170]43 m \n %c[0,93,0,116] • %c[0,140,140,140]Av. número de fragmentos: %c[0,170,170,170]240 (pequeñas metrallas) \n %c[0,93,0,116] • %c[0,140,140,140]Retraso de la explosión: %c[0,170,170,170]~4 segundos</text>
+		<text>RGD-5 (Hand Grenade Remote, modificación - 5) es una granada de mano ofensiva con una pequeña zona de muerte de unos 3 metros. A menudo utilizado por stalkeres para "fumar" mutantes debido a su costo relativamente bajo.\n \n %c[0,93,0,116] • %c[0,140,140,140]Potencia explosiva: %c[0,170,170,170]media \n %c[0,93,0,116] • %c[0,140,140,140]Radio de explosión: %c[0,170,170,170]3,2 m \n %c[0,93,0,116] • %c[0,140,140,140]Radio de los fragmentos: %c[0,170,170,170]43 m \n %c[0,93,0,116] • %c[0,140,140,140]Av. número de fragmentos: %c[0,170,170,170]240 (pequeñas metrallas) \n %c[0,93,0,116] • %c[0,140,140,140]Retraso de la explosión: %c[0,170,170,170]~4 segundos</text>
 	</string>
 	<string id="st_grenade_thermite">
 		<text>Granada termita</text>
 	</string>
 	<string id="st_grenade_thermite_descr">
-		<text>Una granada incendiaria (o granada de termita) que produce calor intenso (2,200 °C o 3,992 °F) por medio de una reacción química en la que el aluminio en polvo y el óxido de hierro reaccionan para producir una corriente de hierro fundido y óxido de aluminio. Lleno de 600 a 800 gramos de termita.\n \n %c[0,93,0,116] • %c[0,140,140,140]Potencia de explosión: %c[0,170,170,170]media (daño térmico) \n %c[0,93, 0,116] • %c[0,140,140,140]Radio de explosión: %c[0,170,170,170]4,6 m \n %c[0,93,0,116] • %c[0,140,140,140]Radio de los fragmentos: %c[0,170,170,170]ninguno \n %c[ 0,93,0,116] • %c[0,140,140,140]Av. número de fragmentos: %c[0,170,170,170]ninguno \n %c[0,93,0,116] • %c[0,140,140,140]Retardo a la explosión: %c[0,170,170,170]~4 segundos</text>
+		<text>Una granada incendiaria (o granada de termita) que produce calor intenso (2,200 °C o 3,992 °F) por medio de una reacción química en la que el aluminio en polvo y el óxido de hierro reaccionan para producir una corriente de hierro fundido y óxido de aluminio. Lleno de 600 a 800 gramos de termita.\n \n %c[0,93,0,116] • %c[0,140,140,140]Potencia de explosión: %c[0,170,170,170]media (daño térmico) \n %c[0,93, 0,116] • %c[0,140,140,140]Radio de explosión: %c[0,170,170,170]4,6 m \n %c[0,93,0,116] • %c[0,140,140,140]Radio de los fragmentos: %c[0,170,170,170]ninguno \n %c[0,93,0,116] • %c[0,140,140,140]Av. número de fragmentos: %c[0,170,170,170]ninguno \n %c[0,93,0,116] • %c[0,140,140,140]Retardo a la explosión: %c[0,170,170,170]~4 segundos</text>
 	</string>
 	<string id="st_grenade_smoke">
 		<text>Granada de humo</text>
@@ -476,7 +476,7 @@
 		<text>M249</text>
 	</string>
 	<string id="st_wpn_m249_descr">
-		<text>La M249 es una ametralladora de 5.56x45 con correa. Es la adaptación estadounidense del belga FN Minimi. El M249 ha visto acción en todos los conflictos importantes que involucran a los Estados Unidos desde la invasión estadounidense a Panamá en 1989. Los soldados generalmente están satisfechos con el rendimiento del arma, aunque ha habido informes de obstrucción con tierra y arena.\n \n %c[ 0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140]Alcance Barska ES AC10632</text>
+		<text>La M249 es una ametralladora de 5.56x45 con correa. Es la adaptación estadounidense del belga FN Minimi. El M249 ha visto acción en todos los conflictos importantes que involucran a los Estados Unidos desde la invasión estadounidense a Panamá en 1989. Los soldados generalmente están satisfechos con el rendimiento del arma, aunque ha habido informes de obstrucción con tierra y arena.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140]Alcance Barska ES AC10632</text>
 	</string>
 	<string id="st_wpn_abakan">
 		<text>AN-94</text>
@@ -515,7 +515,7 @@
 		<text>TOZ-66</text>
 	</string>
 	<string id="st_wpn_bm16_full_descr"> <!-- revision -->
-		<text>El cañón de caza TOZ-66 es bien conocido por los cazadores experimentados. Fue posible lograr todas las ventajas de los modelos anteriores de rifles de caza en esta versión. Fue emitido desde 1968 hasta 1974 y logró ganar la gloria del rifle más fuerte entre los barriles gemelos de Tula. Es digno de mención que incluso los modelos modernos de TOZ de doble barril son muy inferiores al TOZ-66, que recibió un receptor intensificado. Siendo un arma poderosa y extremadamente confiable que todos los stalkeres pueden permitirse, se usa ampliamente en la Zona, pero debido al diseño voluminoso y al peso considerable, muchos stalkeres prefieren una pistola o una serrería.</text>
+		<text>El cañón de caza TOZ-66 es bien conocido por los cazadores experimentados. Fue posible lograr todas las ventajas de los modelos anteriores de rifles de caza en esta versión. Fue emitido desde 1968 hasta 1974 y logró ganar la gloria del rifle más fuerte entre los barriles gemelos de Tula. Es digno de mención que incluso los modelos modernos de TOZ de doble barril son muy inferiores al TOZ-66, que recibió un receptor intensificado. Siendo un arma poderosa y extremadamente fiable que todos los stalkeres pueden permitirse, se usa ampliamente en la Zona, pero debido al diseño voluminoso y al peso considerable, muchos stalkeres prefieren una pistola o una serrería.</text>
 	</string>
 	<string id="st_wpn_ppsh41">
 		<text>PPSh-41</text>
@@ -605,7 +605,7 @@
 		<text>RP</text>
 	</string>
 	<string id="st_wpn_rp_descr">
-		<text>Equipado con una culata de esqueleto de madera, así como una culata con bisagras y una empuñadura de pistola de madera. La parte trasera de la culata alberga un kit de limpieza, y una varilla de limpieza desmontada se almacena en la pierna derecha del bípode. Una ametralladora muy confiable.</text>
+		<text>Equipado con una culata de esqueleto de madera, así como una culata con bisagras y una empuñadura de pistola de madera. La parte trasera de la culata alberga un kit de limpieza, y una varilla de limpieza desmontada se almacena en la pierna derecha del bípode. Una ametralladora muy fiable.</text>
 	</string>
 	<string id="st_wpn_rpk74">
 		<text>RPK-74</text>
@@ -851,7 +851,7 @@
 		<text>FN SCAR-H</text>
 	</string>
 	<string id="st_wpn_scar_descr">
-		<text>El rifle de asalto de combate de las fuerzas de operaciones especiales (SCAR) es un rifle modular fabricado por FN Herstal para que SOCOM satisfaga los requisitos de la competencia SCAR. Esta familia de rifles consta de dos tipos, SCAR-H y SCAR-L. El SCAR-H (Heavy) tiene cámara en cartucho NATO de 7.62x51 mm.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140]Silenciador de la OTAN \n %c[ 0,93,0,116] • %c[0,140,140,140]ACOG, Barska ES AC10632, EOTech ámbitos \n %c[0,93,0,116] • %c[0,140,140,140]M203 lanzagranadas</text>
+		<text>El rifle de asalto de combate de las fuerzas de operaciones especiales (SCAR) es un rifle modular fabricado por FN Herstal para que SOCOM satisfaga los requisitos de la competencia SCAR. Esta familia de rifles consta de dos tipos, SCAR-H y SCAR-L. El SCAR-H (Heavy) tiene cámara en cartucho NATO de 7.62x51 mm.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140]Silenciador de la OTAN \n %c[0,93,0,116] • %c[0,140,140,140]ACOG, Barska ES AC10632, EOTech ámbitos \n %c[0,93,0,116] • %c[0,140,140,140]M203 lanzagranadas</text>
 	</string>
 	<string id="st_wpn_sig550">
 		<text>SG 550</text>
@@ -911,7 +911,7 @@
 		<text>OTs-03 SVU-A</text>
 	</string>
 	<string id="st_wpn_svu_nimble_descr">
-		<text>Este rifle de francotirador acortado es el miembro más compacto de la familia SVU/Dragunov BP de rifles de francotirador. Su característica única es un modo de disparo automático agregado a la SVU regular a petición especial de algunos clientes del Ministerio del Interior de la Federación de Rusia. Aunque el arma generalmente no es adecuada para situaciones de combate cuerpo a cuerpo, el fuego automático ha demostrado ser una solución de emergencia confiable para los tiradores expuestos. Los inconvenientes de la disminución del tamaño, es decir, la precisión reducida y la menor velocidad de la boca, dan como resultado una energía cinética disminuida de cada proyectil disparado. Para compensar el mayor retroceso en el modo de disparo automático, SVU-A cuenta con un Silenciador permanente que también sirve como un freno de boca muy eficaz. Este modelo particular de SVU-A solía pertenecer a Max, el guardián legendario de Freedom.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140]EKP-1S -03 Kobra, 1P29, PSO-1 ámbitos \n %c[0,93,0,116] • %c[0,140,140,140]Silenciador de SVU (integrado)</text>
+		<text>Este rifle de francotirador acortado es el miembro más compacto de la familia SVU/Dragunov BP de rifles de francotirador. Su característica única es un modo de disparo automático agregado a la SVU regular a petición especial de algunos clientes del Ministerio del Interior de la Federación de Rusia. Aunque el arma generalmente no es adecuada para situaciones de combate cuerpo a cuerpo, el fuego automático ha demostrado ser una solución de emergencia fiable para los tiradores expuestos. Los inconvenientes de la disminución del tamaño, es decir, la precisión reducida y la menor velocidad de la boca, dan como resultado una energía cinética disminuida de cada proyectil disparado. Para compensar el mayor retroceso en el modo de disparo automático, SVU-A cuenta con un Silenciador permanente que también sirve como un freno de boca muy eficaz. Este modelo particular de SVU-A solía pertenecer a Max, el guardián legendario de Freedom.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140]EKP-1S -03 Kobra, 1P29, PSO-1 ámbitos \n %c[0,93,0,116] • %c[0,140,140,140]Silenciador de SVU (integrado)</text>
 	</string>
 	<string id="st_wpn_l96a1">
 		<text>L96A1</text>
@@ -950,7 +950,7 @@
 		<text>USP "Marzo"</text>
 	</string>
 	<string id="st_wpn_usp_descr">
-		<text>Heckler end Koch USP, diseñado originalmente para el mercado estadounidense, el USP, Universal Self loading Pistol, es conocido como un arma de fuego precisa y confiable. La aplicación de la ley y el ejército de EE. UU. Proporcionaron gran parte de los criterios de diseño para el USP. Los controles son exclusivamente estadounidenses, influenciados por diseños famosos como la pistola Government Model 1911. Todos los PSU usan un marco de polímero reforzado con fibra reforzado con insertos de acero inoxidable en áreas sujetas a tensión y fricción. Incorporando varios elementos de diseño exitosos de armas de fuego, el USP Compact .45 es parte de la familia de pistolas USP diseñadas por H & amp; K. Capaz de soportar castigos extremos y condiciones adversas, es utilizado por la policía de varios países y unidades de fuerzas especiales.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140].45 Silenciador de ACP (después de la modificación)</text>
+		<text>Heckler end Koch USP, diseñado originalmente para el mercado estadounidense, el USP, Universal Self loading Pistol, es conocido como un arma de fuego precisa y fiable. La aplicación de la ley y el ejército de EE. UU. Proporcionaron gran parte de los criterios de diseño para el USP. Los controles son exclusivamente estadounidenses, influenciados por diseños famosos como la pistola Government Model 1911. Todos los PSU usan un marco de polímero reforzado con fibra reforzado con insertos de acero inoxidable en áreas sujetas a tensión y fricción. Incorporando varios elementos de diseño exitosos de armas de fuego, el USP Compact .45 es parte de la familia de pistolas USP diseñadas por H & amp; K. Capaz de soportar castigos extremos y condiciones adversas, es utilizado por la policía de varios países y unidades de fuerzas especiales.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140].45 Silenciador de ACP (después de la modificación)</text>
 	</string>
 	<string id="st_wpn_usp_nimble_descr">
 		<text>Una pistola compacta de gran calibre con un corto movimiento de perno y un conjunto de perno ligero. Solíapertenecer a un mercenario llamado Wolfhound. Parece ser una pistola USP Compact modificada.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140]Silenciador GemTech (después de la modificación)</text>
@@ -1001,7 +1001,7 @@
 		<text>En 1991, la fábrica Izhmash comenzó la producción de un AK-74 mejorado, el rifle de asalto AK-74M. Además de varias mejoras de producción menores, el rifle también presenta un nuevo material sintético plegable hecho de una poliamida negra rellena de vidrio. El AK-74M también usa un dispositivo de boca reforzado y una cubierta antipolvo. Cada AK-74M está equipado con un soporte de riel lateral para el montaje de la óptica. El AK-74M ha sido aceptado como el nuevo rifle de servicio de la Federación Rusa. En esta versión, la mira del colimador PK-A está integrada \n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140]GP-25 lanzagranadas (después de la modificación) \n %c[0,93,0,116] • %c[0,140,140,140]PK-A vista punto rojo (integrado) \n %c[0,93,0,116] • %c[0,140,140,140]Silenciador TGP-A</text>
 	</string>
 	<string id="st_wpn_aks74_descr">
-		<text>Un fusil más preciso y confiable que el AKM, el AK-74 todavía es utilizado por la mayoría de los países de la antigua URSS. El AKS-74 es la versión estándar plegable de AK-74 y su reserva tiene una forma triangular y carece de la almohadilla para hombro plegable del AKMS y está doblada hacia el lado izquierdo del receptor.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140]GP-25 lanzagranadas (después de la modificación) \n %c[0,93,0,116] • %c[0,140,140,140]EKP-1S-03 Kobra, 1P29, PSO-1 ámbitos \n %c[0,93,0,116] • %c[0,140,140,140]TGP-A Silenciador</text>
+		<text>Un fusil más preciso y fiable que el AKM, el AK-74 todavía es utilizado por la mayoría de los países de la antigua URSS. El AKS-74 es la versión estándar plegable de AK-74 y su reserva tiene una forma triangular y carece de la almohadilla para hombro plegable del AKMS y está doblada hacia el lado izquierdo del receptor.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140]GP-25 lanzagranadas (después de la modificación) \n %c[0,93,0,116] • %c[0,140,140,140]EKP-1S-03 Kobra, 1P29, PSO-1 ámbitos \n %c[0,93,0,116] • %c[0,140,140,140]TGP-A Silenciador</text>
 	</string>
 	<string id="st_wpn_ak101_descr">
 		<text>El AK-101 es un rifle de asalto de la familia Kalashnikov diseñado para el mercado de exportación, utilizando cartuchos OTAN de 5.56x45 mm; el estándar de la mayoría de los países de la OTAN. El AK-101 se comercializa para aquellos que buscan un arma que combine la compatibilidad logística y la familiaridad de la munición de la OTAN de 5,56x45 mm con la fiabilidad de un Kalashnikov. Está diseñado con materiales modernos y compuestos, incluidos los plásticos para reducir el peso y mejorar la precisión. Muchas de las mejoras encontradas en el AK-101 también están presentes en el AK-103 y en el resto de la serie de rifles AK-10x.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93, 0,116] • %c[0,140,140,140]GP-25 lanzagranadas (después de la modificación) \n %c[0,93,0,116] • %c[0,140,140,140]ACOG, Barska ES AC10632, EOTech, EKP-1S-03 Kobra, 1P29, Telescopios PSO-1 \n %c[0,93,0,116] • %c[0,140,140,140]Silenciador de la OTAN</text>
@@ -1013,13 +1013,13 @@
 		<text>El AKS-74U fue diseñado principalmente para unidades Spetsnaz, infantería aerotransportada, unidades de soporte de escalón posterior y tripulaciones de vehículos blindados, que requieren un arma automática individual compacta pero relativamente potente. El AKS-74U es significativamente más maniobrable en espacios reducidos que el AKS-74, pero una disminución significativa en la velocidad del hocico dio como resultado una disminución en el rango efectivo.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0, 93,0,116] • %c[0,140,140,140]EKP-1S-03 Vista Kobra (integrada) \n %c[0,93,0,116] • %c[0,140,140,140]Silenciador TGP-A</text>
 	</string>
 	<string id="st_wpn_colt1911_descr">
-		<text>El M1911 fue el brazo lateral estándar para el ejército de EE. UU. De 1911 a 1985. Un arma extremadamente confiable y robusta, ha sido adoptada para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta el momento.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140].45 Silenciador de ACP (después de la modificación)</text>
+		<text>El M1911 fue el brazo lateral estándar para el ejército de EE. UU. De 1911 a 1985. Un arma extremadamente fiable y robusta, ha sido adoptada para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta el momento.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140].45 Silenciador de ACP (después de la modificación)</text>
 	</string>
 	<string id="st_wpn_colt_kimber_descr">
 		<text>Una variante avanzada del Colt M1911A1 desarrollada por Kimber Manufacturing. The Desert Warrior fue creado para realizar operaciones especiales por parte de los EE. UU.</text>
 	</string>
 	<string id="st_wpn_fnp45_descr">
-		<text>La pistola FN FNP es una serie de pistolas semi automáticas enmarcadas en polímero fabricadas en Columbia, Carolina del Sur por FNH USA, una división de Fabrique Nationale de Herstal. Debutó a principios de 2006, las armas de la serie FNP son armas disparadas con martillo que utilizan un sistema de cámara Browning con un extractor externo. El módulo disparador se encuentra dentro del marco de polímero como una unidad individual conectada al martillo. El botón de liberación de la revista se mantiene en su lugar mediante un pin de retención que se puede quitar para permitir que el botón se invierta.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[ 0,140,140,140]Silenciador GemTech</text>
+		<text>La pistola FN FNP es una serie de pistolas semi automáticas enmarcadas en polímero fabricadas en Columbia, Carolina del Sur por FNH USA, una división de Fabrique Nationale de Herstal. Debutó a principios de 2006, las armas de la serie FNP son armas disparadas con martillo que utilizan un sistema de cámara Browning con un extractor externo. El módulo disparador se encuentra dentro del marco de polímero como una unidad individual conectada al martillo. El botón de liberación de la revista se mantiene en su lugar mediante un pin de retención que se puede quitar para permitir que el botón se invierta.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140]Silenciador GemTech</text>
 	</string>
 	<string id="st_wpn_fnx45_descr">
 		<text>La línea de pistolas FNX fue introducida en 2009 por FNH USA, una filial con sede en los EE. UU. De la compañía belga de armas FN Herstal. Originalmente desarrollados para cumplir con los requisitos del Programa de pistola de combate conjunto de los EE. UU., Estas pistolas se fabrican en EE. UU. Y están destinadas a uso militar, policial y civil. Todas las pistolas FNX son pistolas semiautomáticas con gatillo de acción doble/simple y martillo externo. El armazón de todas las pistolas FNX está hecho de polímero resistente a los impactos, con correas removibles de diferentes tamaños. FNX-45 Tactical es una variante especializada del FNX-45 básico, que presenta un cañón de rosca extendido y miras elevadas, para ser utilizado con un Silenciador de sonido desmontable.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0, 93,0,116] • %c[0,140,140,140]FNX Visor táctico (integrado) \n %c[0,93,0,116] • %c[0,140,140,140]Silenciador GemTech (integrado)</text>
@@ -1049,13 +1049,13 @@
 		<text>Una variante de francotirador del G3. El "SG" significa Scharfschutzengewehr, o "rifle de puntería". Los rifles fueron seleccionados individualmente de la línea de producción por su precisión y luego modificados. Se agregó una mira telescópica de potencia variable Zeiss 1.5-6x con un soporte de garra HK conectado al receptor. La reserva se extendió ligeramente y viene con un pesado amortiguador de doble etapa y reposacabezas ajustable. Se agregó un grupo disparador especial para un tirón nítido del gatillo de 1 lb. Se retuvo el fuego automático.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140]mirilla 4x (integrado)</text>
 	</string>
 	<string id="st_wpn_g36_descr">
-		<text>El HK G-36 era conocido como el proyecto HK-50 a principios de la década de 1990. Después de la cancelación de los proyectos G11 y G41, el Bundeswehr quedó con rifles G3 obsoletos; Heckler & Koch estaba listo para desarrollar un nuevo rifle de asalto tanto para el ejército alemán como para la exportación. El nuevo rifle de asalto de 5.56x45 mm fue adoptado por la Bundeswehr en 1995 y también llegó a manos de varias agencias policiales de todo el mundo, incluida la policía británica y algunos departamentos de policía de los EE. UU. Hasta ahora, ha habido muy pocas quejas sobre este rifle. Los más comunes son el sobrecalentamiento de las esposas durante el fuego sostenido y la pérdida de cero en el alcance incorporado de los rifles G36KE. Algunos soldados alemanes también se quejaron de la posición de las miras ópticas duales y se empañaron fácilmente con mal tiempo. De lo contrario, es preciso, confiable y simple en mantenimiento.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140]mirilla 3.5x (integrado) \n %c[0,93,0,116] • %c[0,140,140,140]Silenciador de la OTAN \n %c[0,93, 0,116] • %c[0,140,140,140]lanzador de granadas AG36</text>
+		<text>El HK G-36 era conocido como el proyecto HK-50 a principios de la década de 1990. Después de la cancelación de los proyectos G11 y G41, el Bundeswehr quedó con rifles G3 obsoletos; Heckler & Koch estaba listo para desarrollar un nuevo rifle de asalto tanto para el ejército alemán como para la exportación. El nuevo rifle de asalto de 5.56x45 mm fue adoptado por la Bundeswehr en 1995 y también llegó a manos de varias agencias policiales de todo el mundo, incluida la policía británica y algunos departamentos de policía de los EE. UU. Hasta ahora, ha habido muy pocas quejas sobre este rifle. Los más comunes son el sobrecalentamiento de las esposas durante el fuego sostenido y la pérdida de cero en el alcance incorporado de los rifles G36KE. Algunos soldados alemanes también se quejaron de la posición de las miras ópticas duales y se empañaron fácilmente con mal tiempo. De lo contrario, es preciso, fiable y simple en mantenimiento.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140]mirilla 3.5x (integrado) \n %c[0,93,0,116] • %c[0,140,140,140]Silenciador de la OTAN \n %c[0,93, 0,116] • %c[0,140,140,140]lanzador de granadas AG36</text>
 	</string>
 	<string id="st_wpn_l85_descr">
-		<text>El desarrollo del sistema SA80, que incluía dos armas, el rifle de asalto SA80 IW y la ametralladora ligera SA80 LSW, comenzó a fines de la década de 1960 cuando el ejército británico decidió desarrollar un nuevo rifle para reemplazar al viejo LION SLR de 7.62x51 mm hecho FN FAL. El arma individual estándar para las fuerzas armadas británicas, el L85 (en su versión original A1) tenía numerosos problemas de rendimiento. El L85A2 mejorado es extremadamente confiable en un rango de climas para varios escenarios operativos. Los fusiles actuales L85A2 son reconocidos como confiables y precisos, especialmente cuando se usan telescopios telescópicos estándar de SUSAT.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140]Alcance de SUSAT (integrado) \n %c[0,93,0,116] • %c[0,140,140,140]Silenciador de OTAN (después de la modificación)</text>
+		<text>El desarrollo del sistema SA80, que incluía dos armas, el rifle de asalto SA80 IW y la ametralladora ligera SA80 LSW, comenzó a fines de la década de 1960 cuando el ejército británico decidió desarrollar un nuevo rifle para reemplazar al viejo LION SLR de 7.62x51 mm hecho FN FAL. El arma individual estándar para las fuerzas armadas británicas, el L85 (en su versión original A1) tenía numerosos problemas de rendimiento. El L85A2 mejorado es extremadamente fiable en un rango de climas para varios escenarios operativos. Los fusiles actuales L85A2 son reconocidos como fiables y precisos, especialmente cuando se usan telescopios telescópicos estándar de SUSAT.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140]Alcance de SUSAT (integrado) \n %c[0,93,0,116] • %c[0,140,140,140]Silenciador de OTAN (después de la modificación)</text>
 	</string>
 	<string id="st_wpn_l85a2_descr">
-		<text>El desarrollo del sistema SA80, que incluía dos armas, el rifle de asalto SA80 IW y la ametralladora ligera SA80 LSW, comenzó a fines de la década de 1960 cuando el ejército británico decidió desarrollar un nuevo rifle para reemplazar al viejo LION SLR de 7.62x51 mm hecho FN FAL. El arma individual estándar para las fuerzas armadas británicas, el L85 (en su versión original A1) tenía numerosos problemas de rendimiento. El L85A2 mejorado es extremadamente confiable en un rango de climas para varios escenarios operativos. Los fusiles actuales L85A2 son reconocidos como confiables y precisos, especialmente cuando se usan telescopios telescópicos estándar.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140]SUSAT 4x alcance (integrado) \n %c[0,93,0,116] • %c[0,140,140,140]Silenciador de OTAN (después de la modificación)</text>
+		<text>El desarrollo del sistema SA80, que incluía dos armas, el rifle de asalto SA80 IW y la ametralladora ligera SA80 LSW, comenzó a fines de la década de 1960 cuando el ejército británico decidió desarrollar un nuevo rifle para reemplazar al viejo LION SLR de 7.62x51 mm hecho FN FAL. El arma individual estándar para las fuerzas armadas británicas, el L85 (en su versión original A1) tenía numerosos problemas de rendimiento. El L85A2 mejorado es extremadamente fiable en un rango de climas para varios escenarios operativos. Los fusiles actuales L85A2 son reconocidos como fiables y precisos, especialmente cuando se usan telescopios telescópicos estándar.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140]SUSAT 4x alcance (integrado) \n %c[0,93,0,116] • %c[0,140,140,140]Silenciador de OTAN (después de la modificación)</text>
 	</string>
 	<string id="st_wpn_lr300_descr">
 		<text>Basado en el AR-15, el LR 300 es un excelente sistema de armas adecuado para uso militar en combates cuerpo a cuerpo. Su base esquelética plegable lo hace ideal para entradas de construcción agresivas y rápidas que requieren un arma de fuego selectiva compacta pero potente. Con una excelente ergonomía y ligereza, esta arma es muy precisa pero es sensible a la suciedad y no es ideal para condiciones de campo difíciles.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140]Silenciador de la OTAN \n %c[0,93,0,116] • %c[0,140,140,140]ACOG, Barska ES AC10632, EOTech ámbitos \n %c[0,93,0,116] • %c[0,140,140,140]Granada M203 iniciador (después de la modificación)</text>
@@ -1067,7 +1067,7 @@
 		<text>El PB (Pistolet Besshumnyj o Pistola silenciosa), también conocido en el ejército soviético como 6P9, se desarrolló en 1967 para las unidades Spetsnaz del ejército soviético, así como para los operativos de la KGB. La pistola se basa en una pistola modificada Makarov PM y presenta un único Silenciador integral de dos piezas. Emitido en servicio en 1967, el PB (índice GRAU 6P9) es una pistola silenciada soviética basada en el PM de Makarov. Estaba destinado a ser utilizado por el KGB y los grupos de reconocimiento del ejército. La parte frontal del Silenciador es desmontable, por lo que la pistola se puede dividir en dos partes para un transporte conveniente. El Silenciador integral del PB también reduce la velocidad de la bala a niveles subsónicos inferiores.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140]Silenciador de 9 mm</text>
 	</string>
 	<string id="st_wpn_pm_descr">
-		<text>Este legado soviético es la pistola más común en la Zona y es una de las mejores pistolas compactas de defensa personal disponibles. Es pequeño, altamente confiable, fácil de usar y mantener en funcionamiento. También adolece de varios inconvenientes, incluidos el corto alcance, la baja precisión de disparo y la escasa potencia de frenado, y también la pérdida de las pistolas modernas de su clase en términos de peso y tamaño de revista. En 1951, la pistola Makarova fue seleccionada por su simplicidad, fácil fabricación, precisión y un poder de frenado razonable.</text>
+		<text>Este legado soviético es la pistola más común en la Zona y es una de las mejores pistolas compactas de defensa personal disponibles. Es pequeño, altamente fiable, fácil de usar y mantener en funcionamiento. También adolece de varios inconvenientes, incluidos el corto alcance, la baja precisión de disparo y la escasa potencia de frenado, y también la pérdida de las pistolas modernas de su clase en términos de peso y tamaño de revista. En 1951, la pistola Makarova fue seleccionada por su simplicidad, fácil fabricación, precisión y un poder de frenado razonable.</text>
 	</string>
 	<string id="st_wpn_protecta_descr">
 		<text>Armsel Protecta, de diseño único, es una escopeta giratoria de 12 gags, desarrollada para el control de disturbios y el combate. Anticuado ahora por la Saiga-12 rusa y la American AA-12, la Protecta fue un arma revolucionaria creada por el gobierno del Apartheid en la década de 1980. Esta escopeta tipo revólver de combate de cañón liso tenía la intención de proporcionar una potencia de fuego extrema para las unidades militarizadas. El arma se beneficia de una gran revista y una alta tasa de fuego efectiva, pero su volumen y peso considerable, combinado con un largo tiempo de recarga, son el precio a pagar por estas ventajas. Raras en la Zona y se usan principalmente para despejar espacios confinados de mutantes.</text>
@@ -1082,10 +1082,10 @@
 		<text>El SPAS-12 es una escopeta de modo dual, diseñada para el combate y las medidas antidisturbios. Es empleado por muchas unidades militares y policiales especiales en todo el mundo. Con su característico escudo de calor y material plegable, el SPAS-12 es un arma de fuego icónica. Notable por su fiabilidad y flexibilidad táctica. A pesar de su peso pesado, mecanismo complejo y costo considerable, tiene demanda en la Zona debido a su efectividad contra los mutantes.</text>
 	</string>
 	<string id="st_wpn_val_descr">
-		<text>El AS-VAL es ampliamente utilizado por unidades de reconocimiento del ejército ruso, así como por las Fuerzas Especiales MVD (Ministerio de Asuntos Internos) y FSB (Oficina Federal de Seguridad). El AS-VAL es un arma de supresión integral que funciona con gas. El receptor está mecanizado de acero forjado para una mayor resistencia. Tiene un riel de montaje lateral estándar para visores ópticos, de visión nocturna o de punto rojo, pero no tiene ninguna provisión para montar una bayoneta o un lanzagranadas. El Silenciador integral podría desmontarse fácilmente para su mantenimiento, reparación o almacenamiento compacto, pero el rifle no debería dispararse con el Silenciador eliminado debido a problemas de seguridad y fiabilidad.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[ 0,93,0,116] • %c[0,140,140,140]EKP-1S-03 Kobra, 1P29, PSO-1M2-1 ámbitos \n %c[0,93,0,116] • %c[0,140,140,140]Silenciador VSS (integrado)</text>
+		<text>El AS-VAL es ampliamente utilizado por unidades de reconocimiento del ejército ruso, así como por las Fuerzas Especiales MVD (Ministerio de Asuntos Internos) y FSB (Oficina Federal de Seguridad). El AS-VAL es un arma de supresión integral que funciona con gas. El receptor está mecanizado de acero forjado para una mayor resistencia. Tiene un riel de montaje lateral estándar para visores ópticos, de visión nocturna o de punto rojo, pero no tiene ninguna provisión para montar una bayoneta o un lanzagranadas. El Silenciador integral podría desmontarse fácilmente para su mantenimiento, reparación o almacenamiento compacto, pero el rifle no debería dispararse con el Silenciador eliminado debido a problemas de seguridad y fiabilidad.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140]EKP-1S-03 Kobra, 1P29, PSO-1M2-1 ámbitos \n %c[0,93,0,116] • %c[0,140,140,140]Silenciador VSS (integrado)</text>
 	</string>
 	<string id="st_wpn_vihr_descr">
-		<text>El rifle de asalto compacto SR-3 "Vikhr" ("Whirlwind") fue desarrollado en CNIITochMash y fabricado por Tula Arms Plant. Inicialmente conocido como "MA" (Malogabaritnyj Avtomat - rifle de asalto pequeño), se basó en el rifle de asalto AS-Val de 9x39 mm reprimido, y destinado para el transporte oculto por equipos especiales de protección VIP y operativos de Seguridad del Estado, SR3M Vikhr es el resultado de la combinación las cualidades de SR-3, AS VAL y VSS Vintorez. SR-3M también tiene una capacidad mayor de 30 Munición, que también proporciona una alimentación más confiable durante el fuego automático.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140]EKP-1S-03 Kobra, 1P29, PSO-1, PSO-1M2-1 ámbitos \n %c[0,93,0,116] • %c[0,140,140,140]9A-91/VSK-94 Silenciador</text>
+		<text>El rifle de asalto compacto SR-3 "Vikhr" ("Whirlwind") fue desarrollado en CNIITochMash y fabricado por Tula Arms Plant. Inicialmente conocido como "MA" (Malogabaritnyj Avtomat - rifle de asalto pequeño), se basó en el rifle de asalto AS-Val de 9x39 mm reprimido, y destinado para el transporte oculto por equipos especiales de protección VIP y operativos de Seguridad del Estado, SR3M Vikhr es el resultado de la combinación las cualidades de SR-3, AS VAL y VSS Vintorez. SR-3M también tiene una capacidad mayor de 30 Munición, que también proporciona una alimentación más fiable durante el fuego automático.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140]EKP-1S-03 Kobra, 1P29, PSO-1, PSO-1M2-1 ámbitos \n %c[0,93,0,116] • %c[0,140,140,140]9A-91/VSK-94 Silenciador</text>
 	</string>
 	<string id="st_wpn_9a91_descr">
 		<text>El 9A91 es un arma de perno giratorio operada por gas, que utiliza un pistón de gas de carrera larga, ubicado sobre el cañón, y un perno giratorio con 4 orejetas. El receptor está hecho de estampados de acero, el mango delantero y el mango de pistola están hechos de polímero. El material de acero se pliega y arriba del receptor cuando no está en uso. La vista trasera abatible tiene configuraciones para 100 y 200 metros de alcance, pero la base de visión relativamente corta y la trayectoria empinada de la bala subsónica restringen el 9A-91 a rangos de aproximadamente 100 metros.\n \n %c[0,140,140,140]ADJUNTOS: \n %c[0,93,0,116] • %c[0,140,140,140]EKP-1S-03 Kobra, 1P29, PSO, PSO-1M2-1 ámbitos \n %c[0,93,0,116] • %c[0,140,140,140 ]Silenciador 9A-91/VSK-94</text>
@@ -1103,7 +1103,7 @@
 		<text>Baterías que usan un fragmento encapsulado del artefacto "Flash" como fuente de energía. Fabricado con equipos de alta tecnología.\n \n %c[0,93,0,116] • %c[0,140,140,140]Clase de armadura perforada más alta: %c[0,170,170,170]V \n %c[0,93,0,116] • %c[0,140,140,140]Clasificación de daño tisular: %c[0,170,170,170]muy alto \n \n %c[0,170,170,170]ESPECIAL: \n \n %c[0,93,0,116] • %c[0,140,140,140]ítem tecnológico \n %c[0,93,0,116] • %c[0,140,140,140]prototipo</text>
 	</string>
 	<string id="ammo-gauss_cardan_descr">
-		<text>Estas células de menor capacidad usan fragmentos encapsulados del artefacto "Flash" como fuente de energía. Su menor capacidad se debe a condiciones de producción improvisadas y falta de equipo especializado.\n \n %c[0,93,0,116] • %c[0,140,140,140]Clase de armadura perforada más alta: %c[0,170,170,170]V \n %c[ 0,93,0,116] • %c[0,140,140,140]Clasificación de daño tisular: %c[0,170,170,170]muy alto \n \n %c[0,170,170,170]ESPECIAL: \n \n %c[0,93,0,116] • %c[0,140,140,140]artículo tecnológico \n %c[0,93,0,116] • %c[0,140,140,140]prototipo</text>
+		<text>Estas células de menor capacidad usan fragmentos encapsulados del artefacto "Flash" como fuente de energía. Su menor capacidad se debe a condiciones de producción improvisadas y falta de equipo especializado.\n \n %c[0,93,0,116] • %c[0,140,140,140]Clase de armadura perforada más alta: %c[0,170,170,170]V \n %c[0,93,0,116] • %c[0,140,140,140]Clasificación de daño tisular: %c[0,170,170,170]muy alto \n \n %c[0,170,170,170]ESPECIAL: \n \n %c[0,93,0,116] • %c[0,140,140,140]artículo tecnológico \n %c[0,93,0,116] • %c[0,140,140,140]prototipo</text>
 	</string>
 	<string id="st_knife_1">
 		<text>Cuchillo casero</text>
@@ -1139,13 +1139,13 @@
 		<text>Hacha</text>
 	</string>
 	<string id="st_axe_descr">
-		<text>Un hacha (o hacha) es un implemento que se ha utilizado durante milenios para dar forma, dividir y cortar madera, para cosechar madera, como arma y como símbolo ceremonial o heráldico. El hacha tiene muchas formas, pero generalmente consiste en una cabeza de hacha con mango o helve. En la Zona, el hacha puede garantizar su supervivencia gracias a su versatilidad.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,93,0,116] • %c[0,140,140,140]arma cuerpo a cuerpo \n %c[ 0,153,255,255] • %c[0,140,140,140]no apto para cortar mutantes de piel gruesa</text>
+		<text>Un hacha (o hacha) es un implemento que se ha utilizado durante milenios para dar forma, dividir y cortar madera, para cosechar madera, como arma y como símbolo ceremonial o heráldico. El hacha tiene muchas formas, pero generalmente consiste en una cabeza de hacha con mango o helve. En la Zona, el hacha puede garantizar su supervivencia gracias a su versatilidad.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,93,0,116] • %c[0,140,140,140]arma cuerpo a cuerpo \n %c[0,153,255,255] • %c[0,140,140,140]no apto para cortar mutantes de piel gruesa</text>
 	</string>
 	<string id="st_crowbar">
 		<text>Palanca</text>
 	</string>
 	<string id="st_crowbar_descr">
-		<text>La mejor herramienta para romper cerraduras y romper puertas. A menudo se encuentra en áreas industriales. Algunos stalkeres lo usan como un arma contra pequeños mutantes. Aunque las corwbars no son tan populares, son bastante baratas y comunes.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,93,0,116] • %c[0,140,140,140]cuerpo a cuerpo \n %c[255,238,153], 26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]equipo y reparaciones de armas (+3%) \n %c[255,238,153,26] • %c[0,140,140,140]multiuso</text>
+		<text>La mejor herramienta para romper cerraduras y romper puertas. A menudo se encuentra en áreas industriales. Algunos stalkeres lo usan como un arma contra pequeños mutantes. Aunque las corwbars no son tan populares, son bastante baratas y comunes.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,93,0,116] • %c[0,140,140,140]cuerpo a cuerpo \n %c[255,238,153,26] • %c[0,140,140,140]utilizable para: %c[0,170,170,170]equipo y reparaciones de armas (+3%) \n %c[255,238,153,26] • %c[0,140,140,140]multiuso</text>
 	</string>
 	<string id="st_shovel_old">
 		<text>Pala</text>

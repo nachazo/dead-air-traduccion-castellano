@@ -116,13 +116,13 @@
 		<text>Encuentra el artefacto %s</text>
 	</string>
 	<string id="simulation_task_4_text">
-		<text>Stalker quiere que encuentre el %s artefacto.</text>
+		<text>Stalker quiere que encuentre el artefacto %s.</text>
 	</string>
 	<string id="simulation_task_4_about">
 		<text>Yo... quiero decir que nuestro grupo necesita un artefacto.</text>
 	</string>
 	<string id="simulation_task_4_fetch_about">
-		<text>¿Tienes suerte de encontrar cosas? ¿Podrías ayudarme? Si encuentra %s artefacto, hágamelo saber. Mis hijos y yo estábamos buscándolo, pero no podemos encontrarlo. No te preocupes por la recompensa, te pagaré bien.</text>
+		<text>¿Eres bueno encontrando cosas? ¿Podrías ayudarme? Si encuentras el artefacto %s, házmelo saber. Mis hijos y yo lo estamos buscando, pero no lo encontrarmos. No te preocupes por la recompensa, te pagaré bien.</text>
 	</string>
 	<string id="simulation_task_4_fetch_finish">
 		<text>¡Por fín! Bueno, espero que todo salga bien, gracias. Aquí está tu parte.</text>
@@ -139,7 +139,7 @@
 		<text>¿Puedes ayudarme a encontrar una nueva arma?</text>
 	</string>
 	<string id="simulation_task_5_fetch_about">
-		<text>Mi tirador está completamente agotado. No se dispara la mitad del tiempo, y nunca me ha gustado de todos modos, pero no tengo dinero para uno nuevo... ¡si puedo encontrar una nueva arma! ¿Me ayudarás a encontrar una pieza de armamento más confiable?  %s lo hará bien; También pude guardar algunos cartuchos para el calibre. Cuanto mejor sea la condición, más pagaré. ¡Lo prometo!</text>
+		<text>Mi tirador está completamente agotado. No se dispara la mitad del tiempo, y nunca me ha gustado de todos modos, pero no tengo dinero para uno nuevo... ¡si puedo encontrar una nueva arma! ¿Me ayudarás a encontrar una pieza de armamento más fiable?  %s lo hará bien; También pude guardar algunos cartuchos para el calibre. Cuanto mejor sea la condición, más pagaré. ¡Lo prometo!</text>
 	</string>
 	<string id="simulation_task_5_fetch_finish">
 		<text>Brillante. Toma esto por el problema, tal como lo acordamos. ¡Mantengo mi palabra!</text>
@@ -233,7 +233,7 @@
 		<text>Un stalker necesita una recompensa quitada de su cabeza.</text>
 	</string>
 	<string id="simulation_task_11_about">
-		<text>Sí, ¡ayúdame, hermano! Algún bastardo ha puesto precio a mi cabeza. Cuídalo por mí y te pagaré el doble de la recompensa que él tiene conmigo.</text>
+		<text>Sí, ¡ayúdame, hermano! Algún cabrón ha puesto precio a mi cabeza. Encárgate de él por mí y te pagaré el doble de la recompensa que él puso sobre mí.</text>
 	</string>
 	<string id="simulation_task_11_finish">
 		<text>Oh, gracias stalker! Aquí está su pago. ¡Por fín puedo dormir por primera vez en días!</text>
@@ -297,7 +297,7 @@
 		<text>Encuentra el artefacto: %s</text>
 	</string>
 	<string id="simulation_task_15_text">
-		<text>Un soldado está ofreciendo un rifle a cambio del %s artefacto.</text>
+		<text>Un soldado está ofreciendo un rifle a cambio del artefacto %s.</text>
 	</string>
 	<string id="simulation_task_15_about">
 		<text>Oye, escucha hombre. Sé que esto va en contra de las regulaciones, pero voy a estar rotando a casa pronto y quiero traer un recuerdo. ¿Crees que puedes encontrar un artefacto para mí?</text>

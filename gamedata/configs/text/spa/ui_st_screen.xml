@@ -283,7 +283,7 @@
 		<text>Coordenadas de Stash recibidas</text>
 	</string>
 	<string id="st_press_any_key">
-		<text>Presione cualquier tecla para jugar</text>
+		<text>Pulsa cualquier tecla para jugar</text>
 	</string>
 
 	<!-- Call of Chernobyl -->
@@ -402,7 +402,7 @@
 		<text>La puerta está bloqueada por un código</text>
 	</string>
 	<string id="tip_door_decode">
-		<text>Presione ($$ACTION_USE$$) para decodificar la puerta</text>
+		<text>Pulsa ($$ACTION_USE$$) para decodificar la puerta</text>
 	</string>
 	<string id="tip_door_decoding">
 		<text>Descodificación en progreso</text>

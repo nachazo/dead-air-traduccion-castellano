@@ -289,7 +289,7 @@
 		<text>Encuentra el %s Artefacto para Conejo</text>
 	</string>
 	<string id="pri_monolith_monolith_trader_stalker_task_6_text">
-		<text>Encuentra el %s artefacto. Devuélvelo a Rabbit para que lo prepare como ofrenda.</text>
+		<text>Encuentra el artefacto %s. Devuélvelo a Rabbit para que lo prepare como ofrenda.</text>
 	</string>
 	<string id="pri_monolith_monolith_trader_stalker_task_6_about">
 		<text>Debemos encontrar otro artefacto para dar como ofrenda. ¿Ayudarás a servir al bien del Monolito?</text>

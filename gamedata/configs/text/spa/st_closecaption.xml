@@ -673,7 +673,7 @@
 		<text>Bros, este gilipollas no quiere compartir!</text>
 	</string>
 	<string id="zat_b52_port_bandits_see_actor">
-		<text>¡Ese es ese amigo con el buen arma! ¡Hey espera!</text>
+		<text>¡Ese es ese amigo con el buen arma! ¡Ey espera!</text>
 	</string>
 	<string id="zat_b52_port_bandits_stand_still_snd">
 		<text>¡Espera ahí! ¡Estoy bajando!</text>
@@ -846,7 +846,7 @@
 		<text>¡Cuídate!</text>
 	</string>
 	<string id="jup_a6_freedom_leader_greeting_1">
-		<text>¡Hey hombre! ¿Que pasa?</text>
+		<text>¡Ey hombre! ¿Que pasa?</text>
 	</string>
 	<string id="jup_a6_freedom_leader_greeting_2">
 		<text>Entra, hombre, relájate. Quítate la carga.</text>
@@ -894,7 +894,7 @@
 		<text>Esquemas para el paso inferior "Pripyat-1". Esto es una prueba de que hay una forma subterránea de llegar a Pripyat.</text>
 	</string>
 	<string id="jup_b1_actor_dont_come">
-		<text>¡Hey hombre! El tiempo es dinero. Hemos terminado esperándote, el escuadrón volverá ahora.</text>
+		<text>¡Ey hombre! El tiempo es dinero. Hemos terminado esperándote, el escuadrón volverá ahora.</text>
 	</string>
 	<string id="jup_b1_stalker_warning">
 		<text>Wat... mira... ten cuidado, contro... control... ¡controlador!</text>
@@ -1583,7 +1583,7 @@
 		<text>¿Entonces vamos?</text>
 	</string>
 	<string id="pas_b400_vano_come_back_1">
-		<text>¡Hey hombre! Deje de perder el tiempo. Hazlo el tiempo suficiente y nos desaprovecharemos.</text>
+		<text>¡Ey hombre! Deje de perder el tiempo. Hazlo el tiempo suficiente y nos desaprovecharemos.</text>
 	</string>
 	<string id="pas_b400_vano_idle_1">
 		<text>Ya sabes, no es tan malo aquí... Creo.</text>
@@ -1637,7 +1637,7 @@
 		<text>[Vano se lastima]</text>
 	</string>
 	<string id="pas_b400_vano_wait_for_me_1">
-		<text>¡Hey hombre! ¿A dónde vas? ¡Trabajemos juntos en este!</text>
+		<text>¡Ey hombre! ¿A dónde vas? ¡Trabajemos juntos en este!</text>
 	</string>
 	<string id="pas_b400_wanderer_about_control_gates_1">
 		<text>La puerta está bloqueada. Si fuera tú, echaría un vistazo a la sala de control.</text>

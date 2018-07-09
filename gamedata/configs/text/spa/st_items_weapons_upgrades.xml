@@ -148,7 +148,7 @@
 		<text>Placas de policarbonato</text>
 	</string>
 	<string id="st_up_arm_a8_descr">
-		<text>Las placas de cerámica no duran mucho pero son más confiables que Kevlar gracias a la negación mejorada del impulso de bala.</text>
+		<text>Las placas de cerámica no duran mucho pero son más fiables que Kevlar gracias a la negación mejorada del impulso de bala.</text>
 	</string>
 	<string id="st_up_arm_a8_name">
 		<text>Instalación de placas de cerámica</text>
@@ -262,7 +262,7 @@
 		<text>Aplicación de una capa cerámica sobre placas</text>
 	</string>
 	<string id="st_up_arm_c5_descr">
-		<text>La matriz reforzada que usa berilio en lugar de aluminio es una de las formas más confiables de proteger a los soldados de infantería.</text>
+		<text>La matriz reforzada que usa berilio en lugar de aluminio es una de las formas más fiables de proteger a los soldados de infantería.</text>
 	</string>
 	<string id="st_up_arm_c6_descr">
 		<text>Las cerámicas suavizan considerablemente el impacto de la bala al desviarlo hacia los fragmentos que se desprenden.</text>
@@ -784,7 +784,7 @@
 		<text>Inserciones de aislamiento térmico Constantan</text>
 	</string>
 	<string id="st_up_kom_b12_descr">
-		<text>El plomo es una defensa confiable contra la radiación porque absorbe los tres tipos de la misma.</text>
+		<text>El plomo es una defensa fiable contra la radiación porque absorbe los tres tipos de la misma.</text>
 	</string>
 	<string id="st_up_kom_b12_name">
 		<text>Adición de plomo a un mono</text>
@@ -826,7 +826,7 @@
 		<text>Capa interna de plexiglás para protección radiológica</text>
 	</string>
 	<string id="st_up_kom_b7_descr">
-		<text>Protección confiable contra riesgos químicos y eléctricos.</text>
+		<text>Protección fiable contra riesgos químicos y eléctricos.</text>
 	</string>
 	<string id="st_up_kom_b7_name">
 		<text>Una capa interna plástica hermética elástica</text>
@@ -1402,7 +1402,7 @@
 		<text>Marco de titanio</text>
 	</string>
 	<string id="st_up_stvp_a2_descr">
-		<text>En este caso, el marco es más confiable que el compuesto.</text>
+		<text>En este caso, el marco es más fiable que el compuesto.</text>
 	</string>
 	<string id="st_up_stvp_a2_name">
 		<text>Marco de acero sólido</text>

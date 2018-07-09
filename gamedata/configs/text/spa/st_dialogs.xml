@@ -334,7 +334,7 @@
 		<text>El otro día vimos entrar a un tipo en uniforme militar en el edificio de Volkhov AA. Sin embargo, es bastante posible que solo se tratara de un zombie confundido con un soldado.</text>
 	</string>
 	<string id="about_quests_dialog_dolg_38">
-		<text>Stalkers divisó una unidad militar cerca de la planta de Júpiter. A juzgar por la descripción, se trataba de fuerzas especiales. Fueron acompañados por un stalker no identificado y se dirigieron hacia Pripyat. Esto parece confiable, pero la experiencia demuestra que no se puede confiar en información como esa.</text>
+		<text>Stalkers divisó una unidad militar cerca de la planta de Júpiter. A juzgar por la descripción, se trataba de fuerzas especiales. Fueron acompañados por un stalker no identificado y se dirigieron hacia Pripyat. Esto parece fiable, pero la experiencia demuestra que no se puede confiar en información como esa.</text>
 	</string>
 	<string id="about_quests_dialog_dolg_4">
 		<text>¿Sabes cómo llegar a Pripyat?</text>
@@ -1321,7 +1321,7 @@
 	</string>
 
 	<string id="sim_robbery_npc_friend_10">
-		<text>¡Bien, hoy está resultando ser un día increíble! Apenas hay stalkeres, y la única vez que pensé que encontré carne fresca... Hey, puedes ir a la mierda ahora. Me estás molestando solo de pie allí.</text>
+		<text>¡Bien, hoy está resultando ser un día increíble! Apenas hay stalkeres, y la única vez que pensé que encontré carne fresca... Ey, puedes ir a la mierda ahora. Me estás molestando solo de pie allí.</text>
 	</string>
 
 	<string id="sim_robbery_actor_friend_end">

@@ -61,7 +61,7 @@
 		<text>Encuentra muestra %s para Sakharov</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_2_text">
-		<text>Encuentre una muestra del %s artefacto y tráigalo a Sakharov para que pueda investigarlo.</text>
+		<text>Encuentre una muestra del artefacto %s y tráigalo a Sakharov para que pueda investigarlo.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_2_about">
 		<text>Ah, sí, bien! Te he estado esperando. Necesito un cazador de artefactos experimentado para encontrar una muestra de un artefacto en particular para mí.</text>

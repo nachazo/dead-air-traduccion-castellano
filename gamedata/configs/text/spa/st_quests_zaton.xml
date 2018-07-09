@@ -157,7 +157,7 @@
 		<text>Encuentra artefacto para Beard</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_task_2_text">
-		<text>Beard quiere que encuentres el %s artefacto para él.</text>
+		<text>Beard quiere que encuentres el artefacto %s para él.</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_task_2_about">
 		<text>Me ocupo de artefactos. Normalmente no los compro de stalkeres, pero hay uno en particular que me gustaría tener en mis manos. ¿Quieres intentar conseguir uno para mí?</text>
