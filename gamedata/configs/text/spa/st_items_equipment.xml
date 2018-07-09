@@ -82,13 +82,13 @@
 		<text>Rata frita</text>
 	</string>
 	<string id="st_meat_rat_descr">
-		<text>Una carcasa de rata bien asada con una corteza crujiente; la línea de base de la dieta de un stalker novato. Parece apetitoso, aunque su sabor es como el caucho. Es una buena opción en condiciones de deficiencia para no morir de hambre.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,204,0,51] • %c[0,140,140,140]alimentos no saludables</text>
+		<text>Una carcasa de rata bien asada con una corteza crujiente; la línea de base de la dieta de un stalker novato. Parece apetitoso, aunque su sabor es como el caucho. En las condiciones de deficit severo de la Zona es una buena opción para no morir de hambre.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,204,0,51] • %c[0,140,140,140]alimentos no saludables</text>
 	</string>
 	<string id="st_meat_tushkano">
-		<text>Pinchos de rata</text>
+		<text>Tushkano frito</text>
 	</string>
 	<string id="st_meat_tushkano_descr">
-		<text>Dos pequeños tushkanos ensartados, a la parrilla y condimentados con sal y ají. La comida caliente más barata disponible en la Zona. Envuelto en papel marrón espeso para evitar que la grasa gotee.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,204,0,51] • %c[0,140,140,140]alimentos no saludables</text>
+		<text>Una ración de tushkano frito, condimentado con sal y ají picante. Una de las comidas calientes más baratas y prácticas disponibles en la Zona. Envuelto en papel marrón espeso para evitar que la grasa gotee.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,204,0,51] • %c[0,140,140,140]alimentos no saludables</text>
 	</string>
 	<string id="st_meat_dog">
 		<text>Chuletas de perro</text>
@@ -861,7 +861,7 @@
 		<text>Bolsa de compresión</text>
 	</string>
 	<string id="st_compression_bag_descr">
-		<text>Contiene un pequeño saco de dormir o un pequeño número de prendas \n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]use el saco de dormir casi desenrollado para empacarlo \n %c[0,153,255,255 ] • %c[0,140,140,140]artículo diario</text>
+		<text>Contiene un pequeño saco de dormir \n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]use el saco de dormir casi desenrollado para empacarlo \n %c[0,153,255,255 ] • %c[0,140,140,140]artículo diario</text>
 	</string>
 	<string id="st_identity_card">
 		<text>Identificación personal SBU</text>

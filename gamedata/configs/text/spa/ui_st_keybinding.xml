@@ -121,7 +121,7 @@
 		<text>Salida</text>
 	</string>
 	<string id="kb_reload">
-		<text>Recargar arma/limpiar máscara</text>
+		<text>Recargar arma / limpiar máscara</text>
 	</string>
 	<string id="kb_repair">
 		<text>Reparar</text>
@@ -145,7 +145,7 @@
 		<text>Menú de selección de modelo</text>
 	</string>
 	<string id="kb_sprint">
-		<text>Sprint</text>
+		<text>Esprintar / contener la respiración</text>
 	</string>
 	<string id="kb_team_menu">
 		<text>Menú de selección de equipo</text>

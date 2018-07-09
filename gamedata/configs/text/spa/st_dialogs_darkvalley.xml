@@ -15,7 +15,7 @@
 
 	<!-- Sultan, moved from Zaton to Dark Valley -->
 	<string id="zat_b7_bandit_boss_sultan_intro_0">
-		<text>Recuerda: soy Sultán. Todo lo que baja aquí está bajo mi control o lo estaré pronto. Si quieres vivir la buena vida, tienes que trabajar para mí. Si no lo haces, vivirás la vida de mierda. Así es como rodamos, hermano.</text>
+		<text>Recuerda: soy Sultán. Todo lo que baja aquí está bajo mi control o lo estaré pronto. Si quieres vivir la buena vida, tienes que trabajar para mí. Si no lo haces, vivirás la vida de mierda.</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_start_dialog_11">
 		<text>¿Que necesitas?</text>

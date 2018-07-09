@@ -10,7 +10,7 @@
 		<text>Medio</text>
 	</string>
 	<string id="Extreme">
-		<text>Máximo</text>
+		<text>MÃ¡ximo</text>
 	</string>
 	<string id="High">
 		<text>Alto</text>
@@ -19,7 +19,7 @@
 		<text>Bajo</text>
 	</string>
 	<string id="Minimum">
-		<text>Mínimo</text>
+		<text>MÃ­nimo</text>
 	</string>
 	<string id="Night">
 		<text>Noche</text>
@@ -34,10 +34,10 @@
 		<text>Realista</text>
 	</string>
 	<string id="gd_novice">
-		<text>Fácil</text>
+		<text>FÃ¡cil</text>
 	</string>
 	<string id="gd_veteran">
-		<text>Difícil</text>
+		<text>DifÃ­cil</text>
 	</string>
 	<string id="icon">
 		<text>ICONOS</text>
@@ -79,7 +79,7 @@
 		<text>Frecuencia 60Hz</text>
 	</string>
 	<string id="ui_mm_action">
-		<text>Acción</text>
+		<text>AcciÃ³n</text>
 	</string>
 	<string id="ui_mm_advanced">
 		<text>Avanzado</text>
@@ -88,7 +88,7 @@
 		<text>Alternativo</text>
 	</string>
 	<string id="ui_mm_anisotropic">
-		<text>Anisótropo</text>
+		<text>AnisÃ³tropo</text>
 	</string>
 	<string id="ui_mm_apply">
 		<text>Aplicar</text>
@@ -118,7 +118,7 @@
 		<text>Controles</text>
 	</string>
 	<string id="ui_mm_credits">
-		<text>Créditos</text>
+		<text>CrÃ©ditos</text>
 	</string>
 	<string id="ui_mm_default">
 		<text>Por defecto</text>
@@ -127,7 +127,7 @@
 		<text>Borrar</text>
 	</string>
 	<string id="ui_mm_delete_existing_file_q">
-		<text>¿De verdad quieres eliminar este archivo?</text>
+		<text>Â¿De verdad quieres eliminar este archivo?</text>
 	</string>
 	<string id="ui_mm_detail_density">
 		<text>Densidad detalle hierba</text>
@@ -145,7 +145,7 @@
 		<text>Desconectar</text>
 	</string>
 	<string id="ui_mm_disconnect_message">
-		<text>¿Estás seguro de que quieres desconectarte?</text>
+		<text>Â¿EstÃ¡s seguro de que quieres desconectarte?</text>
 	</string>
 	<string id="ui_mm_dof">
 		<text>Profundidad de campo</text>
@@ -166,25 +166,25 @@
 		<text>Detalle del objeto</text>
 	</string>
 	<string id="ui_mm_invert_mouse">
-		<text>Invertir ratón</text>
+		<text>Invertir ratÃ³n</text>
 	</string>
 	<string id="ui_mm_aim_toggle">
 		<text>Alternar apuntado</text>
 	</string>
 	<string id="ui_mm_key">
-		<text>Botón</text>
+		<text>BotÃ³n</text>
 	</string>
 	<string id="ui_mm_keyboard_setup">
-		<text>Configuración del teclado</text>
+		<text>ConfiguraciÃ³n del teclado</text>
 	</string>
 	<string id="ui_mm_continue">
 		<text>Continua la partida</text>
 	</string>
 	<string id="ui_mm_last_save">
-		<text>Último guardado</text>
+		<text>Ãšltimo guardado</text>
 	</string>
 	<string id="ui_mm_light_distance">
-		<text>Distancia iluminación</text>
+		<text>Distancia iluminaciÃ³n</text>
 	</string>
 	<string id="ui_mm_load">
 		<text>Cargar</text>
@@ -202,7 +202,7 @@
 		<text>Volumen SFX</text>
 	</string>
 	<string id="ui_mm_mouse_sense">
-		<text>Sensibilidad ratón</text>
+		<text>Sensibilidad ratÃ³n</text>
 	</string>
 	<string id="ui_mm_msaa_alphatest">
 		<text>Suavizado objetos A-test</text>
@@ -217,10 +217,10 @@
 		<text>Multijugador</text>
 	</string>
 	<string id="ui_mm_music_volume">
-		<text>Volumen música</text>
+		<text>Volumen mÃºsica</text>
 	</string>
 	<string id="ui_mm_need_restart">
-		<text>Los cambios solo tendrán efecto después de reiniciar el juego</text>
+		<text>Los cambios solo tendrÃ¡n efecto despuÃ©s de reiniciar el juego</text>
 	</string>
 	<string id="ui_mm_network_game">
 		<text>Multijugador</text>
@@ -229,7 +229,7 @@
 		<text>Nueva partida</text>
 	</string>
 	<string id="ui_mm_novice">
-		<text>Fácil</text>
+		<text>FÃ¡cil</text>
 	</string>
 	<string id="ui_mm_npc_torch">
 		<text>Linternas NPC</text>
@@ -244,7 +244,7 @@
 		<text>Opciones del clima</text>
 	</string>
 	<string id="ui_mm_particles_distance">
-		<text>Distancia de partículas</text>
+		<text>Distancia de partÃ­culas</text>
 	</string>
 	<string id="ui_mm_quality_presets">
 		<text>Ajustes calidad</text>
@@ -256,10 +256,10 @@
 		<text>Salir del juego</text>
 	</string>
 	<string id="ui_mm_quit_game_message">
-		<text>¿Está seguro que quiere salir del juego?</text>
+		<text>Â¿EstÃ¡ seguro que quiere salir del juego?</text>
 	</string>
 	<string id="ui_mm_quit_windows_message">
-		<text>¿Estás seguro de que quieres salir al escritorio?</text>
+		<text>Â¿EstÃ¡s seguro de que quieres salir al escritorio?</text>
 	</string>
 	<string id="ui_mm_r2_detail_bump">
 		<text>Nivel de detalles</text>
@@ -277,7 +277,7 @@
 		<text>Sombra de hierba</text>
 	</string>
 	<string id="ui_mm_smap_size">
-		<text>Resolución sombras</text>
+		<text>ResoluciÃ³n sombras</text>
 	</string>
 	<string id="ui_mm_r__actor_shadow">
 		<text>Sombra del jugador</text>
@@ -295,10 +295,10 @@
 		<text>Superficies mojadas</text>
 	</string>
 	<string id="ui_mm_r3_gbuffer_opt">
-		<text>Optimizar buffer geométrico</text>
+		<text>Optimizar buffer geomÃ©trico</text>
 	</string>
 	<string id="ui_mm_r3_volumetric_smoke">
-		<text>Humo volumétrico</text>
+		<text>Humo volumÃ©trico</text>
 	</string>
 	<string id="ui_mm_render_2">
 		<text>Render 2</text>
@@ -307,10 +307,10 @@
 		<text>Renderizado</text>
 	</string>
 	<string id="ui_mm_resolution">
-		<text>Resolución</text>
+		<text>ResoluciÃ³n</text>
 	</string>
 	<string id="ui_mm_color_correction">
-		<text>Corrección de color</text>
+		<text>CorrecciÃ³n de color</text>
 	</string>
 	<string id="ui_mm_color_r">
 		<text>Rojo</text>
@@ -334,7 +334,7 @@
 		<text>Guardar partida</text>
 	</string>
 	<string id="ui_mm_simply">
-		<text>Básico</text>
+		<text>BÃ¡sico</text>
 	</string>
 	<string id="ui_mm_snd_device">
 		<text>Dispositivo de sonido</text>
@@ -369,6 +369,12 @@
 	<string id="ui_mm_r2_gloss_factor">
 		<text>Intensidad de brillo</text>
 	</string>
+	<string id="ui_mm_sharp">
+		<text>Sharpening de la imagen</text>
+	</string>
+	<string id="ui_mm_bloom">
+		<text>Intensidad del resplandor</text>
+	</string>
 	<string id="ui_mm_supersample">
 		<text>Anti-aliasing</text>
 	</string>
@@ -379,19 +385,19 @@
 		<text>Detalle de textura</text>
 	</string>
 	<string id="ui_mm_veteran">
-		<text>Difícil</text>
+		<text>DifÃ­cil</text>
 	</string>
 	<string id="ui_mm_video">
-		<text>Vídeo</text>
+		<text>VÃ­deo</text>
 	</string>
 	<string id="ui_mm_vis_distance">
-		<text>Distancia visión</text>
+		<text>Distancia visiÃ³n</text>
 	</string>
 	<string id="ui_mm_volumetric_light">
-		<text>Luz volumétrica</text>
+		<text>Luz volumÃ©trica</text>
 	</string>
 	<string id="ui_mm_vsync">
-		<text>Sincronización vertical</text>
+		<text>SincronizaciÃ³n vertical</text>
 	</string>
 	<string id="ui_st_reset">
 		<text>Reiniciar</text>
@@ -400,7 +406,7 @@
 		<text>Vender todo</text>
 	</string>
 	<string id="version">
-		<text>Versión</text>
+		<text>VersiÃ³n</text>
 	</string>
 	<string id="ui_mm_r1_detail_textures">
 		<text>Texturas detalladas</text>
@@ -427,10 +433,10 @@
 		<text>Technicolor</text>
 	</string>
 	<string id="ui_mm_abberation">
-		<text>Aberración cromática</text>
+		<text>AberraciÃ³n cromÃ¡tica</text>
 	</string>
 	<string id="ui_mm_vignette">
-		<text>Viñeta</text>
+		<text>ViÃ±eta</text>
 	</string>
 	<string id="ui_mm_lensdirt">
 		<text>Glare on the glass</text>
@@ -460,7 +466,7 @@
 		<text>Mosaico</text>
 	</string>
 	<string id="ui_mm_confirm_changes">
-		<text>¿Aplicar cambios? Todos los cambios se revertirán en</text>
+		<text>Â¿Aplicar cambios? Todos los cambios se revertirÃ¡n en</text>
 	</string>
 	<string id="st_cap_check_story">
 		<text>Modo historia</text>
@@ -478,10 +484,10 @@
 		<text>Recompensas incrementadas</text>
 	</string>
 	<string id="st_cap_check_good_wpn">
-		<text>¡Quiero disparar!</text>
+		<text>Â¡Quiero disparar!</text>
 	</string>
 	<string id="st_cap_check_good_loot">
-		<text>Mejor botín</text> 
+		<text>Mejor botÃ­n</text> 
 	</string>
 	<string id="st_cap_check_hardcore_aim">
 		<text>Hardcore AI objetivo</text>
@@ -511,49 +517,49 @@
 		<text>Juego: reparaciones con retraso</text>
 	</string>
 	<string id="ui_mm_heli_spawn">
-		<text>Juego: patrullas de helicópteros</text>
+		<text>Juego: patrullas de helicÃ³pteros</text>
 	</string>
 	<string id="ui_mm_only_campfire">
 		<text>Juego: solo fogatas guardan</text>
 	</string>
 	<string id="ui_mm_use_battery">
-		<text>Juego: usar baterías</text>
+		<text>Juego: usar baterÃ­as</text>
 	</string>
 	<string id="ui_mm_dynamic_news">
-		<text>Juego: noticias dinámicas</text>
+		<text>Juego: noticias dinÃ¡micas</text>
 	</string>
 	<string id="ui_mm_sleep_deprived">
-		<text>Juego: privación del sueño</text>
+		<text>Juego: privaciÃ³n del sueÃ±o</text>
 	</string>
 	<string id="ui_mm_release_dropped_items">
-		<text>Desparición items tirados</text>
+		<text>DespariciÃ³n items tirados</text>
 	</string>
 	<string id="ui_mm_show_tracers">
 		<text>Mostrar trazadoras</text>
 	</string>
 	<string id="ui_mm_radio_mod">
-		<text>Juego: música de radio</text>
+		<text>Juego: mÃºsica de radio</text>
 	</string>
 	<string id="ui_mm_heli_engine_sound">
-		<text>Juego: sonidos de helicópteros</text>
+		<text>Juego: sonidos de helicÃ³pteros</text>
 	</string>
 	<string id="ui_mm_offline_battles">
-		<text>Juego: batallas fuera de línea</text>
+		<text>Juego: batallas fuera de lÃ­nea</text>
 	</string>
 	<string id="ui_mm_tips">
-		<text>Identificación de NPC</text>
+		<text>IdentificaciÃ³n de NPC</text>
 	</string>
 	<string id="ui_mm_mask_hud">
-		<text>Interfaz: casco/máscara</text>
+		<text>Interfaz: casco/mÃ¡scara</text>
 	</string>
 	<string id="ui_mm_letterbox">
-		<text>Interfaz: buzón</text>
+		<text>Interfaz: buzÃ³n</text>
 	</string>
 	<string id="ui_mm_photomode">
 		<text>Interfaz: modo foto</text>
 	</string>
 	<string id="ui_mm_slot_hud">
-		<text>Interfaz: cinturón HUD</text>
+		<text>Interfaz: cinturÃ³n HUD</text>
 	</string>
 	<string id="ui_mm_hud_draw_info">
 		<text>Interfaz: HUD</text>
@@ -562,7 +568,7 @@
 		<text>Interfaz: minimapa</text>
 	</string>
 	<string id="ui_mm_dyn_crosshair">
-		<text>Punto de mira dinámico</text>
+		<text>Punto de mira dinÃ¡mico</text>
 	</string>
 	<string id="ui_mm_crosshair_distance">
 		<text>Distancia objetivo punto mira</text>
@@ -574,19 +580,19 @@
 		<text>Mostrar arma</text>
 	</string>
 	<string id="ui_mm_dynamic_music">
-		<text>Música dinámica</text>
+		<text>MÃºsica dinÃ¡mica</text>
 	</string>
 	<string id="ui_mm_ai_die_in_anomaly">
-		<text>IA muere en las anomalías</text>
+		<text>IA muere en las anomalÃ­as</text>
 	</string>
 	<string id="ui_mm_faction_sel">
-		<text>Especialización</text>
+		<text>EspecializaciÃ³n</text>
 	</string>
 	<string id="ui_mm_art_degrade">
-		<text>Degradación de artefactos</text>
+		<text>DegradaciÃ³n de artefactos</text>
 	</string>
 	<string id="ui_mm_excl_dist">
-		<text>Radio de exclusión en línea</text>
+		<text>Radio de exclusiÃ³n en lÃ­nea</text>
 	</string>
 	<string id="ui_mm_char_portrait">
 		<text>Retrato predeterminado</text>
@@ -595,16 +601,16 @@
 		<text>Retrato por armadura</text>
 	</string>
 	<string id="ui_mm_quicksave_cnt">
-		<text>Nº de salvados rápidos</text>
+		<text>NÂº de salvados rÃ¡pidos</text>
 	</string>
 	<string id="ui_mm_actor_hud">
-		<text>Superposición de máscara</text>
+		<text>SuperposiciÃ³n de mÃ¡scara</text>
 	</string>
 	<string id="ui_mm_alife_mutant_pop">
-		<text>Factor de población (mutantes)</text>
+		<text>Factor de poblaciÃ³n (mutantes)</text>
 	</string>
 	<string id="ui_mm_alife_stalker_pop">
-		<text>Factor de población (stalkeres)</text>
+		<text>Factor de poblaciÃ³n (stalkeres)</text>
 	</string>
 	<string id="ui_mm_hud_fov">
 		<text>HUD FOV</text>
@@ -616,6 +622,6 @@
 		<text>Hardcore IA objetivo</text>
 	</string>
 	<string id="ui_mm_localization">
-		<text>Localización</text>
+		<text>LocalizaciÃ³n</text>
 	</string>
 </string_table>

@@ -79,16 +79,16 @@
 		<text>Nos aseguramos de que varios funcionarios no oculten nada a la gente común. Ya sabes cómo es esto: tan pronto como encuentran un nuevo laboratorio o algunos documentos que arrojan luz sobre los secretos de la Zona, inmediatamente organizan una operación militar y limpian todo mejor que una jodida aspiradora. La única manera de encontrar una mierda es llegar primero.</text>
 	</string>
 	<string id="jup_a6_freedom_leader_about_you_1112">
-		<text>¿Qué te trajo al centro de la Zona?</text>
+		<text>¿He oído que estás comerciando con armas del oeste? No me molestaría un nuevo baúl, ¿sería posible organizar este negocio de alguna manera?</text>
 	</string>
 	<string id="jup_a6_freedom_leader_about_you_11121">
-		<text>Bueno, a los chicos les apetecía dar un paseo por un lugar nuevo... Es una broma. Es una oportunidad para encontrar cosas que el mundo no ha visto antes. Ni el ejército ni los stalkeres han estado aquí antes, por lo que hay algo nuevo en todos lados.</text>
+		<text>Debido a la difícil situación después de la reactivación del cauterizador, decidimos no vender nuestros últimos suministros a los stalkers comunes. Ahora solo ayudamos a aquellos que nos ayudan, especialmente con información.</text>
 	</string>
 	<string id="jup_a6_freedom_leader_about_you_111211">
-		<text>¿Encontraste algo?</text>
+		<text>¿Información? ¿Y qué tipo de información necesitas?</text>
 	</string>
 	<string id="jup_a6_freedom_leader_about_you_1112111">
-		<text>Un par de puertas cerradas con llave y algunos artefactos nuevos y extraños.</text>
+		<text>La que no es fácil de encontrar. En primer lugar, material secreto de los laboratorios subterráneos. Un stalker común pasa por alto esos lugares, los deja a un lado, hay muchos rumores diferentes sobre lo que está pasando allí y sobre los que van y no regresan.</text>
 	</string>
 	<string id="jup_a6_freedom_leader_about_you_1113">
 		<text>¿Cómo terminaste en Freedom?</text>
@@ -97,10 +97,10 @@
 		<text>Bueno, era amigo de los líderes de la Libertad cuando no había Zona. Eso sí, en aquellos días, no eran líderes: eran hippies regulares. Entonces, cuando hice un movimiento en la Zona en busca de artefactos y me encontré con rostros familiares, pensé que podría ir con lo que sé.</text>
 	</string>
 	<string id="jup_a6_freedom_leader_about_you_1114">
-		<text>¿Qué opinas sobre Duty?</text>
+		<text>¿Qué pasó en los almacenes militares? La situación parece ser deplorable...</text>
 	</string>
 	<string id="jup_a6_freedom_leader_about_you_11141">
-		<text>Son idiotas, eso es lo que creo. Quiero decir, ¿por qué demonios querrían destruir la Zona? No está consumiendo recursos preciosos ni creciendo, ni nada. Podrían simplemente sentarse allí y estudiarlo para su corazón. Solo piense en cuántos descubrimientos científicos se podrían hacer... Es decir, en la historia de la humanidad, nadie nunca ha sido capaz de comprender la antigravitación, ¿verdad? Y en la Zona, tienes dispositivos anti-gravitación listos para ti por todas partes. No estaría de más patearles el trasero, pero es demasiada molestia.</text>
+		<text>Empezaremos desde el principio. Durante mucho tiempo mantuvimos la Barrera, así fue nombrada la zona entre los Almacenes y el Radar. Desde el norte, los monolitos y mutantes atacaban regularmente, pero no era difícil contenerlos. Entonces apareció el Strelok... Él fue quien consiguió apagar el Cauterizador Cerebral, lo que facilitó nuestra tarea en gran medida. Los stalkers fueron al norte, empezaron a aparecer campamentos y bases, comenzó la ocupación de los territorios libres. Y multitud de equipos de investigación ¡como setas después de llover! En general, la Zona cobró vida.\nLa situación era pacífica, la Barrera y el Radar estaban vacías - sólo stalkers pacíficos van y vienen y recogen artefactos. Sólo silencio, sí, aquí estamos relajados. Entonces sucedió lo que sucedió: Monolito llevó a cabo una operación de relámpago, al parecer - planeada de antemano. En el plazo de un día recuperaron el Cauterizador Cerebral bajo su control, y se apoderaron del puesto de control norte intermedio. Mientras los nuestros volvieron, se las arreglaron para conseguir refuerzos y, como corresponde a los verdaderos fanáticos, fueron directos al frente, a asaltar nuestra base. No hubo tiempo para prepararse, construímos malas barricadas rápidamente. A juzgar por las conversaciones de radio, fue un infierno en la tierra, un exterminio despiadado. Nuestros hombres lucharon hasta el final y todavía pudieron dar una buena reprimenda... pero finalmente perdimos la base.\nMuchos de nuestros amigos murieron allí, fue muy duro para la moral, y muchos comenzaron a abandonar el grupo en silencio. No hay más entregas, la conexión se rompió, vivimos sólo de las existencias viejas y de lo que conseguimos por aquí por nuestra cuenta. Nos ocultamos aquí, parece que el grupo está viviendo sus últimos días. Así van las cosas.</text>
 	</string>
 	<string id="jup_a6_freedom_leader_about_you_1115">
 		<text>Bueno. Olvídalo.</text>
@@ -110,13 +110,13 @@
 	</string>
 
 	<string id="jup_a6_stalker_barmen_start_dialog_11">
-		<text>Bienvenido a mi humilde morada de placer y alegría. ¿Después de la alegría, el placer o ambos en igual medida?</text>
+		<text>Hola viajero. El abastecimiento no es el mejor, pero es abundante.</text>
 	</string>
 	<string id="jup_a6_stalker_barmen_start_dialog_12">
-		<text>¿Vienes a relajarte? Mis bebidas no son nada especial, ¡pero este es un lugar acogedor y amigable!</text>
+		<text>¡Bienvenido, stalker!</text>
 	</string>
 	<string id="jup_a6_stalker_barmen_start_dialog_13">
-		<text>Tengo toda la mierda que necesitarás. ¿Que eres después? ¿Te apetece un poco de comida, una bebida o te apetece disparar unas cuantas rondas?</text>
+		<text>Esto no es que sea un restaurante, por supuesto, pero no pasamos hambre. Toma, elige.</text>
 	</string>
 
 	<string id="jup_b6_scientist_nuclear_physicist_start_11">

@@ -121,12 +121,12 @@
 		<text>Hoja de papel con registros</text>
 	</string>
 	<string id="st_dok_2_desc">
-		<text>Una hoja de papel arrugada con grandes divorcios amarillos de algún líquido. A juzgar por el contenido, es parte de la documentación del laboratorio anterior. Tales desechos pueden encontrarse en laboratorios abandonados, cuya red se encuentra dispersa por toda la Zona. Por encima se escriben muchas notas y firmas extrañas. Es poco probable que el estado del documento le permita obtener un buen dinero para él, pero suficiente para un frasco de samogon.\n \n %c[0,140,140,140]CARACTERÍSTICAS: \n %c[0,153,255,255] • %c[0,140,140,140]secreto document \n %c[0,153,255,255] • %c[0,140,140,140]informativo</text>
+		<text>Una hoja de papel arrugada con grandes divorcios amarillos de algún líquido. A juzgar por el contenido, es parte de la documentación del laboratorio anterior. Tales desechos pueden encontrarse en laboratorios abandonados, cuya red se encuentra dispersa por toda la Zona. Por encima se escriben muchas notas y firmas extrañas. Es poco probable que el estado del documento le permita obtener un buen dinero para él, pero suficiente para un frasco de samogon.\n \n %c[0,140,140,140]CARACTERÍSTICAS: \n %c[0,153,255,255] • %c[0,140,140,140]documento secreto \n %c[0,153,255,255] • %c[0,140,140,140]se puede vender</text>
 	</string>
 	<string id="st_box_lab_1_name">
 		<text>Caja de equipo científico</text>
 	</string>
 	<string id="st_box_lab_1_desc">
-		<text>Caja robusta con equipamiento científico, en grandes cantidades sacada de la red de laboratorios abandonados dentro de la Zona de Exclusión. El equipo para stalkeres no representa un valor práctico, pero puede venderse en gran cantidad a científicos u otras partes interesadas, para cuyo propósito se retira de los laboratorios. \n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]alta calidad \n %c[0,153,255,255] • %c[0,140,140,140]valioso</text>
+		<text>Caja robusta con equipamiento científico, en grandes cantidades sacada de la red de laboratorios abandonados dentro de la Zona de Exclusión. El equipo para stalkeres no representa un valor práctico, pero puede venderse en gran cantidad a científicos u otras partes interesadas, para cuyo propósito se retira de los laboratorios. \n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]alta calidad \n %c[0,153,255,255] • %c[0,140,140,140]se puede vender</text>
 	</string>
 </string_table>
