@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="zat_a2_stalker_barmen_actor_info_0">
-		<text>ВїCГіmo te va, quieres contarlo?</text>
+		<text>їCуmo te va, quieres contarlo?</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_actor_info_1">
 		<text>No te lo voy a contar. Pregunta.</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_actor_info_1111">
-		<text>CuГ©ntame sobre ti y la situaciГіn en esta zona.</text>
+		<text>Cuйntame sobre ti y la situaciуn en esta zona.</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_actor_info_11111">
-		<text>Me llamo Beard, soy el comerciante local. SolГ­a вЂ‹вЂ‹dirigir las cosas en Skadovsk, eran buenos tiempos... Y entonces los monolitos, putos demonios, irrumpieron en el Cauterizador Cerebral y lograron encenderlo. Todos los que estГЎbamos en el norte estГЎbamos en una "bolsa", por un lado el Cauterizador, por otro la ChNPP. Los monolitos comenzaron a hacer ataques nocturnos y nos presionaron desde el norte. Pasamos dos semanas en nuestro barco, pero no pudimos resistiry decidimos, al final, retirarnos aquГ­, a un lugar mГЎs seguro. No hay muchos suministros, pero alguno hay. Quien dispara, come. La situaciГіn es grave en general.</text>
+		<text>Me llamo Beard, soy el comerciante local. Solнa dirigir las cosas en Skadovsk, eran buenos tiempos... Y entonces los monolitos, putos demonios, irrumpieron en el Cauterizador Cerebral y lograron encenderlo. Todos los que estбbamos en el norte estбbamos en una "bolsa", por un lado el Cauterizador, por otro la ChNPP. Los monolitos comenzaron a hacer ataques nocturnos y nos presionaron desde el norte. Pasamos dos semanas en nuestro barco, pero no pudimos resistiry decidimos, al final, retirarnos aquн, a un lugar mбs seguro. No hay muchos suministros, pero alguno hay. Quien dispara, come. La situaciуn es grave en general.</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_actor_info_1112">
-		<text>ВїHay lugares que valga la pena visitar?</text>
+		<text>їHay lugares que valga la pena visitar?</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_actor_info_11121">
-		<text>Jeje... ВЎAquГ­ todo es un buen lugar, bienvenido al norte, stalker! Bueno, es mejor evitar la tienda de la subestaciГіn, que se encuentra al oeste, allГ­ los bandidos han organizado un campamento con Sych a la cabeza. TodavГ­a es un bicho raro... Es mejor tener cuidado en el aserradero, ubicado en el noroeste. Los muchachos dijeron que vieron allГ­ un Controlador, yo les creo. Pero los monolitos pueden estar en cualquier lado.</text>
+		<text>Jeje... ЎAquн todo es un buen lugar, bienvenido al norte, stalker! Bueno, es mejor evitar la tienda de la subestaciуn, que se encuentra al oeste, allн los bandidos han organizado un campamento con Sych a la cabeza. Todavнa es un bicho raro... Es mejor tener cuidado en el aserradero, ubicado en el noroeste. Los muchachos dijeron que vieron allн un Controlador, yo les creo. Pero los monolitos pueden estar en cualquier lado.</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_actor_info_1113">
-		<text>ВїPor quГ© mantener este campamento en un lugar tan peligroso, no serГ­a mejor unirse a Libertad en Yanov?</text>
+		<text>їPor quй mantener este campamento en un lugar tan peligroso, no serнa mejor unirse a Libertad en Yanov?</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_actor_info_11131">
-		<text>A pesar de lo peligroso del lugar, los stalkers vendrГЎn aquГ­ una y otra vez, porque esta zona es rica en artefactos muy raros y valiosos. Y hay una buena oferta y demanda.</text>
+		<text>A pesar de lo peligroso del lugar, los stalkers vendrбn aquн una y otra vez, porque esta zona es rica en artefactos muy raros y valiosos. Y hay una buena oferta y demanda.</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_actor_info_1114">
-		<text>ВїCompartirГ­as conmigo la receta de tu tГ© especial?</text>
+		<text>їCompartirнas conmigo la receta de tu tй especial?</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_actor_info_11141">
 		<text>No.</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_actor_info_1115">
-		<text>Nah, estГЎ bien. Fuhgetaboutit.</text>
+		<text>Nah, estб bien. Fuhgetaboutit.</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_actor_info_11151">
-		<text>Si tГє lo dices.</text>
+		<text>Si tъ lo dices.</text>
 	</string>
 
 
@@ -42,13 +42,13 @@
 
 
 	<string id="zat_b22_stalker_medic_start_1">
-		<text>ВїQuГ© te trae por aquГ­?</text>
+		<text>їQuй te trae por aquн?</text>
 	</string>
 	<string id="zat_b22_stalker_medic_dialog_start_21">
 		<text>Estoy escuchando.</text>
 	</string>
 	<string id="zat_b22_stalker_medic_dialog_start_22">
-		<text>Hola, Вїnecesitas ayuda?</text>
+		<text>Hola, їnecesitas ayuda?</text>
 	</string>
 
 	<string id="zat_b22_stalker_medic_dialog_start_23">
@@ -58,34 +58,34 @@
 		<text>Necesito tratamiento Es urgente.</text>
 	</string>
 	<string id="zat_b22_stalker_medic_need_health_care_1">
-		<text>DГ©jame echar un vistazo...</text>
+		<text>Dйjame echar un vistazo...</text>
 	</string>
 	<string id="zat_b22_stalker_medic_need_health_care_2">
-		<text>Echemos un vistazo... ВїCon tu salud? Bueno, si lo estГЎs haciendo mal, debo estar muerto o algo asГ­...</text>
+		<text>Echemos un vistazo... їCon tu salud? Bueno, si lo estбs haciendo mal, debo estar muerto o algo asн...</text>
 	</string>
 	<string id="zat_b22_stalker_medic_need_health_care_111">
-		<text>SerГ© sincero contigo, podrГ­as usar un parche o dos. Puedo eliminar la mayorГ­a de tus problemas fГ­sicos para 1850 RU. Tengo este pequeГ±o y dulce suero aquГ­ que te pondrГЎ de pie en muy poco tiempo. Sin embargo, no eliminarГЎ esas pequeГ±as partГ­culas brillantes de su sistema. No, para esto necesitas otro tipo de mierda. 1480 RU y estarГЎs filtrando esos isГіtopos de cada agujero de tu cuerpo durante las prГіximas horas. Entonces, ВїquГ© va a ser, hijo?</text>
+		<text>Serй sincero contigo, podrнas usar un parche o dos. Puedo eliminar la mayorнa de tus problemas fнsicos para 1850 RU. Tengo este pequeсo y dulce suero aquн que te pondrб de pie en muy poco tiempo. Sin embargo, no eliminarб esas pequeсas partнculas brillantes de su sistema. No, para esto necesitas otro tipo de mierda. 1480 RU y estarбs filtrando esos isуtopos de cada agujero de tu cuerpo durante las prуximas horas. Entonces, їquй va a ser, hijo?</text>
 	</string>
 	<string id="zat_b22_stalker_medic_need_health_care_11">
-		<text>ВїY quГ©? ВїQuГ© tan malo se ve?</text>
+		<text>їY quй? їQuй tan malo se ve?</text>
 	</string>
 
 	<string id="zat_b22_stalker_medic_need_health_care_1111">
-		<text>Ok, llГ©vate el dinero y ponte a trabajar, la salud es mГЎs importante que el dinero.</text>
+		<text>Ok, llйvate el dinero y ponte a trabajar, la salud es mбs importante que el dinero.</text>
 	</string>
 	<string id="zat_b22_stalker_medic_need_health_care_1112">
-		<text>De acuerdo, quita solo la radiaciГіn, puedo vendar mis heridas yo mismo.</text>
+		<text>De acuerdo, quita solo la radiaciуn, puedo vendar mis heridas yo mismo.</text>
 	</string>
 	<string id="zat_b22_stalker_medic_need_health_care_1113">
-		<text>ВїSabes quГ©, doc? CГєrate a ti mismo!</text>
+		<text>їSabes quй, doc? Cъrate a ti mismo!</text>
 	</string>
 
 	<string id="zat_b22_stalker_medic_need_health_care_11111">
-		<text>Un momento, por favor... SГ­, deberГ­a estar bien ahora. Se puede ir.</text>
+		<text>Un momento, por favor... Sн, deberнa estar bien ahora. Se puede ir.</text>
 	</string>
 
 	<string id="zat_b22_stalker_medic_need_health_care_11112">
-		<text>MГЎrchate de aquГ­, esto no es una maldita caridad. Trae un poco de dinero o scram.</text>
+		<text>Mбrchate de aquн, esto no es una maldita caridad. Trae un poco de dinero o scram.</text>
 	</string>
 
 	<string id="zat_b22_stalker_medic_need_health_care_11113">
@@ -93,44 +93,44 @@
 	</string>
 
 	<string id="zat_b18_noah_start_11">
-		<text>ВїQuiГ©n eres tГє?</text>
+		<text>їQuiйn eres tъ?</text>
 	</string>
 	<string id="zat_b18_noah_start_111">
 		<text>Un stalker. Nos hemos visto antes</text>
 	</string>
 	<string id="zat_b18_noah_start_1111">
-		<text>No recuerdo... De todos modos, ВїquГ© necesitas?</text>
+		<text>No recuerdo... De todos modos, їquй necesitas?</text>
 	</string>
 	<string id="zat_b18_noah_start_112">
 		<text>Un stalker. Solo un stalker.</text>
 	</string>
 	<string id="zat_b18_noah_start_1121">
-		<text>Ya veo. Buscando refugio en el arca? SiГ©ntase como en casa.</text>
+		<text>Ya veo. Buscando refugio en el arca? Siйntase como en casa.</text>
 	</string>
 	<string id="zat_b18_noah_start_113">
 		<text>No es asunto tuyo.</text>
 	</string>
 	<string id="zat_b18_noah_start_21">
-		<text>Ah, eres tГє. ВїQuГ© deseas?</text>
+		<text>Ah, eres tъ. їQuй deseas?</text>
 	</string>
 
 	<string id="zat_b3_stalker_tech_start_15">
-		<text>Una sabia elecciГіn, mi amigo. Tengo que mantener tu arma en perfecto estado... Y si tienes una botella o dos encima, puedo actualizarla aquГ­. ВїQuieres un paracaГ­das cosido a tu escopeta? Puedo hacer eso, jeje.</text>
+		<text>Una sabia elecciуn, mi amigo. Tengo que mantener tu arma en perfecto estado... Y si tienes una botella o dos encima, puedo actualizarla aquн. їQuieres un paracaнdas cosido a tu escopeta? Puedo hacer eso, jeje.</text>
 	</string>
 	<string id="zat_b3_stalker_tech_drink_1_0">
-		<text>Tengo un poco de alcohol. ВїQuieres un tiro?</text>
+		<text>Tengo un poco de alcohol. їQuieres un tiro?</text>
 	</string>
 	<string id="zat_b3_stalker_tech_drink_1_2">
-		<text>Ya no bebo. Cuando vi el "producto nВє 62" pensГ© que ya era suficiente... Demasiados problemas a causa de la bebida. SГ­ y de salud...</text>
+		<text>Ya no bebo. Cuando vi el "producto nє 62" pensй que ya era suficiente... Demasiados problemas a causa de la bebida. Sн y de salud...</text>
 	</string>
 	<string id="zat_b3_stalker_tech_drink_2_0">
-		<text>AquГ­ tengo otra botella para ti.</text>
+		<text>Aquн tengo otra botella para ti.</text>
 	</string>
 	<string id="zat_b3_stalker_tech_drink_3_0">
-		<text>Tengo un tercero, si necesitas mГЎs.</text>
+		<text>Tengo un tercero, si necesitas mбs.</text>
 	</string>
 
 	<string id="zat_b7_stalkers_victims_dialog_11">
-		<text>Hola, stalker. Estoy ocupado en este momento. Hablemos mГЎs tarde, ВїestГЎ bien?</text>
+		<text>Hola, stalker. Estoy ocupado en este momento. Hablemos mбs tarde, їestб bien?</text>
 	</string>
 </string_table>
