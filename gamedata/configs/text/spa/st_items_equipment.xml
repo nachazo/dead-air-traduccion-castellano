@@ -657,7 +657,7 @@
 		<text>Saco de dormir</text>
 	</string>
 	<string id="st_itm_sleepbag_descr">
-		<text>Un saco de dormir ligero que te mantendrá caliente y seco cuando necesites descansar. Asegúrese de elegir un lugar seguro con una posible vía de escape. La bolsa se recoge automáticamente después de dormir o si se pulsa el botón "Cancelar". \n \n %c[0,153,255,255]ADVERTENCIA:.\n \n %c[0,170,170,170]durmiendo a la intemperie puede atraer a los depredadores. No protege de la radiación \n \n %c[0,140,140,140]PROPIEDADES:\n %c[0,153,255,255] • %c[0,140,140,140]instala una cama portátil [0,153,255,255] • %c[0,140,140,140]usos ilimitados \n %c[0,153,255,255] • %c[0,140,140,140]artículo diario</text>
+		<text>Un saco de dormir ligero que te mantendrá caliente y seco cuando necesites descansar. Asegúrese de elegir un lugar seguro con una posible vía de escape. La bolsa se recoge automáticamente después de dormir o si se pulsa el botón "Cancelar". \n \n %c[0,153,255,255]ADVERTENCIA:.\n \n %c[0,170,170,170]durmiendo a la intemperie puede atraer a los depredadores. No protege de la radiación \n \n %c[0,140,140,140]PROPIEDADES:\n %c[0,153,255,255] • %c[0,140,140,140]instala una cama portátil %c[0,153,255,255] • %c[0,140,140,140]usos ilimitados \n %c[0,153,255,255] • %c[0,140,140,140]artículo diario</text>
 	</string>
 	<string id="sleep_itm_warning_blowout">
 		<text>¡No es seguro dormir aquí!</text>

@@ -136,13 +136,13 @@
 		<text>Doctor</text>
 	</string>
 	<string id="mar_smart_terrain_base_stalker_leader_marsh_name">
-		<text>Frío</text>
+		<text>Cold</text>
 	</string>
 	<string id="esc_wolf_bio">
 		<text>Guardia personal de Nimble. Un viejo stalker planea ser rico.</text>
 	</string>
 	<string id="esc_wolf_name">
-		<text>Lobo</text>
+		<text>Wolf</text>
 	</string>
 	<string id="esc_fanat_bio">
 		<text>Tomó el liderazgo en el campamento de novatos después de Wolf. Lleno de propósito, agresivo y tiene una autoridad bien merecida sobre los recién llegados.</text>
@@ -391,7 +391,7 @@
 		<text>General Voronin</text>
 	</string>
 	<string id="sar2_wolf_name">
-		<text>Lobo</text>
+		<text>Wolf</text>
 	</string>
 	<string id="dar_kalugin_name">
 		<text>Piotr Kalugin</text>

@@ -106,7 +106,7 @@
 		<text>Noches muy brillantes</text>
 	</string>
 	<string id="st_cap_weather_presets">
-		<text>Presets:</text>
+		<text>Predefinidos:</text>
 	</string>
 	<string id="st_cap_weather_balance_presets">
 		<text>Equilibrar</text>
@@ -221,6 +221,12 @@
 	</string>
 	<string id="st_list_periods_foggy_rainy">
 		<text>Brumoso/Lluvioso</text>
+	</string>
+	<string id="st_list_periods_cloudy">
+		<text>Nublado</text>
+	</string>
+	<string id="st_list_periods_veryfoggy">
+		<text>Niebla fuerte</text>
 	</string>
 	<string id="st_list_periods_wet">
 		<text>Llovizna</text>

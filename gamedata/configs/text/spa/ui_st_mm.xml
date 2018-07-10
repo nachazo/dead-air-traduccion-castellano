@@ -178,7 +178,7 @@
 		<text>Configuración del teclado</text>
 	</string>
 	<string id="ui_mm_continue">
-		<text>Continua la partida</text>
+		<text>Continúa la partida</text>
 	</string>
 	<string id="ui_mm_last_save">
 		<text>Último guardado</text>
@@ -250,13 +250,13 @@
 		<text>Ajustes calidad</text>
 	</string>
 	<string id="ui_mm_quit2windows">
-		<text>Salir a escritorio</text>
+		<text>Salir al escritorio</text>
 	</string>
 	<string id="ui_mm_quit_game">
-		<text>Salir del juego</text>
+		<text>Salir de la partida</text>
 	</string>
 	<string id="ui_mm_quit_game_message">
-		<text>¿Está seguro que quiere salir del juego?</text>
+		<text>¿Estás seguro de que quieres salir de la partida?</text>
 	</string>
 	<string id="ui_mm_quit_windows_message">
 		<text>¿Estás seguro de que quieres salir al escritorio?</text>
@@ -265,7 +265,7 @@
 		<text>Detalle Bump</text>
 	</string>
 	<string id="ui_mm_r2_steep_parallax">
-		<text>Steep parallax</text>
+		<text>Paralaje "steep parallax"</text>
 	</string>
 	<string id="ui_mm_r__actor_body">
 		<text>Cuerpo del jugador</text>
@@ -286,7 +286,7 @@
 		<text>Calidad del sol</text>
 	</string>
 	<string id="ui_mm_r3_DX10_1">
-		<text>Use DirectX 10.1</text>
+		<text>Usar DirectX 10.1</text>
 	</string>
 	<string id="ui_mm_r3_MSAA">
 		<text>Suavizado pantalla completa</text>
@@ -349,13 +349,13 @@
 		<text>Sonido</text>
 	</string>
 	<string id="ui_mm_sound_quality">
-		<text>Calidad de sonido</text>
+		<text>Calidad del sonido</text>
 	</string>
 	<string id="ui_mm_stalker">
 		<text>Normal</text>
 	</string>
 	<string id="ui_mm_sun_quality">
-		<text>Calidad sombra</text>
+		<text>Calidad sombras</text>
 	</string>
 	<string id="ui_mm_sun_shafts">
 		<text>Rayos de sol</text>
@@ -490,7 +490,7 @@
 		<text>Mejor botín</text> 
 	</string>
 	<string id="st_cap_check_hardcore_aim">
-		<text>Hardcore AI objetivo</text>
+		<text>Apuntado hardcore IA</text>
 	</string>
 	<string id="ui_mm_hardcore">
 		<text>Modo Ironman</text>
@@ -553,7 +553,7 @@
 		<text>Interfaz: casco/máscara</text>
 	</string>
 	<string id="ui_mm_letterbox">
-		<text>Interfaz: buzón</text>
+		<text>Interfaz: bandas negras</text>
 	</string>
 	<string id="ui_mm_photomode">
 		<text>Interfaz: modo foto</text>
@@ -619,7 +619,7 @@
 		<text>FOV</text>
 	</string>
 	<string id="ui_mm_hardcore_ai_aim">
-		<text>Hardcore IA objetivo</text>
+		<text>Apuntado hardcore IA</text>
 	</string>
 	<string id="ui_mm_localization">
 		<text>Localización</text>

@@ -32,7 +32,7 @@
 		<text>Recibe tu próxima tarea.</text>
 	</string>
 	<string id="drx_sl_esc_m_trader_default_task_about">
-		<text>No tengo nada para ti, pero conozco a alguien que podría. Marqué su ubicación en tu mapa.</text>
+		<text>No tengo nada para ti, pero conozco a alguien que podría. Marcaré su ubicación en tu mapa.</text>
 	</string>
 	<string id="drx_sl_esc_m_trader_default_task_finish">
 		<text>Buena suerte stalker.</text>
@@ -58,7 +58,7 @@
 	<!-- Sidorovich (Loner Trader) Rookie Initiation Storyline Task- -->
 
 	<string id="drx_sl_esc_m_trader_task_2_name">
-		<text>Iniciación Novato</text>
+		<text>Iniciación del novato</text>
 	</string>
 	<string id="drx_sl_esc_m_trader_task_2_text">
 		<text>Lleve a un grupo de novatos a la Zona y muéstreles cómo sobrevivir.</text>
@@ -80,7 +80,7 @@
 		<text>Recibe tu próxima tarea.</text>
 	</string>
 	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_default_task_about">
-		<text>Un amigo mío podría usar tus servicios. Marqué su ubicación en tu mapa.</text>
+		<text>Un amigo mío podría usar tus servicios. Marcaré su ubicación en tu mapa.</text>
 	</string>
 	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_default_task_finish">
 		<text>Buena suerte stalker.</text>
@@ -90,7 +90,7 @@
 	<!-- Xenotech (Loner Mechanic) Rescue Missing Stalker Storyline Task -->
 
 	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_name">
-		<text>Rescate de Stalker Perdido</text>
+		<text>Rescate de stalker perdido</text>
 	</string>
 	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_text">
 		<text>Un stalker falta en el campamento de Xenotech. Encontrarlo.</text>
@@ -115,7 +115,7 @@
 		<text>¿Dónde has estado? Un escuadrón militar llegó hasta aquí y rompió el lugar. Entre ellos y ese maldito helicóptero aniquilaron a casi todos en el campamento. Pudimos eliminar a la mayoría de ellos, pero uno de ellos logró escapar. Él puede estar herido, ver si puede seguir el rastro de sangre. Te mostraré la dirección en que se dirigía.</text>
 	</string>
 	<string id="drx_sl_esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_finish">
-		<text>Gracias, stalker. Toma esto como un regalo por tus acciones.</text>
+		<text>Gracias, stalker. Toma esto como un premio por tus acciones.</text>
 	</string>
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
@@ -135,7 +135,7 @@
 	<!-- Sidorovich (Loner Trader) Payoff Change Factions Task -->
 
 	<string id="drx_sl_esc_m_trader_cf_task_1_name">
-		<text>PAga a Sidorovich para convertirte en Solitario</text>
+		<text>Paga a Sidorovich para convertirte en Solitario</text>
 	</string>
 	<string id="drx_sl_esc_m_trader_cf_task_1_text">
 		<text>Sidorovich te sacará de tus compromisos actuales de facción por una tarifa de 10,000 RU.</text>
@@ -170,7 +170,7 @@
 		<text>Lleve a cabo un asalto al estacionamiento y elimine a los bandidos que ocupan la ubicación.</text>
 	</string>
 	<string id="esc_m_trader_task_1_about">
-		<text>Los bandidos han tomado base en el viejo aparcamiento. Estos pendejos matan o matan a cualquiera que use las carreteras que conducen dentro y fuera del campamento. Está alterando las actividades locales para mis clientes y los stalkers que se refugian en el campamento. ¡Duele el negocio! Necesito que te "cuides" de ellos. Si lo desea, hable con Fanatic, él puede ofrecerle ayuda.</text>
+		<text>Los bandidos han tomado base en el viejo aparcamiento. Estos cabrones matan a cualquiera que use las carreteras que llevan dentro y fuera del campamento. Están alterando las actividades locales de mis clientes y los stalkers que se refugian en el campamento. ¡Es malo para el negocio! Necesito que te "encargues" de ellos. Si quieres, habla con Fanatic, él puede ofrecerte ayuda.</text>
 	</string>
 	<string id="esc_m_trader_task_1_finish">
 		<text>¡Buen trabajo, stalker! ¡Tú y yo seremos los mejores si sigues así! Esto es lo que prometí.</text>
@@ -213,10 +213,10 @@
 		<text>Wolf te pidió que purgases un área de todas las amenazas de mutantes para garantizar la seguridad de la aldea novata; así como los stalkers que pasan por Cordon. Llega a la ubicación y elimina todos los mutantes en el área. Regrese a Wolf para el pago después de que su trabajo esté completo.</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_1_about">
-		<text>Stalker, necesito a alguien que tenga más experiencia que los novatos para una tarea. El Cordón se está convirtiendo en un lugar muy peligroso con toda esta proliferación mutante desenfrenada. Necesito que cace alrededor de un área que marcaré en su PDA. El trabajo es matar a cualquier mutantes que veas. Si haces esto por mí, te hará ganar dinero en efectivo. ¿Asi que va a?</text>
+		<text>Stalker, necesito a alguien que tenga más experiencia que los novatos para una tarea. El Cordón se está convirtiendo en un lugar muy peligroso con toda esta proliferación mutante desenfrenada. Necesito que cace alrededor de un área que marcaré en su PDA. El trabajo es matar a cualquier mutante que veas. Si haces esto por mí, te haré ganar dinero en efectivo. ¿Asi que estamos de acuerdo?</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_1_finish">
-		<text>Gracias. Los novatos ahora serán mucho más seguros gracias a ti. Aquí está su pago.</text>
+		<text>Gracias. Los novatos ahora están mucho más seguros gracias a ti. Aquí está tu pago.</text>
 	</string>
 	<!-- esc_smart_terrain_5_7_loner_mechanic_stalker -->
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -226,7 +226,7 @@
 		<text>Búsqueda y rescate de Stalker</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_2_text">
-		<text>Busque al stalker perdido.</text>
+		<text>Busca al stalker perdido.</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_2_about">
 		<text>Un stalker falta en el campamento. Necesito que averigües en qué tipo de problemas se metió.</text>
@@ -259,32 +259,32 @@
 		<text>El silencio es oro</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_4_text">
-		<text>Wolf te pidió que apagaras el megáfono en el puesto de control militar para siempre.</text>
+		<text>Wolf te pidió que apagaras para siempre el megáfono del puesto de control militar.</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_4_about"> <!-- revision -->
-		<text>Tengo una solicitud personal. ¿Puedes oír ese fuerte megáfono? Viene del puesto de control militar hacia el sur. ¡Nunca se calla! Esto debe ser eliminado antes de que pierda la cabeza... Un par de tomas precisas resolverían fácilmente este problema, pero es peligroso acercarse más. Sería más seguro tratarlo desde largas distancias. Desafortunadamente, nadie tiene un rifle fiable de largo alcance en este pueblo. ¿Tal vez puedes deshacerte de esto?</text>
+		<text>Tengo una petición personal. ¿Oyes ese fuerte megáfono? Viene del puesto de control militar que hay hacia el sur. ¡Nunca se calla! Debe ser eliminado antes de que pierda la cabeza... Un par de golpes precisos resolverían fácilmente el problema, pero es peligroso acercarse mucho. Sería más seguro hacer desde larga distancia. Pero desafortunadamente, nadie tiene un buen rifle de largo alcance en este pueblo. ¿Podrías encargarte tú de esto?</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_4_finish">
-		<text>¡Ahhhh puedo oírme pensar de nuevo! No sé cuánto tiempo les tomará arreglar esa ruidosa mierda, pero al menos conseguimos un par de noches tranquilas. ¡Gracias!</text>
+		<text>¡Ahhhh me puedo oír pensar de nuevo! No sé cuánto tiempo les llevará arreglar esa mierda ruidosa, pero al menos hemos conseguido un par de noches tranquilas. ¡Gracias!</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Nimble (Loner Trader) Find Weapon Task -->
 
 	<string id="esc_2_12_stalker_nimble_task_1_name">
-		<text>Encuentre un %s para Nimble</text>
+		<text>Encuentra un %s para Nimble</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_task_1_text">
-		<text>Nimble te ha pedido que encuentres un arma de fuego específica. Necesita estar en perfecto estado. Regresa a él cuando encuentres lo que está buscando.</text>
+		<text>Nimble te ha pedido que encuentres un arma de fuego específica. Necesita estar en perfecto estado. Vuelve cuando encuentres lo que está buscando.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_task_1_about">
-		<text>Tengo un cliente que busca un arma de fuego específica y necesito a alguien que me ayude a encontrarlo. Si estás interesado, te daré más detalles. ¿Qué dices?</text>
+		<text>Tengo un cliente que busca un arma de fuego específica y necesito a alguien que me ayude a encontrarla. Si estás interesado, te daré más detalles. ¿Qué dices?</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_task_1_fetch_about">
-		<text>%s... Eso es lo que necesito, pero debe estar en perfecto estado. El cliente está pagando mucho dinero y no quiere una mierda oxidada que se bloquee en una situación de vida o muerte. Te daré la mayor parte de los beneficios ya que estás haciendo todo el trabajo. Vuelve cuando lo encuentres, hombre.</text>
+		<text>%s... Eso es lo que necesito, pero debe estar en perfecto estado. El cliente pagará mucho dinero y no quiere una mierda oxidada que se bloquee en una situación de vida o muerte. Te daré la mayor parte de los beneficios ya que estás haciendo todo el trabajo. Vuelve cuando lo encuentres, hombre.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_task_1_fetch_finish">
-		<text>Esta es una buena arma. Creo que mi cliente estará contento cuando le entregue esto. Esto es lo que te debo.</text>
+		<text>Esta es una buena arma. Creo que mi cliente estará contento cuando se la entregue. Esto es lo que te debo.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -297,7 +297,7 @@
 		<text>Nimble tiene un PDA que necesita recuperar.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_task_2_about">
-		<text>Necesito que recojas un PDA para mí. Está escondido en un lugar un poco lejos de aquí.</text>
+		<text>Necesito que recojas un PDA para mí. Está escondida en un lugar un poco lejos de aquí.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_task_2_finish">
 		<text>¡Gracias stalker!</text>
@@ -323,7 +323,7 @@
 		<text>Encuentra %s para Xenotech</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_text">
-		<text>Xenotech requiere %s para instalar actualizaciones de equipos básicos, debe devolverlos a él si encuentra alguno.</text>
+		<text>Xenotech requiere %s para instalar actualizaciones de equipos básicos, traeselo si lo encuentras.</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_about">
 		<text>Necesito un favor, amigo. Muchos stalkers vienen aquí preguntando si puedo ajustar sus armas de cierta manera, pero no puedo. Simplemente no tengo las herramientas adecuadas. Sería capaz de realizar actualizaciones en una mayor variedad de equipos si puedo poner las manos en las herramientas adecuadas. Por favor, amigo, ¿me ayudarías?</text>
@@ -368,23 +368,23 @@
 
 	<!-- need serious revision and comparison with the russian text, translations didn?t make much sense -->
 	<string id="esc_7_11_rpg_quest_actor1">
-		<text>Hola chicos. ¿Estás tramando algo?</text>
+		<text>Hola chicos. ¿Estáis tramando algo?</text>
 	</string>
 
 	<string id="esc_7_11_rpg_quest_actor2">
-		<text>Entonces, recuérdenme, ¿cuál fue la tarea nuevamente?</text>
+		<text>Recuérdame, ¿cuál era la misión?</text>
 	</string>
 
 	<string id="esc_7_11_rpg_quest_text11">
-		<text>¿Cuál es tu puto asunto? Sigue caminando, deja de fingir que te importa.</text>
+		<text>¿Cuál es tu puto asunto? Sigue caminando, y deja de fingir que te importa.</text>
 	</string>
 
 	<string id="esc_7_11_rpg_quest_actor110">
-		<text>Tal vez pueda ayudarte con lo que sea que sea tu problema.</text>
+		<text>Tal vez pueda ayudarte con cualquiera que sea tu problema.</text>
 	</string>
 
 	<string id="esc_7_11_rpg_quest_text1101">
-		<text>Bueno... primero pensé que era solo una mala broma. Básicamente nuestro jefe tuvo una idea brillante. Literalmente dijo: "Mi pistola actual es una mierda". Quiero un arma que no necesite limpieza y ajuste cada segundo para el ataque. Quiero algo realmente bueno. Qué tal, un RPG-7... ". ¡El estúpido bastardo gordo era realmente serio! pero tengo alguna opción? Hemos estado buscando días. Logramos encontrar algunas cabezas nucleares después de largas negociaciones con algunos miembros de Freedom. Ahora necesitamos el gran arma en sí. Supongo que es algo que puedes manejar, ¿eh?</text>
+		<text>Bueno... primero pensé que era solo una mala broma. Básicamente nuestro jefe tuvo una idea brillante. Literalmente dijo: "Mi pistola actual es una mierda". Quiero un arma que no necesite limpieza y ajuste cada momento para el comabate. Quiero algo realmente bueno. Qué tal, un RPG-7... ". ¡El estúpido cabrón gordo hablaba realmente en serio! Pero ¿tengo alguna opción? Hemos estado buscando días. Logramos encontrar algunas ojivas después de largas negociaciones con algunos miembros de Libertad. Ahora necesitamos el gran arma en sí. Supongo que es algo que puedes arreglar, ¿eh?</text>
 	</string>
 
 	<string id="esc_7_11_rpg_quest_text21">
@@ -400,18 +400,18 @@
 	</string>
 
 	<string id="esc_7_11_rpg_quest_text1111">
-		<text>¡Realmente puedes conseguir eso para mí, hermano! Genial, regresa cuando lo tengas.</text>
+		<text>¡Realmente puedes conseguirlo para mí, hermano! Genial, regresa cuando lo tengas.</text>
 	</string>
 
 	<string id="esc_7_11_rpg_quest_text1121">
-		<text>Por supuesto, ¿qué esperaba de un coño?... perderse.</text>
+		<text>Por supuesto, ¿qué esperaba de un marica?... piérdete.</text>
 	</string>
 
 	<string id="esc_7_11_rpg_quest_task_name">
 		<text>Verdadero negocio</text>
 	</string>
 	<string id="esc_7_11_rpg_quest_task_text">
-		<text>Encuentra RPG-7 para bandidos</text>
+		<text>Encuentra RPG-7 para los bandidos</text>
 	</string>
 	<string id="esc_7_11_rpg_quest_task_about">
 		<text>Me pidieron que buscara y trajera un RPG-7 para los bandidos en Cordon.</text>
