@@ -121,7 +121,7 @@
 	<string id="st_mm_ck_story_desc">
 		<text>%c[0,245,245,220]El modo historia inicia el juego con la historia de "Misterios de la Zona" y con los objetivos para desactivar el quemador cerebral y la máquina milagrosa. \n
    \nLos elementos de historias anteriores se toman prestados y se recrean, por lo que no es para jugadores que sienten que la continuidad estricta de la historia es esencial. \n
-   \nSolo disponible para las facciones Clear Sky, Duty, Ecologist, Freedom, Loner y Mercenary. \n
+   \nSolo disponible para las facciones Clear Sky, Deber, Ecologista, Libertad, Solitario y Mercenario. \n
    \nNo es compatible con el modo Azazel.
   .</text>
 	</string>

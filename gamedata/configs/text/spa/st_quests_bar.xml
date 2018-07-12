@@ -12,7 +12,7 @@
 <string_table>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Petrenko (Duty Trader) Default Storyline Task -->
+	<!-- Petrenko (Deber Trader) Default Storyline Task -->
 
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_default_task_name">
 		<text>Obtener la siguiente tarea</text>
@@ -28,7 +28,7 @@
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Petrenko (Duty Trader) Raid Enemy Camp Storyline Task- -->
+	<!-- Petrenko (Deber Trader) Raid Enemy Camp Storyline Task- -->
 
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_1_name">
 		<text>Asalta el campamento enemigo para Deber</text>
@@ -44,7 +44,7 @@
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Petrenko (Duty Trader) Locate Brain Scorcher Equipment Storyline Task -->
+	<!-- Petrenko (Deber Trader) Locate Brain Scorcher Equipment Storyline Task -->
 
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_2_name">
 		<text>Localiza el equipo del Cauterizador Cerebral</text>
@@ -60,7 +60,7 @@
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Petrenko (Duty Trader) Most Wanted Storyline Task -->
+	<!-- Petrenko (Deber Trader) Most Wanted Storyline Task -->
 
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_3_name">
 		<text>El más buscado de Petrenko</text>
@@ -76,7 +76,7 @@
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Petrenko (Duty Trader) Search Lab X-19 (Radar) Storyline Task -->
+	<!-- Petrenko (Deber Trader) Search Lab X-19 (Radar) Storyline Task -->
 
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_4_name">
 		<text>Buscar Lab X-19</text>
@@ -92,7 +92,7 @@
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Mangun (Duty Mechanic) Default Storyline Task -->
+	<!-- Mangun (Deber Mechanic) Default Storyline Task -->
 
 	<string id="drx_sl_bar_visitors_stalker_mechanic_default_task_name">
 		<text>Obtener la siguiente tarea</text>
@@ -108,7 +108,7 @@
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Mangun (Duty Mechanic) Find Replacement Weapon Storyline Task- -->
+	<!-- Mangun (Deber Mechanic) Find Replacement Weapon Storyline Task- -->
 
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_1_name">
 		<text>Encontrar Reemplazo %s para Mangun</text>
@@ -117,7 +117,7 @@
 		<text>Mangun jodió una reparación y necesita un %s de reemplazo para su cliente.</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_1_about">
-		<text>Necesito ayuda, hermano. Un Dutier me trajo su rifle para repararlo, pero lo arruiné bastante mal. Necesito encontrar un reemplazo para él antes de que venga a recogerlo.</text>
+		<text>Necesito ayuda, hermano. Un miembro de Deber me trajo su rifle para repararlo, pero lo arruiné bastante mal. Necesito encontrar un reemplazo para él antes de que venga a recogerlo.</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_1_fetch_about">
 		<text>Si encuentras un %s, tráemelo. No tengo mucho dinero, pero tengo algo que puedo cambiarte por eso.</text>
@@ -127,7 +127,7 @@
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Mangun (Duty Mechanic) Clear Out Mutants Storyline Task -->
+	<!-- Mangun (Deber Mechanic) Clear Out Mutants Storyline Task -->
 
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_2_name">
 		<text>Limpeza de mutantes para Mangun</text>
@@ -144,7 +144,7 @@
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
 
-	<!-- Petrenko (Duty Trader) Payoff Change Factions Task -->
+	<!-- Petrenko (Deber Trader) Payoff Change Factions Task -->
 
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_cf_task_1_name">
 		<text>Tasa de iniciación de Deber</text>
@@ -159,7 +159,7 @@
 		<text>Bienvenido a deber, stalker. Nos enorgullece</text>
 	</string>
 	
-	<!-- Voronin (Duty Leader) army permission task -->
+	<!-- Voronin (Deber Leader) army permission task -->
 
 	<string id="drx_sl_bar_dolg_leader_gp_task_1_name">
 		<text>Acuerdo temporal con las Fuerzas Armadas</text>
@@ -202,7 +202,7 @@
 		<text>Tengo algunos problemas con el suministro de carne fresca. ¿Interesado?</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_1_fetch_about">
-		<text>La reciente caza de mutantes de Duty fue muy infructuosa. Afortunadamente, nadie murió, pero obtuve carne. Todavía tengo que alimentar a las personas con algo. Entonces, si quieres ganar algo de dinero, dame un %s. Estaré muy agradecido, y le informaré a Duty sobre eso.</text>
+		<text>La reciente caza de mutantes de Deber fue muy infructuosa. Afortunadamente, nadie murió, pero obtuve carne. Todavía tengo que alimentar a las personas con algo. Entonces, si quieres ganar algo de dinero, dame un %s. Estaré muy agradecido, y le informaré a Deber sobre eso.</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_1_finish">
 		<text>Bien hecho, stalker!</text>
@@ -229,13 +229,13 @@
 
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Petrenko (Duty Trader) Defend Rostok Task -->
+	<!-- Petrenko (Deber Trader) Defend Rostok Task -->
 
 	<string id="bar_dolg_general_petrenko_stalker_task_1_name">
 		<text>Defender Rostok</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_1_text">
-		<text>Las fuerzas hostiles están invadiendo la base Duty en Rostok. El general Petrenko le ha pedido que elimine la amenaza.</text>
+		<text>Las fuerzas hostiles están invadiendo la base Deber en Rostok. El general Petrenko le ha pedido que elimine la amenaza.</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_1_about">
 		<text>Me informaron que las fuerzas enemigas están avanzando en nuestra ubicación. Necesito que los detengas antes de que lleguen aquí.</text>

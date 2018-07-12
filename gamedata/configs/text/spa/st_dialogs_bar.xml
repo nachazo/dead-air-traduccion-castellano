@@ -4,7 +4,7 @@
 		<text>¿A quién tienes para pelear?</text>
 	</string>
 	<string id="bar_arena_man_job_11">
-		<text>Entonces, ¿tu primera pelea? Tu oponente es un pedazo de carne como tú. Está aquí por sus deudas y solo tiene dos opciones: salir y luchar, o aterrizar en la anomalía más cercana. Él peleará como un animal acorralado. Equipo para hoy... Déjame pensar... ¿Qué hay de ustedes dos usan pistolas básicas, dos cajas de munición deben ser suficientes. O le pateas el culo o te damos de comer a los perros, no hay mucha elección. Seguir ahora.</text>
+		<text>Entonces, ¿tu primera pelea? Tu oponente es un trozo de carne como tú. Está aquí por sus deudas y solo tiene dos opciones: salir y luchar, o aterrizar en la anomalía más cercana. Peleará como un animal acorralado. Equipo para hoy... Déjame pensar... ¿Qué tal si usáis dos pistolas básicas? Dos cajas de munición serán suficientes. O le pateas el culo o te echamos de comer a los perros, no hay mucha elección. Vete ahora.</text>
 	</string>
 	<string id="bar_arena_man_job_111">
 		<text>Estoy listo.</text>
@@ -13,7 +13,7 @@
 		<text>No estoy listo.</text>
 	</string>
 	<string id="bar_arena_man_job_12">
-		<text>Tu última pelea no significó una mierda, sigues siendo el mismo pedazo de carne que eras antes y ninguna persona que se respete le apostará una sola revista. Si quieres ganar dinero en efectivo, vas a tener que hacer algunas apariciones más en la arena. Tu nuevo oponente también pasó la primera ronda, y su pelea fue mucho más dura que la tuya. No me gusta, para ser honesto, mata demasiado rápido y a la multitud no le gusta eso. Entonces, ¡ve y muéstranos lo que puedes hacer! Lo que está en juego aumentará después de esta pelea: todo lo que tienes que hacer es mantenerte vivo. ¡Muévelo!</text>
+		<text>Tu última pelea no significó una mierda, sigues siendo el mismo trozo de carne que eras antes y ninguna persona que se respete apostará un solo cargador por tí. Si quieres ganar dinero en efectivo, vas a tener que hacer algunas apariciones más en La Arena. Tu nuevo oponente también pasó la primera ronda, y su pelea fue mucho más dura que la tuya. No me gusta, para ser honesto, mata demasiado rápido y a la multitud no le gusta eso. Entonces, ¡ve y muéstra lo que sabes hacer! Lo que está en juego aumentará después de esta pelea: todo lo que tienes que hacer es mantenerte vivo. ¡Muévete!</text>
 	</string>
 	<string id="bar_arena_man_job_121">
 		<text>Estoy listo.</text>
@@ -22,7 +22,7 @@
 		<text>No estoy listo.</text>
 	</string>
 	<string id="bar_arena_man_job_13">
-		<text>Bueno, bueno... No eres tan cobarde como parecías al principio. Ahora es el momento de ponerte a prueba en una pelea real. Te enfrentas a dos tipos. El primero se llama Swede y no recuerdo el nombre de la segunda. Ellos fueron emparejados intencionalmente como odian a las tripas de los demás por lo que no se preocupe por ellos trabajando en equipo - son más propensos a disparar entre sí. Hoy es el día de la escopeta, así que no los deje acercarse demasiado o tendremos que buscarlo pieza por pieza. Las probabilidades son de 10: 1, así que si ganas ganarás una buena cantidad. ¡Listo!</text>
+		<text>Bueno, bueno... No eres tan cobarde como parecías al principio. Ahora es el momento de ponerte a prueba en una pelea real. Te enfrentas a dos tipos. El primero se llama Swede y no recuerdo el nombre del segundo. Fueron emparejados intencionalmente ya que se odian el uno al otro, así que no te preocupes de que trabajen en equipo, es más probable que se disparen entre ellos. Hoy es el día de la escopeta, así que dejes que se acercarsen demasiado o tendremos que buscarte pieza por pieza. Las probabilidades son de 10:1, así que si ganas sacarás una buena cantidad. ¡Listo!</text>
 	</string>
 	<string id="bar_arena_man_job_131">
 		<text>Estoy listo.</text>
@@ -31,7 +31,7 @@
 		<text>No estoy listo.</text>
 	</string>
 	<string id="bar_arena_man_job_14">
-		<text>Bueno, ahora puedo decir con seguridad que eres un luchador, un verdadero luchador. Ahora es el momento de una pelea en equipo. Tienes que pelear con dos novatos, dos hermanos, de tu lado. No han peleado aún, pero son hermanos, así que tuve que ponerlos en una pelea en equipo. No esperaría ninguna ayuda real de ellos si fuera tú. Estás peleando contra un equipo experimentado, son contendientes para la final esta temporada. Un lote peligroso Usan armas diferentes pero uno tiene una escopeta automática: ten mucho cuidado con él. Buena suerte, amigo... Lo vas a necesitar.</text>
+		<text>Bueno, ahora puedo decir con seguridad que eres un luchador, un verdadero luchador. Es el momento de una pelea en equipo. Tienes que pelear con dos novatos, dos hermanos, de tu lado. No han peleado aún, pero son hermanos, así que tuve que ponerlos en una pelea en equipo. Si fuera tú, no esperaría ninguna ayuda real de ellos. Estás peleando contra un equipo experimentado, son contendientes para la final esta temporada. Un grupo peligroso. Usan armas diferentes pero uno tiene una escopeta automática: ten mucho cuidado con él. Buena suerte, amigo... La vas a necesitar.</text>
 	</string>
 	<string id="bar_arena_man_job_141">
 		<text>Estoy listo.</text>
@@ -40,7 +40,7 @@
 		<text>No estoy listo.</text>
 	</string>
 	<string id="bar_arena_man_job_15">
-		<text>Tienes una pelea especial hoy. ¡Incluso el ejército ha oído hablar de ti! No se sorprendan, pelean aquí también, incluso hay un general en la multitud. Estos muchachos son de Spetsnaz u OMON. Están bien armados y su armadura es tan buena como cabría esperar. Pero no te preocupes, tampoco voy a dejarte afuera bajo la lluvia. Obtendrás un chaleco utilizado por Freedom: es ligero para que no te ralentice. Vamos, demuéstrales que los stalkers no son niños que azotan. ¡Buena suerte!</text>
+		<text>Tienes una pelea especial hoy. ¡Incluso el ejército ha oído hablar de ti! No te sorprendas, pelean aquí también, incluso hay un general en el público. Estos muchachos son de Spetsnaz u OMON. Están bien armados y su armadura es tan buena como cabe esperar. Pero no te preocupes, tampoco voy a dejarte sin paraguas bajo la lluvia. Tendrás un chaleco utilizado por Libertad: es ligero para que no te ralentice. Vamos, demuéstrales que los stalkers no son niños llorones. ¡Buena suerte!</text>
 	</string>
 	<string id="bar_arena_man_job_151">
 		<text>Estoy listo.</text>
@@ -49,7 +49,7 @@
 		<text>No estoy listo.</text>
 	</string>
 	<string id="bar_arena_man_job_16">
-		<text>Es hora de que demuestres lo que puedes hacer. Duty capturó a un grupo de bandidos que habían estado causando problemas a los stalkers cerca de Rostok. Duty se los llevó a la noche así que la mayoría de los bandidos fueron capturados vivos. Todos iban a ser ejecutados de todos modos, así que convencí a Duty para que les diera una oportunidad. Si alguno de ellos sobrevive, irá dentro de la lata fuera de la Zona, lo cual es mejor que morir aquí. No están bien armados, probablemente solo unas pocas pistolas y saqueos, pero hay seis, así que ten cuidado. ¡Seguir ahora!</text>
+		<text>Es hora de que demuestres lo que puedes hacer. Deber capturó a un grupo de bandidos que habían estado causando problemas a los stalkers cerca de Rostok. Deber se los llevó por la noche así que la mayoría de los bandidos fueron capturados vivos. Iban a ser ejecutados de todos modos, así que he convencido a Deber para que les diera una oportunidad. Si alguno de ellos sobrevive, irá dentro a prisión fuera de la Zona, lo cual es mejor que morir aquí. No están bien armados, probablemente solo unas pocas pistolas y recortadas, pero hay seis, así que ten cuidado. ¡Ve!</text>
 	</string>
 	<string id="bar_arena_man_job_161">
 		<text>Estoy listo.</text>
@@ -58,7 +58,7 @@
 		<text>No estoy listo.</text>
 	</string>
 	<string id="bar_arena_man_job_17">
-		<text>Bueno, ya casi estás en la final. Ahora lucharás contra un verdadero stalker. Está solo pero tiene un rifle de asalto y está dentro de un exoesqueleto. Captura una ráfaga y estás pan tostado. Habrá una sorpresa de la que tampoco te puedo hablar... Este es mi consejo: prepárate, va a ser difícil. El ganador llega a la final. Lucha hasta la muerte, ¡vete!</text>
+		<text>Bueno, ya casi estás en la final. Ahora lucharás contra un verdadero stalker. Está solo pero tiene un rifle de asalto y está dentro de un exoesqueleto. Recibe una ráfaga y estás frito. Habrá una sorpresa de la que no te puedo contar... Este es mi consejo: prepárate, va a ser difícil. El ganador llega a la final. Lucha hasta la muerte, ¡vete!</text>
 	</string>
 	<string id="bar_arena_man_job_171">
 		<text>Estoy listo.</text>
@@ -67,7 +67,7 @@
 		<text>No estoy listo.</text>
 	</string>
 	<string id="bar_arena_man_job_18">
-		<text>Felicidades, estás en la final! Uno más para ir y este es a la muerte, cada hombre para sí mismo. Habrá otros 4 stalkers en la arena: todos los verdaderos profesionales en exoesqueletos, pero esta vez es justo: obtendrás exactamente lo que tienen. Lo único es que no obtienes ni los botiquines ni los vendajes en una pelea hasta la muerte. Listo? Ve a demostrar que eres el mejor, ¡VE!</text>
+		<text>Felicidades, ¡estás en la final! Uno más y éste será a muerte, cada uno por su cuenta. Habrá otros 4 stalkers en La Arena: todos los verdaderos profesionales con exoesqueletos, pero con un trato justo esta vez: tendrás exactamente lo mismo que tienen. Lo único es que no tendrás ni botiquines ni vendajes para esta pelea hasta la muerte. ¿Listo? Ve a demostrar que eres el mejor, ¡VE!</text>
 	</string>
 	<string id="bar_arena_man_job_181">
 		<text>Estoy listo.</text>
@@ -76,13 +76,13 @@
 		<text>No estoy listo.</text>
 	</string>
 	<string id="bar_arena_man_start_111112">
-		<text>¡Yo! ¡Me pagaste por una pelea pero te alejaste!</text>
+		<text>¡Ey! ¡Me pagaste por una pelea pero te fuiste!</text>
 	</string>
 	<string id="bar_arena_man_start_11">
-		<text>¡Yo! Tengo una nueva pelea por ti.</text>
+		<text>Ey! Tengo una nueva pelea por ti.</text>
 	</string>
 	<string id="bar_arena_man_start_21">
-		<text>Ve a tomar algo o algo. The Arena aún no está listo.</text>
+		<text>Ve a tomar algo o algo. La Arena aún no está lista.</text>
 	</string>
 	<string id="bar_arena_man_start_31">
 		<text>¡Ya te has convertido en un profesional!</text>
@@ -130,22 +130,22 @@
 		<text>Entonces deja de hacer tantas preguntas.</text>
 	</string>
 	<string id="bar_arena_manager_game_120">
-		<text>Pague 3,000 RU por participar y el chupasangre es suyo.</text>
+		<text>Paga 3,000 RU por participar y el chupasangre es tuyo.</text>
 	</string>
 	<string id="bar_arena_manager_game_121">
-		<text>Multa. Aquí está tu dinero.</text>
+		<text>De acuerdo. Aquí está tu dinero.</text>
 	</string>
 	<string id="bar_arena_manager_game_125">
 		<text>No tengo suficiente.</text>
 	</string>
 	<string id="bar_arena_manager_game_1251">
-		<text>No pierdas mi tiempo, stalker.</text>
+		<text>No me hagas perder el tiempo, stalker.</text>
 	</string>
 	<string id="bar_arena_manager_game_130">
 		<text>No tan rapido. El precio de participación es 5,000 RU.</text>
 	</string>
 	<string id="bar_arena_manager_game_131">
-		<text>Multa. Aquí está el dinero.</text>
+		<text>De acuerdo. Aquí está el dinero.</text>
 	</string>
 	<string id="bar_arena_manager_game_135">
 		<text>No tengo suficiente dinero</text>
@@ -157,7 +157,7 @@
 		<text>El precio para participar es 5,000 RU.</text>
 	</string>
 	<string id="bar_arena_manager_game_141">
-		<text>Multa. Aquí está tu dinero.</text>
+		<text>De acuerdo. Aquí está tu dinero.</text>
 	</string>
 	<string id="bar_arena_manager_game_145">
 		<text>No tengo suficiente dinero</text>
@@ -166,10 +166,10 @@
 		<text>Déjame adivinar. ¿Alguien te robó tus rublos?</text>
 	</string>
 	<string id="bar_arena_manager_game_2">
-		<text>Hay un pseudodog. Un espécimen grande, pero bastante golpeado. Por otro lado, es muy feroz, al igual que mi suegra.</text>
+		<text>Hay un pseudoperro. Un espécimen grande, pero bastante herido. Por otro lado, es muy feroz, al igual que mi suegra.</text>
 	</string>
 	<string id="bar_arena_manager_game_200">
-		<text>Acuerdo. Antes de luchar debes poner una estaca en el tiempo que necesitas para matar. Si logras llevarlo a cabo, ganarás un poco más de dinero para gastar.</text>
+		<text>Trato hecho. Antes de pelear, debes apostar por el tiempo que necesitas para matar. Si te las arreglas para lograrlo, ganarás un poco más de dinero para gastar.</text>
 	</string>
 	<string id="bar_arena_manager_game_201">
 		<text>30 segundos, triple victoria.</text>
@@ -178,16 +178,16 @@
 		<text>Un minuto y medio, doble victoria.</text>
 	</string>
 	<string id="bar_arena_manager_game_203">
-		<text>Sin un límite de tiempo Una victoria a mitad de juego.</text>
+		<text>Sin un límite de tiempo. Una victoria a mitad.</text>
 	</string>
 	<string id="bar_arena_manager_game_204">
 		<text>Cambié de opinión.</text>
 	</string>
 	<string id="bar_arena_manager_game_2041">
-		<text>Difícil mierda Ya pagaste</text>
+		<text>Mala suerte. Ya has pagado.</text>
 	</string>
 	<string id="bar_arena_manager_game_21">
-		<text>Yo puedo hacer eso. Lucharé con tu perro.</text>
+		<text>Puedo hacerlo. Lucharé con tu perro.</text>
 	</string>
 	<string id="bar_arena_manager_game_22">
 		<text>¿Un perro? ¿Eso es todo lo que tienes?</text>
@@ -196,61 +196,61 @@
 		<text>Aw, ¿nuestra niña tiene miedo de un pequeño perrito? No te enfades</text>
 	</string>
 	<string id="bar_arena_manager_game_3">
-		<text>Hay un fenómeno en una máscara de gas, llamado snork. Delgado y de aspecto débil, pero bastante ágil.</text>
+		<text>Hay un monstruo con una máscara de gas, llamado snork. Delgado y débil, pero bastante ágil.</text>
 	</string>
 	<string id="bar_arena_manager_game_300">
-		<text>Genial, tendremos todo listo. Entra a la arena</text>
+		<text>Genial, tendremos todo listo. Entra a La Arena</text>
 	</string>
 	<string id="bar_arena_manager_game_31">
-		<text>Dale. Lucharé contra tu snork.</text>
+		<text>Tráelo. Lucharé contra tu snork.</text>
 	</string>
 	<string id="bar_arena_manager_game_32">
-		<text>Me hacen girar el estómago. Diablos no</text>
+		<text>Me revuelven el estómago. Diablos, no.</text>
 	</string>
 	<string id="bar_arena_manager_game_321">
 		<text>¿Asustado por un monstruo enmascarado y medio podrido?</text>
 	</string>
 	<string id="bar_arena_manager_game_4">
-		<text>Esta vez hemos tenido mucha suerte. Atrapamos a un joven chupasangre. Todavía tonto, pero ya con malos modales.</text>
+		<text>Esta vez hemos tenido mucha suerte. Atrapamos a un joven chupasangre. Todavía tonto, pero ya tiene malos modales.</text>
 	</string>
 	<string id="bar_arena_manager_game_41">
 		<text>Adelante, prepara al chupasangre.</text>
 	</string>
 	<string id="bar_arena_manager_game_42">
-		<text>¿Un chupasangre? Joder eso!</text>
+		<text>¿Un chupasangre? Que le den!</text>
 	</string>
 	<string id="bar_arena_manager_game_421">
-		<text>¿Qué? ¿Te encantan los chupasangres ahora? ¿Cuándo te uniste a Freedom?</text>
+		<text>¿Qué? ¿Ahora te encantan los chupasangres? ¿Cuándo te uniste a Libertad?</text>
 	</string>
 	<string id="bar_arena_manager_game_5">
-		<text>Esta vez tenemos un pequeño enano gordo con un manto negro, los lugareños lo llaman un burer.</text>
+		<text>Esta vez tenemos un pequeño enano gordo con un manto negro, los lugareños lo llaman Burer.</text>
 	</string>
 	<string id="bar_arena_manager_game_51">
-		<text>Gordo y corto? Fácil. Lo haré.</text>
+		<text>¿Gordo y bajo? Fácil. Lo haré.</text>
 	</string>
 	<string id="bar_arena_manager_game_52">
-		<text>He oído todo sobre esas cosas. Pasaré.</text>
+		<text>He oído de todo sobre esas cosas. Paso.</text>
 	</string>
 	<string id="bar_arena_manager_game_521">
-		<text>Apenas alcanza tu cintura en altura. Y él te asusta?</text>
+		<text>Apenas te llega a la cintura. ¿Y te asusta?</text>
 	</string>
 	<string id="bar_arena_manager_game_6">
-		<text>Hoy es un día especial. No sé dónde encontraron... Él... Pero él es una verdadera bestia.</text>
+		<text>Hoy es un día especial. No sé dónde lo encontraron... Lo... Pero es una verdadera bestia.</text>
 	</string>
 	<string id="bar_arena_manager_game_61">
-		<text>Acuerdo. Lo sacaré de su miseria.</text>
+		<text>Trato hecho. Acabaré con su sufrimiento.</text>
 	</string>
 	<string id="bar_arena_manager_game_62">
-		<text>No tengo ganas de morir, encontrar a alguien más.</text>
+		<text>No tengo ganas de morir, encuentra a otro.</text>
 	</string>
 	<string id="bar_arena_manager_game_621">
-		<text>Bueno, francamente incluso yo encuentro a la bestia aterradora. Pero no peleo en la arena, entonces, ¿a quién le importa?</text>
+		<text>Bueno, francamente incluso yo encuentro a la bestia aterradora. Pero no peleo en La Arena, entonces, ¿a quién le importa?</text>
 	</string>
 	<string id="bar_arena_manager_info_0">
 		<text>Tengo un par de preguntas.</text>
 	</string>
 	<string id="bar_arena_manager_info_1">
-		<text>Disparar.</text>
+		<text>Dispara.</text>
 	</string>
 	<string id="bar_arena_manager_info_10">
 		<text>No importa.</text>
@@ -259,40 +259,40 @@
 		<text>¿Qué es este establecimiento?</text>
 	</string>
 	<string id="bar_arena_manager_info_111">
-		<text>Esta es la arena, mi pequeño negocio. Un lugar donde los stalkers pueden poner a prueba su valía y ganar su fama luchando contra los horrores de la Zona.</text>
+		<text>Esta es La Arena, mi pequeño negocio. Un lugar donde los stalkers pueden poner a prueba su valía y ganan fama luchando contra los horrores de la Zona.</text>
 	</string>
 	<string id="bar_arena_manager_info_12">
-		<text>¿Cómo se obtienen los mutantes aquí?</text>
+		<text>¿Cómo se capturan los mutantes aquí?</text>
 	</string>
 	<string id="bar_arena_manager_info_121">
-		<text>Hicimos un trato con Duty, en lugar de matar a todos los mutantes que encuentran traen aquí a los más débiles a cambio de efectivo. El deber es pagado, los mutantes son asesinados, y luego me pagan. Todos ganan.</text>
+		<text>Hicimos un trato con Deber, en lugar de matar a todos los mutantes que encuentran traen aquí a los más débiles a cambio de efectivo. Deber recibe su pago, los mutantes son asesinados, y luego me pagan. Todos ganan.</text>
 	</string>
 	<string id="bar_arena_manager_info_13">
 		<text>¿De donde eres?</text>
 	</string>
 	<string id="bar_arena_manager_info_131">
-		<text>Soy de muchos lugares Escuché sobre este pequeño remanso y comprendí que podría ganar un buen centavo aquí. Así que aquí estoy.</text>
+		<text>Soy de muchos lugares. Escuché sobre este pequeño remanso y comprendí que podría ganar un buen dinero aquí. Así que aquí estoy.</text>
 	</string>
 	<string id="bar_arena_manager_rules_0">
 		<text>¿Cuales son las normas?</text>
 	</string>
 	<string id="bar_arena_manager_rules_1">
-		<text>Oh, las reglas son bastante simples. Yo mismo los inventé. Para los desafíos, hay una jaula, y un mutante se deja dentro de la jaula. Pagas dinero y me dices la hora en que necesitas matar al monstruo. Si lo logras, ganas, si no lo haces, yo gano.\n Pero para el plato principal, los bandidos y los otros degenerados de la Zona capturados por Duty luchan en la arena por sus crímenes. Algunos son solo stalkers a los que les gusta pelear, y no delincuentes, pero quien abandona la arena en la menor cantidad de piezas obtiene una recompensa considerable. Si siguen ganando peleas, vendrán más stalkers y los combatientes obtendrán mayores recompensas.</text>
+		<text>Oh, las reglas son bastante simples. Yo mismo las inventé. Para los desafíos, hay una jaula, y un mutante se deja dentro de la jaula. Pagas dinero y me dices el tiempo que necesitas para matar al monstruo. Si lo logras, ganas, si no lo haces, yo gano.\n Pero el plato principal son los bandidos y los otros degenerados de la Zona capturados por Deber, que luchan en La Arena por sus crímenes. Algunos son solo stalkers a los que les gusta pelear, y no delincuentes, pero quien abandona La Arena en la menor cantidad de trozos posible obtiene una recompensa considerable. Si siguen ganando peleas, vendrán más stalkers y los combatientes obtendrán mayores recompensas.</text>
 	</string>
 	<string id="bar_arena_manager_start_11">
-		<text>Es bueno verte stalker, bienvenido a la arena.</text>
+		<text>Me alegro de verte stalker, bienvenido a La Arena.</text>
 	</string>
 	<string id="bar_arena_manager_start_21">
-		<text>¿Entonces, Qué esperas? Entrar en la jaula</text>
+		<text>¿Entonces, a qué esperas? Entra en la jaula</text>
 	</string>
 	<string id="bar_arena_manager_start_31">
 		<text>Lo sentimos, no hay nada contra lo que luchar aún. Espera un día o dos hasta que podamos atrapar un nuevo mutante.</text>
 	</string>
 	<string id="bar_arena_manager_start_41">
-		<text>¡Ahí tienes! ¡Bien hecho! Aquí está tu victoria. Si deseas otra pelea por dinero, solo pasa cada vez que lo hagas.</text>
+		<text>¡Ahí tienes! ¡Bien hecho! Aquí está tu victoria. Si deseas otra pelea por dinero, ven cuando quieras.</text>
 	</string>
 	<string id="bar_arena_manager_start_51">
-		<text>Lo siento, hermano, pero pierdes. Ven la próxima vez si quieres.</text>
+		<text>Lo siento, hermano, pero has perdido. Ven la próxima vez si quieres.</text>
 	</string>
 
 	<!-- bar_visitors_barman_stalker_trader -->
@@ -311,11 +311,11 @@
 	</string>
 
 	<string id="bar_visitors_barman_stalker_trader_start_dialog_22">
-		<text>Hay un "pequeño" problema como puedes ver. Este es un lugar popular, el número de visitantes diarios es bastante impresionante. Todas las nuevas armas que entran se compran casi al instante. Además, los Duters acaban de calmarse, necesitan disparar cosas también. Y la vieja línea AKSU ya está una semana más adelante. En general, no tienes suerte en este lugar. Tendrás que ir a buscar a otro lugar, como el norte, por ejemplo, donde puedes encontrar equipos serios para personas serias o para tratar de negociar con los militares. Si no eres particularmente quisquilloso y tienes algunas conexiones, entonces puedes visitar a los bandidos. Ellos tienen cosas para todos.</text>
+		<text>Hay un "pequeño" problema como puedes ver. Este es un lugar popular, el número de visitantes diarios es bastante grande. Todas las nuevas armas que entran se compran casi al instante. Además, los miembros de Deber acaban de establecerse, necesitan disparar también. Y la vieja línea de AKSU ya tiene una semana de retraso. En general, no suele haber suerte en este lugar. Tendrás que buscar en otro lugar, como hacia norte, por ejemplo, donde puedes encontrar equipos serios para personas serias o para tratar de negociar con los militares. Si no eres particularmente quisquilloso y tienes algunas conexiones, entonces puedes visitar a los bandidos. Ellos tienen cosas para todos.</text>
 	</string>
 	
 	<string id="bar_visitors_barman_stalker_trader_start_dialog_23">
-		<text>Así es como es entonces? Muy bien, gracias por la información.</text>
+		<text>¿Así es como va la cosa entonces? Muy bien, gracias por la información.</text>
 	</string>
 
 <!------------------ bar_visitors_informer ----------->
@@ -349,7 +349,7 @@
 	</string>
 
 	<string id="bar_visitors_informer_stalker_army_permission_info_text">
-		<text>Tal cosa puede ser organizada por el General Voronin, el líder principal de "Dutyers". Acérquese a él y solicite un certificado que le permita estar en la Zona por "motivos legales" por algún tiempo. Las personas con tal permiso no son tocado por militares Naturalmente, tal procedimiento no es gratuito y solo dura unos pocos días. Pero para una persona sin ataduras y reputación propia, esta es la única opción.</text>
+		<text>Tal cosa puede ser organizada por el General Voronin, el líder principal de "Deber". Acérquese a él y solicite un certificado que le permita estar en la Zona por "motivos legales" por algún tiempo. Las personas con tal permiso no son tocado por militares Naturalmente, tal procedimiento no es gratuito y solo dura unos pocos días. Pero para una persona sin ataduras y reputación propia, esta es la única opción.</text>
 	</string>
 
 	<string id="bar_visitors_informer_stalker_killer_permission_info_about">
@@ -361,7 +361,7 @@
 	</string>
 
 	<string id="bar_visitors_informer_stalker_killer_permission_info_text">
-		<text>Varios acechadores están trabajando para mí, obtienen información para mí, se envían los pedidos, es algo común. En toda la Zona, no es conveniente contratar mercenarios, pero a veces hay que conocerlos. En tal caso, tenemos un contrato, por lo que sin ninguna preocupación mis muchachos no tendrían ningún problema. Puedo escribirte aparte de mis correos durante una semana, pero ten en cuenta que este servicio no es barato. Teniendo en cuenta todos los posibles riesgos y gastos de mi parte, te costará 50000.
+		<text>Varios stalkers están trabajando para mí, obtienen información para mí, se envían los pedidos, es algo común. En toda la Zona, no es conveniente contratar mercenarios, pero a veces hay que conocerlos. En tal caso, tenemos un contrato, por lo que sin ninguna preocupación mis muchachos no tendrían ningún problema. Puedo escribirte aparte de mis correos durante una semana, pero ten en cuenta que este servicio no es barato. Teniendo en cuenta todos los posibles riesgos y gastos de mi parte, te costará 50000.
   .</text>
 	</string>
 
@@ -384,6 +384,6 @@
 
 	<!-- bar_visitors_stalker_mechanic -->
 	<string id="bar_visitors_stalker_mechanic_start_dialog_1">
-		<text>¡Ey! Chico. ¿Cómo te va por la Zona? Entonces... espero que tengas que hacer un trabajo de reparación... heh. Necesito algo de dinero en efectivo.</text>
+		<text>¡Ey! Chico. ¿Cómo te va por la Zona? Pues... espero que tengas que hacer un trabajo de reparación... heh. Necesito algo de dinero en efectivo.</text>
 	</string>
 </string_table>

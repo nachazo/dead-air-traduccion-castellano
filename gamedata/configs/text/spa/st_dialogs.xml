@@ -44,13 +44,13 @@
 		<text>¿Quién podría ayudarme a descifrar algo aquí?</text>
 	</string>
 	<string id="about_quests_dialog_bandit_141">
-		<text>Bueno, escuché que Nitro en Yanov es bueno. Aparentemente, cuando no estaba trabajando para Duty, los muchachos lo obligaron a crackear PDA stalker un par de veces... Ah, los buenos viejos tiempos...</text>
+		<text>Bueno, escuché que Nitro en Yanov es bueno. Aparentemente, cuando no estaba trabajando para Deber, los muchachos lo obligaron a crackear PDA stalker un par de veces... Ah, los buenos viejos tiempos...</text>
 	</string>
 	<string id="about_quests_dialog_bandit_143">
 		<text>No me pongas científico, jefe. Necesitarás un hacker por esa mierda. Cuando estaba haciendo tiempo, conocí uno en la lata, pero es el único que conozco. Cuando salí, todavía me quedaban unos cinco dólares...</text>
 	</string>
 	<string id="about_quests_dialog_bandit_15">
-		<text>Tengo el PDA del operador Duty. ¿Conoces a alguien a quien le interese?</text>
+		<text>Tengo el PDA del operador Deber. ¿Conoces a alguien a quien le interese?</text>
 	</string>
 	<string id="about_quests_dialog_bandit_151">
 		<text>Hay un operador en Skadovsk llamado Owl. Él paga bastante bien y los chicos le venden PDA stalker de vez en cuando. Él tampoco hace demasiadas preguntas, así que todo está bien.</text>
@@ -98,13 +98,13 @@
 		<text>¿Sabes algo sobre los helicópteros estrellados?</text>
 	</string>
 	<string id="about_quests_dialog_bandit_20">
-		<text>¿Quién podría estar interesado en la información sobre el fundador de Duty?</text>
+		<text>¿Quién podría estar interesado en la información sobre el fundador de Deber?</text>
 	</string>
 	<string id="about_quests_dialog_bandit_201">
 		<text>¡No conozco a nadie que no esté interesado! Esa es una información explosiva, amigo, así que tu mejor opción es atravesar a Owl en Skadovsk, de esa forma obtendrás algo de dinero pero no crearás ningún enemigo.</text>
 	</string>
 	<string id="about_quests_dialog_bandit_22">
-		<text>No. Piénsalo, tengo a Duty a la izquierda, Freedom a la derecha y stalkers por mi trasero, ¿y esperas que mantengo mis ojos en el cielo?</text>
+		<text>No. Piénsalo, tengo a Deber a la izquierda, Libertad a la derecha y stalkers por mi trasero, ¿y esperas que mantengo mis ojos en el cielo?</text>
 	</string>
 	<string id="about_quests_dialog_bandit_23">
 		<text>Bueno, los muchachos dijeron que vieron a uno de los cables en el Bosque de Hierro, pero vas a ver mucho más que eso... Es probable que te topes con una anomalía o que te aplasta el cráneo con un poltergeist.</text>
@@ -146,7 +146,7 @@
 		<text>¿A quién podría contratar para proteger a los científicos?</text>
 	</string>
 	<string id="about_quests_dialog_bandit_403">
-		<text>¡Hah, yo y los chicos haremos el trabajo! ¡Les daremos protección como si nunca los hubiéramos visto! Los acechadores y mutantes tendrán miedo de ir a cualquier lugar cerca del maldito lugar, créanme! Exprime la masa todas las semanas y somos todos tuyos. ¡Y no olvides un bono de Navidad!</text>
+		<text>¡Hah, yo y los chicos haremos el trabajo! ¡Les daremos protección como si nunca los hubiéramos visto! Los stalkers y mutantes tendrán miedo de ir a cualquier lugar cerca del maldito lugar, créanme! Exprime la masa todas las semanas y somos todos tuyos. ¡Y no olvides un bono de Navidad!</text>
 	</string>
 	<string id="about_quests_dialog_bandit_41">
 		<text>Al caminar, amigo. Camina hacia Júpiter y haz allí tus preguntas, porque no hay una ruta directa desde Zaton a Pripyat, y eso es un hecho científico.</text>
@@ -161,7 +161,7 @@
 		<text>¿Puedes sugerir a alguien que no esté demasiado atado que esté dispuesto a hacer un movimiento para Pripyat?</text>
 	</string>
 	<string id="about_quests_dialog_bandit_51">
-		<text>Pripyat no es un lugar para hombres como nosotros. Piénselo, está lleno de mutantes y anomalías... como el resto de la Zona... pero sin acechadores y su botín. Cuando aparezcan stalkers en Pripyat, dennos un grito y nos dirigiremos allí para mantener el orden natural de las cosas.</text>
+		<text>Pripyat no es un lugar para hombres como nosotros. Piénselo, está lleno de mutantes y anomalías... como el resto de la Zona... pero sin stalkers y su botín. Cuando aparezcan stalkers en Pripyat, dennos un grito y nos dirigiremos allí para mantener el orden natural de las cosas.</text>
 	</string>
 	<string id="about_quests_dialog_bandit_57">
 		<text>Ni idea, amigo. Lo siento.</text>
@@ -200,7 +200,7 @@
 		<text>De acuerdo, olvídalo.</text>
 	</string>
 
-	<!-- About Quests Duty -->
+	<!-- About Quests Deber -->
 	<string id="about_quests_dialog_dolg_0">
 		<text>¿Has oído alguna noticia por aquí últimamente?</text>
 	</string>
@@ -217,7 +217,7 @@
 		<text>¿Oyes algo sobre el Oasis?</text>
 	</string>
 	<string id="about_quests_dialog_dolg_111">
-		<text>Es un cuento de hadas stalker. Eso es lo que hacen los stalkers: inventan una mierda que no es verdad y luego todos se juntan y la buscan. Yo ignoraría esas cosas si fuera tú. Es como un mito de entrada: créelo y creerá que Wish Granter existe en poco tiempo.</text>
+		<text>Es un cuento de hadas stalker. Eso es lo que hacen los stalkers: inventan una mierda que no es verdad y luego todos se juntan y la buscan. Yo ignoraría esas cosas si fuera tú. Es como un mito de entrada: créelo y creerá que Genio del Monolito existe en poco tiempo.</text>
 	</string>
 	<string id="about_quests_dialog_dolg_112">
 		<text>Ah, ese lugar donde las heridas se curan por sí mismas y tu energía se repone mágicamente. Tengo noticias para ti, amigo: no existe. Los Stalkers inventan esa porquería para hacer que Zone parezca menos peligrosa de lo que es, pero la dura realidad es que no hay lugares seguros en la Zona. Y tienes que mantener una firme comprensión de esa realidad, los tipos de soñador no duran mucho en la Zona.</text>
@@ -238,7 +238,7 @@
 		<text>¿Sabes quién pudo haber robado cosas de una caja personal?</text>
 	</string>
 	<string id="about_quests_dialog_dolg_131">
-		<text>¡Aquí vamos! Eso nunca sucedería en la base de Duty, pero este lugar está lleno de esos punks de la Libertad, ahí es donde me vería primero.</text>
+		<text>¡Aquí vamos! Eso nunca sucedería en la base de Deber, pero este lugar está lleno de esos punks de la Libertad, ahí es donde me vería primero.</text>
 	</string>
 	<string id="about_quests_dialog_dolg_14">
 		<text>¿Quién podría ayudarme a descifrar algo aquí?</text>
@@ -250,7 +250,7 @@
 		<text>Yanov es a donde debes ir: busca a Nitro, es bueno en esto.</text>
 	</string>
 	<string id="about_quests_dialog_dolg_15">
-		<text>Tengo el PDA del operador Duty. ¿Conoces a alguien a quien le interese?</text>
+		<text>Tengo el PDA del operador Deber. ¿Conoces a alguien a quien le interese?</text>
 	</string>
 	<string id="about_quests_dialog_dolg_151">
 		<text>Un comerciante en deber? ¡Eso es imposible!... Por otra parte, si tiene alguna información, será mejor que se la entregue al teniente coronel Shulga y deje que se ocupe de ello.</text>
@@ -298,10 +298,10 @@
 		<text>¿Sabes algo sobre los helicópteros estrellados?</text>
 	</string>
 	<string id="about_quests_dialog_dolg_20">
-		<text>¿Quién podría estar interesado en la información sobre el fundador de Duty?</text>
+		<text>¿Quién podría estar interesado en la información sobre el fundador de Deber?</text>
 	</string>
 	<string id="about_quests_dialog_dolg_201">
-		<text>Nuestro comandante, por supuesto. Reporte todo lo que sabe a Shulga y seguramente obtendrá la gratitud de Duty.</text>
+		<text>Nuestro comandante, por supuesto. Reporte todo lo que sabe a Shulga y seguramente obtendrá la gratitud de Deber.</text>
 	</string>
 	<string id="about_quests_dialog_dolg_22">
 		<text>Sí, nuestros exploradores vieron un helicóptero militar descender hacia las plataformas de reserva de Júpiter. Dijeron que seguían indicándoles que cambiaran de rumbo, pero supongo que los pilotos tenían otras cosas de qué preocuparse. Me pregunto si los muchachos del ejército lograron salir del campo de la mina de acuerdo.</text>
@@ -343,10 +343,10 @@
 		<text>¿A quién podría contratar para proteger a los científicos?</text>
 	</string>
 	<string id="about_quests_dialog_dolg_401">
-		<text>No encontrarán una protección mejor que la que Duty brindará. Ve a ver al teniente coronel Shulga a Yanov. Estoy seguro de que los dos resolverán algo.</text>
+		<text>No encontrarán una protección mejor que la que Deber brindará. Ve a ver al teniente coronel Shulga a Yanov. Estoy seguro de que los dos resolverán algo.</text>
 	</string>
 	<string id="about_quests_dialog_dolg_402">
-		<text>Nah. Mientras tienen a la gente de Freedom trabajando para ellos, nos mantendremos alejados de ese lugar. Escuchar a esos idiotas descifrar chistes de mierda todo el día es un destino peor que la muerte.</text>
+		<text>Nah. Mientras tienen a la gente de Libertad trabajando para ellos, nos mantendremos alejados de ese lugar. Escuchar a esos idiotas descifrar chistes de mierda todo el día es un destino peor que la muerte.</text>
 	</string>
 	<string id="about_quests_dialog_dolg_42">
 		<text>Deber no tiene ninguna razón para buscar una forma de Pripyat en este momento, pero de todos modos estamos recopilando información. Hay informes no confirmados de que los túneles debajo de la planta de Júpiter llevan a Pripyat. Verificar esta información requeriría buscar todo en el área de la planta a fondo.</text>
@@ -361,7 +361,7 @@
 		<text>¿Puedes sugerir a alguien que no esté demasiado atado que esté dispuesto a hacer un movimiento para Pripyat?</text>
 	</string>
 	<string id="about_quests_dialog_dolg_51">
-		<text>La presencia de Duty en esta área es limitada. Habla con nuestra gente en Yanov.</text>
+		<text>La presencia de Deber en esta área es limitada. Habla con nuestra gente en Yanov.</text>
 	</string>
 	<string id="about_quests_dialog_dolg_52">
 		<text>Corre el rumor de que los científicos tienen a un tipo militar en su búnker. Aunque no tiene mucha salida. Usted ve, los científicos están allí por doce a dieciocho meses y no va a llegar al borde de la Zona a pie y por su cuenta. Considerando eso, apuesto a que estaría interesado.</text>
@@ -370,13 +370,13 @@
 		<text>Sugiero que busque entre las personas que buscan aventuras. Por ejemplo, hay un stalker llamado Vano en la estación de Yanov. A él no le importa en qué tipo de mierda se meta y podría ser útil: ese chico puede encontrar una manera de superar una anomalía con los ojos cerrados.</text>
 	</string>
 	<string id="about_quests_dialog_dolg_54">
-		<text>Bueno, podrías comenzar una campaña de reclutamiento en un hospital psiquiátrico... Por otra parte, conozco una buena alternativa: los luchadores de Monolith. Hablando de eso, un escuadrón de ellos fue visto cerca del complejo AA y probablemente incluso conozcan el camino a Pripyat, también... Hola, espero que no me tomes en serio...</text>
+		<text>Bueno, podrías comenzar una campaña de reclutamiento en un hospital psiquiátrico... Por otra parte, conozco una buena alternativa: los luchadores de Monolito. Hablando de eso, un escuadrón de ellos fue visto cerca del complejo AA y probablemente incluso conozcan el camino a Pripyat, también... Hola, espero que no me tomes en serio...</text>
 	</string>
 	<string id="about_quests_dialog_dolg_56">
-		<text>Busque voluntarios en Duty. Strider, por ejemplo. Aún no tiene una misión, así que creo que el teniente coronel podría dejarlo ir contigo.</text>
+		<text>Busque voluntarios en Deber. Strider, por ejemplo. Aún no tiene una misión, así que creo que el teniente coronel podría dejarlo ir contigo.</text>
 	</string>
 	<string id="about_quests_dialog_dolg_57">
-		<text>Todo el mundo sabe que Duty tiene los mejores luchadores... pero tenemos otros objetivos en este momento.</text>
+		<text>Todo el mundo sabe que Deber tiene los mejores luchadores... pero tenemos otros objetivos en este momento.</text>
 	</string>
 	<string id="about_quests_dialog_dolg_6">
 		<text>Encontré un tirador inusual. ¿Conoces a alguien que pueda saber algo al respecto?</text>
@@ -391,7 +391,7 @@
 		<text>Esa es una pregunta tonta - Deber, por supuesto. Tenemos mucha gente con experiencia y hemos trabajado con los científicos anteriormente. Ve a ver al teniente coronel Shulga. Estoy seguro de que encontrará un escuadrón para el trabajo.</text>
 	</string>
 	<string id="about_quests_dialog_dolg_72">
-		<text>¿Quién querría trabajar allí si el búnker está protegido por Freedom? Esos malditos pacifistas están tan apedreados la mayor parte del tiempo que es probable que se disparen unos a otros como enemigos.</text>
+		<text>¿Quién querría trabajar allí si el búnker está protegido por Libertad? Esos malditos pacifistas están tan apedreados la mayor parte del tiempo que es probable que se disparen unos a otros como enemigos.</text>
 	</string>
 	<string id="about_quests_dialog_dolg_8">
 		<text>Encontré un artefacto muy extraño. ¿Puedes sugerir un comprador?</text>
@@ -412,7 +412,7 @@
 		<text>De acuerdo, olvídalo.</text>
 	</string>
 
-	<!-- About Quests Freedom -->
+	<!-- About Quests Libertad -->
 	<string id="about_quests_dialog_freedom_0">
 		<text>¿Has oído alguna noticia por aquí últimamente?</text>
 	</string>
@@ -456,16 +456,16 @@
 		<text>¿Quién podría ayudarme a descifrar algo aquí?</text>
 	</string>
 	<string id="about_quests_dialog_freedom_141">
-		<text>Escuché que Nitro at Yanov es un fan de las combinaciones y algoritmos. Aunque no estoy seguro, nunca he hablado con él, está trabajando para Duty, así que no tiene mucho tiempo para nosotros, gente libre.</text>
+		<text>Escuché que Nitro at Yanov es un fan de las combinaciones y algoritmos. Aunque no estoy seguro, nunca he hablado con él, está trabajando para Deber, así que no tiene mucho tiempo para nosotros, gente libre.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_143">
 		<text>No soy muy experto en técnicos locales... Pregúntales a nuestros chicos en Yanov la próxima vez que lo hagas, lo sabrán con certeza.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_15">
-		<text>Tengo el PDA del operador Duty. ¿Conoces a alguien a quien le interese?</text>
+		<text>Tengo el PDA del operador Deber. ¿Conoces a alguien a quien le interese?</text>
 	</string>
 	<string id="about_quests_dialog_freedom_151">
-		<text>¡Eso suena interesante! Se lo daría a Loki, nuestro líder en Yanov. Se asegurará de que los stalkers libres sepan qué clase de Duty popular recluta en sus filas.</text>
+		<text>¡Eso suena interesante! Se lo daría a Loki, nuestro líder en Yanov. Se asegurará de que los stalkers libres sepan qué clase de Deber popular recluta en sus filas.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_16">
 		<text>¿Dónde puedo encontrar herramientas por aquí?</text>
@@ -486,7 +486,7 @@
 		<text>¿Quién puede desbloquear un módulo de memoria?</text>
 	</string>
 	<string id="about_quests_dialog_freedom_171">
-		<text>Bueno, Tukarev en el búnker de los científicos puede hacerlo. Él es rápido, bueno y educado. También está Nitro en Yanov, el Duty Hanger-on. Es barato y de mierda, pero probablemente hará el trabajo.</text>
+		<text>Bueno, Tukarev en el búnker de los científicos puede hacerlo. Él es rápido, bueno y educado. También está Nitro en Yanov, el Deber Hanger-on. Es barato y de mierda, pero probablemente hará el trabajo.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_172">
 		<text>Un técnico experto, supongo. La local es más sobre cosas mecánicas, así que a menos que necesites el barril de tu módulo de memoria, te sugiero que preguntes en Júpiter.</text>
@@ -510,10 +510,10 @@
 		<text>¿Sabes algo sobre los helicópteros estrellados?</text>
 	</string>
 	<string id="about_quests_dialog_freedom_20">
-		<text>¿Quién podría estar interesado en la información sobre el fundador de Duty?</text>
+		<text>¿Quién podría estar interesado en la información sobre el fundador de Deber?</text>
 	</string>
 	<string id="about_quests_dialog_freedom_201">
-		<text>Loki, no hay dudas al respecto. Él es nuestro líder aquí en Yanov. Incluso si no sabe qué hacer con la información, lo más importante es que Duty no la tiene en sus manos. ¿Te imaginas cuánta mierda de propaganda generará? Me da un maldito dolor de cabeza solo de pensarlo.</text>
+		<text>Loki, no hay dudas al respecto. Él es nuestro líder aquí en Yanov. Incluso si no sabe qué hacer con la información, lo más importante es que Deber no la tiene en sus manos. ¿Te imaginas cuánta mierda de propaganda generará? Me da un maldito dolor de cabeza solo de pensarlo.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_22">
 		<text>Sí, ¿escuchaste esa historia sobre el helicóptero en el campo de minas? Básicamente, las cabezas de jarra se estrellaron contra la plataforma de aterrizaje de reserva que sus compañeros jar-cabezas minado hace seis años. Ahora algunas personas dicen que lo hicieron por estupidez, pero creo que hay más que eso. Míralo así: nadie va a ir allí, así que una vez que los muchachos del ejército completen su misión pueden regresar al helicóptero, arreglarlo un poco y se van. Me encantaría saber cuál es su misión...</text>
@@ -558,7 +558,7 @@
 		<text>Libertad, o "nosotros", en otras palabras. Trabajamos con los científicos todo el tiempo, por lo que protegerlos sería pan comido para nosotros. Habla con nuestro jefe, Loki, en Yanov, seguramente lo estará.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_402">
-		<text>No estoy seguro, amigo, porque por lo que he escuchado, los cerebritos contrataron a un escuadrón de Duty para que trabaje para ellos... Nos encantaría proteger a los científicos, pero mirando esos rostros con estreñimiento todos los días solo vale la pena.</text>
+		<text>No estoy seguro, amigo, porque por lo que he escuchado, los cerebritos contrataron a un escuadrón de Deber para que trabaje para ellos... Nos encantaría proteger a los científicos, pero mirando esos rostros con estreñimiento todos los días solo vale la pena.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_42">
 		<text>Dicen que puedes llegar desde Júpiter... Me refiero a la planta, no al planeta... ¡Ja! Esa es una buena, ¡tienes que admitir!</text>
@@ -567,7 +567,7 @@
 		<text>Sabes, no tengo ni idea. Simplemente no puedo encontrar el tiempo para ir allí... Le preguntaría a Pilot en el campamento, ¿sí? Es un stalker libre y conoce el área mejor que nadie.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_44">
-		<text>Hermano, si supiera que hubiera ido allí hace mucho tiempo. Salir de Duty, los jar-heads y toda esta pelea valdría la pena...</text>
+		<text>Hermano, si supiera que hubiera ido allí hace mucho tiempo. Salir de Deber, los jar-heads y toda esta pelea valdría la pena...</text>
 	</string>
 	<string id="about_quests_dialog_freedom_5">
 		<text>¿Puedes sugerir a alguien que no esté demasiado atado que esté dispuesto a hacer un movimiento para Pripyat?</text>
@@ -579,10 +579,10 @@
 		<text>¿Conoces el búnker de los científicos? Bueno, tienen una situación en sus manos allí. Primero Garry, el stalker, decidió hacer para Pripyat y ahora la jarra que está allí tiene la misma idea. Garry es solitario y está orgulloso de él, pero ese jar-head es exactamente lo que estás buscando.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_53">
-		<text>Vano at Yanov es tan bueno como cualquiera. Es un hombre decente y podría haberse unido a Freedom en cualquier momento si quisiera. Supongo que no está interesado en nuestra lucha con Duty... o cualquier tipo de lucha, para el caso. ¡Esa es su visión de las cosas y lo respetamos!</text>
+		<text>Vano at Yanov es tan bueno como cualquiera. Es un hombre decente y podría haberse unido a Libertad en cualquier momento si quisiera. Supongo que no está interesado en nuestra lucha con Deber... o cualquier tipo de lucha, para el caso. ¡Esa es su visión de las cosas y lo respetamos!</text>
 	</string>
 	<string id="about_quests_dialog_freedom_54">
-		<text>Cosa segura. Uno de nuestros muchachos vio un escuadrón junto al lago seco. Seguramente conocerán a Pripyat como la palma de sus manos y no parecen estar funcionando para nadie. ¡Ellos también serán valientes, porque son luchadores de Monolith!</text>
+		<text>Cosa segura. Uno de nuestros muchachos vio un escuadrón junto al lago seco. Seguramente conocerán a Pripyat como la palma de sus manos y no parecen estar funcionando para nadie. ¡Ellos también serán valientes, porque son luchadores de Monolito!</text>
 	</string>
 	<string id="about_quests_dialog_freedom_55">
 		<text>Sí. Strider, el líder de nuestros nuevos reclutas... parece que se siente incómodo en nuestras filas. Sus chicos se han adaptado muy bien, pero no está tan feliz aquí... Habla con él. Odio ver a un buen hombre donde su corazón no miente...</text>
@@ -600,10 +600,10 @@
 		<text>¿A quién podría contratar para tomar medidas para los científicos?</text>
 	</string>
 	<string id="about_quests_dialog_freedom_71">
-		<text>Creo que nuestros muchachos podrían hacer el trabajo. Freedom tiene su parte de personas inteligentes y si no sabemos algo lo haremos en el búnker. ¡Nos encantaría la oportunidad de ayudar a la ciencia! Habla con Loki en Yanov. Estoy seguro de que él dirá lo mismo.</text>
+		<text>Creo que nuestros muchachos podrían hacer el trabajo. Libertad tiene su parte de personas inteligentes y si no sabemos algo lo haremos en el búnker. ¡Nos encantaría la oportunidad de ayudar a la ciencia! Habla con Loki en Yanov. Estoy seguro de que él dirá lo mismo.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_72">
-		<text>A mí y los niños les encantaría hacerlo, pero Duty está vigilando el búnker en estos días. Irrumpir para ver a los científicos es un problema, pero estar allí todos los días no sería saludable, eso seguro.</text>
+		<text>A mí y los niños les encantaría hacerlo, pero Deber está vigilando el búnker en estos días. Irrumpir para ver a los científicos es un problema, pero estar allí todos los días no sería saludable, eso seguro.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_8">
 		<text>Encontré un artefacto muy extraño. ¿Puedes sugerir un comprador?</text>
@@ -612,7 +612,7 @@
 		<text>Necesitas un coleccionista, amigo. No encontrarás uno en Yanov, ya que incluso algunos stalkers temen venir aquí. Será mejor que preguntes en Zaton, es un poco más tranquilo en esas partes.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_83">
-		<text>¿Conoces a Beard, el barman del campamento de acechadores libres? Él compra artefactos y no te estafó demasiado. Un buen amigo, como sea que lo mires. Es una pena que no trabaje para nosotros, de verdad.</text>
+		<text>¿Conoces a Beard, el barman del campamento de stalkers libres? Él compra artefactos y no te estafó demasiado. Un buen amigo, como sea que lo mires. Es una pena que no trabaje para nosotros, de verdad.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_9">
 		<text>Encontré una guarida de chupasangre cerca. ¿Qué vamos a hacer?</text>
@@ -674,7 +674,7 @@
 		<text>Nadie que yo conozca Pregunta en Yanov: tienen un experto de algún tipo.</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_15">
-		<text>Tengo el PDA del operador Duty. ¿Conoces a alguien a quien le interese?</text>
+		<text>Tengo el PDA del operador Deber. ¿Conoces a alguien a quien le interese?</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_151">
 		<text>¿Conoces a Owl en Skadovsk? Creo que estaría contento de tenerlo en sus manos. Le gusta involucrarse en negocios sensibles...</text>
@@ -746,7 +746,7 @@
 		<text>¿Sabes algo sobre los helicópteros estrellados?</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_20">
-		<text>¿A quién le interesa la información sobre el fundador de Duty?</text>
+		<text>¿A quién le interesa la información sobre el fundador de Deber?</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_201">
 		<text>Hablaría con Owl, el operador de información de Skadovsk. Puedes apostar tu trasero que le interesará información creíble sobre una leyenda como esa.</text>
@@ -845,13 +845,13 @@
 		<text>¿Conoces a Vano en la estación de Yanov? Es un tipo honesto, un buen stalker y crédulo como el infierno. Ahora hay un gato que está mejor rodeado de anomalías que las personas: mientras esté aquí, siempre habrá alguien que se aproveche de él.</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_54">
-		<text>Escucha, escuché que un escuadrón fue descubierto por el lago seco al sur del complejo AA... Aparentemente no son los stalkers habituales ni Freedom or Duty, ¡son hombres monolíticos! Entonces, si necesitas que alguien vaya con Pripyat, ellos son solo el boleto. ¡Jajaja!... te das cuenta de que estoy bromeando, ¿verdad?</text>
+		<text>Escucha, escuché que un escuadrón fue descubierto por el lago seco al sur del complejo AA... Aparentemente no son los stalkers habituales ni Libertad or Deber, ¡son hombres monolíticos! Entonces, si necesitas que alguien vaya con Pripyat, ellos son solo el boleto. ¡Jajaja!... te das cuenta de que estoy bromeando, ¿verdad?</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_55">
-		<text>¿Conoces a Strider, el líder del nuevo escuadrón Freedom? Si vieras a su miserable besador, sabrías por ti mismo que Yanov no es el lugar para él. Deberías intentar hablar con él. Él realmente podría ir por eso.</text>
+		<text>¿Conoces a Strider, el líder del nuevo escuadrón Libertad? Si vieras a su miserable besador, sabrías por ti mismo que Yanov no es el lugar para él. Deberías intentar hablar con él. Él realmente podría ir por eso.</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_56">
-		<text>¿Conoces a Strider, el líder del nuevo escuadrón de Duty? Si vieras a su miserable besador, sabrías por ti mismo que Yanov no es el lugar para él. Deberías intentar hablar con él. Él realmente podría ir por eso.</text>
+		<text>¿Conoces a Strider, el líder del nuevo escuadrón de Deber? Si vieras a su miserable besador, sabrías por ti mismo que Yanov no es el lugar para él. Deberías intentar hablar con él. Él realmente podría ir por eso.</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_57">
 		<text>Hrm... Nadie viene a la mente.</text>
@@ -899,7 +899,7 @@
 		<text>¿Dónde está el campamento de stalkers más cercano por aquí?</text>
 	</string>
 	<string id="about_skadovsk_dialog_bandit_1">
-		<text>¿Qué eres, estúpido? No sé sobre los campamentos de acechadores, pero el campamento más cercano es Skadovsk. Te daré las coordenadas e incluso lo haré gratis. Bonito, ¿verdad?</text>
+		<text>¿Qué eres, estúpido? No sé sobre los campamentos de stalkers, pero el campamento más cercano es Skadovsk. Te daré las coordenadas e incluso lo haré gratis. Bonito, ¿verdad?</text>
 	</string>
 	<string id="about_skadovsk_dialog_stalkers_0">
 		<text>¿Dónde está el campamento de stalkers más cercano por aquí?</text>
@@ -944,7 +944,7 @@
 		<text>Nah, nadie vendrá aquí con un traje extra como ese... Será mejor que preguntes en Zaton, un paso más cerca de la civilización.</text>
 	</string>
 	<string id="about_quests_dialog_dolg_503">
-		<text>No tengo idea de dónde buscarías uno... Los trajes como este son raros incluso entre los miembros de Duty. Los emiten solo para una distinción especial en las operaciones de batalla o correr en áreas altamente anómalas.</text>
+		<text>No tengo idea de dónde buscarías uno... Los trajes como este son raros incluso entre los miembros de Deber. Los emiten solo para una distinción especial en las operaciones de batalla o correr en áreas altamente anómalas.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_50">
 		<text>¿Dónde puedo encontrar un traje con un módulo respiratorio de ciclo cerrado?</text>
@@ -953,7 +953,7 @@
 		<text>Escuché a algunos stalkers hablar sobre este hombre con conexiones, Nimble o algo así. Él puede conseguirte casi cualquier cosa. Ya sabes: equipo, tiradores, mierda así... no droga. Se queda en Skadovsk, si lo necesitas.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_502">
-		<text>Una buena pregunta, amigo... Nunca los usamos aquí en Freedom... Preguntaría a los stalkers en Zaton si fuera tú. Puede haber alguien allí que maneje ese tipo de negocio.</text>
+		<text>Una buena pregunta, amigo... Nunca los usamos aquí en Libertad... Preguntaría a los stalkers en Zaton si fuera tú. Puede haber alguien allí que maneje ese tipo de negocio.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_503">
 		<text>Heh, ¿para qué necesitas esa mierda? No es bueno en acción. Entonces de nuevo... supongo que puede ser de alguna utilidad. Hace que respirar sea más fácil y el sol no entra tanto en tus ojos... Podría buscar uno de esos. Oye, ¿sabes dónde podría conseguir uno?</text>
@@ -996,7 +996,7 @@
 		<text>Adiós.</text>
 	</string>
 
-	<!-- Wish Granter -->
+	<!-- Genio del Monolito -->
 	<string id="st_wish_1">
 		<text>¡Quiero que la Zona desaparezca!</text>
 	</string>
@@ -1060,7 +1060,7 @@
 		<text>Solo enfócate en hacia dónde apuntas con esas armas, entonces.</text>
 	</string>
 	<string id="dm_dialog_companion_actor_reply_to_join_2">
-		<text>Multa. Pero si mueres, me llevo tu mierda.</text>
+		<text>De acuerdo. Pero si mueres, me llevo tu mierda.</text>
 	</string>
 	<string id="dm_dialog_companion_actor_reply_to_join_3">
 		<text>No. No estoy interesado.</text>

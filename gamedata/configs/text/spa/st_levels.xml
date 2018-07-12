@@ -68,10 +68,10 @@
 		<text>Limansk</text>
 	</string>
 	<string id="l12u_control_monolith">
-		<text>Centro de control Monolith</text>
+		<text>Centro de control de Monolito</text>
 	</string>
 	<string id="l13u_warlab">
-		<text>Laboratorio de guerra Monolith</text>
+		<text>Laboratorio de guerra de Monolito</text>
 	</string>
 	<string id="pripyat">
 		<text>Afueras</text>
@@ -145,7 +145,7 @@
 		<text>A Júpiter</text>
 	</string>
 	<string id="space_restrictor_to_jupiter_ug_desc">
-		<text>Hacia el metro de Júpiter</text>
+		<text>Hacia el subterráno de Júpiter</text>
 	</string>
 	<string id="space_restrictor_to_labx16_desc">
 		<text>Hacia el laboratorio X16</text>
@@ -163,10 +163,10 @@
 		<text>Hacia Limansk</text>
 	</string>
 	<string id="space_restrictor_to_secret_lab_desc">
-		<text>Hacia el centro de control Monolith</text>
+		<text>Hacia el centro de control Monolito</text>
 	</string>
 	<string id="space_restrictor_to_warlab_desc">
-		<text>Hacia el laboratorio de guerra Monolith</text>
+		<text>Hacia el laboratorio de guerra Monolito</text>
 	</string>
 	<string id="space_restrictor_to_cop_pripyat_desc">
 		<text>A las afueras</text>

@@ -190,7 +190,7 @@
 		<text>Cantidad de restricciones</text>
 	</string>
 	<string id="ui_inv_damage">
-		<text>Dañar</text>
+		<text>Daño</text>
 	</string>
 	<string id="ui_inv_default(F5)">
 		<text>Predeterminado (F5)</text>

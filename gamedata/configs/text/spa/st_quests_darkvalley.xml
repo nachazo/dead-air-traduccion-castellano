@@ -257,7 +257,7 @@
 		<text>Se han detectado mutantes cerca de este lugar, lo que hace que el área sea peligrosa. Se te ha encomendado la tarea de eliminar la amenaza de los mutantes dentro del área. Informe a Olivius después de que el trabajo esté terminado.</text>
 	</string>
 	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_about">
-		<text>Hemos estado buscando a alguien con suficientes bolas para eliminar mutantes en algunos lugares. Los acechadores no vienen por aquí porque tienen demasiado miedo. Si no hacemos algo al respecto, no dejaremos a nadie para "tomar prestados" ningún bien, entonces tendremos que mudarnos fuera de este territorio.</text>
+		<text>Hemos estado buscando a alguien con suficientes bolas para eliminar mutantes en algunos lugares. Los stalkers no vienen por aquí porque tienen demasiado miedo. Si no hacemos algo al respecto, no dejaremos a nadie para "tomar prestados" ningún bien, entonces tendremos que mudarnos fuera de este territorio.</text>
 	</string>
 	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_finish">
 		<text>¡Fantástico! Aquí está su pago. Me aseguraré de hablarle bien con el jefe.</text>

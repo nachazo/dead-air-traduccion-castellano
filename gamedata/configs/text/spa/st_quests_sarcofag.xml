@@ -4,13 +4,13 @@
 		<text>La llamada del Monolito</text>
 	</string>
 	<string id="sar_monolith_0">
-		<text>Habla con el Wish Granter</text>
+		<text>Habla con el Genio del Monolito</text>
 	</string>
 	<string id="sar_monolith_1">
 		<text>Escuché la llamada. La llamada desde el centro de la Zona. Tengo que ir allí y encontrar su fuente.</text>
 	</string>
 	<string id="sar_monolith_2">
-		<text>La voz me está llamando. Tiene que ser el Wish Granter. Tiene que estar en algún lugar debajo del Sarcófago. Tengo que encontrarlo</text>
+		<text>La voz me está llamando. Tiene que ser el Genio del Monolito. Tiene que estar en algún lugar debajo del Sarcófago. Tengo que encontrarlo</text>
 	</string>
 	<string id="sar_monolith_destroy">
 		<text>Tumba de hormigón</text>

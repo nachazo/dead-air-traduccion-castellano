@@ -106,7 +106,7 @@
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Loki  (Freedom Honcho) Default Storyline Task -->
+	<!-- Loki  (Libertad Honcho) Default Storyline Task -->
 
 	<string id="drx_sl_jup_a6_freedom_leader_default_task_name">
 		<text>Obtener la siguiente tarea</text>
@@ -122,7 +122,7 @@
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Loki  (Freedom Honcho) Arms Dealer Storyline Task -->
+	<!-- Loki  (Libertad Honcho) Arms Dealer Storyline Task -->
 
 	<string id="drx_sl_jup_a6_freedom_leader_task_1_name">
 		<text>%s Distribuidor de armas</text>
@@ -141,23 +141,23 @@
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Loki  (Freedom Honcho) Clear Monolith Beachhead Storyline Task -->
+	<!-- Loki  (Libertad Honcho) Clear Monolito Beachhead Storyline Task -->
 
 	<string id="drx_sl_jup_a6_freedom_leader_task_2_name">
 		<text>Despeja la punta de lanza del Monolito</text>
 	</string>
 	<string id="drx_sl_jup_a6_freedom_leader_task_2_text">
-		<text>Despeja el área designada de cualquier luchador Monolito en preparación para el asalto principal de Freedom.</text>
+		<text>Despeja el área designada de cualquier luchador Monolito en preparación para el asalto principal de Libertad.</text>
 	</string>
 	<string id="drx_sl_jup_a6_freedom_leader_task_2_about">
-		<text>Estamos preparando una invasión del territorio de Monolith. Quiero que limpies un área para que nuestra principal fuerza de asalto pueda mudarse.</text>
+		<text>Estamos preparando una invasión del territorio de Monolito. Quiero que limpies un área para que nuestra principal fuerza de asalto pueda mudarse.</text>
 	</string>
 	<string id="drx_sl_jup_a6_freedom_leader_task_2_finish">
 		<text>¡Bien hecho! ¡Ahora podemos comenzar nuestra invasión! Bueno, no ahora, más tarde hoy... tal vez mañana. De todos modos, gracias hermano.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Loki  (Freedom Honcho) Hunt Artefact Storyline Task -->
+	<!-- Loki  (Libertad Honcho) Hunt Artefact Storyline Task -->
 
 	<string id="drx_sl_jup_a6_freedom_leader_task_3_name">
 		<text>Caza un %s para Loki</text>
@@ -176,7 +176,7 @@
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Loki  (Freedom Honcho) Search Monolith Control Center (Chernobyl) Storyline Task -->
+	<!-- Loki  (Libertad Honcho) Search Monolito Control Center (Chernobyl) Storyline Task -->
 
 	<string id="drx_sl_jup_a6_freedom_leader_task_4_name">
 		<text>Busca el centro de control del Monolito</text>

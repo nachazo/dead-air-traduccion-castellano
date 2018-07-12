@@ -24,7 +24,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Lukash (Freedom Honcho) Default Storyline Task -->
+	<!-- Lukash (Libertad Honcho) Default Storyline Task -->
 
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_default_task_name">
 		<text>Obtener la siguiente tarea</text>
@@ -40,7 +40,7 @@
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Lukash (Freedom Honcho) Assassination Storyline Task- -->
+	<!-- Lukash (Libertad Honcho) Assassination Storyline Task- -->
 
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_1_name">
 		<text>Asesinato por Lukash</text>
@@ -56,23 +56,23 @@
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Lukash (Freedom Honcho) Freedom Assault on Monolith Storyline Task -->
+	<!-- Lukash (Libertad Honcho) Libertad Assault on Monolito Storyline Task -->
 
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_name">
-		<text>Asalto de Libertad a Monolith</text>
+		<text>Asalto de Libertad a Monolito</text>
 	</string>
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_text">
-		<text>Lukash te ha pedido que dirijas Freedom en un asalto contra el monolito.</text>
+		<text>Lukash te ha pedido que dirijas Libertad en un asalto contra el monolito.</text>
 	</string>
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_about">
-		<text>Las fuerzas monolíticas siguen rompiendo nuestro bloqueo. Quiero llevar la lucha a ellos por una vez. Recluté un escuadrón de asalto y quiero que los guíes en una invasión en el territorio de Monolith. Llevátelos.</text>
+		<text>Las fuerzas monolíticas siguen rompiendo nuestro bloqueo. Quiero llevar la lucha a ellos por una vez. Recluté un escuadrón de asalto y quiero que los guíes en una invasión en el territorio de Monolito. Llevátelos.</text>
 	</string>
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_finish">
 		<text>Hombre, tienes un set en ti. Gran trabajo.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Lukash (Freedom Honcho) Search Lab X-8 (Outskirts) Storyline Task -->
+	<!-- Lukash (Libertad Honcho) Search Lab X-8 (Outskirts) Storyline Task -->
 
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_3_name">
 		<text>Buscar Lab X-8</text>
@@ -105,28 +105,28 @@
 		<text>Levanta dinero para unirte a la libertad</text>
 	</string>
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_text">
-		<text>Lukash quiere que 15,000 RU te permitan unirte a Freedom.</text>
+		<text>Lukash quiere que 15,000 RU te permitan unirte a Libertad.</text>
 	</string>
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_about">
-		<text>Ah bueno. Disfrutarás de unirte a Freedom. Simplemente pague la tarifa de 15,000 RU y ya está.</text>
+		<text>Ah bueno. Disfrutarás de unirte a Libertad. Simplemente pague la tarifa de 15,000 RU y ya está.</text>
 	</string>
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_finish">
-		<text>Bienvenido a Freedom, hermano.</text>
+		<text>Bienvenido a Libertad, hermano.</text>
 	</string>
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Lukash (Freedom Honcho) Payoff Change Factions Task -->
+	<!-- Lukash (Libertad Honcho) Payoff Change Factions Task -->
 
 	<string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_name">
 		<text>Levanta dinero para unirte a la libertad</text>
 	</string>
 	<string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_text">
-		<text>Lukash quiere que 15,000 RU te permitan unirte a Freedom.</text>
+		<text>Lukash quiere que 15,000 RU te permitan unirte a Libertad.</text>
 	</string>
 	<string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_about">
-		<text>Ah bueno. Disfrutarás de unirte a Freedom. Simplemente pague la tarifa de 15,000 RU y ya está.</text>
+		<text>Ah bueno. Disfrutarás de unirte a Libertad. Simplemente pague la tarifa de 15,000 RU y ya está.</text>
 	</string>
 	<string id="drx_sl_sl_mil_smart_terrain_7_7_freedom_leader_stalker_cf_task_1_finish">
-		<text>Bienvenido a Freedom, hermano.</text>
+		<text>Bienvenido a Libertad, hermano.</text>
 	</string>
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
@@ -143,7 +143,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Lukash (Freedom Honcho) Stop Enemy Assault Task -->
+	<!-- Lukash (Libertad Honcho) Stop Enemy Assault Task -->
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_name">
 		<text>Repeler asalto en Base de Libertad</text>
 	</string>
@@ -151,7 +151,7 @@
 		<text>Intercepta al escuadrón de asalto que se acerca al campo de la Libertad. Informe a Lukash una vez que haya despejado el área.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_about">
-		<text>Las fuerzas hostiles a Freedom se están moviendo en nuestro campo. Necesito a alguien capaz de repeler la incursión. ¿Eres el hombre para el trabajo?</text>
+		<text>Las fuerzas hostiles a Libertad se están moviendo en nuestro campo. Necesito a alguien capaz de repeler la incursión. ¿Eres el hombre para el trabajo?</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_finish">
 		<text>¿La tarea está hecha? Vale.</text>
@@ -211,7 +211,7 @@
 		<text>Lukash te ha pedido que encuentres un %s. Regresa a él cuando encuentres lo que está buscando.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_about">
-		<text>Con Deber al sur de nosotros y Monolith al norte, nos cortan. Nuestro armamento se está agotando y necesitamos reemplazos. ¿Alguna vez has hecho funcionar algún arma?</text>
+		<text>Con Deber al sur de nosotros y Monolito al norte, nos cortan. Nuestro armamento se está agotando y necesitamos reemplazos. ¿Alguna vez has hecho funcionar algún arma?</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_fetch_about">
 		<text>Realmente podríamos usar un nuevo %s. Si puede encontrarnos uno en perfecto estado, estaría dispuesto a pagar un buen precio por ello.</text>
@@ -238,7 +238,7 @@
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Skinflint (Freedom Mechanic) Deliver Equipment Dynamic Task -->
+	<!-- Skinflint (Libertad Mechanic) Deliver Equipment Dynamic Task -->
 
 	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_2_name">
 		<text>Entregar equipo a Skinflint</text>
@@ -267,7 +267,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Screw (Freedom Mechanic) Find Level 1 Toolkit Task -->
+	<!-- Screw (Libertad Mechanic) Find Level 1 Toolkit Task -->
 
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_name">
 		<text>Encuentra %s para Screw</text>

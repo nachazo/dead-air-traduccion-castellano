@@ -62,10 +62,10 @@
 		<text>Búsqueda y rescate de Stalker</text>
 	</string>
 	<string id="drx_sl_zat_a2_stalker_barmen_task_2_text">
-		<text>Monolith ha capturado a un stalker. Encuéntralo y rescátalo.</text>
+		<text>Monolito ha capturado a un stalker. Encuéntralo y rescátalo.</text>
 	</string>
 	<string id="drx_sl_zat_a2_stalker_barmen_task_2_about">
-		<text>Stalker, las perras Monolith han capturado a uno de tus camaradas. Se dirigieron en esa dirección. Salvarlo!</text>
+		<text>Stalker, las perras Monolito han capturado a uno de tus camaradas. Se dirigieron en esa dirección. Salvarlo!</text>
 	</string>
 	<string id="drx_sl_zat_a2_stalker_barmen_task_2_finish">
 		<text>¡Jaja! Miren a los dos, es difícil saber quién perdió la pelea, ¡jaja! Ven, ven, bebe! ¡Toma un poco de vodka y no sientas más dolor!</text>
@@ -314,7 +314,7 @@
 		<text>En busca de Urraca: informa Gonta</text>
 	</string>
 	<string id="zat_b106_found_soroka_text">
-		<text>Parece que Magpie, el stalker que montó el escuadrón de Gonta, ha sido encontrado. Se unió a Freedom y ahora se hace llamar Flint.</text>
+		<text>Parece que Magpie, el stalker que montó el escuadrón de Gonta, ha sido encontrado. Se unió a Libertad y ahora se hace llamar Flint.</text>
 	</string>
 	<string id="zat_b106_kill_chimera_name">
 		<text>Cazando la quimera: matar al mutante</text>
@@ -656,10 +656,10 @@
 		<text>Aficionados desaparecidos: encuentra al cazador perdido</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_find_to_be_missing_hunter_text">
-		<text>Grouse te ha pedido que ayudes a encontrar al cazador perdido. Se suponía que el cazador encontraría la guarida de chupasangre. De acuerdo con la información actual, son los sanguijuelas los responsables de las recientes desapariciones de stalkers.</text>
+		<text>Grouse te ha pedido que ayudes a encontrar al cazador perdido. Se suponía que el cazador encontraría la guarida de chupasangre. De acuerdo con la información actual, son los chupasangres los responsables de las recientes desapariciones de stalkers.</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_get_out_from_den_of_the_bloodsucker_name">
-		<text>Los acechadores desaparecidos: salgan de la guarida de la sanguijuela</text>
+		<text>Los stalkers desaparecidos: salgan de la guarida de chupasangres</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_get_out_from_den_of_the_bloodsucker_text">
 		<text>Descubriste una guarida de chupasangres en el sótano y sus residentes están algo aturdidos. Deberías salir de aquí y hacerlo en silencio.</text>
@@ -680,7 +680,7 @@
 		<text>Perseguidores desaparecidos: conocer a Grouse</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_meet_ment_text">
-		<text>El lugar que Ortega indicó tenía una sanguijuela muerta y no había señales de Danila, el cazador. Sin embargo, parece que Grouse ha encontrado algo interesante y te está pidiendo que te unas a él.</text>
+		<text>El lugar que Grouse indicó tenía una chupasangre muerta y no había señales de Danila, el cazador. Sin embargo, parece que Grouse ha encontrado algo interesante y te está pidiendo que te unas a él.</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_tell_barmen_about_medic_text">
 		<text>Resultó que los chupasangres no tenían nada que ver con las desapariciones de stalkers: era Tremor, el médico de Skadovsk.</text>
@@ -806,13 +806,13 @@
 		<text>Debes encontrar a Snag y obligarlo a mantener la boca cerrada. Nimble nunca se ha ocupado de bienes robados, mientras que Snag parece deshonesto la mayoría de las veces.</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_destroy_lair_name">
-		<text>Guarida de sanguijuela: encontrar el eje de ventilación</text>
+		<text>Guarida de carne de mutante: encontrar el eje de ventilación</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_destroy_lair_text">
 		<text>Encuentra el conducto de ventilación para llenar la guarida de chupasangre con gas venenoso.</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_find_gas_name">
-		<text>Guarida de sanguijuela: encuentra gas venenoso</text>
+		<text>Guarida de chupasangre: encuentra gas venenoso</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_find_gas_text">
 		<text>Necesitarás gas venenoso para destruir la guarida de chupasangre. Owl debería saber dónde puedes conseguir algo.</text>
@@ -821,7 +821,7 @@
 		<text>Necesitarás gas venenoso para destruir la guarida de chupasangre. Owl dice que encontrarás botes de gas en el convoy militar desierto.</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_get_gas_name">
-		<text>Guarida de sanguijuela: encuentra las llaves del contenedor</text>
+		<text>Guarida de chupasangre: encuentra las llaves del contenedor</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_get_gas_text">
 		<text>Los documentos que encontró mencionan las llaves del contenedor del recipiente de gas. Necesitas encontrarlos.</text>
@@ -839,10 +839,10 @@
 		<text>Coloque el recipiente de gas en el sistema de ventilación del sótano complejo de la antena. El gas debe entrar por el conducto de ventilación y llenar el sótano, lo que mata a los chupasangres.</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_tell_stalkers_about_destroy_lair_name">
-		<text>Guarida de sanguijuelas: informar a Beard que la guarida ha sido destruida</text>
+		<text>Guarida de chupasangres: informar a Beard que la guarida ha sido destruida</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_tell_stalkers_about_destroy_lair_text">
-		<text>Informe a Beard que ha destruido la guarida de la sanguijuela, asegurando la seguridad de los stalkers de Skadovsk.</text>
+		<text>Informe a Beard que ha destruido la guarida de la chupasangre, asegurando la seguridad de los stalkers de Skadovsk.</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_twist_vintil_name">
 		<text>Guarida de chupasangres: gira la válvula</text>
@@ -977,7 +977,7 @@
 		<text>El golpe: atacar a los ladrones</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_backstab_text">
-		<text>Atacar a los ladrones desde atrás ayudará a los acechadores a repeler su ataque.</text>
+		<text>Atacar a los ladrones desde atrás ayudará a los stalkers a repeler su ataque.</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_meet_name">
 		<text>El golpe: conocer a los ladrones</text>
@@ -989,13 +989,13 @@
 		<text>El golpe: únete a los ladrones</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_stalkers_text">
-		<text>Los acechadores te han pedido que los ayudes a repeler a los ladrones R??-?... ataca. Deberías unirte a los ladrones. Cuando comiencen el asalto, podrás...... atacarlos por la espalda con impunidad.</text>
+		<text>Los stalkers te han pedido que los ayudes a repeler a los ladrones R??-?... ataca. Deberías unirte a los ladrones. Cuando comiencen el asalto, podrás...... atacarlos por la espalda con impunidad.</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_meet_text">
 		<text>Los ladrones deberían estar esperando por Shevchenko. You???-?... tendré que reunirme con ellos para tomar parte en su asalto a los stalkers.</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_wait_text">
-		<text>Espera la reunión con los ladrones. Quieren atacar el campamento de acechadores después de la medianoche, mientras que todavía está oscuro. El lugar acordado para la reunión es Shevchenko.</text>
+		<text>Espera la reunión con los ladrones. Quieren atacar el campamento de stalkers después de la medianoche, mientras que todavía está oscuro. El lugar acordado para la reunión es Shevchenko.</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_raiders_reward_name">
 		<text>El golpe: consigue tu corte</text>

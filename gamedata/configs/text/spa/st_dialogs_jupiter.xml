@@ -15,7 +15,7 @@
 	</string>
 
 	<string id="jup_a6_stalker_medik_start_dialog_0">
-		<text>¿Estás buscando suministros médicos o solo aquí para charlar?</text>
+		<text>¿Estás buscando suministros médicos o solo has venido aquí para charlar?</text>
 	</string>
 	<string id="jup_a6_stalker_medik_need_health_care_0">
 		<text>Necesito asistencia medica</text>
@@ -24,37 +24,37 @@
 		<text>Echemos un vistazo...</text>
 	</string>
 	<string id="jup_a6_stalker_medik_need_health_care_2">
-		<text>Echemos un vistazo... Bueno, su hígado es más grande de lo que esperaba, pero eso es un riesgo laboral, ¿no? Aparte de eso, eres tan saludable como un burer.</text>
+		<text>Echemos un vistazo... Bueno, tu hígado es más grande de lo que esperaba, pero eso son gajes del oficio, ¿no? Aparte de eso, estás tan sano como un Burer.</text>
 	</string>
 	<string id="jup_a6_stalker_medik_need_health_care_111">
-		<text>Bueno, definitivamente necesitas un tratamiento. Pero no haré nada gratis. Tomo 2000 para un tratamiento de salud completo, independientemente de sus problemas. Esto no incluye la eliminación de irradiación, que le costará 1500 RU por separado.</text>
+		<text>Bueno, definitivamente necesitas tratamiento. Pero no haré nada gratis. Necesito 2000 para un tratamiento de salud completo, independientemente de tus problemas. Esto no incluye la eliminación de radiación, que te costará 1500 RU por separado.</text>
 	</string>
 	<string id="jup_a6_stalker_medik_need_health_care_11">
-		<text>¿Y, qué piensas? ¿Ya estoy muerto?</text>
+		<text>¿Y qué piensas? ¿Ya estoy muerto?</text>
 	</string>
 	<string id="jup_a6_stalker_medik_need_health_care_1111">
-		<text>Bien. Pagaré. Después de todo, no llevaré dinero a la tumba.</text>
+		<text>Bien. Pagaré. Después de todo, no me llevaré el dinero a la tumba.</text>
 	</string>
 	<string id="jup_a6_stalker_medik_need_health_care_1112">
 		<text>Esa mierda es demasiado cara para mí.</text>
 	</string>
 	<string id="jup_a6_stalker_medik_need_health_care_1115">
-		<text>¡No te pagaré tanto! ¡Preferiría morir!</text>
+		<text>¡No te pagaré tanto! ¡Prefiero morir!</text>
 	</string>
 	<string id="jup_a6_stalker_medik_need_health_care_1114">
-		<text>Elijo la opción para la gente pobre. Radiación solamente, por favor.</text>
+		<text>Elijo la opción para la gente pobre. Solamente radiación, por favor.</text>
 	</string>
 	<string id="jup_a6_stalker_medik_need_health_care_1113">
-		<text>Tengo botiquines de primeros auxilios, así que solo elimine la radiación.</text>
+		<text>Tengo botiquines de primeros auxilios, así que solo elimina la radiación.</text>
 	</string>
 	<string id="jup_a6_stalker_medik_need_health_care_11111">
-		<text>Espera un momento... Aja, ahora eres tan bueno como nuevo. Dos años de garantía, siempre y cuando no salga de Yanov.</text>
+		<text>Espera un momento... Aja, ahora estás como nuevo. Dos años de garantía, siempre y cuando no salgas de Yanov.</text>
 	</string>
 	<string id="jup_a6_stalker_medik_need_health_care_11112">
-		<text>No doy préstamos. Ve a mendigar en otro lado.</text>
+		<text>No doy préstamos. Ve a mendigar a otro lado.</text>
 	</string>
 	<string id="jup_a6_stalker_medik_need_health_care_11113">
-		<text>Por lo tanto, ten una linda muerte, amigo.</text>
+		<text>Por lo tanto, que tengas una buena muerte, amigo.</text>
 	</string>
 	<string id="jup_a6_stalker_medik_need_health_care_11114">
 		<text>De acuerdo, aquí tienes. Ya no necesitas antirads.</text>
@@ -64,22 +64,22 @@
 		<text>Entonces, ¿qué tienes que decir?</text>
 	</string>
 	<string id="jup_a6_freedom_leader_start_dialog_12">
-		<text>¿Cuál es tu problema aquí?</text>
+		<text>¿Qué te trae por aquí?</text>
 	</string>
 	<string id="jup_a6_freedom_leader_about_you_0">
-		<text>Cuéntame sobre la Libertad.</text>
+		<text>Cuéntame sobre Libertad.</text>
 	</string>
 	<string id="jup_a6_freedom_leader_about_you_1">
 		<text>Es una larga historia. ¿Que quieres saber?</text>
 	</string>
 	<string id="jup_a6_freedom_leader_about_you_1111">
-		<text>¿Qué es lo que haces aquí?</text>
+		<text>¿Qué es lo que hacéis aquí?</text>
 	</string>
 	<string id="jup_a6_freedom_leader_about_you_11111">
-		<text>Nos aseguramos de que varios funcionarios no oculten nada a la gente común. Ya sabes cómo es esto: tan pronto como encuentran un nuevo laboratorio o algunos documentos que arrojan luz sobre los secretos de la Zona, inmediatamente organizan una operación militar y limpian todo mejor que una jodida aspiradora. La única manera de encontrar una mierda es llegar primero.</text>
+		<text>Nos estamos asegurando de que varios funcionarios no oculten nada a la gente común. Ya sabes cómo es: tan pronto como encuentran un nuevo laboratorio o unos documentos que arrojan luz sobre los secretos de la Zona, organizan inmediatamente una operación militar y limpian todo mejor que una maldita aspiradora. La única forma de averiguarlo es llegar primero.</text>
 	</string>
 	<string id="jup_a6_freedom_leader_about_you_1112">
-		<text>¿He oído que estás comerciando con armas del oeste? No me molestaría un nuevo baúl, ¿sería posible organizar este negocio de alguna manera?</text>
+		<text>¿He oído que estás comerciando con armas del oeste? No me molestaría un nuevo equipo, ¿sería posible organizar el trato de alguna manera?</text>
 	</string>
 	<string id="jup_a6_freedom_leader_about_you_11121">
 		<text>Debido a la difícil situación después de la reactivación del cauterizador, decidimos no vender nuestros últimos suministros a los stalkers comunes. Ahora solo ayudamos a aquellos que nos ayudan, especialmente con información.</text>
@@ -88,19 +88,19 @@
 		<text>¿Información? ¿Y qué tipo de información necesitas?</text>
 	</string>
 	<string id="jup_a6_freedom_leader_about_you_1112111">
-		<text>La que no es fácil de encontrar. En primer lugar, material secreto de los laboratorios subterráneos. Un stalker común pasa por alto esos lugares, los deja a un lado, hay muchos rumores diferentes sobre lo que está pasando allí y sobre los que van y no regresan.</text>
+		<text>La que no es fácil de encontrar... En primer lugar, material secreto de los laboratorios subterráneos. Un stalker común pasa por alto esos lugares, los deja a un lado, hay muchos rumores diferentes sobre lo que está pasando allí y sobre los que van y no regresan.</text>
 	</string>
 	<string id="jup_a6_freedom_leader_about_you_1113">
-		<text>¿Cómo terminaste en Freedom?</text>
+		<text>¿Cómo terminaste en Libertad?</text>
 	</string>
 	<string id="jup_a6_freedom_leader_about_you_11131">
-		<text>Bueno, era amigo de los líderes de la Libertad cuando no había Zona. Eso sí, en aquellos días, no eran líderes: eran hippies regulares. Entonces, cuando hice un movimiento en la Zona en busca de artefactos y me encontré con rostros familiares, pensé que podría ir con lo que sé.</text>
+		<text>Bueno, era amigo de los líderes de Libertad cuando aún no había Zona. Eso sí, por aqule entonces, no eran líderes: eran hippies normales. Entonces, cuando vine a la Zona en busca de artefactos y me encontré con rostros familiares, pensé que mejor ir con quien conozco.</text>
 	</string>
 	<string id="jup_a6_freedom_leader_about_you_1114">
 		<text>¿Qué pasó en los almacenes militares? La situación parece ser deplorable...</text>
 	</string>
 	<string id="jup_a6_freedom_leader_about_you_11141">
-		<text>Empezaremos desde el principio. Durante mucho tiempo mantuvimos la Barrera, así fue nombrada la zona entre los Almacenes y el Radar. Desde el norte, los monolitos y mutantes atacaban regularmente, pero no era difícil contenerlos. Entonces apareció el Strelok... Él fue quien consiguió apagar el Cauterizador Cerebral, lo que facilitó nuestra tarea en gran medida. Los stalkers fueron al norte, empezaron a aparecer campamentos y bases, comenzó la ocupación de los territorios libres. Y multitud de equipos de investigación ¡como setas después de llover! En general, la Zona cobró vida.\nLa situación era pacífica, la Barrera y el Radar estaban vacías - sólo stalkers pacíficos van y vienen y recogen artefactos. Sólo silencio, sí, aquí estamos relajados. Entonces sucedió lo que sucedió: Monolito llevó a cabo una operación de relámpago, al parecer - planeada de antemano. En el plazo de un día recuperaron el Cauterizador Cerebral bajo su control, y se apoderaron del puesto de control norte intermedio. Mientras los nuestros volvieron, se las arreglaron para conseguir refuerzos y, como corresponde a los verdaderos fanáticos, fueron directos al frente, a asaltar nuestra base. No hubo tiempo para prepararse, construímos malas barricadas rápidamente. A juzgar por las conversaciones de radio, fue un infierno en la tierra, un exterminio despiadado. Nuestros hombres lucharon hasta el final y todavía pudieron dar una buena reprimenda... pero finalmente perdimos la base.\nMuchos de nuestros amigos murieron allí, fue muy duro para la moral, y muchos comenzaron a abandonar el grupo en silencio. No hay más entregas, la conexión se rompió, vivimos sólo de las existencias viejas y de lo que conseguimos por aquí por nuestra cuenta. Nos ocultamos aquí, parece que el grupo está viviendo sus últimos días. Así van las cosas.</text>
+		<text>Empezaremos desde el principio. Durante mucho tiempo mantuvimos la Barrera, así fue nombrada la zona entre los Almacenes y Radar. Desde el norte, los monolitos y mutantes atacaban regularmente, pero no era difícil contenerlos. Entonces apareció el Strelok... Él fue quien consiguió apagar el Cauterizador Cerebral, lo que facilitó nuestra tarea en gran medida. Los stalkers fueron al norte, empezaron a aparecer campamentos y bases, comenzó la ocupación de los territorios libres. Y llegaron multitud de equipos de investigación ¡como setas después de la lluvia! En general, la Zona cobró vida.\nLa situación era pacífica, la Barrera y el Radar estaban vacías - sólo stalkers pacíficos iban y venian recogiendo artefactos. Sólo silencio, sí, estábamos relajados. Entonces sucedió lo que sucedió: Monolito llevó a cabo una operación relámpago, al parecer, planeada de antemano. En el plazo de un día recuperaron bajo su control el Cauterizador Cerebral, y se apoderaron del puesto de control intermedio del norte. Mientras los nuestros volvían, se las arreglaron para conseguir refuerzos y, como corresponde a los verdaderos fanáticos, fueron directos al frente, a asaltar nuestra base. No hubo tiempo para prepararse, sólo pudimos construir unas malas barricadas rápidamente. A juzgar por las conversaciones de radio, fue el infierno en la tierra, un exterminio despiadado. Nuestros hombres lucharon hasta el final y todavía pudieron dar buena reprimenda... pero finalmente perdimos la base.\nMuchos de nuestros amigos murieron allí, fue muy duro para la moral, y silenciosamente muchos comenzaron a abandonar el grupo. No hay más entregas, la conexión se rompió, vivimos sólo de las viejas existencias y de lo que conseguimos por aquí por nuestra cuenta. Nos ocultamos aquí, parece que el grupo está viviendo sus últimos días. Así están las cosas.</text>
 	</string>
 	<string id="jup_a6_freedom_leader_about_you_1115">
 		<text>Bueno. Olvídalo.</text>
@@ -132,42 +132,42 @@
 
 	<!-- Cut dialogue with Hawaiian -->
 	<string id="jup_a6_barmen_oasis_art_sell_0">
-		<text>Estuve en el Oasis recientemente y encontré un artefacto allí. ¿Tu interesado?</text>
+		<text>Estuve en Oasis recientemente y encontré un artefacto allí. ¿Estás interesado?</text>
 	</string>
 	<string id="jup_a6_barmen_oasis_art_sell_1">
-		<text>Ja, no esperas que yo crea eso, ¿verdad? He oído mucho sobre el Oasis, pero NUNCA he oído hablar de alguien que haya estado allí. Simplemente creeré en el Oasis tanto como creo en Pink Unicorns y Tentacled Gods. Y eso se reduce a un sano escepticismo.</text>
+		<text>Ja, no esperas que yo crea eso, ¿verdad? He oído mucho sobre el Oasis, pero NUNCA he oído hablar de alguien que haya estado allí. Simplemente creo en el Oasis tanto como creo en uniconios rosas y dioses con tentáculos. Y eso se resume a un sano escepticismo.</text>
 	</string>
 
 	<!-- Ashot and Yar -->
 	<string id="st_jup_yar_reply_1">
-		<text>Ve y dile a %s que traiga su culo gordo por aquí.</text>
+		<text>Ve y dile a %s que traiga su culo gordo aquí.</text>
 	</string>
 	<string id="st_jup_yar_reply_2">
-		<text>¿No sabe él que estoy ocupado? Dile que venga aquí.</text>
+		<text>¿No sabe que estoy ocupado? Dile que venga aquí.</text>
 	</string>
 	<string id="st_jup_yar_reply_3">
-		<text>No me pagan por caminar. Dile que venga a mí.</text>
+		<text>No me pagan por caminar. Dile que venga a verme.</text>
 	</string>
 	<string id="st_jup_yar_reply_4">
-		<text>¿Qué? ¿Quiere una silla de ruedas? Ir a buscar %s para mí.</text>
+		<text>¿Qué? ¿Quiere una silla de ruedas? Ve a buscar %s y que venga a verme.</text>
 	</string>
 	<string id="st_jup_yar_reply_5">
-		<text>¿Dónde está %s? No puedo arreglarlo hasta que lo traiga aquí.</text>
+		<text>¿Dónde está %s? No puedo arreglarlo hasta que venga aquí.</text>
 	</string>
 
 	<string id="st_jup_ashot_reply_1">
-		<text>Si %s lo quiere, dile que venga aquí y quítatelo.</text>
+		<text>Si %s quiere, dile que venga aquí y que me lo quite.</text>
 	</string>
 	<string id="st_jup_ashot_reply_2">
-		<text>¿Llegar de nuevo? Si él lo quiere, él viene y lo consigue. ¿Bueno?</text>
+		<text>¿Cómo dices? Si lo quiere, que venga y lo consiga. ¿De acuerdo?</text>
 	</string>
 	<string id="st_jup_ashot_reply_3">
-		<text>Dile a ese bastardo calvo que se arrastre hasta aquí.</text>
+		<text>Dile a ese calvo cabrón calvo que se arrastre hasta aquí.</text>
 	</string>
 	<string id="st_jup_ashot_reply_4">
-		<text>No puedo dejar mi tienda solo. Él tiene que venir a mí, ¿eh?</text>
+		<text>No puedo dejar mi tienda sola. Tiene que venir aquí, ¿eh?</text>
 	</string>
 	<string id="st_jup_ashot_reply_5">
-		<text>¿Me veo como un chico de los recados? Dile a %s que lo haga él mismo.</text>
+		<text>¿Me ves como el chico de los recados? Dile a %s que lo haga él mismo.</text>
 	</string>
 </string_table>

@@ -1390,7 +1390,7 @@
 		<text>la entrada al bar</text>
 	</string>
 	<string id="st_dyn_l05_bar_daleko_3">
-		<text>la base Duty</text>
+		<text>la base Deber</text>
 	</string>
 	<string id="st_dyn_l05_bar_daleko_4">
 		<text>el camino a los almacenes del ejército</text>
@@ -1833,7 +1833,7 @@
 		<text>en la entrada del bar</text>
 	</string>
 	<string id="st_dyn_l05_bar_blizko_3">
-		<text>en la base Duty</text>
+		<text>en la base Deber</text>
 	</string>
 	<string id="st_dyn_l05_bar_blizko_4">
 		<text>en el camino a los almacenes del ejército</text>
@@ -1845,7 +1845,7 @@
 		<text>en la colina sur</text>
 	</string>
 	<string id="st_dyn_new_military_blizko_3">
-		<text>en la base Freedom</text>
+		<text>en la base Libertad</text>
 	</string>
 	<string id="st_dyn_new_military_blizko_4">
 		<text>en la vieja choza</text>
@@ -1971,7 +1971,7 @@
 		<text>en el camino hacia el Radar</text>
 	</string>
 	<string id="st_dyn_l11_pripyat_blizko_2">
-		<text>en la base Monolith</text>
+		<text>en la base Monolito</text>
 	</string>
 	<string id="st_dyn_l10_radar_blizko_1">
 		<text>en las antenas</text>

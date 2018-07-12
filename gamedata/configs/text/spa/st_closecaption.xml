@@ -54,7 +54,7 @@
 		<text>[la emisión comienza]</text>
 	</string>
 	<string id="cc_effect-ambient-zaton-zat_b38_bloodsucker_roar">
-		<text>[ruge sanguijuela]</text>
+		<text>[ruge chupasangre]</text>
 	</string>
 	<string id="cc_effect-ambient-zaton-zat_b38_electro_box_door">
 		<text>[cuadro eléctrico abre]</text>
@@ -72,7 +72,7 @@
 		<text>[la puerta se desbloquea]</text>
 	</string>
 	<string id="cc_effect-ambient-zaton-zat_b57_bloodsucker_roar">
-		<text>[ruge sanguijuela]</text>
+		<text>[ruge chupasangre]</text>
 	</string>
 	<string id="cc_effect-ambient-jupiter-jup_b16_oasis_noise">
 		<text>[extraño ruido de chispas de algún lugar cerca]</text>
@@ -147,22 +147,22 @@
 		<text>[bandido herido pide ayuda]</text>
 	</string>
 	<string id="cc_wounded-dolg-help">
-		<text>[Herido Dutyer pide ayuda]</text>
+		<text>[Herido miembro de Deber pide ayuda]</text>
 	</string>
 	<string id="cc_wounded-freedom-help">
-		<text>[Herido Freedomer pide ayuda]</text>
+		<text>[Herido miembro de Libertad pide ayuda]</text>
 	</string>
 	<string id="cc_wounded-killer-help">
-		<text>[herido merc pide ayuda]</text>
+		<text>[herido mercernario pide ayuda]</text>
 	</string>
 	<string id="cc_wounded-military-help">
 		<text>[Soldado herido pide ayuda]</text>
 	</string>
 	<string id="cc_wounded-monolith-help">
-		<text>[Herido Monolithian pide ayuda]</text>
+		<text>[Herido miembro de Monolito pide ayuda]</text>
 	</string>
 	<string id="cc_wounded-stalker-help">
-		<text>[El stalker herido pide ayuda]</text>
+		<text>[Stalker herido pide ayuda]</text>
 	</string>
 
 	<string id="cc_fight-bandit-attack">
@@ -220,7 +220,7 @@
 		<text>¿Hemos terminado aquí?... ¿Sí? Bien... La salida está por allí.</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_farewell_angry_2">
-		<text>Sí, sí... Continúa ahora. Tratar con sanguijuelas no es una prioridad en mi lista de prioridades.</text>
+		<text>Sí, sí... Continúa. Tratar con sanguijuelas no es una prioridad en mi lista.</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_greeting_1">
 		<text>¡Hola! ¿Qué te trae a nuestra humilde nave?</text>
@@ -619,7 +619,7 @@
 		<text>¿Qué tienes? ¡Muéstrame!</text>
 	</string>
 	<string id="zat_b5_dealer_bandit_speak_2">
-		<text>Sabes que tengo todo lo que tiene Duty, así que las armas y el equipo no son un problema. Todas mis cosas son de primera calidad, no hay dudas al respecto.</text>
+		<text>Sabes que tengo todo lo que tiene Deber, así que las armas y el equipo no son un problema. Todas mis cosas son de primera calidad, no hay dudas al respecto.</text>
 	</string>
 	<string id="zat_b5_dealer_kill_bandits">
 		<text>Ejecútalos. No necesito testigos.</text>
@@ -837,7 +837,7 @@
 		<text>Hola stalker.</text>
 	</string>
 	<string id="jup_a6_duty_leader_greeting_2">
-		<text>¿Cuál es tu problema aquí?</text>
+		<text>¿Qué te trae por aquí?</text>
 	</string>
 	<string id="jup_a6_freedom_leader_farewell_1">
 		<text>¡Buena suerte!</text>
@@ -846,7 +846,7 @@
 		<text>¡Cuídate!</text>
 	</string>
 	<string id="jup_a6_freedom_leader_greeting_1">
-		<text>¡Ey hombre! ¿Que pasa?</text>
+		<text>¡Ey tío! ¿Que pasa?</text>
 	</string>
 	<string id="jup_a6_freedom_leader_greeting_2">
 		<text>Entra, hombre, relájate. Quítate la carga.</text>
@@ -894,7 +894,7 @@
 		<text>Esquemas para el paso inferior "Pripyat-1". Esto es una prueba de que hay una forma subterránea de llegar a Pripyat.</text>
 	</string>
 	<string id="jup_b1_actor_dont_come">
-		<text>¡Ey hombre! El tiempo es dinero. Hemos terminado esperándote, el escuadrón volverá ahora.</text>
+		<text>¡Ey tío! El tiempo es dinero. Hemos terminado esperándote, el escuadrón volverá ahora.</text>
 	</string>
 	<string id="jup_b1_stalker_warning">
 		<text>Wat... mira... ten cuidado, contro... control... ¡controlador!</text>
@@ -1011,7 +1011,7 @@
 		<text>Esta no es una parte pública, chico. Será mejor que te pongas en camino.</text>
 	</string>
 	<string id="jup_b207_freedom_leader_about_depot">
-		<text>Kremen! Toma a tus hombres y únete a Haiduk en el almacén. Esos bastardos Duty deberían venir por sus cosas en cualquier momento.</text>
+		<text>Kremen! Toma a tus hombres y únete a Haiduk en el almacén. Esos bastardos Deber deberían venir por sus cosas en cualquier momento.</text>
 	</string>
 	<string id="jup_b207_freedom_leader_about_depot_after">
 		<text>¡Estupendo! Ahora los niños podrán luchar contra ellos. No me olvido de los favores, por lo que puede usar el alijo en cualquier momento que desee. Lo dejaré saber a todos.</text>
@@ -1089,22 +1089,22 @@
 		<text>¿Cómo va la caza?</text>
 	</string>
 	<string id="jup_b221_duty_main_1">
-		<text>Bueno, propongo un brindis por un valiente escuadrón de hombres de Duty, enviados a las líneas del frente para una patada en el culo de escoria verde.</text>
+		<text>Bueno, propongo un brindis por un valiente escuadrón de hombres de Deber, enviados a las líneas del frente para una patada en el culo de escoria verde.</text>
 	</string>
 	<string id="jup_b221_duty_main_2">
-		<text>¿Te he contado la historia de Flint? Primero instaló cazadores stalkers para ser atacados por una quimera, luego dejó a su compañero para morir en una anomalía y luego se unió a Freedom. Yo diría que esa es una conclusión bastante lógica allí mismo. Entonces, yo diría que bebemos con la esperanza de que todos los miembros de Freedom sigan su ejemplo y que nos ocupemos de quien sea que quede.</text>
+		<text>¿Te he contado la historia de Flint? Primero instaló cazadores stalkers para ser atacados por una quimera, luego dejó a su compañero para morir en una anomalía y luego se unió a Libertad. Yo diría que esa es una conclusión bastante lógica allí mismo. Entonces, yo diría que bebemos con la esperanza de que todos los miembros de Libertad sigan su ejemplo y que nos ocupemos de quien sea que quede.</text>
 	</string>
 	<string id="jup_b221_duty_main_3">
-		<text>Tomemos el hecho de que incluso en el centro de la Zona hay personas que están dispuestas a servir a Duty. ¡A nuestro nuevo escuadrón!</text>
+		<text>Tomemos el hecho de que incluso en el centro de la Zona hay personas que están dispuestas a servir a Deber. ¡A nuestro nuevo escuadrón!</text>
 	</string>
 	<string id="jup_b221_duty_main_4">
-		<text>Levanto mi copa al hecho de que este complejo de investigación ahora está completamente protegido por Duty de mutantes, anarquistas y otras escoria.</text>
+		<text>Levanto mi copa al hecho de que este complejo de investigación ahora está completamente protegido por Deber de mutantes, anarquistas y otras escoria.</text>
 	</string>
 	<string id="jup_b221_duty_main_5">
 		<text>¡Becarios! Bebamos para honrar a nuestros valientes voluntarios por tomar lecturas en algunas de las zonas más peligrosas de la Zona por el bien de nuestro progreso científico.</text>
 	</string>
 	<string id="jup_b221_duty_main_6">
-		<text>Propongo un brindis por los luchadores de Duty que valientemente lucharon contra un ataque cobarde hecho por esos asquerosos punks.</text>
+		<text>Propongo un brindis por los luchadores de Deber que valientemente lucharon contra un ataque cobarde hecho por esos asquerosos punks.</text>
 	</string>
 	<string id="jup_b221_duty_reaction_1">
 		<text>¡Toda la razón!</text>
@@ -1125,7 +1125,7 @@
 		<text>Nadie sabe lo que realmente sucedió. No es como si estuvieras allí para verlo.</text>
 	</string>
 	<string id="jup_b221_duty_reply_3">
-		<text>¿Es un escuadrón compuesto por personas Monolith? Bueno, espero que también te encuentres un escuadrón de sangre, porque una vez que lo hagas, el Teniente Coronel definitivamente te agregará a la lista de mutantes peligrosos.</text>
+		<text>¿Es un escuadrón compuesto por personas Monolito? Bueno, espero que también te encuentres un escuadrón de sangre, porque una vez que lo hagas, el Teniente Coronel definitivamente te agregará a la lista de mutantes peligrosos.</text>
 	</string>
 	<string id="jup_b221_duty_reply_4">
 		<text>¡Decir ah! Un poco de guardia eres. El año pasado, los mercenarios te hicieron correr por el Valle Oscuro con la cola entre las piernas. ¿O lo has olvidado?</text>
@@ -1137,22 +1137,22 @@
 		<text>Está bien. Recuperaremos nuestras armas. Ustedes han desarrollado la hábil costumbre de arrojar armas y artefactos cada vez que se encuentran con nuestros combatientes. Yo tampoco te culpo. No puede ser fácil sostenerlo, ¿qué, con tus pantalones shat y todo?</text>
 	</string>
 	<string id="jup_b221_freedom_main_1">
-		<text>¡Chicos! ¿Has oído cómo Duty se apega a sus tradiciones? Tome al suboficial Morgan, al seguir la estricta necesidad de mantener la reputación de su facción, pensó que era su "deber" vender la mitad de su almacén a la vista.</text>
+		<text>¡Chicos! ¿Has oído cómo Deber se apega a sus tradiciones? Tome al suboficial Morgan, al seguir la estricta necesidad de mantener la reputación de su facción, pensó que era su "deber" vender la mitad de su almacén a la vista.</text>
 	</string>
 	<string id="jup_b221_freedom_main_2">
-		<text>¡Desplomarse! ¿Recuerda? Las tradiciones incondicionales de Duty fueron establecidas por el propio general Tkachenko. Mintió a sus camaradas, engañó al cuartel general y murió valientemente en una burbuja espacial. Aquí está a todos los miembros de Duty siguiendo su ejemplo.</text>
+		<text>¡Desplomarse! ¿Recuerda? Las tradiciones incondicionales de Deber fueron establecidas por el propio general Tkachenko. Mintió a sus camaradas, engañó al cuartel general y murió valientemente en una burbuja espacial. Aquí está a todos los miembros de Deber siguiendo su ejemplo.</text>
 	</string>
 	<string id="jup_b221_freedom_main_3">
-		<text>Ya sabes, la primera vez que vi a nuestro nuevo escuadrón les pregunté: "Compañeros, ¿preferirían unirse a Duty? Después de todo, eres libre de hacer lo que quieras. "Sabes, me dijeron:" No, gracias. Con ellos, todo se trata de las órdenes. Para dar, principalmente. No es de extrañar que sus ojos estén vacíos. Ya hemos tenido suficiente zombies ".</text>
+		<text>Ya sabes, la primera vez que vi a nuestro nuevo escuadrón les pregunté: "Compañeros, ¿preferirían unirse a Deber? Después de todo, eres libre de hacer lo que quieras. "Sabes, me dijeron:" No, gracias. Con ellos, todo se trata de las órdenes. Para dar, principalmente. No es de extrañar que sus ojos estén vacíos. Ya hemos tenido suficiente zombies ".</text>
 	</string>
 	<string id="jup_b221_freedom_main_4">
-		<text>Un miembro de Duty se acercó a uno de los nuestros, subió al búnker y le preguntó: "Profesor, ¿podría decirme qué artefacto es mejor para combatir jabalíes? Enganchado para protegerte de la radiación, o el ojo para ayudarte con las heridas. "¿Sabes cuál fue la respuesta? "Shell es lo que necesitas, hijo. Si ves un jabalí, vuelve corriendo a tu base lo más rápido que puedas. "¡Jaja!</text>
+		<text>Un miembro de Deber se acercó a uno de los nuestros, subió al búnker y le preguntó: "Profesor, ¿podría decirme qué artefacto es mejor para combatir jabalíes? Enganchado para protegerte de la radiación, o el ojo para ayudarte con las heridas. "¿Sabes cuál fue la respuesta? "Shell es lo que necesitas, hijo. Si ves un jabalí, vuelve corriendo a tu base lo más rápido que puedas. "¡Jaja!</text>
 	</string>
 	<string id="jup_b221_freedom_main_5">
 		<text>Gente, ¿saben cómo los científicos llegaron a elegir a nuestros chicos para tomar medidas de anomalías? De hecho, fueron a ver a Shulga primero y le dijeron: "Hay un trabajo que necesita hacer en beneficio de la ciencia". Y él dijo: "No hay problema". ¿A quién tengo que ejecutar?</text>
 	</string>
 	<string id="jup_b221_freedom_main_6">
-		<text>Con cada día que pasa, la necesidad de deber se vuelve más clara para mí. Quiero decir, ¿quién más podría armar un depósito completo de armas y municiones, y luego donarlo a Freedom? Fue muy amable de su parte, ¿no crees?</text>
+		<text>Con cada día que pasa, la necesidad de deber se vuelve más clara para mí. Quiero decir, ¿quién más podría armar un depósito completo de armas y municiones, y luego donarlo a Libertad? Fue muy amable de su parte, ¿no crees?</text>
 	</string>
 	<string id="jup_b221_freedom_reaction_1">
 		<text>[risa]</text>
@@ -1173,7 +1173,7 @@
 		<text>Todos tienen uno de esos. El deber es un verdadero refugio para los hipócritas. "Protegeremos al mundo de la Zona" justo después de recoger algunos artefactos.</text>
 	</string>
 	<string id="jup_b221_freedom_reply_3">
-		<text>Buen negocio. Fanático debe quedarse con los fanáticos. También debe usar uniformes Monolith. Para que los stalkers no puedan confundirte con los humanos.</text>
+		<text>Buen negocio. Fanático debe quedarse con los fanáticos. También debe usar uniformes Monolito. Para que los stalkers no puedan confundirte con los humanos.</text>
 	</string>
 	<string id="jup_b221_freedom_reply_4">
 		<text>De mutantes? ¿Estás seguro de que tendrás suficiente espacio en ese búnker cuando los mutantes salgan en fuerza? No es como si fuera la barra 100 Rads. No puedes simplemente esconderte allí y esperarlo.</text>
@@ -1191,7 +1191,7 @@
 		<text>Deberías haberme visto obtener este artefacto el otro día. Eso fue algo. ¿Sabes algo sobre la cantera? Bien. Cualquiera que haya sido la mierda decente que haya existido hace mucho que se fue. No tiene sentido buscar anomalías que Flint haya investigado. Todo el mundo lo sabe.</text>
 	</string>
 	<string id="jup_b25_story_bloodsucker">
-		<text>Te diré todo lo que hay que decir sobre los chupasangres. Cuando estaba en Zaton, esos imbéciles hicieron la vida realmente difícil para casi todos. Los acechadores los mantenían en día y noche, pero no ayudaron ni un poco. Pobres bastardos. Un día decidí ayudarlos. Así que tomé mi escopeta y fui directamente a la guarida de chupasangre. Tres días estaba festejando con esos hijos de puta, a veces tomando dos o incluso tres juntos. Después de pasar un buen rato con los tuyos, el problema del chupasangre en Zaton ha terminado. Los bastardos mantienen sus tentáculos escondidos en todo momento.</text>
+		<text>Te diré todo lo que hay que decir sobre los chupasangres. Cuando estaba en Zaton, esos imbéciles hicieron la vida realmente difícil para casi todos. Los stalkers los mantenían en día y noche, pero no ayudaron ni un poco. Pobres bastardos. Un día decidí ayudarlos. Así que tomé mi escopeta y fui directamente a la guarida de chupasangre. Tres días estaba festejando con esos hijos de puta, a veces tomando dos o incluso tres juntos. Después de pasar un buen rato con los tuyos, el problema del chupasangre en Zaton ha terminado. Los bastardos mantienen sus tentáculos escondidos en todo momento.</text>
 	</string>
 	<string id="jup_b25_story_controller">
 		<text>De acuerdo, te diré cómo matar a los controladores. El otro día tropecé con una carga de artefactos y decidí esconderlos mientras aún estaba en camino porque mi espalda no podía hackearlo más. En el camino de regreso llegué a mi escondite y allí estaba, un controlador, enfriándose justo encima. Ahora pensaba: "Controlador o no controlador, tengo que recuperar mi mierda". Entonces me di cuenta de que si me protegía con algo, su manipulación no me funcionaría. Entonces, tomé una rejilla de metal que encontré por ahí y comencé a acercarme furtivamente a la bestia. Para cuando se despertó con lo que estaba sucediendo, bombeé un clip a la cabeza del chupapollas. Justo cuando comenzó a tratar de controlarme le di un golpe final con mi culata del rifle y eso fue todo.</text>
@@ -1233,7 +1233,7 @@
 		<text>Rango único, ahora!</text>
 	</string>
 	<string id="jup_b4_duty_squad_leader_final">
-		<text>¡Felicidades por unirte a Duty! ¡Sígueme! Izquierda, derecha, izquierda, derecha...</text>
+		<text>¡Felicidades por unirte a Deber! ¡Sígueme! Izquierda, derecha, izquierda, derecha...</text>
 	</string>
 	<string id="jup_b4_duty_squad_leader_praise">
 		<text>¿Ver? Puedes hacerlo cuando quieras. Es hora de tomar el juramento.</text>
@@ -1254,7 +1254,7 @@
 		<text>Respetamos la libertad de nuestros miembros y otros stalkers, y creemos que la Zona está abierta a todos. Al ser el mejor regalo que la humanidad ha recibido, es una oportunidad de dar un gran salto en nuestro desarrollo, y todos deben comprenderlo.</text>
 	</string>
 	<string id="jup_b4_freedom_squad_leader_welcome_to_freedom">
-		<text>Entonces, bienvenido a Freedom!</text>
+		<text>Entonces, bienvenido a Libertad!</text>
 	</string>
 	<string id="jup_b4_monolith_1_ask_to_freedom">
 		<text>¿Quién nos mandará?</text>
@@ -1314,7 +1314,7 @@
 		<text>¿Me escuchas? ¡Arma tu arma!</text>
 	</string>
 	<string id="jup_b46_duty_founder_pda_diary">
-		<text>... lo que sea que vayamos, siempre terminamos en el mismo lugar exacto. Todavía no me puedo acostumbrar a esta niebla. Es extraño que Chepurnoy desapareciera sin dejar rastro. Quizás encontró una salida.... Día seis. Nos hemos quedado sin agua. El coronel dio vuelta la tapa y disparó a dos personas a quemarropa, y luego él mismo. Ahora estoy solo en esta maldita anomalía. Si no hubiera arreglado nuestras comunicaciones con HQ para bajar, podrían habernos rescatado. Y Duty no habría existido. Me pregunto cómo hubieran resultado las cosas.... ¡Ah, joderlo! Que el Capitán Tkachenko murió hace mucho tiempo. Y este general Tkachenko de Duty lo seguirá. Eso es... Justicia, supongo.</text>
+		<text>... lo que sea que vayamos, siempre terminamos en el mismo lugar exacto. Todavía no me puedo acostumbrar a esta niebla. Es extraño que Chepurnoy desapareciera sin dejar rastro. Quizás encontró una salida.... Día seis. Nos hemos quedado sin agua. El coronel dio vuelta la tapa y disparó a dos personas a quemarropa, y luego él mismo. Ahora estoy solo en esta maldita anomalía. Si no hubiera arreglado nuestras comunicaciones con HQ para bajar, podrían habernos rescatado. Y Deber no habría existido. Me pregunto cómo hubieran resultado las cosas.... ¡Ah, joderlo! Que el Capitán Tkachenko murió hace mucho tiempo. Y este general Tkachenko de Deber lo seguirá. Eso es... Justicia, supongo.</text>
 	</string>
 	<string id="jup_b46_spatial_bubble_sos_1">
 		<text>...encontrar una salida. ¡Ayuda! Nos estamos quedando sin...</text>
@@ -1583,7 +1583,7 @@
 		<text>¿Entonces vamos?</text>
 	</string>
 	<string id="pas_b400_vano_come_back_1">
-		<text>¡Ey hombre! Deje de perder el tiempo. Hazlo el tiempo suficiente y nos desaprovecharemos.</text>
+		<text>¡Ey tío! Deje de perder el tiempo. Hazlo el tiempo suficiente y nos desaprovecharemos.</text>
 	</string>
 	<string id="pas_b400_vano_idle_1">
 		<text>Ya sabes, no es tan malo aquí... Creo.</text>
@@ -1622,7 +1622,7 @@
 		<text>Nuestro amigo del ejército está muerto.</text>
 	</string>
 	<string id="pas_b400_vano_on_enemy_assault_wanderer_1">
-		<text>Nuestro camarada Monolith ha sido asesinado.</text>
+		<text>Nuestro camarada Monolito ha sido asesinado.</text>
 	</string>
 	<string id="pas_b400_vano_on_enemy_assault_zulus_1">
 		<text>¡Es zulú! Él está muerto.</text>
@@ -1637,7 +1637,7 @@
 		<text>[Vano se lastima]</text>
 	</string>
 	<string id="pas_b400_vano_wait_for_me_1">
-		<text>¡Ey hombre! ¿A dónde vas? ¡Trabajemos juntos en este!</text>
+		<text>¡Ey tío! ¿A dónde vas? ¡Trabajemos juntos en este!</text>
 	</string>
 	<string id="pas_b400_wanderer_about_control_gates_1">
 		<text>La puerta está bloqueada. Si fuera tú, echaría un vistazo a la sala de control.</text>
@@ -1942,7 +1942,7 @@
 		<text>¡Atención todas las unidades! Este es el Coronel Kovalsky. Una emisión está comenzando, repito, una emisión está comenzando. ¡Ponte a cubierto de inmediato!</text>
 	</string>
 	<string id="pri_a17_monolith_preacher">
-		<text>Te agradecemos, Monolith, por revelarnos los astutos planes de tus enemigos. Que tu luz brille en las almas de los valientes soldados que dieron sus vidas al servicio de tu voluntad. ¡Adelante, guerreros del Monolito! Venga a sus hermanos caídos, benditos como están en su unión eterna con el Monolito. ¡Trae la muerte a aquellos que desprecian el poder sagrado del Monolito!</text>
+		<text>Te agradecemos, Monolito, por revelarnos los astutos planes de tus enemigos. Que tu luz brille en las almas de los valientes soldados que dieron sus vidas al servicio de tu voluntad. ¡Adelante, guerreros del Monolito! Venga a sus hermanos caídos, benditos como están en su unión eterna con el Monolito. ¡Trae la muerte a aquellos que desprecian el poder sagrado del Monolito!</text>
 	</string>
 	<string id="pri_a17_recon_squad_actor_dont_hide">
 		<text>Ellos te detectarán así, comandante.</text>
@@ -1993,7 +1993,7 @@
 		<text>Deberías preguntarle al Capitán.</text>
 	</string>
 	<string id="pri_a18_actor_report">
-		<text>Kovalsky, algo extraño está sucediendo aquí. Había montones de luchadores Monolith dentro del edificio. Estaban todos en trance y hablando con... Un montón de basura. Examiné esta pila, y si cortas la basura, se parece a una antena primitiva. Parece que alguien les habla a través de esta antena... Y creen que es una intervención divina.</text>
+		<text>Kovalsky, algo extraño está sucediendo aquí. Había montones de luchadores Monolito dentro del edificio. Estaban todos en trance y hablando con... Un montón de basura. Examiné esta pila, y si cortas la basura, se parece a una antena primitiva. Parece que alguien les habla a través de esta antena... Y creen que es una intervención divina.</text>
 	</string>
 	<string id="pri_a18_kovalskiy_guard">
 		<text>Esto es todo muy extraño. Alguien está controlando a estos fanáticos... Hmm. Volveremos sobre esto más tarde.</text>
@@ -2002,13 +2002,13 @@
 		<text>Esto es todo muy extraño. Alguien está controlando a estos fanáticos... Hmm. Volveremos sobre esto más tarde. El centinela aún no se ha presentado, así que avíseme si lo encuentra. Por encima y por fuera.</text>
 	</string>
 	<string id="pri_a18_monolith_pray_1">
-		<text>Monolith, no te escuchamos.</text>
+		<text>Monolito, no te escuchamos.</text>
 	</string>
 	<string id="pri_a18_monolith_pray_2">
-		<text>¿Por qué nos dejaste, Monolith?</text>
+		<text>¿Por qué nos dejaste, Monolito?</text>
 	</string>
 	<string id="pri_a18_monolith_pray_3">
-		<text>Esperamos tus órdenes, Monolith.</text>
+		<text>Esperamos tus órdenes, Monolito.</text>
 	</string>
 	<string id="pri_a18_shelly_hello">
 		<text>Teniente Skelya, a su disposición.</text>
@@ -2029,7 +2029,7 @@
 		<text>Me inscribí tan pronto como descubrí que necesita ayuda. Te seguiré hasta el final, hombre.</text>
 	</string>
 	<string id="pri_a20_actor_about_next_task">
-		<text>La unidad de reconocimiento tenía información sobre la ubicación de las fuerzas Monolith. Las notas indican la librería.</text>
+		<text>La unidad de reconocimiento tenía información sobre la ubicación de las fuerzas Monolito. Las notas indican la librería.</text>
 	</string>
 	<string id="pri_a20_actor_no_data">
 		<text>La unidad de reconocimiento solo vio patrullas de monolitos. No vieron ningún escuadrón o unidad grande.</text>
@@ -2251,7 +2251,7 @@
 		<text>¡Manténgase alerta y siga las órdenes! Estamos muy cerca del punto de evacuación. ¡Vamos a movernos!</text>
 	</string>
 	<string id="pri_a28_colonel_see_helicopter">
-		<text>¡Mierda! ¡Son luchadores de Monolith! Dispara a voluntad y sigue moviéndote hacia los helicópteros.</text>
+		<text>¡Mierda! ¡Son luchadores de Monolito! Dispara a voluntad y sigue moviéndote hacia los helicópteros.</text>
 	</string>
 	<string id="pri_a28_colonel_strelok_out">
 		<text>¡Mierda! Strelok está abajo! Pero todavía tenemos que salir de aquí. ¡Ir!</text>

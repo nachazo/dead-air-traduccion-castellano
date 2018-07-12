@@ -6,16 +6,16 @@
 	</string>
 
 	<string id="gar_bar_leader_gate_dialog_text01">
-		<text>¿Por qué no? Por supuesto que puede... por una contribución a, por ejemplo, la garantía de seguridad en el territorio. El camino al Bar está seguro en este momento, y es seguro solo gracias a las patrullas regulares de Deber, así como a las estrictas verificaciones de cualquier persona que pase por este punto de control. Si usted es, de hecho, alguien que no nos va a dar ninguna bagatela innecesaria, debemos probarlo... ¿Bien?</text>
+		<text>¿Por qué no? Por supuesto que puedes... a cambio de una contribución, por ejemplo, para la garantía de seguridad en el territorio. El camino al Bar es seguro en este momento, y es seguro solo gracias a las patrullas regulares de Deber, así como por las estrictas verificaciones de cualquier persona que pasa por este punto de control. Si tu eres, de hecho, alguien que no nos va a dar ninguna baratija innecesaria, debemos demotrarlo... ¿De acuerdo?</text>
 	</string>
 
 
 	<string id="gar_bar_leader_gate_dialog_actor011">
-		<text>¿Tengo que ofrecer dinero cada vez que...? ¿Cuánto cuesta?</text>
+		<text>¿Tengo que pagar dinero cada vez? ¿Cuánto cuesta?</text>
 	</string>
 
 	<string id="gar_bar_leader_gate_dialog_text0111">
-		<text>¿Por qué cada vez? No somos ladrones que ponen un peaje en el mero paso. La contribución será de cinco mil rublos. Y no se preocupe por el hecho de que Duty olvida accidentalmente sus contribuciones. Algunas personas te mirarán fijamente, estudiando y memorizando cuidadosamente tus acciones. Los tiempos son pesados, la situación es tensa, las autoridades son malas y la gente está nerviosa y hambrienta...</text>
+		<text>¿Por qué cada vez? No somos ladrones que ponen un peaje en el simple pasaje. La contribución será de cinco mil rublos. Y no te preocupes porque Deber no olvida accidentalmente sus contribuciones. Algunas personas te mirarán fijamente, estudiando y memorizando cuidadosamente tus acciones. Los tiempos son dificiles, la situación es tensa, las autoridades son malas y la gente está nerviosa y hambrienta...</text>
 	</string>
 
 	<string id="gar_bar_leader_gate_dialog_actor01111">
@@ -23,14 +23,14 @@
 	</string>
 
 	<string id="gar_bar_leader_gate_dialog_text011111">
-		<text>Gracias. Ahora veo que eres un hombre admirable. Nuestras rutas permanecerán abiertas para tí ahora. ¡Puedes pasar!</text>
+		<text>Gracias. Ahora veo que eres un hombre admirable. Ahora nuestras rutas permanecerán abiertas para tí. ¡Puedes pasar!</text>
 	</string>
 
 	<string id="gar_bar_leader_gate_dialog_actor01112">
-		<text>No tengo el dinero, y no te dejaría coger nada de mí.</text>
+		<text>No tengo el dinero, y no te dejaré que cojas nada de lo que tengo.</text>
 	</string>
 
 	<string id="gar_bar_leader_gate_dialog_text011121">
-		<text>Esa es tu decisión. No tengo el deseo de ver ninguna admirabilidad en ti tampoco.</text>
+		<text>Es tu decisión. Tampoco tengo el deseo de ver nada admirable en tí.</text>
 	</string>
 </string_table>

@@ -23,7 +23,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Rabbit (Monolith Trader) Default Storyline Task -->
+	<!-- Rabbit (Monolito Trader) Default Storyline Task -->
 
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_default_task_name">
 		<text>Obtener la siguiente tarea</text>
@@ -32,20 +32,20 @@
 		<text>Recibe tu próxima tarea.</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_default_task_about">
-		<text>Debes encontrarte con uno de los ancianos de Monolith. Ve con él ahora.</text>
+		<text>Debes encontrarte con uno de los ancianos de Monolito. Ve con él ahora.</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_default_task_finish">
 		<text>Buena suerte.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Rabbit (Monolith Trader) Destroy the Non-Believers Storyline Task -->
+	<!-- Rabbit (Monolito Trader) Destroy the Non-Believers Storyline Task -->
 
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_task_1_name">
 		<text>Destruye a los no creyentes</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_task_1_text">
-		<text>Dirige el ataque Monolith contra los infieles.</text>
+		<text>Dirige el ataque Monolito contra los infieles.</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_task_1_about">
 		<text>Ha llegado el momento, mi hijo. Debes conducir a tus hermanos a la batalla. Lucha ferozmente y no aceptes ninguna rendición. Derrota a los infieles por el bien del monolito.</text>
@@ -55,10 +55,10 @@
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Rabbit (Monolith Trader) Collect Supplies Storyline Task -->
+	<!-- Rabbit (Monolito Trader) Collect Supplies Storyline Task -->
 
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_task_2_name">
-		<text>Recoge %s para Monolith</text>
+		<text>Recoge %s para Monolito</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_task_2_text">
 		<text>Rabbit me ha pedido que le traiga %s.</text>
@@ -74,7 +74,7 @@
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Rabbit (Monolith Trader) Venture into the Zone Storyline Task -->
+	<!-- Rabbit (Monolito Trader) Venture into the Zone Storyline Task -->
 
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_task_3_name">
 		<text>Aventúrate en la Zona</text>
@@ -90,7 +90,7 @@
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Cleric (Monolith Mechanic) Default Storyline Task -->
+	<!-- Cleric (Monolito Mechanic) Default Storyline Task -->
 
 	<string id="drx_sl_pri_monolith_monolith_mechanic_stalker_default_task_name">
 		<text>Obtener la siguiente tarea</text>
@@ -106,7 +106,7 @@
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Cleric (Monolith Mechanic) Recover Stolen Equipment Storyline Task -->
+	<!-- Cleric (Monolito Mechanic) Recover Stolen Equipment Storyline Task -->
 
 	<string id="drx_sl_pri_monolith_monolith_mechanic_stalker_task_1_name">
 		<text>Recuperar equipo de monolito robado</text>
@@ -122,13 +122,13 @@
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Cleric (Monolith Mechanic) Hunt for Food Storyline Task -->
+	<!-- Cleric (Monolito Mechanic) Hunt for Food Storyline Task -->
 
 	<string id="drx_sl_pri_monolith_monolith_mechanic_stalker_task_2_name">
 		<text>Cazar por comida</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_mechanic_stalker_task_2_text">
-		<text>Dirige una cacería en la Zona para cosechar carne para tus hermanos Monolith.</text>
+		<text>Dirige una cacería en la Zona para cosechar carne para tus hermanos Monolito.</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_mechanic_stalker_task_2_about">
 		<text>Hijo mío, debemos reponer nuestras tiendas de alimentos. ¿Dirigirás una cacería para que tus hermanos puedan festejar?</text>
@@ -138,19 +138,19 @@
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Cleric (Monolith Mechanic) Monolith Weapon Arsenal Storyline Task -->
+	<!-- Cleric (Monolito Mechanic) Monolito Weapon Arsenal Storyline Task -->
 
 	<string id="drx_sl_pri_monolith_monolith_mechanic_stalker_task_3_name">
-		<text>Monolith %s Arsenal</text>
+		<text>Monolito %s Arsenal</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_mechanic_stalker_task_3_text">
-		<text>Cleric quiere %s para expandir el poderoso arsenal de Monolith.</text>
+		<text>Cleric quiere %s para expandir el poderoso arsenal de Monolito.</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_mechanic_stalker_task_3_about">
 		<text>Hijo mío, debemos construir nuestro poderoso arsenal para que podamos alcanzar nuestros gloriosos objetivos.</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_mechanic_stalker_task_3_fetch_about">
-		<text>Debes traerme %s. Su éxito servirá mucho a la causa Monolith.</text>
+		<text>Debes traerme %s. Su éxito servirá mucho a la causa Monolito.</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_mechanic_stalker_task_3_fetch_finish">
 		<text>Lo has hecho bien, hijo mío.</text>
@@ -170,13 +170,13 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Rabbit (Monolith Trader) Payoff Change Factions Task -->
+	<!-- Rabbit (Monolito Trader) Payoff Change Factions Task -->
 
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_cf_task_1_name">
-		<text>Renunciar al pago para unirse a Monolith</text>
+		<text>Renunciar al pago para unirse a Monolito</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_cf_task_1_text">
-		<text>Te convertirás en Monolith, no tendrás más necesidad de dinero. Dale a Rabbit 1,000 RU para que te unas al Todopoderoso Monolito.</text>
+		<text>Te convertirás en Monolito, no tendrás más necesidad de dinero. Dale a Rabbit 1,000 RU para que te unas al Todopoderoso Monolito.</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_cf_task_1_about">
 		<text>Es bueno que hayas recuperado tus sentidos, hija mía. Le daremos la bienvenida al orden del Monolito, pero primero debe renunciar a todas sus posesiones mundanas en forma de 1.000 RU.</text>
@@ -199,7 +199,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Rabbit (Monolith Trader) Assault Territory Task -->
+	<!-- Rabbit (Monolito Trader) Assault Territory Task -->
 	<string id="pri_monolith_monolith_trader_stalker_task_1_name">
 		<text>Conquista al enemigo</text>
 	</string>
@@ -235,7 +235,7 @@
 		<text>Obtener un %s para Conejo</text>
 	</string>
 	<string id="pri_monolith_monolith_trader_stalker_task_3_text">
-		<text>Rabbit ha solicitado un nuevo rifle para agregar al arsenal Monolith.</text>
+		<text>Rabbit ha solicitado un nuevo rifle para agregar al arsenal Monolito.</text>
 	</string>
 	<string id="pri_monolith_monolith_trader_stalker_task_3_about">
 		<text>Nos volvemos más poderosos todos los días. Necesitamos más armamento para continuar logrando nuestros objetivos. Debes encontrar una nueva arma para nosotros, así podemos continuar haciendo crecer nuestro arsenal.</text>
@@ -280,7 +280,7 @@
 		<text>Recupera %s y tráemelos.</text>
 	</string>
 	<string id="pri_monolith_monolith_trader_stalker_task_5_fetch_finish">
-		<text>Has hecho bien en servir a Monolith.</text>
+		<text>Has hecho bien en servir a Monolito.</text>
 	</string>
 
 	
@@ -315,7 +315,7 @@
 	<!-- ----------------------------------------------------------------------------------------- -->
 
 	<!-- ----------------------------------------------------------------------------------------- -->
-	<!-- Cleric (Monolith Mechanic) Find Level 1 Toolkit Task -->
+	<!-- Cleric (Monolito Mechanic) Find Level 1 Toolkit Task -->
 
 	<string id="pri_monolith_monolith_mechanic_stalker_task_1_name">
 		<text>Encontrar %s para Clérigo</text>

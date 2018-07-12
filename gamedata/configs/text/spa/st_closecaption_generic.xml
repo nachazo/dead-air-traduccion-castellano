@@ -219,7 +219,7 @@
 		<text>¿Qué necesitas?</text>
 	</string>
 
-	<!-- Duty -->
+	<!-- Deber -->
 	<string id="cc_generic-dolg-meet_hello_1">
 		<text>¿Qué hay de nuevo?</text>
 	</string>
@@ -365,7 +365,7 @@
 		<text>Oye, ahora, eso no servirá. No apuntemos con ningún arma.</text>
 	</string>
 
-	<!-- Freedom -->
+	<!-- Libertad -->
 	<string id="cc_generic-freedom-meet_hello_1">
 		<text>Bueno, suéltalo!</text>
 	</string>
@@ -578,7 +578,7 @@
 		<text>Baja tu arma si quieres hablar.</text>
 	</string>
 
-	<!-- Monolith -->
+	<!-- Monolito -->
 	<string id="cc_generic-monolith-meet_hello_1">
 		<text>No confíes en nadie más que en el Monolito y tus hermanos hermanos. En nadie.</text>
 	</string>

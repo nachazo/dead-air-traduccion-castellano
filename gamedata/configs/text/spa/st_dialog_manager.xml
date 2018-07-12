@@ -59,7 +59,7 @@
 
 	<!-- DEFAULT END GAME TEXT: -->
 	<string id="drx_sl_default_endgame">
-		<text>Necesitas encontrar el Wish Granter. Se encuentra en algún lugar de la central nuclear de Chernobyl y no será fácil de encontrar. Esta es tu única salida de aquí.</text>
+		<text>Necesitas encontrar el Genio del Monolito. Se encuentra en algún lugar de la Central Nuclear de Chernobyl y no será fácil de encontrar. Esta es tu única salida de aquí.</text>
 	</string>
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
@@ -77,15 +77,15 @@
 
 	<!-- SIDOROVICH STORYLINE START GAME 1 DIALOG -->
 	<string id="drx_sl_esc_m_trader_game_start_dialog_1_0">
-		<text>Quiero encontrar el Wish Granter.</text>
+		<text>Quiero encontrar el Genio del Monolito.</text>
 	</string>
 	<string id="drx_sl_esc_m_trader_game_start_dialog_1_1">
-		<text>Claro, fácil, está en Chernobyl, el próximo autobús sale en veinte minutos, jeje... Escucha stalker, ha habido muchas personas antes que tú que han venido aquí buscando encontrar al Deseo Granter, ¿sabes lo que todos tienen en común? Todos están alimentando a los gusanos en este momento. El Wish Granter es solo una leyenda, no existe. Incluso si existiera, ¿sabes cuál sería tu deseo si lo encontrases? Que nunca fuiste a buscarlo en primer lugar. ¿Quieres hacerte rico, es eso? No necesitas desear tu fortuna. Alguien como usted puede ganar mucho dinero aquí en la Zona si es inteligente. Esto es lo que haré por ti; muéstrame tu PDA... Ah, allí, he cargado en una lista de contactos, personas aquí en la Zona que sé que están buscando que se haga el trabajo. Vaya a visitarlos cuando esté listo, algunos de ellos pagan bien. Mientras tanto, pregunte por el campamento, hay mucho trabajo aquí, diablos, incluso tengo algunos trabajos que necesito hacer de vez en cuando. Es una vida honesta, al menos tan honesto como se consigue aquí en la Zona.</text>
+		<text>Claro, fácil, está en Chernobyl, el próximo autobús sale en veinte minutos, jeje... Escucha stalker, ha habido muchas personas antes que tú que han venido aquí buscando encontrar al Genio, ¿sabes lo que todos tienen en común? Todos están alimentando a los gusanos ahora. El Genio del Monolito es solo una leyenda, no existe. Incluso si existiera, ¿sabes cuál sería tu deseo si lo encontrases? Que nunca fuiste a buscarlo en primer lugar. ¿Quieres hacerte rico, es eso? No necesitas desear tu fortuna. Alguien como usted puede ganar mucho dinero aquí en la Zona si es inteligente. Esto es lo que haré por ti; muéstrame tu PDA... Ah, allí, he cargado en una lista de contactos, personas aquí en la Zona que sé que están buscando que se haga el trabajo. Vaya a visitarlos cuando esté listo, algunos de ellos pagan bien. Mientras tanto, pregunte por el campamento, hay mucho trabajo aquí, diablos, incluso tengo algunos trabajos que necesito hacer de vez en cuando. Es una vida honesta, al menos tan honesto como se consigue aquí en la Zona.</text>
 	</string>
 
 	<!-- SIDOROVICH STORYLINE START GAME 1 END GAME 1 TEXT: -->
 	<string id="drx_sl_esc_m_trader_start_game_1_endgame_1">
-		<text>Gracias, stalker. Escucha, me enteré de que viniste aquí buscando a Wish Granter, ¿sí? Tengo noticias importantes para ti. El Wish Granter existe, no es simplemente una leyenda. Si eres valiente o lo suficientemente tonto como para ir a buscarlo, esta puede ser tu única oportunidad. El monolito se está congregando en Pripyat dejando solo unos pocos para defender a Chernobyl. Aún así, no será fácil de encontrar. Toda el área está inundada con anomalías que te harán trizas, niveles de rad que te matarán de pie y campos de psi que convertirán tu mente en sopa. Asegurate de estar preparado. Buena suerte a ti stalker.</text>
+		<text>Gracias, stalker. Escucha, me enteré de que viniste aquí buscando a Genio del Monolito, ¿sí? Tengo noticias importantes para ti. El Genio del Monolito existe, no es simplemente una leyenda. Si eres valiente o lo suficientemente tonto como para ir a buscarlo, esta puede ser tu única oportunidad. El monolito se está congregando en Pripyat dejando solo unos pocos para defender a Chernobyl. Aún así, no será fácil de encontrar. Toda el área está inundada con anomalías que te harán trizas, niveles de rad que te matarán de pie y campos de psi que convertirán tu mente en sopa. Asegurate de estar preparado. Buena suerte a ti stalker.</text>
 	</string>
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
@@ -106,12 +106,12 @@
 		<text>Quiero unirme a Deber.</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_game_start_dialog_1_1">
-		<text>¡Excelente! Has construido una reputación para ti mismo stalker, podríamos utilizar a alguien como tú. Muy bien, vayamos directo a los negocios. Necesito a alguien que sepa navegar la Zona. Tenemos muchos amigos en diversas áreas de la Zona que necesitan nuestra ayuda, pero no muchos de nuestros soldados pueden comunicarse con ellos. Te enviaré a ellos. Te dirán lo que necesitan hacer. Bienvenido a bordo.</text>
+		<text>¡Excelente! Te has ganado una reputación stalker, nos vendría bien alguien como tú. Muy bien, vayamos directos a los negocios. Necesito a alguien que sepa moverse por la Zona. Tenemos muchos amigos en diversas áreas de la Zona que necesitan nuestra ayuda, pero no muchos de nuestros soldados pueden comunicarse con ellos. Te enviaré con ellos. Te dirán lo que necesitan hacer. Bienvenido a bordo.</text>
 	</string>
 
 	<!-- PETRENKO STORYLINE START GAME 1 END GAME 1 TEXT: -->
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_start_game_1_endgame_1">
-		<text>Buen trabajo. Hay otra cosa que necesito que hagas, bueno, eso debe hacerse. Debes encontrar el Wish Granter. El monolito lo está guardando en lo profundo de Chernobyl NPP. Debe ser destruido. Escucha atentamente, sé exactamente lo que debes hacer. El Wish Granter concede deseos, ¿verdad? Esa es su debilidad. Encuéntralo y desea que se destruya. No caigas en la tentación de desear tus propios deseos egoístas, esto es por el bien mayor. Encuentra el Wish Granter y deséelo de la existencia. Esto es lo que debes hacer. Buena suerte para ti.</text>
+		<text>Buen trabajo. Hay otra cosa que necesito que hagas, bueno, eso debe hacerse. Debes encontrar el Genio del Monolito. El monolito lo está guardando en lo profundo de Chernobyl NPP. Debe ser destruido. Escucha atentamente, sé exactamente lo que debes hacer. El Genio del Monolito concede deseos, ¿verdad? Esa es su debilidad. Encuéntralo y desea que se destruya. No caigas en la tentación de desear tus propios deseos egoístas, esto es por el bien mayor. Encuentra el Genio del Monolito y deséelo de la existencia. Esto es lo que debes hacer. Buena suerte para ti.</text>
 	</string>
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
@@ -137,7 +137,7 @@
 
 	<!-- LUKASH STORYLINE START GAME 1 END GAME 1 TEXT: -->
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_start_game_1_endgame_1">
-		<text>Gracias. Escucha, quieres mantener la Zona libre, ¿verdad? Lo estás haciendo de la manera incorrecta. Difundir bien una persona a la vez no te hará ningún bien. Todos aquí son corruptos, solo se preocupan por sus propias necesidades. Incluso si logras cambiar esa opinión en alguien, morirán pronto, entonces ¿cuál es el punto? La solución es obvia El Cauterizador Cerebral ha sido desactivado, y el camino al Wish Granter está abierto, pero pocas personas lo saben todavía. Si puede ser el primero en llegar allí, puede usarlo para desear que la Zona se proteja a sí misma. Encuentra el Wish Granter, pero evita la tentación de usarlo para tus propios deseos. No será fácil, pero si realmente quieres preservar la Zona, esto es lo que debes hacer. Buena suerte para ti.</text>
+		<text>Gracias. Escucha, quieres mantener la Zona libre, ¿verdad? Lo estás haciendo de la manera incorrecta. Difundir bien una persona a la vez no te hará ningún bien. Todos aquí son corruptos, solo se preocupan por sus propias necesidades. Incluso si logras cambiar esa opinión en alguien, morirán pronto, entonces ¿cuál es el punto? La solución es obvia El Cauterizador Cerebral ha sido desactivado, y el camino al Genio del Monolito está abierto, pero pocas personas lo saben todavía. Si puede ser el primero en llegar allí, puede usarlo para desear que la Zona se proteja a sí misma. Encuentra el Genio del Monolito, pero evita la tentación de usarlo para tus propios deseos. No será fácil, pero si realmente quieres preservar la Zona, esto es lo que debes hacer. Buena suerte para ti.</text>
 	</string>
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
@@ -184,12 +184,12 @@
 		<text>¿Querías verme, jefe?</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_game_start_dialog_1_1">
-		<text>Oh si si. ¡Bueno! Me alegra que estes aqui. Tengo una tarea importante para ti. Quiero que recorras la Zona y aprendas todo lo que puedas. Hay mucho por descubrir que aún no hemos descubierto. Considéralo... investigación exploratoria. Te proporcioné una lista de contactos que te cuidarán a lo largo de tu viaje. Visítelos, pueden proporcionarle trabajo, comida o refugio. ¡Explora y sé curioso! ¡Sé audaz y aventurero! Espero que su investigación aumente enormemente nuestra comprensión de la Zona.</text>
+		<text>Oh si si. ¡Bien! Me alegra que estes aqui. Tengo una tarea importante para ti. Quiero que recorras la Zona y aprendas todo lo que puedas. Hay mucho por descubrir que aún no hemos descubierto. Considéralo... investigación exploratoria. Te proporcioné una lista de contactos que te cuidarán a lo largo de tu viaje. Visítalos, pueden proporcionarle trabajo, comida o refugio. ¡Explora y sé curioso! ¡Sé audaz y aventurero! Espero que su investigación aumente enormemente nuestra comprensión de la Zona.</text>
 	</string>
 
 	<!-- SAKHAROV STORYLINE START GAME 1 END GAME 1 TEXT: -->
 	<string id="drx_sl_yan_stalker_sakharov_start_game_1_endgame_1">
-		<text>Gracias. Entonces, dime, has viajado por la Zona y has visto todas sus maravillas. Pero aún no has estudiado el premio más grande, ¿verdad? Hablo por supuesto de Wish Granter. Puede alcanzarlo ahora, si se prepara. No será fácil. Le esperan niveles letales de radiación, campos psi, mutantes y francotiradores Monolith. Pero si realmente desea comprender la Zona, debe viajar hasta donde todo comenzó, la propia central nuclear. Buena suerte para ti.</text>
+		<text>Gracias. Entonces, dime, has viajado por la Zona y has visto todas sus maravillas. Pero aún no has estudiado el premio más grande, ¿verdad? Hablo por supuesto de Genio del Monolito. Puede alcanzarlo ahora, si se prepara. No será fácil. Le esperan niveles letales de radiación, campos psi, mutantes y francotiradores Monolito. Pero si realmente desea comprender la Zona, debe viajar hasta donde todo comenzó, la propia central nuclear. Buena suerte para ti.</text>
 	</string>
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
@@ -207,7 +207,7 @@
 
 	<!-- DUSHMAN STORYLINE START GAME 1 DIALOG -->
 	<string id="drx_sl_cit_killers_merc_trader_stalker_game_start_dialog_1_0">
-		<text>Entonces, ¿qué me puedes decir sobre tu empleador?</text>
+		<text>¿Qué puedes decirme de nuestro jefe?</text>
 	</string>
 	<string id="drx_sl_cit_killers_merc_trader_stalker_game_start_dialog_1_1">
 		<text>Pff... ¿Quién sabe? Nadie parece saber mucho sobre él. Todo lo que sé es que su dinero es bueno y que tiene mucho. Pero tenemos que trabajar para conseguirlo. Este lugar es un infierno viviente por lo que he escuchado, una verdadera pesadilla de vigilia. Demonios, con la mierda que ya he visto, lo creo. No importa, no hay nada por ahí que no pueda matar. De todos modos, suficiente mierda. Tienes que hacer tu trabajo y yo tengo el mío. ¿Tienes tu lista de contactos para conocer? Bueno. Mantente helado por ahí. Buena suerte.</text>
@@ -215,7 +215,7 @@
 
 	<!-- DUSHMAN STORYLINE START GAME 1 END GAME 1 TEXT: -->
 	<string id="drx_sl_cit_killers_merc_trader_stalker_start_game_1_endgame_1">
-		<text>Gracias. Escucha, tengo un mensaje para ti. Viene directamente de su empleador. Parece que lo has impresionado mucho. Él tiene una misión especial para ti y solo para ti. Debes encontrar el Wish Granter. Una vez que lo haga, debe pronunciar la siguiente frase; "Princeps magis opulentus". Haz esto exactamente y tu príncipe te recompensará generosamente.</text>
+		<text>Gracias. Escucha, tengo un mensaje para ti. Viene directamente de su empleador. Parece que lo has impresionado mucho. Él tiene una misión especial para ti y solo para ti. Debes encontrar el Genio del Monolito. Una vez que lo haga, debe pronunciar la siguiente frase; "Princeps magis opulentus". Haz esto exactamente y tu príncipe te recompensará generosamente.</text>
 	</string>
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
@@ -241,7 +241,7 @@
 
 	<!-- KUZNETSOV STORYLINE START GAME 1 END GAME 1 TEXT: -->
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_start_game_1_endgame_1">
-		<text>Gracias soldado. Me has hecho bien, ahora haré algo por ti, aunque es posible que no quieras escucharlo. Esperas rotarte de aquí pronto, ¿sí? Me temo que tus comandantes tienen otras ideas. El cordón se ha cerrado y se ha cerrado, nada ni nadie puede entrar o salir de la Zona, incluidos los militares. Te han dejado aquí para morir, e incluso tu cadáver será dejado para comida de gusanos. Ni siquiera puedes escapar en una bolsa para cadáveres. Pero toda esperanza no está perdida para ti, si te atreves. Solo queda un camino para que salgas de aquí, y se encuentra en Chernobyl. Enterrado en lo profundo de la central nuclear es el Wish Granter. Si puede encontrarlo, y si sobrevive, puede usarlo para desear salir de aquí. Es tu único soldado de esperanza. Buena suerte para ti.</text>
+		<text>Gracias soldado. Me has hecho bien, ahora haré algo por ti, aunque es posible que no quieras escucharlo. Esperas rotarte de aquí pronto, ¿sí? Me temo que tus comandantes tienen otras ideas. El cordón se ha cerrado y se ha cerrado, nada ni nadie puede entrar o salir de la Zona, incluidos los militares. Te han dejado aquí para morir, e incluso tu cadáver será dejado para comida de gusanos. Ni siquiera puedes escapar en una bolsa para cadáveres. Pero toda esperanza no está perdida para ti, si te atreves. Solo queda un camino para que salgas de aquí, y se encuentra en Chernobyl. Enterrado en lo profundo de la central nuclear es el Genio del Monolito. Si puede encontrarlo, y si sobrevive, puede usarlo para desear salir de aquí. Es tu único soldado de esperanza. Buena suerte para ti.</text>
 	</string>
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
@@ -288,7 +288,7 @@
 		<text>¿Qué puedo hacer para servir al Todopoderoso Monolito?</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_game_start_dialog_1_1">
-		<text>Hay mucho trabajo por hacer, mi hermano. La Zona debe ser purgada de los infieles. Debemos mantener el control de la población mutante. Tus hermanos necesitan comida y armas. Te reportarás a tus ancianos de Monolith y te daremos tus asignaciones. Debes hacer tu parte. Alabe el Monolito, y que el Monolito lo bendiga.</text>
+		<text>Hay mucho trabajo por hacer, mi hermano. La Zona debe ser purgada de los infieles. Debemos mantener el control de la población mutante. Tus hermanos necesitan comida y armas. Te reportarás a tus ancianos de Monolito y te daremos tus asignaciones. Debes hacer tu parte. Alabe el Monolito, y que el Monolito lo bendiga.</text>
 	</string>
 
 	<!-- RABBIT STORYLINE START GAME 1 END GAME 1 TEXT: -->
@@ -321,7 +321,7 @@
 
 	<!-- NPC:  Affirmation of task acceptance: -->
 	<string id="st_drx_sl_change_factions_task_accepted">
-		<text>Véame cuando esté hecho.</text>
+		<text>Ven a verme cuando esté hecho.</text>
 	</string>
 
 	<!-- ACTOR:  Leaves npc: -->
@@ -343,7 +343,7 @@
 
 	<!-- NPC: Affirmation of task acceptance: -->
 	<string id="st_accept_army_permission_task_accepted">
-		<text>Solo un momento... Aquí tienes. Trate de no perderse la fecha límite.</text>
+		<text>Solo un momento... Aquí tienes. Trata de no pasarte la fecha límite.</text>
 	</string>
 
 	<!-- ACTOR: Leaves npc: -->
@@ -367,7 +367,7 @@
 
 	<!-- NPC: Affirmation of task acceptance: -->
 	<string id="st_accept_bandit_permission_task_accepted">
-		<text>Solo espera un momento y te enviaré la información... Hecho. Durante tres días, te dejarán solo. Puede dedicarse a su negocio en paz.</text>
+		<text>Solo espera un momento y te enviaré la información... Hecho. Durante tres días, te dejarán solo. Puedes dedicarte a tus asuntos en paz.</text>
 	</string>
 
 	<!-- ACTOR: Leaves npc: -->
@@ -389,7 +389,7 @@
 
 	<!-- NPC: Affirmation of task acceptance: -->
 	<string id="st_accept_bandit_permission_task_accepted">
-		<text>Solo espera un momento y te enviaré la información... Hecho. Durante una semana, te dejarán solo. Puede dedicarse a su negocio en paz.</text>
+		<text>Solo espera un momento y te enviaré la información... Hecho. Durante una semana, te dejarán solo. uedes dedicarte a tus asuntos en paz.</text>
 	</string>
 
 	<!-- ACTOR: Leaves npc: -->
@@ -433,13 +433,13 @@
 		<text>No sé mucho más.</text>
 	</string>
 	<string id="dm_no_more_3">
-		<text>Eso es todo lo que sé. Preguntale a alguien mas.</text>
+		<text>Eso es todo lo que sé. Pregúntale a alguien mas.</text>
 	</string>
 	<string id="dm_no_more_4">
-		<text>Dios maldito, hombre. ¿Tienes un problema para mí? Preguntale a alguien mas.</text>
+		<text>Maldito sea, hombre. ¿Tienes un problemo conmigo? Pregúntale a alguien mas.</text>
 	</string>
 	<string id="dm_no_more_5">
-		<text>No mucho más puedo decirte, hombre.</text>
+		<text>No puedo decirte mucho más, hombre.</text>
 	</string>
 	<string id="dm_no_more_6">
 		<text>Puedes seguir preguntando la misma mierda, pero no tengo nada más que decir.</text>
@@ -492,7 +492,7 @@
 		<text>¿Cómo te va?</text>
 	</string>
 	<string id="dm_hello_general_2">
-		<text>Ey hombre. ¿Que pasa?</text>
+		<text>Ey tío. ¿Que pasa?</text>
 	</string>
 	<string id="dm_hello_general_3">
 		<text>Hola. ¿Cómo estás?</text>
@@ -534,7 +534,7 @@
 		<text>¿Qué quieres?</text>
 	</string>
 	<string id="dm_hello_13">
-		<text>De acuerdo, sólo una maldita pregunta, pero lo mejor es ver los traseros y los codos.</text>
+		<text>De acuerdo, sólo una maldita pregunta, pero luego quiero ver como te largas.</text>
 	</string>
 	<string id="dm_hello_14">
 		<text>¿Qué necesitas, stalker?</text>
@@ -697,7 +697,7 @@
 		<text>¿Sabías que los artefactos son casi indestructibles? A veces es mejor disparar al artefacto para que salte de la anomalía, en lugar de ser absorbido directamente por él.</text>
 	</string>
 	<string id="dm_anomalies_31">
-		<text>Ojalá hubiera conocido la Zona de la que he oído hablar: la que era como la tierra de nadie. ¿Cómo podemos hacernos ricos en estos días, cuando, después de cada emisión, un grupo de acechadores se apresura en cada campo de anomalía para recoger sus flores?</text>
+		<text>Ojalá hubiera conocido la Zona de la que he oído hablar: la que era como la tierra de nadie. ¿Cómo podemos hacernos ricos en estos días, cuando, después de cada emisión, un grupo de stalkers se apresura en cada campo de anomalía para recoger sus flores?</text>
 	</string>
 	<string id="dm_anomalies_32">
 		<text>¿Por qué debería darle algún consejo, más aún cuando se trata del negocio que muchos de nosotros usamos para ganar dinero? Bueno, consigue un buen detector y ayúdate tú mismo. Los científicos probablemente te venderán lo que estás buscando.</text>
@@ -798,7 +798,7 @@
 		<text>El subterráneo de Agroprom se encuentra debajo de los edificios del instituto de investigación. Escucho cosas diferentes al respecto todo el tiempo: un día escuché que está lleno de anomalías, perfecto para la caza de artefactos, y luego es estéril, nada más que mutantes... Luego escucho que el lugar está lleno de controladores y poltergeists. ¿Yo? Ni siquiera sé qué creer. Maldito si voy a ir allí con todas las jarras patrullando sobre el suelo, sin embargo.</text>
 	</string>
 	<string id="dm_information_3">
-		<text>¿Alguna vez has estado en Rostok? Tienes los 100 Rads y la arena al otro lado de la calle para mantenerte ocupado. Una verdadera estrella brillante en medio del culo de la Tierra, ¿no crees? Todo el lugar solía ser un complejo de fábrica gigante, por lo que Duty encontró perfecto para establecer allí su base de operaciones. No me quejo, sin embargo; hacen un buen trabajo para mantener toda la inmundicia. No verás bandidos o mutantes sobre el lugar.</text>
+		<text>¿Alguna vez has estado en Rostok? Tienes los 100 Rads y la arena al otro lado de la calle para mantenerte ocupado. Una verdadera estrella brillante en medio del culo de la Tierra, ¿no crees? Todo el lugar solía ser un complejo de fábrica gigante, por lo que Deber encontró perfecto para establecer allí su base de operaciones. No me quejo, sin embargo; hacen un buen trabajo para mantener toda la inmundicia. No verás bandidos o mutantes sobre el lugar.</text>
 	</string>
 	<string id="dm_information_4">
 		<text>El Cordón es más silencioso que la mayoría de las otras áreas. La mayoría se queda en el pueblo novato al norte del cordón militar real hasta que tenga suficiente equipo y experiencia para adentrarse en la Zona. Encontrarás a Nimble y Sidorovich allí también, Nimble te ayudará a conseguir un equipo de alta gama, lo mejor de lo mejor, mientras Sid se sienta en su búnker donde te venderá bienes de contrabando; comida, suministros médicos, entiendes la idea.</text>
@@ -834,7 +834,7 @@
 		<text>Los Grandes Pantanos son en su mayoría un agujero húmedo e irradiado en el suelo, pero encontrarás algunos edificios abandonados y asentamientos aquí y allá, que vale la pena saquear. También está la base Clear Sky en alguna parte hacia el sur. Un lugar bastante aislado.</text>
 	</string>
 	<string id="dm_information_15">
-		<text>¿Has oído hablar de los almacenes del ejército? Freedom instaló allí su cuartel general después de que un grupo de bandidos les entregara el trasero un par de años atrás; afirman que están protegiendo la Zona al defender la barrera allí, lo que lleva a Radar. Completa tontería, si me preguntas. Si los bandidos pudieran arrancarles uno nuevo, puedes estar seguro de que el Monolito ya lo habría hecho.</text>
+		<text>¿Has oído hablar de los almacenes del ejército? Libertad instaló allí su cuartel general después de que un grupo de bandidos les entregara el trasero un par de años atrás; afirman que están protegiendo la Zona al defender la barrera allí, lo que lleva a Radar. Completa tontería, si me preguntas. Si los bandidos pudieran arrancarles uno nuevo, puedes estar seguro de que el Monolito ya lo habría hecho.</text>
 	</string>
 	<string id="dm_information_16">
 		<text>El monolito está escondido en Pripyat, por lo que he oído. No hay manera de superar todas las anomalías y mutantes mientras te disparan todo el tiempo.</text>
@@ -846,13 +846,13 @@
 		<text>Esos bastardos volvieron a encender Cauterizador Cerebral cuando tomaron el Radar. No hay forma de que llegue al otro lado de la Zona ahora, a menos que sienta ganas de alimentar a la fauna local o ser convertido en uno de esos zombis como los que ve en Yantar.</text>
 	</string>
 	<string id="dm_information_19">
-		<text>Cada vez más acechadores se han matado tratando de atravesar el Bosque Rojo desde la toma del radar. Forester solo puede hacer mucho con su equipo para ayudar, y no tengo ganas de meter mis bolas en la sartén por el bien de unos pocos artefactos.</text>
+		<text>Cada vez más stalkers se han matado tratando de atravesar el Bosque Rojo desde la toma del radar. Forester solo puede hacer mucho con su equipo para ayudar, y no tengo ganas de meter mis bolas en la sartén por el bien de unos pocos artefactos.</text>
 	</string>
 	<string id="dm_information_20">
 		<text>El Territorio Salvaje solía ser el sitio de una planta de fabricación bastante grande, pero ahora el lugar está plagado de monstruos y está lleno de anomalías. La única razón real para pasar es si quiere llegar a Rostok o si está desesperado por el botín, y hay muchas otras rutas seguras para usar en su lugar.</text>
 	</string>
 	<string id="dm_information_21">
-		<text>¿Qué le puede pedir? ¿Qué es lo único que realmente quieres? Si me ayudas a encontrar el Wish Granter, entonces tal vez se haga realidad. Escuché que está enterrado debajo de la planta de energía en alguna parte. ¿Crees que quizás eso es lo que el Monolito está luchando para proteger?</text>
+		<text>¿Qué le puede pedir? ¿Qué es lo único que realmente quieres? Si me ayudas a encontrar el Genio del Monolito, entonces tal vez se haga realidad. Escuché que está enterrado debajo de la planta de energía en alguna parte. ¿Crees que quizás eso es lo que el Monolito está luchando para proteger?</text>
 	</string>
 	<string id="dm_information_22">
 		<text>Yantar es morboso y está empapado de muerte. Cualquiera que se atreva a ir demasiado lejos se vuelve loco. Zombies y snorks están por todos lados esperando a presentarse ante ti. Siguen saliendo de esa fábrica, y la mitad del tiempo cuando los científicos les disparan, se dan cuenta de que es uno de sus propios hombres el que les disparaba. Está realmente jodido.</text>
@@ -885,25 +885,25 @@
 		<text>Oye, ¿has visto alguna vez a un enano naranja abriéndose camino entre densas cañas? Seguro que sí, y esas bolsas de basura se destacan tan bien que puedes ver a un científico a una milla de distancia sin siquiera necesitar usar tus binoculares. Recientemente, me he dado cuenta de que han estado usando variaciones de color que se parecen menos a la basura inductora de vómitos que generalmente emiten los científicos.</text>
 	</string>
 	<string id="dm_information_32">
-		<text>Las únicas cosas que tienen menos cerebro en la cabeza que esos solitarios mestizos son los miembros de la facción Monolith. Es divertido escuchar historias sobre ellos y sus acciones; Parecen la versión de los retardados de la Zona, que solo pueden pensar en una cosa y nada más. Lástima que su estupidez los haga temer menos a la muerte.</text>
+		<text>Las únicas cosas que tienen menos cerebro en la cabeza que esos solitarios mestizos son los miembros de la facción Monolito. Es divertido escuchar historias sobre ellos y sus acciones; Parecen la versión de los retardados de la Zona, que solo pueden pensar en una cosa y nada más. Lástima que su estupidez los haga temer menos a la muerte.</text>
 	</string>
 	<string id="dm_information_33">
 		<text>Hombre, recuerdo historias de hace mucho tiempo, algunos tipos que lucían un escorpión en sus parches patearon la mierda de algunos chicos en pijama azul. Todos aquí bromean sobre ellos y sus ropas porque eran más débiles que un bebé ciego que se arrastra en su nido... Oh, espera, ahora que lo recuerdo, tiene sentido... Todos los cerebritos eran terribles al sostener pistolas en sus manos. Simplemente no saben cómo vivir de lo que la Zona les da.</text>
 	</string>
 	<string id="dm_information_34">
-		<text>Si supieras lo que daría por una ola mutante lo suficientemente grande como para invadir a Rostok. Cada vez que intentamos acercarnos, los tontos nos expulsan de negro y rojo. Se han acomodado allí realmente bien; incluso logró establecer un par de PKM para protegerse de intrusos como nosotros. Están armados bastante bien, pero su estructura de mando... Él, él, no son los más puros de todos en la Zona. Un montón de ofertas secretas entre nosotros y Duty, pero ahora quieren que todos mantengan la boca cerrada, y no quieren ver nuestras tazas cerca de las suyas. Dios sabe cuándo dejarán de hacer una rabieta sobre su orgullo marcado.</text>
+		<text>Si supieras lo que daría por una ola mutante lo suficientemente grande como para invadir a Rostok. Cada vez que intentamos acercarnos, los tontos nos expulsan de negro y rojo. Se han acomodado allí realmente bien; incluso logró establecer un par de PKM para protegerse de intrusos como nosotros. Están armados bastante bien, pero su estructura de mando... Él, él, no son los más puros de todos en la Zona. Un montón de ofertas secretas entre nosotros y Deber, pero ahora quieren que todos mantengan la boca cerrada, y no quieren ver nuestras tazas cerca de las suyas. Dios sabe cuándo dejarán de hacer una rabieta sobre su orgullo marcado.</text>
 	</string>
 	<string id="dm_information_35">
 		<text>La libertad solía jactarse de su fuerza y"la libertad en la Zona". Les mostramos lo que la libertad puede hacer aquí y tuvieron que alejarnos de sus locos. En estos días, querrán que pienses lo contrario, y que cambiaron de base porque es "más seguro para los mutantes" o que "podemos cumplir nuestro deber de mantener a los invasores a raya más fácilmente". Recuerda, amigo: todo es una mierda. Simplemente no quieren admitir que sentimos miedo en lo más profundo de sus filas.</text>
 	</string>
 	<string id="dm_information_36">
-		<text>Los muchachos del ejército no aparecen tanto como solían hacerlo en el día. Se ha corrido la voz de que sus operaciones se han ido por la cuneta. Definitivamente no me sentiría muy bien al ser mandado por un idiota que solo quiere que saque un paquete de mutantes o un grupo de acechadores aparte solo para su propio beneficio. Lo tienen difícil, claro, pero parece que sus fallas han logrado realmente algo de sentido en sus cráneos.</text>
+		<text>Los muchachos del ejército no aparecen tanto como solían hacerlo en el día. Se ha corrido la voz de que sus operaciones se han ido por la cuneta. Definitivamente no me sentiría muy bien al ser mandado por un idiota que solo quiere que saque un paquete de mutantes o un grupo de stalkers aparte solo para su propio beneficio. Lo tienen difícil, claro, pero parece que sus fallas han logrado realmente algo de sentido en sus cráneos.</text>
 	</string>
 	<string id="dm_information_37">
 		<text>El advenimiento de los artefactos y su estudio en profundidad a veces me deja pensando qué tanto peor pueden ser las cosas. Estas cosas poseen propiedades incalculables, algunas tan devastadoras que su incorporación a las armas podría superar cualquier cosa hecha hasta ahora. ¡Solo imagina lo que podría hacer una bomba construida con la energía enjaezada de varios tipos de artefactos!</text>
 	</string>
 	<string id="dm_information_38">
-		<text>Me parece irónico cómo Freedom es la facción que sigue hablando de la necesidad de que todos hagan uso de la Zona, mientras que Duty es el que viene a Yantar para protegernos y regalar artefactos a nuestros científicos líderes para ayudarlos a encontrar nuevas formas de extinguir la vida de la Zona.</text>
+		<text>Me parece irónico cómo Libertad es la facción que sigue hablando de la necesidad de que todos hagan uso de la Zona, mientras que Deber es el que viene a Yantar para protegernos y regalar artefactos a nuestros científicos líderes para ayudarlos a encontrar nuevas formas de extinguir la vida de la Zona.</text>
 	</string>
 	<string id="dm_information_39">
 		<text>Los bandidos siguen tomando rehenes para extorsionar dinero y varios objetos de valor. No les importa la honestidad y cumplir su palabra, no olvidar el hecho de que actúan como idiotas y las formas de vida más bajas. Lo hacen mejor cuando aparece alguien más inteligente, aunque desde hace un tiempo se mantienen a raya, y ningún líder dedicado se ha acercado aún para tomar el control de cada establecimiento de bandidos en toda la Zona. En este momento, se están concentrando principalmente en grupos pequeños y organizados esparcidos por todas partes, lo que hace que sea más difícil infundir confusión y pánico entre ellos cuando alguien importante exhala su último aliento.</text>
@@ -915,16 +915,16 @@
 		<text>La zona puede ser fascinante a veces. Simplemente mirando el mundo debajo de ti cuando estás sentado encima de una torre de vigilancia u otra estructura alta, con toda la vida corriendo, las maravillosas formaciones que crean las anomalías, escuchando la relajante música que se reproduce en los 100 Rads mientras ves la noche dominar el día lugar... Eso es lo que me gusta de la Zona: es fatal, pero hermoso al mismo tiempo.</text>
 	</string>
 	<string id="dm_information_42">
-		<text>Si todavía voy a tener que sentarme aquí y no hacer nada más que pegar algunos mutantes insignificantes con mi arma, entonces tendré que reconsiderar mi decisión de unirme a Duty. Todos los días me presionan para hacer esto y lo otro, pero ¿qué obtengo? Apenas nada. Llevo aquí el tiempo suficiente como para ser enviado a zonas mucho más peligrosas, pero parece que un montón de otros tipos han caído en el mismo agujero que yo. Es casi como si los altos mandos no quisieran dedicarse a cosas realmente serias y estuvieran sentados de manera segura en sus bases hasta que llegara una oportunidad tan cercana que los pudiera sacar de sus sillas.</text>
+		<text>Si todavía voy a tener que sentarme aquí y no hacer nada más que pegar algunos mutantes insignificantes con mi arma, entonces tendré que reconsiderar mi decisión de unirme a Deber. Todos los días me presionan para hacer esto y lo otro, pero ¿qué obtengo? Apenas nada. Llevo aquí el tiempo suficiente como para ser enviado a zonas mucho más peligrosas, pero parece que un montón de otros tipos han caído en el mismo agujero que yo. Es casi como si los altos mandos no quisieran dedicarse a cosas realmente serias y estuvieran sentados de manera segura en sus bases hasta que llegara una oportunidad tan cercana que los pudiera sacar de sus sillas.</text>
 	</string>
 	<string id="dm_information_43">
 		<text>La libertad puede parecer un grupo de lunáticos y personas que se sientan perezosamente sobre sus traseros, pero pueden ser bastante hábiles cuando les llega la necesidad de serlo. Han logrado difundir información errónea sobre nosotros antes de reducir la fe de otros stalkers en deber. Además de eso, también siguen diciendo que la protección de la barrera es lo que hacen y cuánto mejor los hace que nosotros. Ni siquiera pienses en creer en sus tonterías; no han estado protegiendo la barrera por tanto tiempo, y nunca han jugado un papel lo suficientemente grande en ella... hasta que vinieron a estrellarse en los almacenes, eso es. Les responderemos por tratar de crear una figura de autoridad más grande sobre esta "defensa" en un momento posterior.</text>
 	</string>
 	<string id="dm_information_44">
-		<text>He visto muchas cosas en la Zona durante mis viajes aquí, y la mayor parte proviene de los tiempos en que no formaba parte de Duty. Demonios, los stalkers militares son probablemente los más duros que puedas conocer, salvo los lunáticos que siguen llegando desde el norte. A diferencia de las fuerzas militares que no penetran tan profundamente en la Zona o que no han estado aquí el tiempo suficiente, han recibido entrenamiento especial o han experimentado lo suficiente; poseen equipos que superan fácilmente a los de la mayoría. Son enemigos feroces en la batalla, claro, pero si eres un pez gordo, puedes intentar sacarlos por tu cuenta... aunque no te sugeriría que lo hiciéramos, incluso si nuestros lazos con los stalkers militares son mucho, mucho más. sueltos que los de los soldados regulares.</text>
+		<text>He visto muchas cosas en la Zona durante mis viajes aquí, y la mayor parte proviene de los tiempos en que no formaba parte de Deber. Demonios, los stalkers militares son probablemente los más duros que puedas conocer, salvo los lunáticos que siguen llegando desde el norte. A diferencia de las fuerzas militares que no penetran tan profundamente en la Zona o que no han estado aquí el tiempo suficiente, han recibido entrenamiento especial o han experimentado lo suficiente; poseen equipos que superan fácilmente a los de la mayoría. Son enemigos feroces en la batalla, claro, pero si eres un pez gordo, puedes intentar sacarlos por tu cuenta... aunque no te sugeriría que lo hiciéramos, incluso si nuestros lazos con los stalkers militares son mucho, mucho más. sueltos que los de los soldados regulares.</text>
 	</string>
 	<string id="dm_information_45">
-		<text>Estoy cansado de cómo todos perciben que somos simplemente un grupo de potheads reunidos para no hacer otra cosa que elogiar la Zona y sus creaciones. Realmente tratamos de difundir información útil que hemos adquirido a aquellos que la necesitan, y tomamos medidas hostiles cuando es necesario y cuando hay suficiente peligro, a diferencia de Duty, a quien le gusta contarle a todo el mundo mientras actúan como un grupo. de niños duros que no hacen más que golpear patéticos bandidos y mutantes débiles cuando no están sentados en su base disparando a los perros.</text>
+		<text>Estoy cansado de cómo todos perciben que somos simplemente un grupo de potheads reunidos para no hacer otra cosa que elogiar la Zona y sus creaciones. Realmente tratamos de difundir información útil que hemos adquirido a aquellos que la necesitan, y tomamos medidas hostiles cuando es necesario y cuando hay suficiente peligro, a diferencia de Deber, a quien le gusta contarle a todo el mundo mientras actúan como un grupo. de niños duros que no hacen más que golpear patéticos bandidos y mutantes débiles cuando no están sentados en su base disparando a los perros.</text>
 	</string>
 	<string id="dm_information_46">
 		<text>Una de las figuras que consideramos más bien importante es Forester. Él tiene buen ojo para encontrar varios caminos a través del denso bosque, pero, por desgracia, su vejez lo ha llevado lo mejor de sí... Ya no puede evitar eso fuera de su refugio seguro. Brindó una valiosa ayuda a Scar, pudiendo así ayudar a Lebedev. Todavía se puede encontrar a Forester en el Bosque Rojo... Creo que permanecerá allí el resto de su vida hasta que se marchite lo suficiente como para quedar como un recuerdo impreso en nuestras mentes.</text>
@@ -948,7 +948,7 @@
 		<text>Dicen que hay trabajo en Yantar cerca del campo psi, si eres lo suficientemente tonto. Necesitan probar drogas y trajes para poder avanzar hacia el norte. El problema es que no hay garantía de que vuelvas. Dicen que tu cabeza hierve y tu cuerpo no funciona correctamente; comienzas a alucinar o pierdes tu habla. Tu mejor amigo de repente podría ser tu peor enemigo. Probablemente sea el trabajo más peligroso que hay ahora.</text>
 	</string>
 	<string id="dm_information_53">
-		<text>The Cauterizador Cerebral, hombre. Hay una gran carrera para encontrar un camino a través de ella, ya sea mediante el uso de un traje, o la búsqueda de algún tipo de túnel más allá de lo normal. Por supuesto, todos, desde los científicos hasta los militares, quieren encontrar un camino para superarlo, y quien llegue primero obtendrá un tesoro de artefactos, botín e información.</text>
+		<text>El Cauterizador Cerebral, hombre. Hay una gran carrera para encontrar un camino a través de ella, ya sea mediante el uso de un traje, o la búsqueda de algún tipo de túnel más allá de lo normal. Por supuesto, todos, desde los científicos hasta los militares, quieren encontrar un camino para superarlo, y quien llegue primero obtendrá un tesoro de artefactos, botín e información.</text>
 	</string>
 	<string id="dm_information_54">
 		<text>Hombre, echo de menos la antigua base en el Valle Oscuro. El área era espeluznante como la mierda a veces, pero teníamos un campamento bastante bueno en ese entonces. Pero tan pronto como los bandidos comenzaron a deambular desde la Basura, se hizo cada vez más difícil mantener un pie allí. El deber empujaría, y los bandidos presionarían, y luego, al final, estaríamos perdiendo muchachos y puestos avanzados como el agua a través de un colador. Aún así, al menos estamos establecidos aquí. Podemos ir a dormir por la noche y solo tenemos que lidiar con los sueños extraños... y posiblemente una resaca en la mañana.</text>
@@ -1049,7 +1049,7 @@
 		<text>Mierda, no puedo soportar más esto. Las chicas, realmente las extraño. Tenía un montón de chicas en casa, les gustaban los tipos musculares, me gustaba el tipo de tetas grandes. Tuvimos un entendimiento. Pero aquí, ¡ni siquiera he visto un pezón femenino! Y no estoy tocando esas revistas que vende Beard. Todos son grasientos y pegajosos, no quiero saber cómo se volvieron de esa manera. Había tantas mujeres en este lugar antes de 1986, antes de que se convirtiera en un desierto radiactivo. Fiestas, música. Música comunista, pero música, no obstante. Ahora me excitan sus fantasmas. Pienso en cuántos peces había en el estanque en Skadovsk o Yanov. Apuesto a que había suficiente cola para toda la vida. Esto es una mierda, tengo que echar un polvo. Oye, en un asunto sin relación, ¿sabes dónde fue asesinada esa manada de carnes recientemente? De hecho voy a caminar.</text>
 	</string>
 	<string id="dm_information_86">
-		<text>¿Has oído hablar de ese sistema de liberación rápida? Esa cosa me salvó el culo cuando me encontré con una gran manada de jabalíes y carnes. Tomé un botín muy, muy bueno de lo que parecía un cementerio Duty. Había literalmente docenas de cuerpos junto con todo su equipo, pistolas, artefactos, no podía creer lo que veía. De hecho tuve que dejar algunos artefactos atrás, y nunca hago eso, nunca. Pero yo estaba lleno de agallas, y me sentí como una mula justo antes de que su espalda se rompiera. Así que es hora de cobrarlo, pensé. Mientras caminaba lentamente hacia la base, murmuré para mis adentros: "ahora no, por favor, no ahora, simplemente no hoy, por favor", y entonces el rugido bajo de un jabalí cortó mis plegarias a la mitad. Empecé a huir del sonido, pero este aire no es lo suficientemente bueno para eso. Era como un 95% de nitrógeno, y cada vez que respiraba, me ahogaba. Así que tuve que tomar una decisión, tuve que dejar el botín. Cuando esa mochila se estrelló contra el suelo como un meteoro, salté hacia adelante como una gacela con gracia y otras cosas, el aire tenía oxígeno una vez más. Más tarde volví al alijo, faltaban algunos artefactos, pero también había algo de sangre y un buen trozo de lo que parecía ser carne humana cerca de él. Alguien intentó dar un golpe en la mochila, pero probablemente fue perseguido por esos jabalíes. Tal vez lo estaban protegiendo mientras yo no estaba. Tengo un nuevo respeto por los verracos. No he comido carne de jabalí desde entonces.</text>
+		<text>¿Has oído hablar de ese sistema de liberación rápida? Esa cosa me salvó el culo cuando me encontré con una gran manada de jabalíes y carnes. Tomé un botín muy, muy bueno de lo que parecía un cementerio Deber. Había literalmente docenas de cuerpos junto con todo su equipo, pistolas, artefactos, no podía creer lo que veía. De hecho tuve que dejar algunos artefactos atrás, y nunca hago eso, nunca. Pero yo estaba lleno de agallas, y me sentí como una mula justo antes de que su espalda se rompiera. Así que es hora de cobrarlo, pensé. Mientras caminaba lentamente hacia la base, murmuré para mis adentros: "ahora no, por favor, no ahora, simplemente no hoy, por favor", y entonces el rugido bajo de un jabalí cortó mis plegarias a la mitad. Empecé a huir del sonido, pero este aire no es lo suficientemente bueno para eso. Era como un 95% de nitrógeno, y cada vez que respiraba, me ahogaba. Así que tuve que tomar una decisión, tuve que dejar el botín. Cuando esa mochila se estrelló contra el suelo como un meteoro, salté hacia adelante como una gacela con gracia y otras cosas, el aire tenía oxígeno una vez más. Más tarde volví al alijo, faltaban algunos artefactos, pero también había algo de sangre y un buen trozo de lo que parecía ser carne humana cerca de él. Alguien intentó dar un golpe en la mochila, pero probablemente fue perseguido por esos jabalíes. Tal vez lo estaban protegiendo mientras yo no estaba. Tengo un nuevo respeto por los verracos. No he comido carne de jabalí desde entonces.</text>
 	</string>
 	<string id="dm_information_87">
 		<text>A veces encontrarás comida realmente buena. Podría comer algunos frutos secos, carne bastante buena o pan limpio. Pero hay otras veces, siempre que esas emisiones golpean duro y a menudo, donde la reposición de existencias no es tan fácil, por lo que las opciones son comer mierda o cenar en alguna mierda. Las chuletas irradiadas que Barba vende en su lugar llenarán tu vientre sin problemas, pero debes ocuparte de esas partículas radiadas. Recuerde lavarlos con algo limpio, como agua o algo más fuerte. Hubo un bastardo gordo que engulló unas 20 piezas de esta mierda infestada a la parrilla. Estaba tan jodido después, otros Stalkers tuvieron que alimentarlo con pastillas antirrayas, y tuvo que devolverlos más tarde. Incluso comer es peligroso aquí, así que ten cuidado con lo que tratas en la boca y deberías estar "casi bien" la mayor parte del tiempo.</text>
@@ -1112,7 +1112,7 @@
 		<text>Lo he hecho todo, amigo, he estado aquí por tanto tiempo. He visto oleadas de pseudodogs inundando bases, pseudogigantes luchando entre sí, incluso he visto controladores hablar con la gente. Sí, he visto eso. Antes de eso, fumé una tonelada de ganja, pero fue para que mi cabeza no explotara por el sonido de esas auras chillonas que emiten los controladores. Cuando te enfrentes a ellos, hagas lo que hagas, mantén la calma y concéntrate en huir del sonido o realizar la maniobra de las pelotas de hierro, que corre hacia el sonido y prepárate para descargar todo lo que tienes en la cabeza. Sin embargo, no lo recomendaría. He visto chicos duros llorar como bebés cuando fallan. Poco después se les rompe la mente y ya no se les puede llamar personas.</text>
 	</string>
 	<string id="dm_information_107">
-		<text>Naturalmente, soy el hombre perfecto para este lugar. Diría que tengo exactamente lo que se necesita para hacerlo aquí. Estaba cruzando una serie de cárceles en toda Europa del Este antes de encontrar este agujero infernal. Algunos de ellos eran de mejor calidad que algunos hoteles de grado A. Jesús, había servicio a la habitación en uno de ellos, ¿cómo demonios se suponía que debía arrepentirme por mis crímenes cuando era tan bueno estar allí? Logré escapar de la última, rechacé a un guardia, no me importó si tenía familia, niños, amante, no me importaba ni un carajo. Así que vine aquí, al menos la prisión aquí es mucho, mucho más grande. Casi se siente como libertad, y es a quién me uní inmediatamente cuando llegué. Deber tiene sus conexiones con la ley. Yo y la ley no nos llevamos bien. Algunos de los coños de Freedom me dicen que soy un monstruo, pero una vez que vienen los verdaderos monstruos, adivina quién va a salvarles el culo. Pero mi especialidad es el asesinato, puedo cortar a un hombre más rápido que un cerdo, así que me usan contra Duty siempre que la situación lo requiera.</text>
+		<text>Naturalmente, soy el hombre perfecto para este lugar. Diría que tengo exactamente lo que se necesita para hacerlo aquí. Estaba cruzando una serie de cárceles en toda Europa del Este antes de encontrar este agujero infernal. Algunos de ellos eran de mejor calidad que algunos hoteles de grado A. Jesús, había servicio a la habitación en uno de ellos, ¿cómo demonios se suponía que debía arrepentirme por mis crímenes cuando era tan bueno estar allí? Logré escapar de la última, rechacé a un guardia, no me importó si tenía familia, niños, amante, no me importaba ni un carajo. Así que vine aquí, al menos la prisión aquí es mucho, mucho más grande. Casi se siente como libertad, y es a quién me uní inmediatamente cuando llegué. Deber tiene sus conexiones con la ley. Yo y la ley no nos llevamos bien. Algunos de los coños de Libertad me dicen que soy un monstruo, pero una vez que vienen los verdaderos monstruos, adivina quién va a salvarles el culo. Pero mi especialidad es el asesinato, puedo cortar a un hombre más rápido que un cerdo, así que me usan contra Deber siempre que la situación lo requiera.</text>
 	</string>
 	<string id="dm_information_108">
 		<text>Aquí, estás del lado de la gente o de las bestias mutantes que deambulan por el lugar. Si eres una bestia, seguramente te perseguirán, si eres lo suficientemente civilizado y actúas como una persona, podrías sobrevivir por un tiempo. Nos mantenemos unidos, y es por eso que hay asentamientos humanos en la cocina de este infierno. Si no nos mantenemos unidos, la Zona se convertiría en un páramo de proporciones invisibles en muy poco tiempo. Incluso si es una cucaracha bandido, manténlo vivo, disparale en el pie y consigue su escondite, pero déjalo estar. Apenas hay gente aquí, y andar perdiendo gente buena no beneficia a nadie. Sé que quieres ser Rambo y eres gatillo feliz todo el tiempo, pero no serás Rambo por mucho tiempo aquí. Los Rambos no sobreviven en la Zona por mucho tiempo.</text>
@@ -1220,7 +1220,7 @@
 		<text>No quieres desmayarte o dejar de moverte ni por un segundo. Si lo haces, eres carne muerta. Ningún Stalker, un tipo bueno o un tipo malo, te ayudará si no puedes cuidarte. Si te disparan, incluso si tienes tu chaleco antibalas, esa perra te duele como un hijo de puta. Unos cuantos golpes más y estarás luchando para mantenerte consciente del dolor. No dejes que eso suceda. Ahí es cuando las cosas terminan para ti. Estaba este aspirante a Stalker, este novato que acaba de salir de la caja, todavía lleno de judias, pensó que si invertía en un buen chaleco, algunos platos a prueba de balas, sería imparable. Murió en algún lugar después de que se comió algunas balas en el pecho. El impacto aplastó sus costillas y las costillas pincharon sus pulmones. El dolor fue demasiado para él. Él vomitó su interior, y probablemente se deshidrató allí mismo. Encontraron su cuerpo destrozado por hambrientos perritos o algo más feo. No quiero contar la historia de cómo encontraron tu cuerpo, aight?</text>
 	</string>
 	<string id="dm_information_143">
-		<text>El cuerpo humano es una máquina muy fiable. Puede funcionar casi sin problemas durante décadas, y es uno de los sistemas más complejos del mundo conocido. The Zone es un poco diferente. Los sistemas inmunes no funcionan tan bien como lo hacen normalmente, la tos dura más, el cáncer es obviamente endémico. Es como si estuvieras inmediatamente agotado una vez que entraste en la Zona. Si quieres quedarte aquí, necesitas un espíritu muy fuerte, ya sea en forma alcohólica o psicológica, preferiblemente ambos. Algunos cobardes no soportarán un bocado de esos perros, otros pueden sufrir mucho castigo. Lo que es diferente es el espíritu, y algunas veces las drogas, pero principalmente el espíritu. Debes tener objetivos fuertes y predefinidos para mantenerte en la mierda cotidiana. Esa es la diferencia entre principiantes, adeptos y Stalkers reales. Cualquiera puede bailar el vals aquí, pavoneándose con armas nuevas y armaduras brillantes, pero cuando se pone horrible, algunas personas rompen mucho más fácilmente que otras, y no tiene nada que ver con las armas que tienes o la armadura que usas. Ayudan, pero lo que te impulsa adentro es lo que determina si vives o mueres.</text>
+		<text>El cuerpo humano es una máquina muy fiable. Puede funcionar casi sin problemas durante décadas, y es uno de los sistemas más complejos del mundo conocido. El Zone es un poco diferente. Los sistemas inmunes no funcionan tan bien como lo hacen normalmente, la tos dura más, el cáncer es obviamente endémico. Es como si estuvieras inmediatamente agotado una vez que entraste en la Zona. Si quieres quedarte aquí, necesitas un espíritu muy fuerte, ya sea en forma alcohólica o psicológica, preferiblemente ambos. Algunos cobardes no soportarán un bocado de esos perros, otros pueden sufrir mucho castigo. Lo que es diferente es el espíritu, y algunas veces las drogas, pero principalmente el espíritu. Debes tener objetivos fuertes y predefinidos para mantenerte en la mierda cotidiana. Esa es la diferencia entre principiantes, adeptos y Stalkers reales. Cualquiera puede bailar el vals aquí, pavoneándose con armas nuevas y armaduras brillantes, pero cuando se pone horrible, algunas personas rompen mucho más fácilmente que otras, y no tiene nada que ver con las armas que tienes o la armadura que usas. Ayudan, pero lo que te impulsa adentro es lo que determina si vives o mueres.</text>
 	</string>
 	<string id="dm_information_144">
 		<text>Solíanegarme a llevar un arma. Cualquier cosa que pudiera lastimar a otro ser viviente era impura para mí. Pero sobrevivir no es fácil. Tuve que aprender por las malas que es importante tener las herramientas necesarias, especialmente en la Zona. Cuando llegué aquí, la gente me dijo que no viviría para ver otro día. Todavía me negué a comprar un arma y tenía mis razones. Pasé 5 años en un monasterio ortodoxo, en lo alto de las montañas y cerca de este pequeño pueblo. La gente de allí apenas ha oído hablar de la Segunda Guerra Mundial, y mucho menos de la Zona. Gente muy pacífica, tranquila, resistente. Pero no tienen que enfrentar los horrores que habitan aquí. Apuesto a que tirarían sus libros sagrados junto con sus cruces en el momento en que vean un controlador mirándolos a los ojos y entrometiéndose en su cerebro. Perforando profundo Entonces tuve que cambiar mi actitud. Quería vivir y sacrificar mi fe parecía un precio bajo a pagar. Y así es como agarré mi primera arma.</text>
@@ -1271,7 +1271,7 @@
 		<text>Nadie tiene tanto tiempo libre como tú, y Cardan no es una excepción. No asumas que solo está esperando que lleves tu culo a su taller y empujes tu tirador pegajoso, de mierda, desperdiciado en su escritorio. No, no, demonios no. Él tiene su propia mierda de la que preocuparse aparte de arreglar todas las armas del mundo. A veces vale más la pena arreglar la mierda tú mismo. Limpie la pistola de vez en cuando, lubríquela. Obtenga un kit de reparación y úselo cuando realmente lo necesite. Pero no olvides el poder erosionador y destructivo de la Zona que devorará tu alma tanto como devorará la maquinaria. Los coches no duran aquí, ni los helicópteros ni las máquinas sofisticadas. Manténgalo simple, manténgalo limpio, manténgalo en funcionamiento y podría ver otro día.</text>
 	</string>
 	<string id="dm_information_160">
-		<text>Nunca vendo ningún artículo de reparación, amigo, solo los guardo en mi caja. Sé que es un buen botín, a Beard, Owl y Hawai les encanta comprarlos, pero creo que es mejor usarlos para mis armas y armaduras. Cuando le vendes algo a alguien, lo vendes más barato que el precio por el que puedes comprarlo, y luego cuando compras los artículos de reparación a otra persona, tienes que volver a pagar, y al final pierdes mucho dinero. Mierda por tu cuenta, es mucho más frugal y puedes ahorrar mucho. Los acechadores no saben cómo guardar aquí y lloriquean todo el tiempo porque no tienen suficiente dinero. ¿Qué pensaste cuando viniste aquí, maldito pedazo de rata muerta? La zona te grava. Los materiales son difíciles de conseguir, las armas son aún más difíciles. No solo pagas por ese tirador, sino que pagas por toda la infraestructura que admite la máquina de guerra que te permite comprar ese tirador. Es una economía simple, y debe tener en cuenta que todo aquí es costoso, ya que hacer todo tiene sus riesgos y sus costos.</text>
+		<text>Nunca vendo ningún artículo de reparación, amigo, solo los guardo en mi caja. Sé que es un buen botín, a Beard, Owl y Hawai les encanta comprarlos, pero creo que es mejor usarlos para mis armas y armaduras. Cuando le vendes algo a alguien, lo vendes más barato que el precio por el que puedes comprarlo, y luego cuando compras los artículos de reparación a otra persona, tienes que volver a pagar, y al final pierdes mucho dinero. Mierda por tu cuenta, es mucho más frugal y puedes ahorrar mucho. Los stalkers no saben cómo guardar aquí y lloriquean todo el tiempo porque no tienen suficiente dinero. ¿Qué pensaste cuando viniste aquí, maldito pedazo de rata muerta? La zona te grava. Los materiales son difíciles de conseguir, las armas son aún más difíciles. No solo pagas por ese tirador, sino que pagas por toda la infraestructura que admite la máquina de guerra que te permite comprar ese tirador. Es una economía simple, y debe tener en cuenta que todo aquí es costoso, ya que hacer todo tiene sus riesgos y sus costos.</text>
 	</string>
 	<string id="dm_information_161">
 		<text>¿Has notado que la Zona simplemente se congela a veces? Tartamudea, y todo lo demás se detiene por microsegundos. Llamamos a esto el Tartamudeo. Algunos dicen que es un eco de la primera explosión de Chernobyl, que vuelve para recordarnos el horror. Algunos dicen que es neurológico, y nuestros cerebros, bajo la influencia de la Zona, tienen problemas para procesar información sensual. Y el último ha sido propuesto por esos científicos en el búnker. Han estudiado el fenómeno y todavía están desconcertados por algunos aspectos de él. Tengo la teoría de que los tartamudeos son en realidad microemisiones, que suceden tan rápido que no pueden lastimar a nadie, pero son molestas como el infierno, especialmente en medio de una pelea. Si algún genio Stalker encuentra una manera de negar ese efecto por sí mismo, tendrá una gran ventaja sobre el resto de nosotros. Por desgracia, ese Stalker aún no ha aparecido, y el Stutter siempre nos hace compañía. Realmente espero que el tartamudeo no cause ningún daño neurológico, no quiero dejar este lugar retrasado o algo así.</text>
@@ -1313,7 +1313,7 @@
 		<text>Oye, cuida tus espaldas por aquí. Algunos chicos no son como yo. Son una escoria adecuada. ¿Yo? Vivo y dejo vivir. Siempre que te mantengas fuera de mi camino, me mantendré alejado de los tuyos. A la mierda conmigo, sin embargo, y lo lamentarás cuando te des cuenta de que no tienes ningún medio para mantener tus entrañas dentro de ti. Sí. Pregunta a alguien Te dirán que no me jodas.</text>
 	</string>
 	<string id="dm_information_174">
-		<text>Solía ser una guía en los viejos tiempos. Es un trabajo difícil. No solo eres responsable de tu propia vida, sino también de la vida de los demás. Hablo inglés bastante bien, así que a menudo llevo "turistas" a la Zona. Malditos ricos que querían ver de qué se trataba la Zona, sin la dificultad de vivir aquí. Se hizo bastante famoso por un tiempo... La gente comenzó a rumorear que conocía el camino hacia Wish Granter. No lo hice, pero no me importó que la gente pensara que sí. Muchos negocios vinieron en mi dirección. El asunto es... en la Zona realmente conoces a la gente. ¿Quieres saber el carácter de un hombre? Una semana en la Zona te dirá todo lo que necesitas saber sobre él... y las personas que vinieron a mí, deseando que se les otorguen sus deseos... bueno, me haría estremecer. Hombres vacíos, con ojos muertos... Nada de lo que hacen es para el beneficio de nadie más que ellos mismos. Incluso si conociera el camino hacia Wish Granter, no creo que me lleve una maldita alma. No todos los deseos son buenos, ¿sabes?</text>
+		<text>Solía ser una guía en los viejos tiempos. Es un trabajo difícil. No solo eres responsable de tu propia vida, sino también de la vida de los demás. Hablo inglés bastante bien, así que a menudo llevo "turistas" a la Zona. Malditos ricos que querían ver de qué se trataba la Zona, sin la dificultad de vivir aquí. Se hizo bastante famoso por un tiempo... La gente comenzó a rumorear que conocía el camino hacia Genio del Monolito. No lo hice, pero no me importó que la gente pensara que sí. Muchos negocios vinieron en mi dirección. El asunto es... en la Zona realmente conoces a la gente. ¿Quieres saber el carácter de un hombre? Una semana en la Zona te dirá todo lo que necesitas saber sobre él... y las personas que vinieron a mí, deseando que se les otorguen sus deseos... bueno, me haría estremecer. Hombres vacíos, con ojos muertos... Nada de lo que hacen es para el beneficio de nadie más que ellos mismos. Incluso si conociera el camino hacia Genio del Monolito, no creo que me lleve una maldita alma. No todos los deseos son buenos, ¿sabes?</text>
 	</string>
 	<string id="dm_information_175">
 		<text>¿Por qué vienes a mí? Espero que no estés buscando la salvación. No tengo derecho a prometerle que todo va a terminar bien, porque no lo hará. Soy un sacerdote... en palabra solo ahora, parece. Solíacreer que Dios era misericordioso, que era justo y justo... pero al ver las cosas que he visto, ¿cómo puedo seguir predicando? Vine a la Zona con la esperanza de reavivar la fe en estas almas perdidas, pero parece que me he perdido a mí mismo. Nada podría prepararme para este lugar. He trabajado en misiones en todo el mundo, e incluso en los momentos más oscuros todavía hay un atisbo de fe; de esperanza. ¿Aquí? Bueno, podrías caminar mil años en la Zona y no encontrar una sola persona que sea un verdadero creyente. La Zona te gana, y se ríe alegremente mientras lo hace.</text>
@@ -1616,7 +1616,7 @@
 		<text>Estamos buscando algunos chiflados del Monolito.</text>
 	</string>
 	<string id="dm_freedom_chasing_squad_duty">
-		<text>Duty está en algún lugar por aquí... Los cabrones no pueden estar muy lejos.</text>
+		<text>Deber está en algún lugar por aquí... Los cabrones no pueden estar muy lejos.</text>
 	</string>
 	<string id="dm_duty_doing_nothing_1">
 		<text>No estamos haciendo nada.</text>
@@ -1631,7 +1631,7 @@
 		<text>Fuimos atacados por mercenarios. No descansaré hasta que estén muertos.</text>
 	</string>
 	<string id="dm_duty_chasing_squad_monolith">
-		<text>Estamos persiguiendo a un escuadrón de monstruos Monolith.</text>
+		<text>Estamos persiguiendo a un escuadrón de monstruos Monolito.</text>
 	</string>
 	<string id="dm_duty_chasing_squad_freedom">
 		<text>Estamos limpiando la basura que se llama a sí misma 'Libertad'.</text>
@@ -1956,7 +1956,7 @@
 		<text>Conozco a algunas personas que querrán esta.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_uncommon_2">
-		<text>Fotos de un Freedomer tratando de deshuesar a un chupasangre...</text>
+		<text>Fotos de un miembro de Libertad tratando de deshuesar a un chupasangre...</text>
 	</string>
 	<string id="st_broker_npc_about_pda_uncommon_3">
 		<text>Un contacto en un traficante de drogas.</text>
@@ -1989,7 +1989,7 @@
 		<text>Información de cuenta bancaria.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_uncommon_13">
-		<text>Esto menciona una reunión entre Duty y una banda local de matones.</text>
+		<text>Esto menciona una reunión entre Deber y una banda local de matones.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_uncommon_14">
 		<text>Aquí hay coordenadas para un punto de intercambio de suministros.</text>
@@ -2217,10 +2217,10 @@
 	</string>
 
 	<string id="st_quest_doc_query_bar_dolg_leader">
-		<text>Entonces... El ejército -y la SSU en particular-, están dispuestos a pagar grandes sumas de dinero por esto. Documentos similares fueron descubiertos durante las investigaciones después del fracaso de la operación "Fairway", que fue alarmada por todo el liderazgo. Procedamos de la siguiente manera... %s RU sería el precio correcto. Sin mencionar que "Duty" está pasando por mucho últimamente, la situación actual ha agotado nuestros recursos. Sin embargo, gracias a estos documentos, podremos organizar las entregas de los equipos que necesitamos. Creo que obtendrás algo de esto, también. ¿Estás de acuerdo?</text>
+		<text>Entonces... El ejército -y la SSU en particular-, están dispuestos a pagar grandes sumas de dinero por esto. Documentos similares fueron descubiertos durante las investigaciones después del fracaso de la operación "Fairway", que fue alarmada por todo el liderazgo. Procedamos de la siguiente manera... %s RU sería el precio correcto. Sin mencionar que "Deber" está pasando por mucho últimamente, la situación actual ha agotado nuestros recursos. Sin embargo, gracias a estos documentos, podremos organizar las entregas de los equipos que necesitamos. Creo que obtendrás algo de esto, también. ¿Estás de acuerdo?</text>
 	</string>
 	<string id="st_quest_doc_finish_bar_dolg_leader">
-		<text>Hoy comenzaré las negociaciones con los militares. No creo que pase mucho tiempo antes de que empecemos a ver algunos resultados. La próxima vez que nos traiga dichos documentos, recogeré una recompensa más adecuada para usted. Por ahora, toma esto, como muestra de gratitud de Duty!</text>
+		<text>Hoy comenzaré las negociaciones con los militares. No creo que pase mucho tiempo antes de que empecemos a ver algunos resultados. La próxima vez que nos traiga dichos documentos, recogeré una recompensa más adecuada para usted. Por ahora, toma esto, como muestra de gratitud de Deber!</text>
 	</string>
 
 	<string id="st_quest_doc_query_agr_smart_terrain_1_6_near_2_military_colonel_kovalski">
@@ -2245,7 +2245,7 @@
 	</string>
 
 	<string id="st_quest_doc_query_jup_a6_freedom_leader">
-		<text>Ja, ¿de dónde sacaste este papel? Ya sabes, este tipo de información puede dar la vuelta al mundo al revés! Definitivamente no lo esconderé, no después de lo que nos sucedió al menos. Los fanáticos del monolito rompieron la barrera y comenzaron un ataque agresivo contra los almacenes. Nuestros escuadrones lograron repeler la onda del monolito, pero ¿a qué precio?... La mayoría de nuestros combatientes murieron, pocos lograron sobrevivir, y los restos se han reunido aquí en Júpiter. No podemos llegar sin el apoyo del movimiento de la "gran tierra", y estos documentos serán de gran ayuda en nuestro camino hacia la recuperación. Nuestro objetivo es descubrir y revelar cualquier tipo de información sobre la Zona al mundo exterior, sin importar cuán secreto pueda ser. Si algunos experimentos ilegales ocurrieron en el pasado, la gente debe saber la verdad. Y "esto" en tus manos es solo el comienzo. Desafortunadamente, todo lo que puedo ofrecerte por ahora es %s RU. Y antes de que te niegues, deberías pensarlo de esta manera: hoy estás haciendo un buen trabajo, y mañana volverá a ti en tamaño triple. A pesar del desastre que afecta nuestras fuerzas, todavía tenemos acceso al mercado negro. Tendrás acceso a un mejor tipo de armas y equipos. No te preocupes por "Dolgovtsi" y el resto de Duty tampoco, esos tontos no sabrán que de alguna manera estás tratando con nosotros.</text>
+		<text>Ja, ¿de dónde sacaste este papel? Ya sabes, este tipo de información puede dar la vuelta al mundo al revés! Definitivamente no lo esconderé, no después de lo que nos sucedió al menos. Los fanáticos del monolito rompieron la barrera y comenzaron un ataque agresivo contra los almacenes. Nuestros escuadrones lograron repeler la onda del monolito, pero ¿a qué precio?... La mayoría de nuestros combatientes murieron, pocos lograron sobrevivir, y los restos se han reunido aquí en Júpiter. No podemos llegar sin el apoyo del movimiento de la "gran tierra", y estos documentos serán de gran ayuda en nuestro camino hacia la recuperación. Nuestro objetivo es descubrir y revelar cualquier tipo de información sobre la Zona al mundo exterior, sin importar cuán secreto pueda ser. Si algunos experimentos ilegales ocurrieron en el pasado, la gente debe saber la verdad. Y "esto" en tus manos es solo el comienzo. Desafortunadamente, todo lo que puedo ofrecerte por ahora es %s RU. Y antes de que te niegues, deberías pensarlo de esta manera: hoy estás haciendo un buen trabajo, y mañana volverá a ti en tamaño triple. A pesar del desastre que afecta nuestras fuerzas, todavía tenemos acceso al mercado negro. Tendrás acceso a un mejor tipo de armas y equipos. No te preocupes por "Dolgovtsi" y el resto de Deber tampoco, esos tontos no sabrán que de alguna manera estás tratando con nosotros.</text>
 	</string>
 	<string id="st_quest_doc_finish_jup_a6_freedom_leader">
 		<text>¡Perfecto! Si encuentra algo más que nos puede ayudar, estaré muy agradecido.</text>

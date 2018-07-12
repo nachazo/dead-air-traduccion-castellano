@@ -2,10 +2,10 @@
 <string_table>
 	<!-- val_smart_terrain_7_4_bandit_trader_stalker -->
 	<string id="val_smart_terrain_7_4_bandit_trader_stalker_start_dialog_1">
-		<text>¡Ey hombre! Tengo algunas cosas para venderte y tal vez un par de trabajos si estás interesado. ¡Soy el tipo que ven los chicos cuando se alinean en el bolsillo después de un golpe!</text>
+		<text>¡Ey tío! Tengo algunas cosas para venderte y tal vez un par de trabajos si estás interesado. ¡Soy el tipo al que vienen a ver los chicos cuando quieren llenar el bolsillo después de un golpe!</text>
 	</string>
 	<string id="val_smart_terrain_7_4_bandit_trader_stalker_start_dialog_2">
-		<text>Ey hombre. ¿Que necesitas? ¿Buscando trabajo?</text>
+		<text>Ey tío. ¿Que necesitas? ¿Buscando trabajo?</text>
 	</string>
 
 	<!-- val_smart_terrain_7_3_bandit_mechanic_stalker --->
@@ -15,7 +15,7 @@
 
 	<!-- Sultan, moved from Zaton to Dark Valley -->
 	<string id="zat_b7_bandit_boss_sultan_intro_0">
-		<text>Recuerda: soy Sultán. Todo lo que baja aquí está bajo mi control o lo estaré pronto. Si quieres vivir la buena vida, tienes que trabajar para mí. Si no lo haces, vivirás la vida de mierda.</text>
+		<text>Recuerda: soy Sultán. Todo lo que baja aquí está bajo mi control o lo estará pronto. Si quieres vivir la buena vida, tienes que trabajar para mí. Si no lo haces, vivirás una vida de mierda.</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_start_dialog_11">
 		<text>¿Que necesitas?</text>
@@ -57,9 +57,9 @@
 		<text>Tu puta cara de hijo de puta tiene una lista de espera de un mes. ¿Quieres hacer más preguntas estúpidas?</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_about_1116">
-		<text>Oh no importa. Fuhgetaboutit.</text>
+		<text>Oh no importa. Ooolvídalo.</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_about_11161">
-		<text>Adaptarse a ti mismo.</text>
+		<text>Haz lo que quieras.</text>
 	</string>
 </string_table>
