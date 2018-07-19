@@ -4,25 +4,25 @@
 		<text>Jabali</text>
 	</string>
 	<string id="st_dyn_news_boar_1">
-		<text>un jabalí</text>
+		<text>un jabalÃ­</text>
 	</string>
 	<string id="st_dyn_news_boar_2">
-		<text>Fuimos atacados por un jabalí</text>
+		<text>Fuimos atacados por un jabalÃ­</text>
 	</string>
 	<string id="st_dyn_news_boar_3">
 		<text>Nos encontramos con verracos</text>
 	</string>
 	<string id="st_dyn_news_boar_4">
-		<text>Fuimos atacados por un grupo de jabalíes</text>
+		<text>Fuimos atacados por un grupo de jabalÃ­es</text>
 	</string>
 	<string id="st_dyn_news_boar_5">
 		<text>Nos encontramos con algunos verracos</text>
 	</string>
 	<string id="st_dyn_news_boar_6">
-		<text>un grupo de jabalíes</text>
+		<text>un grupo de jabalÃ­es</text>
 	</string>
 	<string id="st_dyn_news_boar_7">
-		<text>jabalíes</text>
+		<text>jabalÃ­es</text>
 	</string>
 
 	<string id="st_dyn_news_dog_0">
@@ -85,7 +85,7 @@
 		<text>Fuimos atacados por un pseudoperro</text>
 	</string>
 	<string id="st_dyn_news_pseudodog_3">
-		<text>Un pseudoperro nos saltó</text>
+		<text>Un pseudoperro nos saltÃ³</text>
 	</string>
 	<string id="st_dyn_news_pseudodog_4">
 		<text>Fuimos atacados por un grupo de pseudoperros</text>
@@ -135,7 +135,7 @@
 		<text>Fuimos emboscados por un chupasangre</text>
 	</string>
 	<string id="st_dyn_news_bloodsucker_3">
-		<text>Un chupasangre nos tendió una emboscada</text>
+		<text>Un chupasangre nos tendiÃ³ una emboscada</text>
 	</string>
 	<string id="st_dyn_news_bloodsucker_4">
 		<text>Fuimos atacados por chupasangres</text>
@@ -210,7 +210,7 @@
 		<text>Fuimos atacados por un controlador</text>
 	</string>
 	<string id="st_dyn_news_controller_3">
-		<text>Un controlador nos tendió una emboscada</text>
+		<text>Un controlador nos tendiÃ³ una emboscada</text>
 	</string>
 	<string id="st_dyn_news_controller_4">
 		<text>Fuimos atacados por un par de controladores</text>
@@ -285,13 +285,13 @@
 		<text>Fuimos atacados por un tushkano</text>
 	</string>
 	<string id="st_dyn_news_tushkano_3">
-		<text>Un tushkano nos atacó</text>
+		<text>Un tushkano nos atacÃ³</text>
 	</string>
 	<string id="st_dyn_news_tushkano_4">
-		<text>Nos asaltó un grupo de tushkanos</text>
+		<text>Nos asaltÃ³ un grupo de tushkanos</text>
 	</string>
 	<string id="st_dyn_news_tushkano_5">
-		<text>Nos atacó un grupo de tushkano</text>
+		<text>Nos atacÃ³ un grupo de tushkano</text>
 	</string>
 	<string id="st_dyn_news_tushkano_6">
 		<text>un grupo de tushkanos</text>
@@ -413,7 +413,7 @@
 		<text>Nos encontramos con un Izlom</text>
 	</string>
 	<string id="st_dyn_news_fracture_4">
-		<text>Fuimos atacados por un montón de Izloms</text>
+		<text>Fuimos atacados por un montÃ³n de Izloms</text>
 	</string>
 	<string id="st_dyn_news_fracture_5">
 		<text>Los Izloms nos atacaron</text>
@@ -482,7 +482,7 @@
 		<text>un Solitario</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_3">
-		<text>algún stalker</text>
+		<text>algÃºn stalker</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_4">
 		<text>algunos Solitarios</text>
@@ -506,16 +506,16 @@
 		<text>Solitarios</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_11">
-		<text>¡Necesitamos ayuda!</text>
+		<text>Â¡Necesitamos ayuda!</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_12">
-		<text>¡Ayúdanos!</text>
+		<text>Â¡AyÃºdanos!</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_13">
 		<text>Necesito ayuda, por favor.</text>
 	</string>
 	<string id="st_dyn_news_comm_actor_14">
-		<text>¡Ayuda!</text>
+		<text>Â¡Ayuda!</text>
 	</string>
 	<string id="st_dyn_news_comm_monolith_1">
 		<text>un Monolito</text>
@@ -548,16 +548,16 @@
 		<text>Fuerzas de Monolito</text>
 	</string>
 	<string id="st_dyn_news_comm_monolith_11">
-		<text>Hermanos, ¡ayúdennos!</text>
+		<text>Hermanos, Â¡ayÃºdennos!</text>
 	</string>
 	<string id="st_dyn_news_comm_monolith_12">
 		<text>Hermanos, ayuda!</text>
 	</string>
 	<string id="st_dyn_news_comm_monolith_13">
-		<text>¡Necesitamos ayuda, hermanos!</text>
+		<text>Â¡Necesitamos ayuda, hermanos!</text>
 	</string>
 	<string id="st_dyn_news_comm_monolith_14">
-		<text>¡Ayuda!</text>
+		<text>Â¡Ayuda!</text>
 	</string>
 	<string id="st_dyn_news_comm_bandit_1">
 		<text>un bandido</text>
@@ -569,7 +569,7 @@
 		<text>un bandido</text>
 	</string>
 	<string id="st_dyn_news_comm_bandit_4">
-		<text>algún bandido</text>
+		<text>algÃºn bandido</text>
 	</string>
 	<string id="st_dyn_news_comm_bandit_5">
 		<text>bandido</text>
@@ -590,16 +590,16 @@
 		<text>matones</text>
 	</string>
 	<string id="st_dyn_news_comm_bandit_11">
-		<text>¡Ayúdenos!</text>
+		<text>Â¡AyÃºdenos!</text>
 	</string>
 	<string id="st_dyn_news_comm_bandit_12">
-		<text>¡Necesitamos puta ayuda!</text>
+		<text>Â¡Necesitamos puta ayuda!</text>
 	</string>
 	<string id="st_dyn_news_comm_bandit_13">
-		<text>¡Estamos hasta el culo de mierda aquí, muchachos!</text>
+		<text>Â¡Estamos hasta el culo de mierda aquÃ­, muchachos!</text>
 	</string>
 	<string id="st_dyn_news_comm_bandit_14">
-		<text>Ey, ey, ey, ¡necesitamos ayuda!</text>
+		<text>Ey, ey, ey, Â¡necesitamos ayuda!</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_1">
 		<text>un Deber</text>
@@ -632,28 +632,28 @@
 		<text>fuerzas de Deber</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_11">
-		<text>¡Necesitamos refuerzos!</text>
+		<text>Â¡Necesitamos refuerzos!</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_12">
 		<text>Solicitando refuerzos</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_13">
-		<text>¡Solicitando soporte inmediato!</text>
+		<text>Â¡Solicitando soporte inmediato!</text>
 	</string>
 	<string id="st_dyn_news_comm_dolg_14">
-		<text>¡Necesitamos refuerzos!</text>
+		<text>Â¡Necesitamos refuerzos!</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_1">
-		<text>un científico</text>
+		<text>un cientÃ­fico</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_2">
 		<text>una cabezahuevo</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_3">
-		<text>algún ecologista</text>
+		<text>algÃºn ecologista</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_4">
-		<text>algún cabezahuevo</text>
+		<text>algÃºn cabezahuevo</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_5">
 		<text>defecto</text>
@@ -662,28 +662,28 @@
 		<text>Ecologista</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_7">
-		<text>científicos</text>
+		<text>cientÃ­ficos</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_8">
 		<text>ecologistas</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_9">
-		<text>algunos científicos</text>
+		<text>algunos cientÃ­ficos</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_10">
 		<text>cabezashuevo</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_11">
-		<text>¡Ayuda! ¡Alguien por favor ayúdenos!</text>
+		<text>Â¡Ayuda! Â¡Alguien por favor ayÃºdenos!</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_12">
-		<text>¡Por favor ayuda! ¡Alguien!</text>
+		<text>Â¡Por favor ayuda! Â¡Alguien!</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_13">
-		<text>Aquí un equipo científico remoto que solicita asistencia.</text>
+		<text>AquÃ­ un equipo cientÃ­fico remoto que solicita asistencia.</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_14">
-		<text>Alguien, ¡ayuda!</text>
+		<text>Alguien, Â¡ayuda!</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_1">
 		<text>un stalker de Clear Sky</text>
@@ -716,31 +716,31 @@
 		<text>stalkers Clear Sky</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_11">
-		<text>¡Ayúdanos!</text>
+		<text>Â¡AyÃºdanos!</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_12">
 		<text>Habla Clear Sky, necesitamos ayuda!</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_13">
-		<text>Stalkers, ¡ayudádnos!</text>
+		<text>Stalkers, Â¡ayudÃ¡dnos!</text>
 	</string>
 	<string id="st_dyn_news_comm_csky_14">
-		<text>¡Ayuda!</text>
+		<text>Â¡Ayuda!</text>
 	</string>
 	<string id="st_dyn_news_comm_army_1">
 		<text>un soldado</text>
 	</string>
 	<string id="st_dyn_news_comm_army_2">
-		<text>un tipo del ejército</text>
+		<text>un tipo del ejÃ©rcito</text>
 	</string>
 	<string id="st_dyn_news_comm_army_3">
-		<text>algún soldado</text>
+		<text>algÃºn soldado</text>
 	</string>
 	<string id="st_dyn_news_comm_army_4">
-		<text>un tipo de ejército</text>
+		<text>un tipo de ejÃ©rcito</text>
 	</string>
 	<string id="st_dyn_news_comm_army_5">
-		<text>Ejército</text>
+		<text>EjÃ©rcito</text>
 	</string>
 	<string id="st_dyn_news_comm_army_6">
 		<text>Militar</text>
@@ -758,16 +758,16 @@
 		<text>el militar</text>
 	</string>
 	<string id="st_dyn_news_comm_army_11">
-		<text>¡Solicitando soporte!</text>
+		<text>Â¡Solicitando soporte!</text>
 	</string>
 	<string id="st_dyn_news_comm_army_12">
-		<text>¡Necesitamos refuerzos!</text>
+		<text>Â¡Necesitamos refuerzos!</text>
 	</string>
 	<string id="st_dyn_news_comm_army_13">
-		<text>¡Solicitando refuerzos!</text>
+		<text>Â¡Solicitando refuerzos!</text>
 	</string>
 	<string id="st_dyn_news_comm_army_14">
-		<text>¡Escuadrón a base! ¡Solicitando refuerzos inmediatos!</text>
+		<text>Â¡EscuadrÃ³n a base! Â¡Solicitando refuerzos inmediatos!</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_1">
 		<text>un mercenario</text>
@@ -803,10 +803,10 @@
 		<text>Solicitando refuerzos</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_12">
-		<text>¡Necesitamos refuerzos!</text>
+		<text>Â¡Necesitamos refuerzos!</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_13">
-		<text>¡Solicitando soporte!</text>
+		<text>Â¡Solicitando soporte!</text>
 	</string>
 	<string id="st_dyn_news_comm_killer_14">
 		<text>Enviar refuerzos</text>
@@ -818,10 +818,10 @@
 		<text>un Solitario</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_3">
-		<text>algún stalker</text>
+		<text>algÃºn stalker</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_4">
-		<text>algún Solitario</text>
+		<text>algÃºn Solitario</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_5">
 		<text>stalker</text>
@@ -842,13 +842,13 @@
 		<text>solitarios</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_11">
-		<text>Chicos, ¡necesitamos ayuda!</text>
+		<text>Chicos, Â¡necesitamos ayuda!</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_12">
-		<text>¡Ayúdanos!</text>
+		<text>Â¡AyÃºdanos!</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_13">
-		<text>¡Ayudanos!</text>
+		<text>Â¡Ayudanos!</text>
 	</string>
 	<string id="st_dyn_news_comm_stalker_14">
 		<text>Hermanos, ayuda!</text>
@@ -926,16 +926,16 @@
 		<text>Fuerzas de Libertad</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_11">
-		<text>Chicos, ¡ayuda!</text>
+		<text>Chicos, Â¡ayuda!</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_12">
-		<text>¡Necesitamos ayuda aquí!</text>
+		<text>Â¡Necesitamos ayuda aquÃ­!</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_13">
-		<text>¡Oye, ayúdanos!</text>
+		<text>Â¡Oye, ayÃºdanos!</text>
 	</string>
 	<string id="st_dyn_news_comm_freedom_14">
-		<text>Mierda, ¡ayuda!</text>
+		<text>Mierda, Â¡ayuda!</text>
 	</string>
 
 	<!-- weapon class description -->
@@ -991,7 +991,7 @@
 		<text>Herida de bala</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_3_2">
-		<text>algunas armas pequeñas</text>
+		<text>algunas armas pequeÃ±as</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_3_3">
 		<text>pistola</text>
@@ -1069,13 +1069,13 @@
 		<text>cuchillo</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_6_4">
-		<text>puñalada</text>
+		<text>puÃ±alada</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_6_5">
-		<text>puñalada</text>
+		<text>puÃ±alada</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_6_6">
-		<text>puñalada</text>
+		<text>puÃ±alada</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_6_7">
 		<text>remojar</text>
@@ -1087,7 +1087,7 @@
 		<text>Trauma explosivo</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_7_2">
-		<text>una explosión</text>
+		<text>una explosiÃ³n</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_7_3">
 		<text>granada</text>
@@ -1111,7 +1111,7 @@
 		<text>Herida de metralla</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_8_2">
-		<text>una explosión</text>
+		<text>una explosiÃ³n</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_8_3">
 		<text>granada</text>
@@ -1140,13 +1140,13 @@
 		<text>por</text>
 	</string>
 	<string id="st_dyn_news_east">
-		<text>este de</text>
+		<text>al este de</text>
 	</string>
 	<string id="st_dyn_news_north_east">
 		<text>al noreste de</text>
 	</string>
 	<string id="st_dyn_news_north">
-		<text>norte de</text>
+		<text>al norte de</text>
 	</string>
 	<string id="st_dyn_news_north_west">
 		<text>al noroeste de</text>
@@ -1158,7 +1158,7 @@
 		<text>al sur oeste de</text>
 	</string>
 	<string id="st_dyn_news_south">
-		<text>sur de</text>
+		<text>al sur de</text>
 	</string>
 	<string id="st_dyn_news_south_east">
 		<text>al sureste de</text>
@@ -1166,10 +1166,10 @@
 
 	<!-- level description -->
 	<string id="st_dyn_news_jupiter">
-		<text>en Júpiter,</text>
+		<text>en JÃºpiter,</text>
 	</string>
 	<string id="st_dyn_news_jupiter_underground">
-		<text>en el subterráneo Pripyat,</text>
+		<text>en el subterrÃ¡neo Pripyat,</text>
 	</string>
 	<string id="st_dyn_news_k00_marsh">
 		<text>en los Grandes Pantanos,</text>
@@ -1181,7 +1181,7 @@
 		<text>en el Cementerio de Camiones,</text>
 	</string>
 	<string id="st_dyn_news_l01_escape">
-		<text>en el Cordón,</text>
+		<text>en el CordÃ³n,</text>
 	</string>
 	<string id="st_dyn_news_l02_garbage">
 		<text>en la basura</text>
@@ -1199,7 +1199,7 @@
 		<text>en el Territorio Salvaje,</text>
 	</string>
 	<string id="st_dyn_news_new_military">
-		<text>cerca de los Almacenes del Ejército,</text>
+		<text>cerca de los Almacenes del EjÃ©rcito,</text>
 	</string>
 	<string id="st_dyn_news_l08_yantar">
 		<text>en Yantar,</text>
@@ -1243,7 +1243,7 @@
 
 	<!-- Daleko -->
 	<string id="st_dyn_l09_deadcity_daleko_1">
-		<text>el túnel hacia los almacenes del ejército</text>
+		<text>el tÃºnel hacia los almacenes del ejÃ©rcito</text>
 	</string>
 	<string id="st_dyn_l09_deadcity_daleko_2">
 		<text>el camino a Yantar</text>
@@ -1255,13 +1255,13 @@
 		<text>el camino a Limansk</text>
 	</string>
 	<string id="st_dyn_jupiter_underground_daleko_1">
-		<text>los túneles</text>
+		<text>los tÃºneles</text>
 	</string>
 	<string id="st_dyn_zaton_daleko_1">
-		<text>la anomalía garra</text>
+		<text>la anomalÃ­a garra</text>
 	</string>
 	<string id="st_dyn_zaton_daleko_2">
-		<text>la anomalía de Iron Forest</text>
+		<text>la anomalÃ­a de Iron Forest</text>
 	</string>
 	<string id="st_dyn_zaton_daleko_3">
 		<text>el aserradero</text>
@@ -1273,10 +1273,10 @@
 		<text>la planta de procesamiento de residuos</text>
 	</string>
 	<string id="st_dyn_zaton_daleko_6">
-		<text>la anomalía del circo</text>
+		<text>la anomalÃ­a del circo</text>
 	</string>
 	<string id="st_dyn_zaton_daleko_7">
-		<text>la estación de guardabosques</text>
+		<text>la estaciÃ³n de guardabosques</text>
 	</string>
 	<string id="st_dyn_zaton_daleko_8">
 		<text>el Skadovsk</text>
@@ -1285,7 +1285,7 @@
 		<text>el pueblo quemado</text>
 	</string>
 	<string id="st_dyn_zaton_daleko_10">
-		<text>la anomalía de la caldera</text>
+		<text>la anomalÃ­a de la caldera</text>
 	</string>
 	<string id="st_dyn_zaton_daleko_11">
 		<text>el pantano</text>
@@ -1297,22 +1297,22 @@
 		<text>el Shevchenko</text>
 	</string>
 	<string id="st_dyn_zaton_daleko_14">
-		<text>la estación de dragado</text>
+		<text>la estaciÃ³n de dragado</text>
 	</string>
 	<string id="st_dyn_zaton_daleko_15">
-		<text>las grúas de muelle</text>
+		<text>las grÃºas de muelle</text>
 	</string>
 	<string id="st_dyn_zaton_daleko_16">
-		<text>la anomalía de Oakpine</text>
+		<text>la anomalÃ­a de Oakpine</text>
 	</string>
 	<string id="st_dyn_zaton_daleko_17">
-		<text>la estación de reabastecimiento de combustible</text>
+		<text>la estaciÃ³n de reabastecimiento de combustible</text>
 	</string>
 	<string id="st_dyn_zaton_daleko_18">
 		<text>la vieja barcaza</text>
 	</string>
 	<string id="st_dyn_zaton_daleko_19">
-		<text>la anomalía de la cicatriz</text>
+		<text>la anomalÃ­a de la cicatriz</text>
 	</string>
 	<string id="st_dyn_zaton_daleko_20">
 		<text>Puente Preobrazhensky</text>
@@ -1321,22 +1321,22 @@
 		<text>la meseta sur</text>
 	</string>
 	<string id="st_dyn_zaton_daleko_22">
-		<text>la subestación de taller</text>
+		<text>la subestaciÃ³n de taller</text>
 	</string>
 	<string id="st_dyn_jupiter_daleko_1">
-		<text>la anomalía de Ash Heap</text>
+		<text>la anomalÃ­a de Ash Heap</text>
 	</string>
 	<string id="st_dyn_jupiter_daleko_2">
 		<text>la Torre</text>
 	</string>
 	<string id="st_dyn_jupiter_daleko_3">
-		<text>la subestación</text>
+		<text>la subestaciÃ³n</text>
 	</string>
 	<string id="st_dyn_jupiter_daleko_4">
-		<text>la anomalía de Plavni</text>
+		<text>la anomalÃ­a de Plavni</text>
 	</string>
 	<string id="st_dyn_jupiter_daleko_5">
-		<text>la fábrica de cemento</text>
+		<text>la fÃ¡brica de cemento</text>
 	</string>
 	<string id="st_dyn_jupiter_daleko_6">
 		<text>Kopachi</text>
@@ -1348,13 +1348,13 @@
 		<text>la cantera</text>
 	</string>
 	<string id="st_dyn_jupiter_daleko_9">
-		<text>el laboratorio móvil</text>
+		<text>el laboratorio mÃ³vil</text>
 	</string>
 	<string id="st_dyn_jupiter_daleko_10">
 		<text>el complejo Volkhov</text>
 	</string>
 	<string id="st_dyn_jupiter_daleko_11">
-		<text>la arboleda anómala</text>
+		<text>la arboleda anÃ³mala</text>
 	</string>
 	<string id="st_dyn_jupiter_daleko_12">
 		<text>el estacionamiento</text>
@@ -1363,25 +1363,25 @@
 		<text>el punto de control</text>
 	</string>
 	<string id="st_dyn_jupiter_daleko_14">
-		<text>la anomalía del betún</text>
+		<text>la anomalÃ­a del betÃºn</text>
 	</string>
 	<string id="st_dyn_jupiter_daleko_15">
-		<text>el túnel del este</text>
+		<text>el tÃºnel del este</text>
 	</string>
 	<string id="st_dyn_jupiter_daleko_16">
 		<text>los contenedores de almacenamiento</text>
 	</string>
 	<string id="st_dyn_jupiter_daleko_17">
-		<text>el complejo de ventilación</text>
+		<text>el complejo de ventilaciÃ³n</text>
 	</string>
 	<string id="st_dyn_jupiter_daleko_18">
 		<text>el helipuerto</text>
 	</string>
 	<string id="st_dyn_jupiter_daleko_19">
-		<text>la anomalía Concrete Bath</text>
+		<text>la anomalÃ­a Concrete Bath</text>
 	</string>
 	<string id="st_dyn_jupiter_daleko_20">
-		<text>la fábrica de Júpiter</text>
+		<text>la fÃ¡brica de JÃºpiter</text>
 	</string>
 	<string id="st_dyn_l05_bar_daleko_1">
 		<text>el punto de control occidental</text>
@@ -1393,13 +1393,13 @@
 		<text>la base Deber</text>
 	</string>
 	<string id="st_dyn_l05_bar_daleko_4">
-		<text>el camino a los almacenes del ejército</text>
+		<text>el camino a los almacenes del ejÃ©rcito</text>
 	</string>
 	<string id="st_dyn_new_military_daleko_1">
 		<text>la antigua granja</text>
 	</string>
 	<string id="st_dyn_new_military_daleko_2">
-		<text>la anomalía en la colina sur</text>
+		<text>la anomalÃ­a en la colina sur</text>
 	</string>
 	<string id="st_dyn_new_military_daleko_3">
 		<text>la base de Libertad</text>
@@ -1429,16 +1429,16 @@
 		<text>el estacionamiento</text>
 	</string>
 	<string id="st_dyn_l01_escape_daleko_5">
-		<text>el terraplén ferroviario</text>
+		<text>el terraplÃ©n ferroviario</text>
 	</string>
 	<string id="st_dyn_l01_escape_daleko_6">
 		<text>la granja</text>
 	</string>
 	<string id="st_dyn_l01_escape_daleko_7">
-		<text>la anomalía en el bosque</text>
+		<text>la anomalÃ­a en el bosque</text>
 	</string>
 	<string id="st_dyn_l01_escape_daleko_8">
-		<text>el túnel del tren</text>
+		<text>el tÃºnel del tren</text>
 	</string>
 	<string id="st_dyn_l01_escape_daleko_9">
 		<text>el punto de control norte</text>
@@ -1447,19 +1447,19 @@
 		<text>la base Clear Sky</text>
 	</string>
 	<string id="st_dyn_k00_marsh_daleko_2">
-		<text>la pesquería</text>
+		<text>la pesquerÃ­a</text>
 	</string>
 	<string id="st_dyn_k00_marsh_daleko_3">
-		<text>la estación de bombeo</text>
+		<text>la estaciÃ³n de bombeo</text>
 	</string>
 	<string id="st_dyn_k00_marsh_daleko_4">
-		<text>el grupo de anomalía</text>
+		<text>el grupo de anomalÃ­a</text>
 	</string>
 	<string id="st_dyn_k00_marsh_daleko_5">
 		<text>el camino a Agroprom</text>
 	</string>
 	<string id="st_dyn_k00_marsh_daleko_6">
-		<text>el patio de la máquina</text>
+		<text>el patio de la mÃ¡quina</text>
 	</string>
 	<string id="st_dyn_k00_marsh_daleko_7">
 		<text>la casa quemada</text>
@@ -1474,19 +1474,19 @@
 		<text>el camino a la Ciudad Muerta</text>
 	</string>
 	<string id="st_dyn_l10_limansk_daleko_2">
-		<text>el túnel hacia el Bosque Rojo</text>
+		<text>el tÃºnel hacia el Bosque Rojo</text>
 	</string>
 	<string id="st_dyn_l04_darkvalley_daleko_1">
 		<text>la granja abandonada</text>
 	</string>
 	<string id="st_dyn_l04_darkvalley_daleko_2">
-		<text>la anomalía de Glowing Pit</text>
+		<text>la anomalÃ­a de Glowing Pit</text>
 	</string>
 	<string id="st_dyn_l04_darkvalley_daleko_3">
 		<text>la bola de fuego en movimiento</text>
 	</string>
 	<string id="st_dyn_l04_darkvalley_daleko_4">
-		<text>la fábrica</text>
+		<text>la fÃ¡brica</text>
 	</string>
 	<string id="st_dyn_l04_darkvalley_daleko_5">
 		<text>la gasolinera</text>
@@ -1501,7 +1501,7 @@
 		<text>el camino a Rostock</text>
 	</string>
 	<string id="st_dyn_k02_trucks_cemetery_daleko_2">
-		<text>los helicópteros</text>
+		<text>los helicÃ³pteros</text>
 	</string>
 	<string id="st_dyn_k02_trucks_cemetery_daleko_3">
 		<text>los camiones de bomberos</text>
@@ -1540,10 +1540,10 @@
 		<text>el puente</text>
 	</string>
 	<string id="st_dyn_l10_red_forest_daleko_2">
-		<text>la anomalía superconductora</text>
+		<text>la anomalÃ­a superconductora</text>
 	</string>
 	<string id="st_dyn_l10_red_forest_daleko_3">
-		<text>el campamento del túnel</text>
+		<text>el campamento del tÃºnel</text>
 	</string>
 	<string id="st_dyn_l10_red_forest_daleko_4">
 		<text>el camino hacia el Radar</text>
@@ -1552,10 +1552,10 @@
 		<text>el campo abierto</text>
 	</string>
 	<string id="st_dyn_l10_red_forest_daleko_6">
-		<text>el camino a Júpiter</text>
+		<text>el camino a JÃºpiter</text>
 	</string>
 	<string id="st_dyn_k01_darkscape_daleko_1">
-		<text>el camino hacia el Cordón</text>
+		<text>el camino hacia el CordÃ³n</text>
 	</string>
 	<string id="st_dyn_k01_darkscape_daleko_2">
 		<text>la gasolinera</text>
@@ -1570,10 +1570,10 @@
 		<text>el camino a Dark Valley</text>
 	</string>
 	<string id="st_dyn_l08_yantar_daleko_1">
-		<text>la anomalía detrás de la planta</text>
+		<text>la anomalÃ­a detrÃ¡s de la planta</text>
 	</string>
 	<string id="st_dyn_l08_yantar_daleko_2">
-		<text>el laboratorio móvil</text>
+		<text>el laboratorio mÃ³vil</text>
 	</string>
 	<string id="st_dyn_l08_yantar_daleko_3">
 		<text>la planta</text>
@@ -1591,10 +1591,10 @@
 		<text>el camino a Yantar</text>
 	</string>
 	<string id="st_dyn_l06_rostok_daleko_2">
-		<text>el túnel ardiente</text>
+		<text>el tÃºnel ardiente</text>
 	</string>
 	<string id="st_dyn_l06_rostok_daleko_3">
-		<text>el sitio de construcción</text>
+		<text>el sitio de construcciÃ³n</text>
 	</string>
 	<string id="st_dyn_l06_rostok_daleko_4">
 		<text>el estacionamiento</text>
@@ -1603,19 +1603,19 @@
 		<text>el camino a Rostock</text>
 	</string>
 	<string id="st_dyn_l03_agroprom_daleko_1">
-		<text>la anomalía en la colina</text>
+		<text>la anomalÃ­a en la colina</text>
 	</string>
 	<string id="st_dyn_l03_agroprom_daleko_2">
 		<text>el complejo norte</text>
 	</string>
 	<string id="st_dyn_l03_agroprom_daleko_3">
-		<text>la anomalía al sur</text>
+		<text>la anomalÃ­a al sur</text>
 	</string>
 	<string id="st_dyn_l03_agroprom_daleko_4">
 		<text>el complejo sur</text>
 	</string>
 	<string id="st_dyn_l03_agroprom_daleko_5">
-		<text>la anomalía de Bedrock Claws</text>
+		<text>la anomalÃ­a de Bedrock Claws</text>
 	</string>
 	<string id="st_dyn_l03_agroprom_daleko_6">
 		<text>los pantanos</text>
@@ -1639,7 +1639,7 @@
 		<text>Jubileo KBO</text>
 	</string>
 	<string id="st_dyn_pripyat_daleko_7">
-		<text>la lavandería</text>
+		<text>la lavanderÃ­a</text>
 	</string>
 	<string id="st_dyn_pripyat_daleko_8">
 		<text>El patio de la escuela</text>
@@ -1654,39 +1654,39 @@
 		<text>los grandes almacenes</text>
 	</string>
 	<string id="st_dyn_pripyat_daleko_12">
-		<text>la librería</text>
+		<text>la librerÃ­a</text>
 	</string>
 	<string id="st_dyn_pripyat_daleko_13">
-		<text>la anomalía del volcán</text>
+		<text>la anomalÃ­a del volcÃ¡n</text>
 	</string>
 	<string id="st_dyn_pripyat_daleko_14">
-		<text>la anomalía de Vine</text>
+		<text>la anomalÃ­a de Vine</text>
 	</string>
 	<string id="st_dyn_l02_garbage_daleko_1">
 		<text>el puesto de control de Rostok</text>
 	</string>
 	<string id="st_dyn_l02_garbage_daleko_2">
-		<text>la anomalía de Synapse</text>
+		<text>la anomalÃ­a de Synapse</text>
 	</string>
 	<string id="st_dyn_l02_garbage_daleko_3">
-		<text>el depósito</text>
+		<text>el depÃ³sito</text>
 	</string>
 	<string id="st_dyn_l02_garbage_daleko_4">
-		<text>el cementerio del vehículo</text>
+		<text>el cementerio del vehÃ­culo</text>
 	</string>
 	<string id="st_dyn_l02_garbage_daleko_5">
 		<text>el pantano</text>
 	</string>
 	<string id="st_dyn_l02_garbage_daleko_6">
-		<text>la anomalía por el camino</text>
+		<text>la anomalÃ­a por el camino</text>
 	</string>
 	<string id="st_dyn_l02_garbage_daleko_7">
-		<text>el camino hacia el Cordón</text>
+		<text>el camino hacia el CordÃ³n</text>
 	</string>
 
 	<!-- Blizko -->
 	<string id="st_dyn_l09_deadcity_blizko_1">
-		<text>cerca del túnel a los almacenes del ejército</text>
+		<text>cerca del tÃºnel a los almacenes del ejÃ©rcito</text>
 	</string>
 	<string id="st_dyn_l09_deadcity_blizko_2">
 		<text>en el camino a Yantar</text>
@@ -1698,13 +1698,13 @@
 		<text>a la salida de Limansk</text>
 	</string>
 	<string id="st_dyn_jupiter_underground_blizko_1">
-		<text>en los túneles</text>
+		<text>en los tÃºneles</text>
 	</string>
 	<string id="st_dyn_zaton_blizko_1">
-		<text>en la anomalía de la garra</text>
+		<text>en la anomalÃ­a de la garra</text>
 	</string>
 	<string id="st_dyn_zaton_blizko_2">
-		<text>en la anomalía de Iron Forest</text>
+		<text>en la anomalÃ­a de Iron Forest</text>
 	</string>
 	<string id="st_dyn_zaton_blizko_3">
 		<text>en el aserradero</text>
@@ -1716,10 +1716,10 @@
 		<text>en la planta de procesamiento de residuos</text>
 	</string>
 	<string id="st_dyn_zaton_blizko_6">
-		<text>en la anomalía del circo</text>
+		<text>en la anomalÃ­a del circo</text>
 	</string>
 	<string id="st_dyn_zaton_blizko_7">
-		<text>en la estación de guardabosques</text>
+		<text>en la estaciÃ³n de guardabosques</text>
 	</string>
 	<string id="st_dyn_zaton_blizko_8">
 		<text>en Skadovsk</text>
@@ -1728,7 +1728,7 @@
 		<text>en el pueblo quemado</text>
 	</string>
 	<string id="st_dyn_zaton_blizko_10">
-		<text>en la anomalía de la caldera</text>
+		<text>en la anomalÃ­a de la caldera</text>
 	</string>
 	<string id="st_dyn_zaton_blizko_11">
 		<text>en el pantano</text>
@@ -1740,22 +1740,22 @@
 		<text>en el Shevchenko</text>
 	</string>
 	<string id="st_dyn_zaton_blizko_14">
-		<text>en la estación de dragado</text>
+		<text>en la estaciÃ³n de dragado</text>
 	</string>
 	<string id="st_dyn_zaton_blizko_15">
-		<text>en las grúas del muelle</text>
+		<text>en las grÃºas del muelle</text>
 	</string>
 	<string id="st_dyn_zaton_blizko_16">
-		<text>en la anomalía de Oakpine</text>
+		<text>en la anomalÃ­a de Oakpine</text>
 	</string>
 	<string id="st_dyn_zaton_blizko_17">
-		<text>en la estación de repostaje</text>
+		<text>en la estaciÃ³n de repostaje</text>
 	</string>
 	<string id="st_dyn_zaton_blizko_18">
 		<text>en la vieja barcaza</text>
 	</string>
 	<string id="st_dyn_zaton_blizko_19">
-		<text>en la anomalía de la cicatriz</text>
+		<text>en la anomalÃ­a de la cicatriz</text>
 	</string>
 	<string id="st_dyn_zaton_blizko_20">
 		<text>en el puente Preobrazhensky</text>
@@ -1764,22 +1764,22 @@
 		<text>en la meseta sur</text>
 	</string>
 	<string id="st_dyn_zaton_blizko_22">
-		<text>en la subestación de taller</text>
+		<text>en la subestaciÃ³n de taller</text>
 	</string>
 	<string id="st_dyn_jupiter_blizko_1">
-		<text>en la anomalía de Ash Heap</text>
+		<text>en la anomalÃ­a de Ash Heap</text>
 	</string>
 	<string id="st_dyn_jupiter_blizko_2">
 		<text>en la torre</text>
 	</string>
 	<string id="st_dyn_jupiter_blizko_3">
-		<text>en la subestación</text>
+		<text>en la subestaciÃ³n</text>
 	</string>
 	<string id="st_dyn_jupiter_blizko_4">
-		<text>en la anomalía de Plavni</text>
+		<text>en la anomalÃ­a de Plavni</text>
 	</string>
 	<string id="st_dyn_jupiter_blizko_5">
-		<text>en la fábrica de cemento</text>
+		<text>en la fÃ¡brica de cemento</text>
 	</string>
 	<string id="st_dyn_jupiter_blizko_6">
 		<text>en Kopachi</text>
@@ -1791,13 +1791,13 @@
 		<text>en la cantera</text>
 	</string>
 	<string id="st_dyn_jupiter_blizko_9">
-		<text>en el laboratorio móvil</text>
+		<text>en el laboratorio mÃ³vil</text>
 	</string>
 	<string id="st_dyn_jupiter_blizko_10">
 		<text>en el complejo de Volkhov</text>
 	</string>
 	<string id="st_dyn_jupiter_blizko_11">
-		<text>en el bosque anómalo</text>
+		<text>en el bosque anÃ³malo</text>
 	</string>
 	<string id="st_dyn_jupiter_blizko_12">
 		<text>en el estacionamiento</text>
@@ -1806,25 +1806,25 @@
 		<text>en el punto de control</text>
 	</string>
 	<string id="st_dyn_jupiter_blizko_14">
-		<text>en la anomalía del betún</text>
+		<text>en la anomalÃ­a del betÃºn</text>
 	</string>
 	<string id="st_dyn_jupiter_blizko_15">
-		<text>en el túnel oriental</text>
+		<text>en el tÃºnel oriental</text>
 	</string>
 	<string id="st_dyn_jupiter_blizko_16">
 		<text>en los contenedores de almacenamiento</text>
 	</string>
 	<string id="st_dyn_jupiter_blizko_17">
-		<text>en el complejo de ventilación</text>
+		<text>en el complejo de ventilaciÃ³n</text>
 	</string>
 	<string id="st_dyn_jupiter_blizko_18">
 		<text>en el helipuerto</text>
 	</string>
 	<string id="st_dyn_jupiter_blizko_19">
-		<text>en la anomalía Concrete Bath</text>
+		<text>en la anomalÃ­a Concrete Bath</text>
 	</string>
 	<string id="st_dyn_jupiter_blizko_20">
-		<text>en la fábrica de Júpiter</text>
+		<text>en la fÃ¡brica de JÃºpiter</text>
 	</string>
 	<string id="st_dyn_l05_bar_blizko_1">
 		<text>en el punto de control occidental</text>
@@ -1836,7 +1836,7 @@
 		<text>en la base Deber</text>
 	</string>
 	<string id="st_dyn_l05_bar_blizko_4">
-		<text>en el camino a los almacenes del ejército</text>
+		<text>en el camino a los almacenes del ejÃ©rcito</text>
 	</string>
 	<string id="st_dyn_new_military_blizko_1">
 		<text>en la antigua granja</text>
@@ -1872,16 +1872,16 @@
 		<text>en el aparcamiento</text>
 	</string>
 	<string id="st_dyn_l01_escape_blizko_5">
-		<text>por el terraplén del ferrocarril</text>
+		<text>por el terraplÃ©n del ferrocarril</text>
 	</string>
 	<string id="st_dyn_l01_escape_blizko_6">
 		<text>en la granja</text>
 	</string>
 	<string id="st_dyn_l01_escape_blizko_7">
-		<text>en la anomalía en el bosque</text>
+		<text>en la anomalÃ­a en el bosque</text>
 	</string>
 	<string id="st_dyn_l01_escape_blizko_8">
-		<text>por el túnel del tren</text>
+		<text>por el tÃºnel del tren</text>
 	</string>
 	<string id="st_dyn_l01_escape_blizko_9">
 		<text>por el puesto de control norte</text>
@@ -1890,19 +1890,19 @@
 		<text>en la base Clear Sky</text>
 	</string>
 	<string id="st_dyn_k00_marsh_blizko_2">
-		<text>en la pesquería</text>
+		<text>en la pesquerÃ­a</text>
 	</string>
 	<string id="st_dyn_k00_marsh_blizko_3">
-		<text>en la estación de bombeo</text>
+		<text>en la estaciÃ³n de bombeo</text>
 	</string>
 	<string id="st_dyn_k00_marsh_blizko_4">
-		<text>por el grupo de anomalía</text>
+		<text>por el grupo de anomalÃ­a</text>
 	</string>
 	<string id="st_dyn_k00_marsh_blizko_5">
 		<text>a la salida de Agroprom</text>
 	</string>
 	<string id="st_dyn_k00_marsh_blizko_6">
-		<text>en el patio de máquinas</text>
+		<text>en el patio de mÃ¡quinas</text>
 	</string>
 	<string id="st_dyn_k00_marsh_blizko_7">
 		<text>por la casa quemada</text>
@@ -1917,13 +1917,13 @@
 		<text>a la salida de la Ciudad Muerta</text>
 	</string>
 	<string id="st_dyn_l10_limansk_blizko_2">
-		<text>por el túnel al bosque rojo</text>
+		<text>por el tÃºnel al bosque rojo</text>
 	</string>
 	<string id="st_dyn_l04_darkvalley_blizko_1">
 		<text>en la granja abandonada</text>
 	</string>
 	<string id="st_dyn_l04_darkvalley_blizko_2">
-		<text>por la anomalía de Glowing Pit</text>
+		<text>por la anomalÃ­a de Glowing Pit</text>
 	</string>
 	<string id="st_dyn_l04_darkvalley_blizko_3">
 		<text>por la bola de fuego</text>
@@ -1944,7 +1944,7 @@
 		<text>por la salida a Rostock</text>
 	</string>
 	<string id="st_dyn_k02_trucks_cemetery_blizko_2">
-		<text>por los helicópteros</text>
+		<text>por los helicÃ³pteros</text>
 	</string>
 	<string id="st_dyn_k02_trucks_cemetery_blizko_3">
 		<text>por los camiones de bomberos</text>
@@ -1983,10 +1983,10 @@
 		<text>en el puente</text>
 	</string>
 	<string id="st_dyn_l10_red_forest_blizko_2">
-		<text>en la anomalía Superconductor</text>
+		<text>en la anomalÃ­a Superconductor</text>
 	</string>
 	<string id="st_dyn_l10_red_forest_blizko_3">
-		<text>por el campamento del túnel</text>
+		<text>por el campamento del tÃºnel</text>
 	</string>
 	<string id="st_dyn_l10_red_forest_blizko_4">
 		<text>cerca de la salida al Radar</text>
@@ -1995,10 +1995,10 @@
 		<text>en el campo</text>
 	</string>
 	<string id="st_dyn_l10_red_forest_blizko_6">
-		<text>en el camino a Júpiter</text>
+		<text>en el camino a JÃºpiter</text>
 	</string>
 	<string id="st_dyn_k01_darkscape_blizko_1">
-		<text>a la salida del Cordón</text>
+		<text>a la salida del CordÃ³n</text>
 	</string>
 	<string id="st_dyn_k01_darkscape_blizko_2">
 		<text>en la gasolinera</text>
@@ -2013,10 +2013,10 @@
 		<text>a la salida del Valle Oscuro</text>
 	</string>
 	<string id="st_dyn_l08_yantar_blizko_1">
-		<text>en la anomalía detrás de la planta</text>
+		<text>en la anomalÃ­a detrÃ¡s de la planta</text>
 	</string>
 	<string id="st_dyn_l08_yantar_blizko_2">
-		<text>por el laboratorio móvil</text>
+		<text>por el laboratorio mÃ³vil</text>
 	</string>
 	<string id="st_dyn_l08_yantar_blizko_3">
 		<text>en la planta</text>
@@ -2034,10 +2034,10 @@
 		<text>en el camino a Yantar</text>
 	</string>
 	<string id="st_dyn_l06_rostok_blizko_2">
-		<text>en el túnel ardiente</text>
+		<text>en el tÃºnel ardiente</text>
 	</string>
 	<string id="st_dyn_l06_rostok_blizko_3">
-		<text>en el sitio de construcción</text>
+		<text>en el sitio de construcciÃ³n</text>
 	</string>
 	<string id="st_dyn_l06_rostok_blizko_4">
 		<text>por el estacionamiento</text>
@@ -2046,19 +2046,19 @@
 		<text>a la salida de Rostock</text>
 	</string>
 	<string id="st_dyn_l03_agroprom_blizko_1">
-		<text>por las anomalías en la colina</text>
+		<text>por las anomalÃ­as en la colina</text>
 	</string>
 	<string id="st_dyn_l03_agroprom_blizko_2">
 		<text>por el complejo norte</text>
 	</string>
 	<string id="st_dyn_l03_agroprom_blizko_3">
-		<text>por las anomalías al sur</text>
+		<text>por las anomalÃ­as al sur</text>
 	</string>
 	<string id="st_dyn_l03_agroprom_blizko_4">
 		<text>en el complejo sur</text>
 	</string>
 	<string id="st_dyn_l03_agroprom_blizko_5">
-		<text>en la anomalía de Bedrock Claws</text>
+		<text>en la anomalÃ­a de Bedrock Claws</text>
 	</string>
 	<string id="st_dyn_l03_agroprom_blizko_6">
 		<text>por el pantano</text>
@@ -2082,7 +2082,7 @@
 		<text>en KBO Jubilee</text>
 	</string>
 	<string id="st_dyn_pripyat_blizko_7">
-		<text>en la lavandería</text>
+		<text>en la lavanderÃ­a</text>
 	</string>
 	<string id="st_dyn_pripyat_blizko_8">
 		<text>En el patio de recreo</text>
@@ -2097,136 +2097,136 @@
 		<text>en la tienda departamental</text>
 	</string>
 	<string id="st_dyn_pripyat_blizko_12">
-		<text>en la librería</text>
+		<text>en la librerÃ­a</text>
 	</string>
 	<string id="st_dyn_pripyat_blizko_13">
-		<text>en la anomalía del volcán</text>
+		<text>en la anomalÃ­a del volcÃ¡n</text>
 	</string>
 	<string id="st_dyn_pripyat_blizko_14">
-		<text>en la anomalía Vine</text>
+		<text>en la anomalÃ­a Vine</text>
 	</string>
 	<string id="st_dyn_l02_garbage_blizko_1">
 		<text>en el puesto de control de Rostok</text>
 	</string>
 	<string id="st_dyn_l02_garbage_blizko_2">
-		<text>en la anomalía Synapse</text>
+		<text>en la anomalÃ­a Synapse</text>
 	</string>
 	<string id="st_dyn_l02_garbage_blizko_3">
-		<text>en el depósito</text>
+		<text>en el depÃ³sito</text>
 	</string>
 	<string id="st_dyn_l02_garbage_blizko_4">
-		<text>por el cementerio del vehículos</text>
+		<text>por el cementerio del vehÃ­culos</text>
 	</string>
 	<string id="st_dyn_l02_garbage_blizko_5">
 		<text>por el pantano</text>
 	</string>
 	<string id="st_dyn_l02_garbage_blizko_6">
-		<text>en la anomalía por el camino</text>
+		<text>en la anomalÃ­a por el camino</text>
 	</string>
 	<string id="st_dyn_l02_garbage_blizko_7">
-		<text>a la salida del Cordón</text>
+		<text>a la salida del CordÃ³n</text>
 	</string>
 
 	<!-- Bounty gossip -->
 	<string id="st_dyn_news_gossip_bounty_1">
-		<text>Acabo de ver a %s, %s. He oído que alguien puso una recompensa por su cabeza.</text>
+		<text>Acabo de ver a %s, %s. He oÃ­do que alguien puso una recompensa por su cabeza.</text>
 	</string>
 	<string id="st_dyn_news_gossip_bounty_2">
-		<text>Escuché que alguien puso una recompensa por la cabeza de %s</text>
+		<text>EscuchÃ© que alguien puso una recompensa por la cabeza de %s</text>
 	</string>
 	<string id="st_dyn_news_gossip_bounty_3">
-		<text>¿Alguien sabe qué pasa con %s últimamente? %s ha estado dando vueltas. Casi como si se estuviera escondiendo de alguien.</text>
+		<text>Â¿Alguien sabe quÃ© pasa con %s Ãºltimamente? %s ha estado dando vueltas. Casi como si se estuviera escondiendo de alguien.</text>
 	</string>
 	<string id="st_dyn_news_gossip_bounty_4">
-		<text>Escuché que Sidorovich está buscando a %s. Solo lo vi a %s.</text>
+		<text>EscuchÃ© que Sidorovich estÃ¡ buscando a %s. Solo lo vi a %s.</text>
 	</string>
 
 	<!-- Medicine gossip -->
 	<string id="st_dyn_news_gossip_med_1">
-		<text>¡Oh! ¡%s! Justo a tiempo para repararlo.</text>
+		<text>Â¡Oh! Â¡%s! Justo a tiempo para repararlo.</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_2">
-		<text>%s. No está mal. Es difícil encontrar suministros como estos por ahí.</text>
+		<text>%s. No estÃ¡ mal. Es difÃ­cil encontrar suministros como estos por ahÃ­.</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_3">
-		<text>¿Quién está comprando suministros médicos a los mejores precios disponibles? Tengo %s, y no me sirve de mucho.</text>
+		<text>Â¿QuiÃ©n estÃ¡ comprando suministros mÃ©dicos a los mejores precios disponibles? Tengo %s, y no me sirve de mucho.</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_4">
-		<text>Maldición... ¡%s! El otro día recibí esto por el triple del precio de un comerciante.</text>
+		<text>MaldiciÃ³n... Â¡%s! El otro dÃ­a recibÃ­ esto por el triple del precio de un comerciante.</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_5">
-		<text>¡%s! ¡Por fín! Hora de curarme.</text>
+		<text>Â¡%s! Â¡Por fÃ­n! Hora de curarme.</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_6">
-		<text>Encontrado un %s. ¿Debería venderlo? O simplemente quedármelo...?</text>
+		<text>Encontrado un %s. Â¿DeberÃ­a venderlo? O simplemente quedÃ¡rmelo...?</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_7">
-		<text>¡Oye! ¿Alguno de ustedes casi estira la pata hace un segundo? ¿Será un %s de alguna ayuda?</text>
+		<text>Â¡Oye! Â¿Alguno de ustedes casi estira la pata hace un segundo? Â¿SerÃ¡ un %s de alguna ayuda?</text>
 	</string>
 	<string id="st_dyn_news_gossip_med_8">
-		<text>Veamos qué tenemos aquí... ¡%s! ¡Bien! Será de utilidad.</text>
+		<text>Veamos quÃ© tenemos aquÃ­... Â¡%s! Â¡Bien! SerÃ¡ de utilidad.</text>
 	</string>
 
 	<string id="st_dyn_news_gossip_food_1">
-		<text>%s. No está mal. Es difícil encontrar comida como esta por ahí.</text>
+		<text>%s. No estÃ¡ mal. Es difÃ­cil encontrar comida como esta por ahÃ­.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_2">
-		<text>¿Quién está comprando raciones a los mejores precios disponibles? Tengo algunos %s, y no me sirven de mucho.</text>
+		<text>Â¿QuiÃ©n estÃ¡ comprando raciones a los mejores precios disponibles? Tengo algunos %s, y no me sirven de mucho.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_3">
-		<text>¡Maldición... %s! El otro día recibí esto por el triple del precio de un comerciante.</text>
+		<text>Â¡MaldiciÃ³n... %s! El otro dÃ­a recibÃ­ esto por el triple del precio de un comerciante.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_4">
-		<text>¡%s! ¡Por fín! Hora de comer</text>
+		<text>Â¡%s! Â¡Por fÃ­n! Hora de comer</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_5">
-		<text>¡Oh! ¡Encontré algunos %s! Justo a tiempo.</text>
+		<text>Â¡Oh! Â¡EncontrÃ© algunos %s! Justo a tiempo.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_6">
-		<text>Encontrado %s. ¿Debería venderlo? ¿O simplemente comérmelo yo...?</text>
+		<text>Encontrado %s. Â¿DeberÃ­a venderlo? Â¿O simplemente comÃ©rmelo yo...?</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_7">
-		<text>¡Ey! ¡Acabo de encontrar un trozo para quien que lo necesite! ¿Será %s de alguna ayuda?</text>
+		<text>Â¡Ey! Â¡Acabo de encontrar un trozo para quien que lo necesite! Â¿SerÃ¡ %s de alguna ayuda?</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_8">
-		<text>%s. Sí. He tenido mejores días.</text>
+		<text>%s. SÃ­. He tenido mejores dÃ­as.</text>
 	</string>
 	<string id="st_dyn_news_gossip_food_9">
-		<text>¡%s! ¡Estupendo! Me ha estado sonando el estómago...</text>
+		<text>Â¡%s! Â¡Estupendo! Me ha estado sonando el estÃ³mago...</text>
 	</string>
 
 	<!-- Arte gossip -->
 	<string id="st_dyn_news_gossip_arte_1">
-		<text>¡Es mi día de suerte! Acabo de encontrar un %s.</text>
+		<text>Â¡Es mi dÃ­a de suerte! Acabo de encontrar un %s.</text>
 	</string>
 	<string id="st_dyn_news_gossip_arte_2">
-		<text>¿Alguien sabe la tarifa actual para un %s?</text>
+		<text>Â¿Alguien sabe la tarifa actual para un %s?</text>
 	</string>
 	<string id="st_dyn_news_gossip_arte_3">
-		<text>¡Un %s! ¡Quizás por fín pueda retirarme!</text>
+		<text>Â¡Un %s! Â¡QuizÃ¡s por fÃ­n pueda retirarme!</text>
 	</string>
 	<string id="st_dyn_news_gossip_arte_4">
-		<text>Sajarov querrá poner sus manos en este %s!</text>
+		<text>Sajarov querrÃ¡ poner sus manos en este %s!</text>
 	</string>
 
 	<!-- Heli gossip -->
 	<string id="st_dyn_news_gossip_heli_1">
-		<text>Solicito ayuda de helicópteros. Bogey encuentra %s.</text>
+		<text>Solicito ayuda de helicÃ³pteros. Bogey encuentra %s.</text>
 	</string>
 	<string id="st_dyn_news_gossip_heli_2">
-		<text>Solicito soporte aéreo a nuestra ubicación; necesitamos refuerzo.</text>
+		<text>Solicito soporte aÃ©reo a nuestra ubicaciÃ³n; necesitamos refuerzo.</text>
 	</string>
 	<string id="st_dyn_news_gossip_heli_3">
-		<text>Enemigo visto %s. Se necesita asistencia aérea, más.</text>
+		<text>Enemigo visto %s. Se necesita asistencia aÃ©rea, mÃ¡s.</text>
 	</string>
 	<string id="st_dyn_news_gossip_heli_4">
-		<text>Tierra a "Airhog": ¡necesitamos refuerzos lo antes posible!</text>
+		<text>Tierra a "Airhog": Â¡necesitamos refuerzos lo antes posible!</text>
 	</string>
 	<string id="st_dyn_news_gossip_heli_5">
-		<text>Solicito asistencia de helicóptero %s. Estamos bajo ataque por %s.</text>
+		<text>Solicito asistencia de helicÃ³ptero %s. Estamos bajo ataque por %s.</text>
 	</string>
 	<string id="st_dyn_news_gossip_heli_6">
-		<text>Enemigos descubiertos %s. Nuestro escuadrón está siendo atacado por %s.</text>
+		<text>Enemigos descubiertos %s. Nuestro escuadrÃ³n estÃ¡ siendo atacado por %s.</text>
 	</string>
 	<string id="st_dyn_news_gossip_heli_7">
 		<text>Unidad de tierra a unidad de aire, solicitando ayuda %s. Estamos siendo atacados por %s!</text>
@@ -2234,91 +2234,91 @@
 
 	<!-- buy gossip -->
 	<string id="st_dyn_news_gossip_buy_1_1">
-		<text>%s está ofreciendo algunas ofertas de mierda. Creo que me estafó en %s.</text>
+		<text>%s estÃ¡ ofreciendo algunas ofertas de mierda. Creo que me estafÃ³ en %s.</text>
 	</string>
 	<string id="st_dyn_news_gossip_buy_1_2">
-		<text>¿Alguien sabe cuando %s está obteniendo más %s en stock?</text>
+		<text>Â¿Alguien sabe cuando %s estÃ¡ obteniendo mÃ¡s %s en stock?</text>
 	</string>
 	<string id="st_dyn_news_gossip_buy_1_3">
 		<text>%s tiene algunas buenas ofertas en %s hoy.</text>
 	</string>
 	<string id="st_dyn_news_gossip_buy_1_4">
-		<text>Estaré en bancarrota en poco tiempo si %s sigue aumentando sus precios.</text>
+		<text>EstarÃ© en bancarrota en poco tiempo si %s sigue aumentando sus precios.</text>
 	</string>
 	<string id="st_dyn_news_gossip_buy_2_1">
-		<text>%s cuesta demasiado... maldición.</text>
+		<text>%s cuesta demasiado... maldiciÃ³n.</text>
 	</string>
 	<string id="st_dyn_news_gossip_buy_2_2">
-		<text>¿Alguien sabe dónde puedo comprar %s?  %s está fuera de ellos.</text>
+		<text>Â¿Alguien sabe dÃ³nde puedo comprar %s?  %s estÃ¡ fuera de ellos.</text>
 	</string>
 	<string id="st_dyn_news_gossip_buy_2_3">
 		<text>Mierda... Buenas ofertas en %s hoy.</text>
 	</string>
 	<string id="st_dyn_news_gossip_buy_2_4">
-		<text>Acabo de comprar %s. Solo espero que algún gilipollas no lo coja de mi escondite...</text>
+		<text>Acabo de comprar %s. Solo espero que algÃºn gilipollas no lo coja de mi escondite...</text>
 	</string>
 
 	<!-- kill wounded -->
 	<string id="st_dyn_news_gossip_kill_wounded_1">
-		<text>Uno todavía está vivo. ¡Sácalo de su miseria!</text>
+		<text>Uno todavÃ­a estÃ¡ vivo. Â¡SÃ¡calo de su miseria!</text>
 	</string>
 	<string id="st_dyn_news_gossip_kill_wounded_2">
-		<text>¡Rápido! Por ahí. Él todavía está vivo.</text>
+		<text>Â¡RÃ¡pido! Por ahÃ­. Ã‰l todavÃ­a estÃ¡ vivo.</text>
 	</string>
 	<string id="st_dyn_news_gossip_kill_wounded_3">
-		<text>Éste pensó que podía escapar jugando con la muerte.</text>
+		<text>Ã‰ste pensÃ³ que podÃ­a escapar jugando con la muerte.</text>
 	</string>
 	<string id="st_dyn_news_gossip_kill_wounded_4">
 		<text>Es hora de dejarlo para siempre.</text>
 	</string>
 	<string id="st_dyn_news_gossip_kill_wounded_5">
-		<text>Deja las cosas como están.</text>
+		<text>Deja las cosas como estÃ¡n.</text>
 	</string>
 	<string id="st_dyn_news_gossip_kill_wounded_6">
-		<text>Todavía queda uno. Veamos si podemos extraer información.</text>
+		<text>TodavÃ­a queda uno. Veamos si podemos extraer informaciÃ³n.</text>
 	</string>
 	<string id="st_dyn_news_gossip_kill_wounded_7">
-		<text>¡Deja a este perro!</text>
+		<text>Â¡Deja a este perro!</text>
 	</string>
 	<string id="st_dyn_news_gossip_kill_wounded_8">
-		<text>¡Ríndete, gilipollas! ¡Sabemos que estás herido!</text>
+		<text>Â¡RÃ­ndete, gilipollas! Â¡Sabemos que estÃ¡s herido!</text>
 	</string>
 	<string id="st_dyn_news_gossip_kill_wounded_9">
-		<text>Está herido... ¡Mátalo!</text>
+		<text>EstÃ¡ herido... Â¡MÃ¡talo!</text>
 	</string>
 
 	<!-- hostage -->
 	<string id="st_dyn_news_gossip_hostage_1">
-		<text>Parece que tenemos un rehén, muchachos.</text>
+		<text>Parece que tenemos un rehÃ©n, muchachos.</text>
 	</string>
 	<string id="st_dyn_news_gossip_hostage_2">
-		<text>Este maldito pensó que podría escapar. Alguien debe vigilarlo.</text>
+		<text>Este maldito pensÃ³ que podrÃ­a escapar. Alguien debe vigilarlo.</text>
 	</string>
 	<string id="st_dyn_news_gossip_hostage_3">
-		<text>¿Crees que esos stalkers pagarán su rescate?</text>
+		<text>Â¿Crees que esos stalkers pagarÃ¡n su rescate?</text>
 	</string>
 	<string id="st_dyn_news_gossip_hostage_4">
-		<text>¡No creo que tus amigos vengan por ti!</text>
+		<text>Â¡No creo que tus amigos vengan por ti!</text>
 	</string>
 	<string id="st_dyn_news_gossip_hostage_5">
-		<text>Busco ofertas por este idiota. Si no, ¡lo mataremos!</text>
+		<text>Busco ofertas por este idiota. Si no, Â¡lo mataremos!</text>
 	</string>
 	<string id="st_dyn_news_gossip_hostage_6">
-		<text>Veamos si podemos extraer información de este bajo perfil.</text>
+		<text>Veamos si podemos extraer informaciÃ³n de este bajo perfil.</text>
 	</string>
 
 	<!-- Task -->
 	<string id="st_dyn_news_gossip_task_1">
-		<text>Parece que %s está buscando stalkers para hacer un trabajo.</text>
+		<text>Parece que %s estÃ¡ buscando stalkers para hacer un trabajo.</text>
 	</string>
 	<string id="st_dyn_news_gossip_task_2">
 		<text>Aviso: %s tiene un nuevo trabajo disponible.</text>
 	</string>
 	<string id="st_dyn_news_gossip_task_3">
-		<text>¿Alguno necesita algo de trabajo? Acabo de escuchar que %s está buscando stalkers para un trabajo.</text>
+		<text>Â¿Alguno necesita algo de trabajo? Acabo de escuchar que %s estÃ¡ buscando stalkers para un trabajo.</text>
 	</string>
 	<string id="st_dyn_news_gossip_task_4">
-		<text>%s tiene un nuevo trabajo, si alguien está interesado...</text>
+		<text>%s tiene un nuevo trabajo, si alguien estÃ¡ interesado...</text>
 	</string>
 
 	<!-- Sentence Builders -->
@@ -2332,29 +2332,29 @@
 		<text>Estamos bajo ataque por</text>
 	</string>
 	<string id="st_dyn_news_builder_attacked_4">
-		<text>Nos está disparando</text>
+		<text>Nos estÃ¡ disparando</text>
 	</string>
 
 	<string id="st_dyn_news_builder_hear_1">
-		<text>he oído</text>
+		<text>he oÃ­do</text>
 	</string>
 	<string id="st_dyn_news_builder_hear_2">
 		<text>Acabo de escuchar</text>
 	</string>
 	<string id="st_dyn_news_builder_hear_3">
-		<text>Hace un rato, escuché</text>
+		<text>Hace un rato, escuchÃ©</text>
 	</string>
 	<string id="st_dyn_news_builder_hear_4">
-		<text>Hace unos minutos, escuché</text>
+		<text>Hace unos minutos, escuchÃ©</text>
 	</string>
 	<string id="st_dyn_news_builder_hear_5">
-		<text>Hace un par de minutos, escuché</text>
+		<text>Hace un par de minutos, escuchÃ©</text>
 	</string>
 	<string id="st_dyn_news_builder_hear_6">
 		<text>escucho</text>
 	</string>
 	<string id="st_dyn_news_builder_hear_7">
-		<text>Puedo oír</text>
+		<text>Puedo oÃ­r</text>
 	</string>
 	<string id="st_dyn_news_builder_hear_8">
 		<text>Estoy oyendo</text>
@@ -2364,7 +2364,7 @@
 	</string>
 
 	<string id="st_dyn_news_builder_monster_far_1">
-		<text>Tenemos información sobre</text>
+		<text>Tenemos informaciÃ³n sobre</text>
 	</string>
 	<string id="st_dyn_news_builder_monster_far_2">
 		<text>Los Stalkers regresaron del combate, dicen que se toparon con</text>
@@ -2373,7 +2373,7 @@
 		<text>Los borrachos locales deliran que los propios Monolito han entregado</text>
 	</string>
 	<string id="st_dyn_news_builder_monster_far_4">
-		<text>Me están ofreciendo un trabajo aquí para ir a una incursión en</text>
+		<text>Me estÃ¡n ofreciendo un trabajo aquÃ­ para ir a una incursiÃ³n en</text>
 	</string>
 	<string id="st_dyn_news_builder_monster_far_5">
 		<text>Chicos cuentan historias sobre que han visto</text>
@@ -2395,13 +2395,13 @@
 		<text>Parece que vi</text>
 	</string>
 	<string id="st_dyn_news_builder_monster_near_5">
-		<text>¡Chicos! Juro que vi</text>
+		<text>Â¡Chicos! Juro que vi</text>
 	</string>
 	<string id="st_dyn_news_builder_monster_near_6">
 		<text>Los cazadores planean emboscar</text>
 	</string>
 	<string id="st_dyn_news_builder_monster_near_7">
-		<text>¿Has oído las noticias? ¡Un grupo de mutantes corre por aquí! Yo los he visto</text>
+		<text>Â¿Has oÃ­do las noticias? Â¡Un grupo de mutantes corre por aquÃ­! Yo los he visto</text>
 	</string>
 
 	<string id="st_dyn_news_builder_sight_1">
@@ -2436,7 +2436,7 @@
 		<text>alguien gritando</text>
 	</string>
 	<string id="st_dyn_news_builder_middle_2">
-		<text>gritando</text>
+		<text>gritos</text>
 	</string>
 	<string id="st_dyn_news_builder_middle_3">
 		<text>suplica ayuda</text>
@@ -2448,26 +2448,26 @@
 		<text>algunos ruidos jodidos</text>
 	</string>
 	<string id="st_dyn_news_builder_middle_6">
-		<text>chillidos y gruñidos</text>
+		<text>chillidos y gruÃ±idos</text>
 	</string>
 
 	<string id="st_dyn_news_builder_ending_1">
-		<text>Quédate alerta.</text>
+		<text>QuÃ©date alerta.</text>
 	</string>
 	<string id="st_dyn_news_builder_ending_2">
-		<text>Atención a quien disparan.</text>
+		<text>AtenciÃ³n a quien disparan.</text>
 	</string>
 	<string id="st_dyn_news_builder_ending_3">
-		<text>Me pregunto qué pasa.</text>
+		<text>Me pregunto quÃ© pasa.</text>
 	</string>
 	<string id="st_dyn_news_builder_ending_4">
 		<text>Suena rudo.</text>
 	</string>
 	<string id="st_dyn_news_builder_ending_5">
-		<text>¿Alguien ve lo que está pasando?</text>
+		<text>Â¿Alguien ve lo que estÃ¡ pasando?</text>
 	</string>
 	<string id="st_dyn_news_builder_ending_6">
-		<text>¿Alguien cerca?</text>
+		<text>Â¿Alguien cerca?</text>
 	</string>
 	<string id="st_dyn_news_builder_ending_7">
 		<text>Mantente alerta.</text>
@@ -2476,38 +2476,38 @@
 		<text>Cuidado.</text>
 	</string>
 	<string id="st_dyn_news_builder_ending_9">
-		<text>Mantén tus ojos abiertos.</text>
+		<text>MantÃ©n los ojos abiertos.</text>
 	</string>
 	<string id="st_dyn_news_builder_ending_10">
-		<text>Mantente a salvo allí afuera.</text>
+		<text>Mantente a salvo allÃ­ afuera.</text>
 	</string>
 	<string id="st_dyn_news_builder_ending_11">
 		<text>Ten cuidado.</text>
 	</string>
 	<string id="st_dyn_news_builder_ending_12">
-		<text>Me mantendría alejado si fuera tú.</text>
+		<text>Me mantendrÃ­a alejado si fuera tÃº.</text>
 	</string>
 	<string id="st_dyn_news_builder_ending_13">
-		<text>¿Alguien quiere ir a ver?</text>
+		<text>Â¿Alguien quiere ir a ver?</text>
 	</string>
 	<string id="st_dyn_news_builder_ending_14">
-		<text>Mierda, deberíamos salir de este lugar.</text>
+		<text>Mierda, deberÃ­amos salir de este lugar.</text>
 	</string>
 	<string id="st_dyn_news_builder_ending_15">
-		<text>No estoy seguro de qué diablos está pasando allí.</text>
+		<text>No estoy seguro de quÃ© diablos estÃ¡ pasando allÃ­.</text>
 	</string>
 
 	<!-- Misc -->
 	<string id="st_dyn_news_ch_died">
-		<text>Murió:</text>
+		<text>MuriÃ³:</text>
 	</string>
 	<string id="st_dyn_news_ch_killed_by">
 		<text>Asesinado por</text>
 	</string>
 	<string id="st_dyn_news_ch_found">
-		<text>Encontró</text>
+		<text>EncontrÃ³</text>
 	</string>
 	<string id="st_dyn_news_ch_blowout">
-		<text>Emisión</text>
+		<text>EmisiÃ³n</text>
 	</string>
 </string_table>
