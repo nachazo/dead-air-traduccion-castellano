@@ -10,16 +10,16 @@
 		<text>Fuimos atacados por un jabalí</text>
 	</string>
 	<string id="st_dyn_news_boar_3">
-		<text>Nos encontramos con verracos</text>
+		<text>Nos encontramos con jabalíes</text>
 	</string>
 	<string id="st_dyn_news_boar_4">
 		<text>Fuimos atacados por un grupo de jabalíes</text>
 	</string>
 	<string id="st_dyn_news_boar_5">
-		<text>Nos encontramos con algunos verracos</text>
+		<text>Nos encontramos con algunos jabalíes</text>
 	</string>
 	<string id="st_dyn_news_boar_6">
-		<text>un grupo de jabalíes</text>
+		<text>Hay un grupo de jabalíes</text>
 	</string>
 	<string id="st_dyn_news_boar_7">
 		<text>jabalíes</text>
@@ -44,17 +44,17 @@
 		<text>Nos encontramos con un grupo de perros</text>
 	</string>
 	<string id="st_dyn_news_dog_6">
-		<text>un grupo de perros</text>
+		<text>Hay un grupo de perros</text>
 	</string>
 	<string id="st_dyn_news_dog_7">
 		<text>perros</text>
 	</string>
 
 	<string id="st_dyn_news_flesh_0">
-		<text>una carne</text>
+		<text>una Carne</text>
 	</string>
 	<string id="st_dyn_news_flesh_1">
-		<text>una carne</text>
+		<text>una Carne</text>
 	</string>
 	<string id="st_dyn_news_flesh_2">
 		<text>Fuimos atacados por una Carne</text>
@@ -63,13 +63,13 @@
 		<text>Nos encontramos con una Carne</text>
 	</string>
 	<string id="st_dyn_news_flesh_4">
-		<text>Fuimos apresurados por un grupo de Carne</text>
+		<text>Fuimos atacados por un grupo de Carnes</text>
 	</string>
 	<string id="st_dyn_news_flesh_5">
 		<text>Fuimos atacados por un Carne</text>
 	</string>
 	<string id="st_dyn_news_flesh_6">
-		<text>un grupo de Carnes</text>
+		<text>Hay un grupo de Carnes</text>
 	</string>
 	<string id="st_dyn_news_flesh_7">
 		<text>Carnes</text>
@@ -85,7 +85,7 @@
 		<text>Fuimos atacados por un pseudoperro</text>
 	</string>
 	<string id="st_dyn_news_pseudodog_3">
-		<text>Un pseudoperro nos saltó</text>
+		<text>Un pseudoperro nos atacó</text>
 	</string>
 	<string id="st_dyn_news_pseudodog_4">
 		<text>Fuimos atacados por un grupo de pseudoperros</text>
@@ -94,7 +94,7 @@
 		<text>Nos encontramos con un grupo de pseudoperros</text>
 	</string>
 	<string id="st_dyn_news_pseudodog_6">
-		<text>un grupo de pseudoperros</text>
+		<text>Hay un grupo de pseudoperros</text>
 	</string>
 	<string id="st_dyn_news_pseudodog_7">
 		<text>pseudoperros</text>
@@ -119,7 +119,7 @@
 		<text>Nos encontramos con un grupo de snorks</text>
 	</string>
 	<string id="st_dyn_news_snork_6">
-		<text>Un grupo de snorks</text>
+		<text>Hay un grupo de snorks</text>
 	</string>
 	<string id="st_dyn_news_snork_7">
 		<text>snorks</text>
@@ -144,7 +144,7 @@
 		<text>Fuimos emboscados por un grupo de chupasangre</text>
 	</string>
 	<string id="st_dyn_news_bloodsucker_6">
-		<text>un grupo de chupasangres</text>
+		<text>Hay un grupo de chupasangres</text>
 	</string>
 	<string id="st_dyn_news_bloodsucker_7">
 		<text>chupasangres</text>
@@ -169,7 +169,7 @@
 		<text>Nos encontramos con algunos Burers</text>
 	</string>
 	<string id="st_dyn_news_burer_6">
-		<text>un grupo de Burers</text>
+		<text>Hay un grupo de Burers</text>
 	</string>
 	<string id="st_dyn_news_burer_7">
 		<text>Burers</text>
@@ -194,7 +194,7 @@
 		<text>Nos emboscaron las quimeras</text>
 	</string>
 	<string id="st_dyn_news_chimera_6">
-		<text>un grupo de quimeras</text>
+		<text>Hay un grupo de quimeras</text>
 	</string>
 	<string id="st_dyn_news_chimera_7">
 		<text>quimeras</text>
@@ -219,7 +219,7 @@
 		<text>Nos encontramos con un grupo de controladores</text>
 	</string>
 	<string id="st_dyn_news_controller_6">
-		<text>un grupo de controladores</text>
+		<text>Hay un grupo de controladores</text>
 	</string>
 	<string id="st_dyn_news_controller_7">
 		<text>controladores</text>
@@ -244,7 +244,7 @@
 		<text>Nos encontramos con poltergeists</text>
 	</string>
 	<string id="st_dyn_news_poltergeist_6">
-		<text>un par de poltergeists</text>
+		<text>Hay un par de poltergeists</text>
 	</string>
 	<string id="st_dyn_news_poltergeist_7">
 		<text>poltergeists</text>
@@ -269,7 +269,7 @@
 		<text>Fuimos atacados por pseudogigantes</text>
 	</string>
 	<string id="st_dyn_news_gigant_6">
-		<text>un par de pseudogigantes</text>
+		<text>Hay un par de pseudogigantes</text>
 	</string>
 	<string id="st_dyn_news_gigant_7">
 		<text>pseudogigantes</text>
@@ -294,7 +294,7 @@
 		<text>Nos atacó un grupo de tushkano</text>
 	</string>
 	<string id="st_dyn_news_tushkano_6">
-		<text>un grupo de tushkanos</text>
+		<text>Hay un grupo de tushkanos</text>
 	</string>
 	<string id="st_dyn_news_tushkano_7">
 		<text>tushkanos</text>
@@ -319,7 +319,7 @@
 		<text>Fuimos atacados por psy-perros</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_6">
-		<text>un grupo de psy-perros</text>
+		<text>Hay un grupo de psy-perros</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_7">
 		<text>psy-perros</text>
@@ -344,7 +344,7 @@
 		<text>Nos encontramos con un grupo de psy-perros fantasma</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_phantom_6">
-		<text>un grupo de psy-perro fantasma</text>
+		<text>Hay un grupo de psy-perros fantasma</text>
 	</string>
 	<string id="st_dyn_news_psy_dog_phantom_7">
 		<text>psy-perros fantasma</text>
@@ -369,7 +369,7 @@
 		<text>Nos encontramos con un grupo de zombis</text>
 	</string>
 	<string id="st_dyn_news_zombied_6">
-		<text>un grupo de zombis</text>
+		<text>Hay un grupo de zombis</text>
 	</string>
 	<string id="st_dyn_news_zombied_7">
 		<text>stalkers zombis</text>
@@ -394,7 +394,7 @@
 		<text>Nos saltaron algunos malditos felinos</text>
 	</string>
 	<string id="st_dyn_news_cat_6">
-		<text>un grupo de felinos</text>
+		<text>Hay un grupo de felinos</text>
 	</string>
 	<string id="st_dyn_news_cat_7">
 		<text>felinos</text>
@@ -419,7 +419,7 @@
 		<text>Los Izloms nos atacaron</text>
 	</string>
 	<string id="st_dyn_news_fracture_6">
-		<text>un grupo de Izloms</text>
+		<text>Hay un grupo de Izloms</text>
 	</string>
 	<string id="st_dyn_news_fracture_7">
 		<text>Izloms</text>
@@ -444,7 +444,7 @@
 		<text>Nos encontramos con algunos zombies</text>
 	</string>
 	<string id="st_dyn_news_zombie_6">
-		<text>un grupo de zombis</text>
+		<text>Hay un grupo de zombis</text>
 	</string>
 	<string id="st_dyn_news_zombie_7">
 		<text>zombies</text>
@@ -463,13 +463,13 @@
 		<text>Ratas de mierda nos atacaron</text>
 	</string>
 	<string id="st_dyn_news_rat_4">
-		<text>Nos apresuramos por una tonelada de ratas</text>
+		<text>Nos atacaron un montón de ratas</text>
 	</string>
 	<string id="st_dyn_news_rat_5">
 		<text>Fuimos atacados por un grupo de ratas</text>
 	</string>
 	<string id="st_dyn_news_rat_6">
-		<text>un grupo de ratas</text>
+		<text>Hay un grupo de ratas</text>
 	</string>
 	<string id="st_dyn_news_rat_7">
 		<text>ratas</text>
@@ -647,7 +647,7 @@
 		<text>un científico</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_2">
-		<text>una cabezahuevo</text>
+		<text>un cabezahuevo</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_3">
 		<text>algún ecologista</text>
@@ -1181,7 +1181,7 @@
 		<text>en el Cementerio de Camiones,</text>
 	</string>
 	<string id="st_dyn_news_l01_escape">
-		<text>en el Cordón,</text>
+		<text>en Cordón,</text>
 	</string>
 	<string id="st_dyn_news_l02_garbage">
 		<text>en la basura</text>
@@ -1211,7 +1211,7 @@
 		<text>en Limansk,</text>
 	</string>
 	<string id="st_dyn_news_l10_radar">
-		<text>en el Radar,</text>
+		<text>en Radar,</text>
 	</string>
 	<string id="st_dyn_news_l10_red_forest">
 		<text>en el Bosque Rojo,</text>
@@ -2461,7 +2461,7 @@
 		<text>Me pregunto qué pasa.</text>
 	</string>
 	<string id="st_dyn_news_builder_ending_4">
-		<text>Suena rudo.</text>
+		<text>Suena peligroso.</text>
 	</string>
 	<string id="st_dyn_news_builder_ending_5">
 		<text>¿Alguien ve lo que está pasando?</text>
@@ -2479,7 +2479,7 @@
 		<text>Mantén los ojos abiertos.</text>
 	</string>
 	<string id="st_dyn_news_builder_ending_10">
-		<text>Mantente a salvo allí afuera.</text>
+		<text>Mantente a salvo ahí fuera.</text>
 	</string>
 	<string id="st_dyn_news_builder_ending_11">
 		<text>Ten cuidado.</text>

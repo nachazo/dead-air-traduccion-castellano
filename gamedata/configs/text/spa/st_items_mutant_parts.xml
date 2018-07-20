@@ -44,7 +44,7 @@
 		<text>Mano de izlom</text>
 	</string>
 	<string id="mutant_zombi_hand_description">
-		<text>Se trata de una mano de una vieja criatura llamada zombi - ex seres humanos que vivían o trabajaban en la Zona de Exclusión y que estaban sometidos a cantidades extremas de radiación e influencia psíquica cuando ocurrió el segundo incidente de Chernobyl. Después de muchos años en ese estado, poseen solo un cuerpo frágil con huesos y carne medio podrida claramente visibles. Por esta razón, las criaturas se parecen mucho a los cuerpos muertos animados, sin embargo, están muy vivos y casi con hambre permanente y, por lo tanto, pueden convertirse en una amenaza cuando se encuentran en manadas. La mano cortada no sólo constituye un material de investigación científica, sino que en muchos casos también puede utilizarse para identificar a la persona a la que perteneció la mano. \n \n%c[0,140,140,140]PROPIEDADES:. \n %c[0,153,255,255] • %c[0,140,140,140 ]parte del cuerpo mutada \n %c[0,153,255,255] • %c[0,140,140,140]espécimen científico común</text>
+		<text>Se trata de una mano de una vieja criatura llamada zombi - ex seres humanos que vivían o trabajaban en la Zona de Exclusión y que estaban sometidos a cantidades extremas de radiación e influencia psíquica cuando ocurrió el segundo incidente de Chernobyl. Después de muchos años en ese estado, poseen solo un cuerpo frágil con huesos y carne medio podrida claramente visibles. Por esta razón, las criaturas se parecen mucho a los cuerpos muertos animados, sin embargo, están muy vivos y casi con hambre permanente y, por lo tanto, pueden convertirse en una amenaza cuando se encuentran en manadas. La mano cortada no sólo constituye un material de investigación científica, sino que en muchos casos también puede utilizarse para identificar a la persona a la que perteneció la mano. \n \n%c[0,140,140,140]PROPIEDADES:. \n %c[0,153,255,255] • %c[0,140,140,140]parte del cuerpo mutada \n %c[0,153,255,255] • %c[0,140,140,140]espécimen científico común</text>
 	</string>
 	<string id="mutant_zombi_hand">
 		<text>Mano de zombie</text>
@@ -71,7 +71,7 @@
 		<text>Carne de Tushkano</text>
 	</string>
 	<string id="mutant_flesh_eye_description">
-		<text>El ojo mutado e hinchado de un "Carne" tiene varias características extrañas, la más interesante y potencialmente útil es la capacidad de reparar incluso el daño severo sufrido por el organismo. Los detalles de este proceso son desconocidos hasta ahora, aunque el descubrimiento del mecanismo que hay detrás revolucionaría ciertamente la medicina moderna proporcionando curas para muchas enfermedades. Puedes contribuir a acelerar el progreso de la ciencia y salvar la vida de personas inocentes vendiendo ojos de "Carne" a los científicos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140 ]parte del cuerpo mutada \n %c[0,153,255,255] • %c[0,140,140,140]espécimen científico común</text>
+		<text>El ojo mutado e hinchado de un "Carne" tiene varias características extrañas, la más interesante y potencialmente útil es la capacidad de reparar incluso el daño severo sufrido por el organismo. Los detalles de este proceso son desconocidos hasta ahora, aunque el descubrimiento del mecanismo que hay detrás revolucionaría ciertamente la medicina moderna proporcionando curas para muchas enfermedades. Puedes contribuir a acelerar el progreso de la ciencia y salvar la vida de personas inocentes vendiendo ojos de "Carne" a los científicos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]parte del cuerpo mutada \n %c[0,153,255,255] • %c[0,140,140,140]espécimen científico común</text>
 	</string>
 	<string id="mutant_flesh_eye">
 		<text>Ojo de Carne</text>
@@ -83,13 +83,13 @@
 		<text>Pierna de jabalí</text>
 	</string>
 	<string id="mutant_dog_tail_description">
-		<text>La resistencia de la piel de los perros mutantes a la electricidad y los agentes químicos ha sido objeto de interés científico durante mucho tiempo. Debido a la ausencia de tejido graso, la cola es especialmente adecuada para pruebas de laboratorio.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]parte del cuerpo mutada \n %c[0,153,255,255 ] • %c[0,140,140,140]espécimen científico común</text>
+		<text>La resistencia de la piel de los perros mutantes a la electricidad y los agentes químicos ha sido objeto de interés científico durante mucho tiempo. Debido a la ausencia de tejido graso, la cola es especialmente adecuada para pruebas de laboratorio.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]parte del cuerpo mutada \n %c[0,153,255,255] • %c[0,140,140,140]espécimen científico común</text>
 	</string>
 	<string id="mutant_dog_tail">
 		<text>Cola de perro</text>
 	</string>
 	<string id="mutant_psevdodog_tail_description">
-		<text>Se rumorea que cierta tendencia se ha apoderado recientemente del mundo de la moda: el pelaje de las colas de los pseudoperros. Se dice que el pelaje es tan suave que no tiene paragón. También se dice que te mantendrá caliente incluso en las tormentas de nieve y ventiscas más feroces. Por estas razones, las colas pseudoperro son muy solicitadas.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]parte del cuerpo mutada \n %c[0,153,255,255] • %c[0,140,140,140 ]espécimen científico común</text>
+		<text>Se rumorea que cierta tendencia se ha apoderado recientemente del mundo de la moda: el pelaje de las colas de los pseudoperros. Se dice que el pelaje es tan suave que no tiene paragón. También se dice que te mantendrá caliente incluso en las tormentas de nieve y ventiscas más feroces. Por estas razones, las colas pseudoperro son muy solicitadas.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]parte del cuerpo mutada \n %c[0,153,255,255] • %c[0,140,140,140]espécimen científico común</text>
 	</string>
 	<string id="mutant_psevdodog_tail">
 		<text>Cola de pseudoperro</text>
@@ -131,7 +131,7 @@
 		<text>Garra quimera</text>
 	</string>
 	<string id="mutant_tushkano_head_description">
-		<text>La cabeza de un tushkano. A los científicos les gustaría estudiarlo para identificar de qué criatura se originaron tushkanos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]parte del cuerpo mutada \n %c[0,153,255,255 ] • %c[0,140,140,140]espécimen científico común</text>
+		<text>La cabeza de un tushkano. A los científicos les gustaría estudiarlo para identificar de qué criatura se originaron tushkanos.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]parte del cuerpo mutada \n %c[0,153,255,255] • %c[0,140,140,140]espécimen científico común</text>
 	</string>
 	<string id="mutant_tushkano_head">
 		<text>Cabeza de Tushkano</text>
@@ -191,7 +191,7 @@
 		<text>Corazón de perro</text>
 	</string>
 	<string id="mutant_cat_thyroid_description">
-		<text>La residencia a largo plazo en territorios contaminados por radiación resultó en el hecho de que la glándula tiroides de los gatos se ha multiplicado en tamaño. Actualmente el hipertiroidismo tras el cambio de generaciones no se adquiere, sino que es una enfermedad hereditaria. Síntomas: aumento de la ingesta de alimentos, aumento de la actividad, cambios de comportamiento, nerviosismo, pérdida de cabello. Estas habilidades adquiridas no se pierden, sino que permiten que los animales mutados desplacen rápidamente a sus parientes saludables y ocupen una posición elevada en la cadena alimentaria. El gran interés de los científicos no se debe al estudio de los mecanismos y efectos de las enfermedades.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]parte del cuerpo mutada \n %c[0,153,255,255 ] • %c[0,140,140,140]espécimen científico común</text>
+		<text>La residencia a largo plazo en territorios contaminados por radiación resultó en el hecho de que la glándula tiroides de los gatos se ha multiplicado en tamaño. Actualmente el hipertiroidismo tras el cambio de generaciones no se adquiere, sino que es una enfermedad hereditaria. Síntomas: aumento de la ingesta de alimentos, aumento de la actividad, cambios de comportamiento, nerviosismo, pérdida de cabello. Estas habilidades adquiridas no se pierden, sino que permiten que los animales mutados desplacen rápidamente a sus parientes saludables y ocupen una posición elevada en la cadena alimentaria. El gran interés de los científicos no se debe al estudio de los mecanismos y efectos de las enfermedades.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]parte del cuerpo mutada \n %c[0,153,255,255] • %c[0,140,140,140]espécimen científico común</text>
 	</string>
 	<string id="mutant_cat_thyroid">
 		<text>Tiroides de gato</text>
@@ -215,19 +215,19 @@
 		<text>Corazón de chupasangre</text>
 	</string>
 	<string id="mutant_psevdodog_fang_description">
-		<text>Los colmillos de pesudoperro se utilizan para rasgar y sostener a su presa. Debido a la tremenda presión mandibular del mutante, puede morder la mayor parte del equipo de protección utilizado en la Zona. Los dientes en sí no son demasiado fuertes y se reemplazan rutinariamente durante su la vida. Los científicos no están particularmente interesados en ellos, a diferencia de los coleccionistas del exterior de la Zona.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]parte del cuerpo mutada \n %c[0,153,255,255 ] • %c[0,140,140,140]espécimen científico común</text>
+		<text>Los colmillos de pesudoperro se utilizan para rasgar y sostener a su presa. Debido a la tremenda presión mandibular del mutante, puede morder la mayor parte del equipo de protección utilizado en la Zona. Los dientes en sí no son demasiado fuertes y se reemplazan rutinariamente durante su la vida. Los científicos no están particularmente interesados en ellos, a diferencia de los coleccionistas del exterior de la Zona.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]parte del cuerpo mutada \n %c[0,153,255,255] • %c[0,140,140,140]espécimen científico común</text>
 	</string>
 	<string id="mutant_psevdodog_fang">
 		<text>Colmillo de pesudoperro</text>
 	</string>
 	<string id="mutant_burer_brain_description">
-		<text>Un Burer tiene unas habilidades telepáticas perfectas, que la ciencia no ha estudiado en absoluto. Es por eso que la mayoría de sus órganos son deseados por científicos y mercenarios. El cerebro, como fuente principal de sus habilidades telepáticas, tiene una prioridad máxima en esta lista. Su masa es 0.5-1.5 veces mayor que la de un cerebro humano. No hay diferencias externas. Debido a su tamaño y estructura, el cerebro puede dañarse fácilmente durante la extracción: el órgano desperdiciado no puede utilizarse en ninguna investigación científica.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140 ]parte del cuerpo mutada \n %c[0,153,255,255] • %c[0,140,140,140]espécimen científico raro \n %c[0,153,255,255] • %c[0,140,140,140]valioso</text>
+		<text>Un Burer tiene unas habilidades telepáticas perfectas, que la ciencia no ha estudiado en absoluto. Es por eso que la mayoría de sus órganos son deseados por científicos y mercenarios. El cerebro, como fuente principal de sus habilidades telepáticas, tiene una prioridad máxima en esta lista. Su masa es 0.5-1.5 veces mayor que la de un cerebro humano. No hay diferencias externas. Debido a su tamaño y estructura, el cerebro puede dañarse fácilmente durante la extracción: el órgano desperdiciado no puede utilizarse en ninguna investigación científica.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]parte del cuerpo mutada \n %c[0,153,255,255] • %c[0,140,140,140]espécimen científico raro \n %c[0,153,255,255] • %c[0,140,140,140]valioso</text>
 	</string>
 	<string id="mutant_burer_brain">
 		<text>Cerebro de Burer</text>
 	</string>
 	<string id="mutant_chimera_heart_description">
-		<text>Adaptándose a la doble naturaleza de la criatura, este corazón de quimera se ha convertido en un órgano doble que puede funcionar como reserva de sangre. De interés para los científicos es su capacidad de alto nivel de regeneración, proporcionando a la quimera habilidades continuas en combate incluso después de sufrir lesiones graves. Se buscan para ayudar en el estudio de las tasas de mortalidad entre gemelos siameses.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]parte del cuerpo mutada \n %c[0,153,255,255 ] • %c[0,140,140,140]espécimen científico raro \n %c[0,153,255,255] • %c[0,140,140,140]valioso</text>
+		<text>Adaptándose a la doble naturaleza de la criatura, este corazón de quimera se ha convertido en un órgano doble que puede funcionar como reserva de sangre. De interés para los científicos es su capacidad de alto nivel de regeneración, proporcionando a la quimera habilidades continuas en combate incluso después de sufrir lesiones graves. Se buscan para ayudar en el estudio de las tasas de mortalidad entre gemelos siameses.\n \n %c[0,140,140,140]PROPIEDADES: \n %c[0,153,255,255] • %c[0,140,140,140]parte del cuerpo mutada \n %c[0,153,255,255] • %c[0,140,140,140]espécimen científico raro \n %c[0,153,255,255] • %c[0,140,140,140]valioso</text>
 	</string>
 	<string id="mutant_chimera_heart">
 		<text>Corazón de quimera</text>
