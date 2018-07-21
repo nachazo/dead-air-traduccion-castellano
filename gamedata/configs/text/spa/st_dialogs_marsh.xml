@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="cit_doctor_hello_dialog_11">
-		<text>ВїSГ­? ВїQuГ© quieres? ВїStrelok? ВїEres tu?</text>
+		<text>їSн? їQuй quieres? їStrelok? їEres tu?</text>
 	</string>
 	<string id="cit_doctor_hello_dialog_21">
-		<text>Te dije todo lo que sГ©.</text>
+		<text>Te dije todo lo que sй.</text>
 	</string>
 	<string id="cit_doctor_main_dialog_0">
-		<text>ВїStrelok? Creo que te has confundido, viejo. He oГ­do que tienes informaciГіn sobre la Zona.</text>
+		<text>їStrelok? Creo que te has confundido, viejo. He oнdo que tienes informaciуn sobre la Zona.</text>
 	</string>
 	<string id="cit_doctor_main_dialog_1">
-		<text>ВїConfundido? Oh... Es posible que tenga la informaciГіn que buscas, pero querrГ© que hagas algo a cambio.</text>
+		<text>їConfundido? Oh... Es posible que tenga la informaciуn que buscas, pero querrй que hagas algo a cambio.</text>
 	</string>
 	<string id="cit_doctor_main_dialog_11">
-		<text>Por supuesto. ВїQuГ© quieres que haga?</text>
+		<text>Por supuesto. їQuй quieres que haga?</text>
 	</string>
 	<string id="cit_doctor_main_dialog_2">
-		<text>La Zona me ha pasado factura en los Гєltimos aГ±os, asГ­ que paso mis Гєltimos dГ­as aquГ­, en un lugar tranquilo, pero preferirГ­a disfrutar pudiendo de ver a mis viejos amigos una vez mГЎs. Me temo que Strelok y Guide pueden estar muertos, pero me gustarГ­a mucho hablar con Fang y Ghost mientras aГєn haya tiempo. Si puedes encontrarlos y traerlos aquГ­, te agradecerГ© mucho el esfuerzo.</text>
+		<text>La Zona me ha pasado factura en los ъltimos aсos, asн que paso mis ъltimos dнas aquн, en un lugar tranquilo, pero preferirнa disfrutar pudiendo de ver a mis viejos amigos una vez mбs. Me temo que Strelok y Guide pueden estar muertos, pero me gustarнa mucho hablar con Fang y Ghost mientras aъn haya tiempo. Si puedes encontrarlos y traerlos aquн, te agradecerй mucho el esfuerzo.</text>
 	</string>
 	<string id="cit_doctor_main_dialog_21">
-		<text>ВїCuГЎnto tiempo has vivido aquГ­? Fang y Ghost son stalkers legendarios, pero ambos han muerto hace mucho tiempo. Fang fue asesinado por un mercenario llamado Scar en los almacenes del ejГ©rcito, y Ghost fue encontrado debajo de Yantar en el laboratorio X16 alrededor de un aГ±o despuГ©s. ВїRealmente no lo sabГ­as?</text>
+		<text>їCuбnto tiempo has vivido aquн? Fang y Ghost son stalkers legendarios, pero ambos han muerto hace mucho tiempo. Fang fue asesinado por un mercenario llamado Scar en los almacenes del ejйrcito, y Ghost fue encontrado debajo de Yantar en el laboratorio X16 alrededor de un aсo despuйs. їRealmente no lo sabнas?</text>
 	</string>
 	<string id="cit_doctor_main_dialog_3">
-		<text>ВїAmbos estГЎn muertos? ВїEstГЎs seguro? Yo solo... Oh, estГЎ bien... ВїQuГ© es lo que quieres saber?</text>
+		<text>їAmbos estбn muertos? їEstбs seguro? Yo solo... Oh, estб bien... їQuй es lo que quieres saber?</text>
 	</string>
 	<string id="cit_doctor_main_dialog_31">
-		<text>ВїEn serio? ВїMe lo dices asГ­ tan fГЎcilmente? Siento que me haces perder el tiempo, viejo.</text>
+		<text>їEn serio? їMe lo dices asн tan fбcilmente? Siento que me haces perder el tiempo, viejo.</text>
 	</string>
 	<string id="cit_doctor_main_dialog_4">
-		<text>ВЎEspera! No te vayas... No esperaba que terminaran tan mal. La Гєltima vez que Strelok vino a visitarme, me dio una llave y las coordenadas de un escondite en Pripyat. No me ha visitado en aГ±os, asГ­ que supongo que no le ha ido mucho mejor. DecГ­a algo sobre el Monolito. No entendГ­ mucho, y tampoco estoy seguro de que Г©l lo entendiera. Toma, cГіgelo. Y una cosa mГЎs... PasГі mucho tiempo buscando pistas de una conspiraciГіn en los laboratorios subterrГЎneos; algГєn tipo de tapadera secreta, creo. Tal vez encuentres respuestas allГ­.</text>
+		<text>ЎEspera! No te vayas... No esperaba que terminaran tan mal. La ъltima vez que Strelok vino a visitarme, me dio una llave y las coordenadas de un escondite en Pripyat. No me ha visitado en aсos, asн que supongo que no le ha ido mucho mejor. Decнa algo sobre el Monolito. No entendн mucho, y tampoco estoy seguro de que йl lo entendiera. Toma, cуgelo. Y una cosa mбs... Pasу mucho tiempo buscando pistas de una conspiraciуn en los laboratorios subterrбneos; algъn tipo de tapadera secreta, creo. Tal vez encuentres respuestas allн.</text>
 	</string>
 	<string id="cit_doctor_main_dialog_41">
 		<text>Ya veo. Gracias. Agradezco tu ayuda.</text>
@@ -40,28 +40,28 @@
 
 
 	<string id="cit_doctor_health_care_0">
-		<text>Doctor, necesito asistencia mГ©dica.</text>
+		<text>Doctor, necesito asistencia mйdica.</text>
 	</string>
 	<string id="cit_doctor_health_care_1">
-		<text>Ya veo. Ven aquГ­ y te echarГ© un vistazo.</text>
+		<text>Ya veo. Ven aquн y te echarй un vistazo.</text>
 	</string>
 	<string id="cit_doctor_health_care_11">
-		<text>ВїEs grave?</text>
+		<text>їEs grave?</text>
 	</string>
 	<string id="cit_doctor_health_care_111">
-		<text>Parece que necesitas que te curen. No puedo eliminar la radiaciГіn, pero me ocuparГ© de las heridas.</text>
+		<text>Parece que necesitas que te curen. No puedo eliminar la radiaciуn, pero me ocuparй de las heridas.</text>
 	</string>
 	<string id="cit_doctor_health_care_112">
-		<text>No hay lesiones o radiaciГіn, parece. Todo estГЎ bien, muchacho.</text>
+		<text>No hay lesiones o radiaciуn, parece. Todo estб bien, muchacho.</text>
 	</string>
 	<string id="cit_doctor_health_care_1111">
-		<text>Muy bien, doctor. Por favor, ayГєdame.</text>
+		<text>Muy bien, doctor. Por favor, ayъdame.</text>
 	</string>
 	<string id="cit_doctor_health_care_1112">
 		<text>Gracias por la ayuda.</text>
 	</string>
 	<string id="cit_doctor_health_care_11111">
-		<text>Un momento, por favor... Todo deberГ­a estar bien ahora. Eres libre para irte.</text>
+		<text>Un momento, por favor... Todo deberнa estar bien ahora. Eres libre para irte.</text>
 	</string>
 
 
@@ -69,60 +69,60 @@
 
 	<!-- mar_base_owl_stalker_trader -->
 	<string id="mar_base_owl_stalker_trader_start_dialog_1">
-		<text>ВїNecesita suministros o equipo? ВїInformaciГіn?... ВїO tal vez quieres vender informaciГіn?</text>
+		<text>їNecesita suministros o equipo? їInformaciуn?... їO tal vez quieres vender informaciуn?</text>
 	</string>
 	<string id="mar_smart_terrain_base_doctor_need_health_care_0">
 		<text>Necesito asistencia medica</text>
 	</string>
 	<string id="mar_smart_terrain_base_doctor_need_health_care_1">
-		<text>Bien. VerГ© lo que puedo hacer.</text>
+		<text>Bien. Verй lo que puedo hacer.</text>
 	</string>
 	<string id="mar_smart_terrain_base_doctor_need_health_care_11">
 		<text>[continuar...]</text>
 	</string>
 	<string id="mar_smart_terrain_base_doctor_need_health_care_111">
-		<text>No fue para tanto Вїeh? Puedes irte.</text>
+		<text>No fue para tanto їeh? Puedes irte.</text>
 	</string>
 	<string id="mar_smart_terrain_base_doctor_need_health_care_2">
-		<text>Bien, voy a echar un vistazo... ВїNo hay heridas? No muestras signos de enfermedad por radiaciГіn. Creo que todo estГЎ en orden; EstГЎs bien para irte.</text>
+		<text>Bien, voy a echar un vistazo... їNo hay heridas? No muestras signos de enfermedad por radiaciуn. Creo que todo estб en orden; Estбs bien para irte.</text>
 	</string>
 	<string id="mar_smart_terrain_base_doctor_start_1">
-		<text>ВїQuГ© necesitas, stalker?</text>
+		<text>їQuй necesitas, stalker?</text>
 	</string>
 	<string id="marsh_stalker_barmen_start_dialog_1">
-		<text>ВЎUna cara nueva! La gente de por aquГ­ me llama Bibliotecario. Soy el cantinero local. EstarГ© encantado de responder cualquier pregunta que tengas. A veces publico ofertas de trabajo o escucho algunos rumores interesantes, asГ­ que vuelve a visitarnos a menudo.</text>
+		<text>ЎUna cara nueva! La gente de por aquн me llama Bibliotecario. Soy el cantinero local. Estarй encantado de responder cualquier pregunta que tengas. A veces publico ofertas de trabajo o escucho algunos rumores interesantes, asн que vuelve a visitarnos a menudo.</text>
 	</string>
 	<string id="marsh_stalker_barmen_start_dialog_2">
-		<text>Oye, stalker. ВїQue necesitas?</text>
+		<text>Oye, stalker. їQue necesitas?</text>
 	</string>
 	<string id="marsh_stalker_tech_start_1">
-		<text>Saludos, stalker. ВїPuedo servir de ayuda? Las buenas herramientas son difГ­ciles de encontrar en la Zona, pero aГєn puedo reparar tu equipo y realizar pequeГ±as actualizaciones.</text>
+		<text>Saludos, stalker. їPuedo servir de ayuda? Las buenas herramientas son difнciles de encontrar en la Zona, pero aъn puedo reparar tu equipo y realizar pequeсas actualizaciones.</text>
 	</string>
 	<string id="marsh_stalker_medic_background">
-		<text>ВїYo? SolГ­a ser una guГ­a, lo creas o no. La mayorГ­a de las veces me quedaba en los pantanos, pero a menudo llevaba a los stalkers a lugares bastante lejos de aquГ­. Pero esa era otra Г©poca, antes de que encontraran a ese maldito mercenario entre los juncos con la boca llena de agua del pantano. Todos los dГ­as se olvidaba del camino de entrada y salida de la base, y yo tenГ­a que llevarle no mГЎs de cinco minutos a pie desde aquГ­ hasta la aldea de pescadores y de vuelta. Y luego, en tan solo unas pocas semanas, de alguna manera logrГі convencer a nuestro lГ­der y a la mayorГ­a de nuestros hombres de que atacaran la central. No hace falta decir que ni Г©l ni gran parte de nuestra facciГіn volvieron de su locura. Al final, no me quedaba nadie a quien guiar, pero habГ­a mucha gente para la que arreglar. AsГ­ que aquГ­ estoy. Todo por culpa de ese maldito loco mercenario.</text>
+		<text>їYo? Solнa ser una guнa, lo creas o no. La mayorнa de las veces me quedaba en los pantanos, pero a menudo llevaba a los stalkers a lugares bastante lejos de aquн. Pero esa era otra йpoca, antes de que encontraran a ese maldito mercenario entre los juncos con la boca llena de agua del pantano. Todos los dнas se olvidaba del camino de entrada y salida de la base, y yo tenнa que llevarle no mбs de cinco minutos a pie desde aquн hasta la aldea de pescadores y de vuelta. Y luego, en tan solo unas pocas semanas, de alguna manera logrу convencer a nuestro lнder y a la mayorнa de nuestros hombres de que atacaran la central. No hace falta decir que ni йl ni gran parte de nuestra facciуn volvieron de su locura. Al final, no me quedaba nadie a quien guiar, pero habнa mucha gente para la que arreglar. Asн que aquн estoy. Todo por culpa de ese maldito loco mercenario.</text>
 	</string>
 	<string id="marsh_stalker_barman_background">
-		<text>Soy el camarero. Sirvo bebidas, comida y mantengo la radio encendida. No es un trabajo emocionante, pero aГєn asГ­ es preferible a estar en el campo. He estado trabajando aquГ­ durante varios aГ±os; estaba en el interior de los pantanos cuando se produjo la emisiГіn, asГ­ que me quedГ© bien atrapado aquГ­. Me dirigГ­ al sur como la mayorГ­a de la gente intentГі, pero yo fui uno de los pocos a los que los bandidos no se cargaron en el camino. BusquГ© en esta base y me unГ­ a Clear Sky. Era eso o morir en un charco en alguna parte. PasГ© las primeras semanas como soldado repeliendo a los anarquistas de nuestros puestos de observaciГіn y luego conseguГ­ el trabajo de nuevo camarero cuando Cold fue ascendido. Naturalmente, aceptГ©, ya que preferirГ­a estar bebiendo que disparando balas. ВЎPero basta de charla! ВїQuГ© tal uno bien frГ­o?</text>
+		<text>Soy el camarero. Sirvo bebidas, comida y mantengo la radio encendida. No es un trabajo emocionante, pero aъn asн es preferible a estar en el campo. He estado trabajando aquн durante varios aсos; estaba en el interior de los pantanos cuando se produjo la emisiуn, asн que me quedй bien atrapado aquн. Me dirigн al sur como la mayorнa de la gente intentу, pero yo fui uno de los pocos a los que los bandidos no se cargaron en el camino. Busquй en esta base y me unн a Clear Sky. Era eso o morir en un charco en alguna parte. Pasй las primeras semanas como soldado repeliendo a los anarquistas de nuestros puestos de observaciуn y luego conseguн el trabajo de nuevo camarero cuando Cold fue ascendido. Naturalmente, aceptй, ya que preferirнa estar bebiendo que disparando balas. ЎPero basta de charla! їQuй tal uno bien frнo?</text>
 	</string>
 	<string id="marsh_stalker_trader_background">
-		<text>Me llamo Spore. Me hice cargo de este empleo hace un aГ±o. Vine a la Zona buscando riquezas como todo el mundo y me encontrГ© con un stalker llamado Nimble. Descubrimos que compartГ­amos muchos de los mismos talentos: ambos tenГ­amos muchos contactos en el exterior, buenos en el trГЎfico de mercancГ­as dentro y fuera de la Zona, y en la venta de informaciГіn. AsГ­ que cuando ocurriГі el resurgimiento del Monolito y los negocios se dirigieron al sur, los seguimos. ConseguГ­ un buen trabajo aquГ­ despuГ©s de que Nimble me recomendara a Cold. Era miembro de Clear Sky en su dГ­a, Вїsabes? Nos da a los dos buena operaciГіn aquГ­. Tenemos acceso a una ruta de contrabando sin ejГ©rcito a travГ©s de los pantanos, y Clear Sky son los primeros en elegir todo lo que cae en nuestras manos. Hazle una visita a Nimble si alguna vez estГЎs en CordГіn; lo Гєltimo que escuchГ© es que estaba en el campamento de novatos. Si alguna vez necesitas un arma difГ­cil de conseguir o un traje de contrabando desde el exterior, Г©l es el tipo que vende esa mercancГ­a.</text>
+		<text>Me llamo Spore. Me hice cargo de este empleo hace un aсo. Vine a la Zona buscando riquezas como todo el mundo y me encontrй con un stalker llamado Nimble. Descubrimos que compartнamos muchos de los mismos talentos: ambos tenнamos muchos contactos en el exterior, buenos en el trбfico de mercancнas dentro y fuera de la Zona, y en la venta de informaciуn. Asн que cuando ocurriу el resurgimiento del Monolito y los negocios se dirigieron al sur, los seguimos. Conseguн un buen trabajo aquн despuйs de que Nimble me recomendara a Cold. Era miembro de Clear Sky en su dнa, їsabes? Nos da a los dos buena operaciуn aquн. Tenemos acceso a una ruta de contrabando sin ejйrcito a travйs de los pantanos, y Clear Sky son los primeros en elegir todo lo que cae en nuestras manos. Hazle una visita a Nimble si alguna vez estбs en Cordуn; lo ъltimo que escuchй es que estaba en el campamento de novatos. Si alguna vez necesitas un arma difнcil de conseguir o un traje de contrabando desde el exterior, йl es el tipo que vende esa mercancнa.</text>
 	</string>
 	<string id="marsh_stalker_tech_background">
-		<text>Me llamo Novikov, pero algunos me llaman Grey. Soy el tГ©cnico que mantiene todo funcionando, y la Гєnica persona a la que un buen stalker acude si su arma empieza a fallar. SolГ­a trabajar aquГ­ hace mucho tiempo, hasta justo antes de que Cold se pusiera al mando. Cuando todo se fue a la mierda, busquГ© un lugar mГЎs verde y me contrataron los cientГ­ficos cerca de JГєpiter. Estuve allГ­ unos cuantos aГ±os, hasta que un dГ­a escuchГ© que de alguna manera estos chicos se recuperaron, y tan pronto como mi contrato terminГі, volvГ­. Me acogieron sin dudarlo; mis habilidades con un banco de trabajo y mis contactos con los cientГ­ficos eran muy necesarios. Nos pusimos a trabajar con sus hombres para que pudiГ©ramos seguir con nuestra vieja investigaciГіn. Si te gusta el trabajo, siempre estГЎn buscando guГ­as para las anomalГ­as locales. Habla con Spore si estГЎs interesado.</text>
+		<text>Me llamo Novikov, pero algunos me llaman Grey. Soy el tйcnico que mantiene todo funcionando, y la ъnica persona a la que un buen stalker acude si su arma empieza a fallar. Solнa trabajar aquн hace mucho tiempo, hasta justo antes de que Cold se pusiera al mando. Cuando todo se fue a la mierda, busquй un lugar mбs verde y me contrataron los cientнficos cerca de Jъpiter. Estuve allн unos cuantos aсos, hasta que un dнa escuchй que de alguna manera estos chicos se recuperaron, y tan pronto como mi contrato terminу, volvн. Me acogieron sin dudarlo; mis habilidades con un banco de trabajo y mis contactos con los cientнficos eran muy necesarios. Nos pusimos a trabajar con sus hombres para que pudiйramos seguir con nuestra vieja investigaciуn. Si te gusta el trabajo, siempre estбn buscando guнas para las anomalнas locales. Habla con Spore si estбs interesado.</text>
 	</string>
 	<string id="marsh_stalker_leader_background">
-		<text>ВїPor dГіnde empiezo? Por aquГ­ me llaman Cold. Soy el lГ­der de Clear Sky. SolГ­a ser el que servГ­a las bebidas aquГ­ hace mucho tiempo hasta que le di ese honor a Bibliotecario una vez que nos enteramos de lo que le sucediГі a Lebedev, Suslov y al resto de nuestros comandantes. DespuГ©s de largas e intensas negociaciones con el Гєltimo cargamento de vodka de contrabando, la fuerza local decidiГі que yo era el mГЎs adecuado para tomar las riendas, y desde entonces me he mantenido mantenido como lГ­der.</text>
+		<text>їPor dуnde empiezo? Por aquн me llaman Cold. Soy el lнder de Clear Sky. Solнa ser el que servнa las bebidas aquн hace mucho tiempo hasta que le di ese honor a Bibliotecario una vez que nos enteramos de lo que le sucediу a Lebedev, Suslov y al resto de nuestros comandantes. Despuйs de largas e intensas negociaciones con el ъltimo cargamento de vodka de contrabando, la fuerza local decidiу que yo era el mбs adecuado para tomar las riendas, y desde entonces me he mantenido mantenido como lнder.</text>
 	</string>
 	<string id="marsh_csky_history_ask1">
-		<text>HГЎblame de Clear Sky.</text>
+		<text>Hбblame de Clear Sky.</text>
 	</string>
 	<string id="marsh_csky_history_ask2">
-		<text>ВїQuГ© es lo que quieres saber?</text>
+		<text>їQuй es lo que quieres saber?</text>
 	</string>
 	<string id="marsh_csky_history_destroyed1">
-		<text>ВїNo fue la facciГіn destruida?</text>
+		<text>їNo fue la facciуn destruida?</text>
 	</string>
 	<string id="marsh_csky_history_destroyed2">
-		<text>Casi, pero nos las arreglamos para salir adelante. Aunque la mayorГ­a de nuestros hombres fueron aniquilados en la central nuclear, no todos lo fuimos. Un buen nГєmero todavГ­a se encontraba en nuestros otros territorios, que mГЎs tarde quedaron aislados del resto de la Zona por anomalГ­as posteriores a la emisiГіn. Cuando se hizo obvio para aquellos que estaban en los pantanos en ese momento que estaban casi atrapados aquГ­ sin una salida fГЎcil, todo se fue al infierno. Stalkers honestos se convirtieron en bandidos de la noche a la maГ±ana, mientras que el resto tratГі de huir a nuestra base, o vivir de los mutantes de la Zona. Contratamos a muchos hombres, y nuestras tiendas de comida aseguraron su lealtad, y despuГ©s de un tiempo, se hizo obvio que necesitarГ­amos un nuevo lГ­der. AsumГ­ la carga y le pedГ­ a Bibliotecario que cuidara el bar en mi lugar; se habГ­a ganado un buen nombre en el poco tiempo que pasГі desde que se uniГі. DespuГ©s de unos meses de asaltos cuerpo a cuerpo con los bandidos, logramos ahuyentar a la mayorГ­a de ellos, pero eso no impidiГі que el ejГ©rcito sintiera que necesitaban venir y terminar el trabajo. Incluso ahora, todavГ­a tienen a ese pГЎjaro suyo mirando las ГЎreas que tomaron.</text>
+		<text>Casi, pero nos las arreglamos para salir adelante. Aunque la mayorнa de nuestros hombres fueron aniquilados en la central nuclear, no todos lo fuimos. Un buen nъmero todavнa se encontraba en nuestros otros territorios, que mбs tarde quedaron aislados del resto de la Zona por anomalнas posteriores a la emisiуn. Cuando se hizo obvio para aquellos que estaban en los pantanos en ese momento que estaban casi atrapados aquн sin una salida fбcil, todo se fue al infierno. Stalkers honestos se convirtieron en bandidos de la noche a la maсana, mientras que el resto tratу de huir a nuestra base, o vivir de los mutantes de la Zona. Contratamos a muchos hombres, y nuestras tiendas de comida aseguraron su lealtad, y despuйs de un tiempo, se hizo obvio que necesitarнamos un nuevo lнder. Asumн la carga y le pedн a Bibliotecario que cuidara el bar en mi lugar; se habнa ganado un buen nombre en el poco tiempo que pasу desde que se uniу. Despuйs de unos meses de asaltos cuerpo a cuerpo con los bandidos, logramos ahuyentar a la mayorнa de ellos, pero eso no impidiу que el ejйrcito sintiera que necesitaban venir y terminar el trabajo. Incluso ahora, todavнa tienen a ese pбjaro suyo mirando las бreas que tomaron.</text>
 	</string>
 </string_table>
