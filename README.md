@@ -6,7 +6,8 @@ La traducción se basa en el resultado del proceso de un script que he programad
 
 Ante posibles errores se recomienda cambiar de nuevo al idioma inglés e igualmente mantener actualizada dicha traducción, por si hay textos que no se comprenden.
 
-También os dejo un video (largo) en castellano con explicación de las mecánicas de Dead Air: https://www.youtube.com/watch?v=M2J_voJAqMo
+* Video (largo) en castellano con explicación de las mecánicas de Dead Air: https://www.youtube.com/watch?v=M2J_voJAqMo
+* Enlace a la traducción en [moddb](https://www.moddb.com/mods/dead-air/downloads/dead-air-traduccion-castellano).
 
 ## Descarga e instalación
 1. Descarga la [última versión de la traducción](https://github.com/nachazo/dead-air-traduccion-castellano/releases/latest).
