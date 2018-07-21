@@ -2499,7 +2499,7 @@
 
 	<!-- Misc -->
 	<string id="st_dyn_news_ch_died">
-		<text>Murió:</text>
+		<text>Ha muerto:</text>
 	</string>
 	<string id="st_dyn_news_ch_killed_by">
 		<text>Asesinado por</text>
